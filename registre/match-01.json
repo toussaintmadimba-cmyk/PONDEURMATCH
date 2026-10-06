@@ -1,0 +1,27 @@
+{
+  "match": "01",
+  "level": 1,
+  "question_count": 96,
+  "proper_name_answers": 68,
+  "proper_name_ratio": 0.7083,
+  "facts": [
+    "ghana-president-2026-10-06","namibia-capital","mexico-president-2026-10-06","nigeria-currency",
+    "usain-bolt-records-2026-10-06","roland-garros-clay-paris","rugby-world-cup-2023-winner","basketball-five-players","basketball-three-point-shot",
+    "nolan-inception-oppenheimer","adele-rolling-in-the-deep","classical-guitar-six-strings","parasite-director","piano-88-keys",
+    "nominalisation-decider","family-debut-debuter","definition-homophones","nominalisation-prudent",
+    "mandela-identification-president-1994","mandela-robben-island","mandela-anc","mandela-deklerk-nobel","mandela-inauguration-pretoria",
+    "grammar-dehors-adverb","grammar-une-lettre-cod","grammar-partirons-futur-simple","grammar-definition-pronoun",
+    "fleming-penicillin","ohm-resistance-unit","marie-curie-first-woman-nobel","photosynthesis-process","einstein-general-relativity",
+    "beethoven-ninth-symphony","everest-highest-sea-level","nile-egypt-mediterranean","picasso-guernica","rome-colosseum",
+    "ethiopia-capital","senegal-capital","rwanda-capital","mozambique-capital","botswana-capital",
+    "thermometer-temperature","shakespeare-hamlet","japan-capital","jupiter-largest-planet","water-minus10-solid","iron-symbol-fe","seven-continent-model","mozart-magic-flute","solar-system-eight-planets","oxygen-o2-respiration",
+    "drc-capital","drc-first-prime-minister","virunga-mountain-gorillas","congo-river-kinshasa-brazzaville","inga-hydropower-kongo-central",
+    "achebe-things-fall-apart","rodin-thinker","moliere-real-name","fresco-definition","camus-etranger",
+    "bastille-1789","treaty-versailles-1919","un-founded-1945","helmut-kohl-german-reunification-1990","gorbachev-perestroika-glasnost",
+    "newton-motion-gravity","darwin-origin-species","galileo-telescope-astronomy","ada-lovelace-babbage-notes-algorithm",
+    "senghor-first-senegal-president","senghor-negritude","senghor-led-senegal","senghor-academie-francaise","senghor-cesaire-negritude",
+    "cairo-country","kilimanjaro-country","luanda-country","rabat-country",
+    "zeus-olympus","religious-fasting-term","kaaba-mecca","monotheism-definition","moses-exodus",
+    "thomas-sankara-identification","canada-capital","fuji-highest-japan-3776","cervantes-don-quixote","hertz-frequency-unit","un-headquarters-new-york-1945","machu-picchu-country","chopin-nocturnes","argentina-capital","barometer-pressure","octagon-eight-sides"
+  ]
+}
