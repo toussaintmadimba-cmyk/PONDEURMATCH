@@ -74,20 +74,20 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel scientifique britannique formula la théorie de l'évolution par sélection naturelle et publia De l'origine des espèces ?
-**R.** Charles Darwin
+**Q1.** Quel médecin, philosophe et théologien alsacien reçut le prix Nobel de la paix en 1952 et fonda un hôpital à Lambaréné ?
+**R.** Albert Schweitzer
 
-**Q2.** Sur quel navire effectua-t-il son célèbre voyage autour du monde ?
-**R.** HMS Beagle
+**Q2.** Dans quel pays africain se trouve Lambaréné ?
+**R.** Gabon
 
-**Q3.** Quel archipel équatorien influença fortement ses observations sur les espèces ?
-**R.** Galápagos
+**Q3.** Dans quelle ville fonda-t-il son célèbre hôpital ?
+**R.** Lambaréné
 
-**Q4.** En quelle année parut De l'origine des espèces ?
-**R.** 1859
+**Q4.** En quelle année reçut-il le prix Nobel de la paix ?
+**R.** 1952
 
-**Q5.** Dans quelle ville anglaise est-il enterré à l'abbaye de Westminster ?
-**R.** Londres
+**Q5.** Dans quelle localité d'Alsace est-il né ?
+**R.** Kaysersberg
 
 ## 7. LANGAGE B
 
