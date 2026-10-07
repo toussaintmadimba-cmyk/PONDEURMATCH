@@ -2,7 +2,7 @@
 
 Références prioritaires pour les faits historiques ou susceptibles de discussion.
 
-- Charles Darwin : Darwin Correspondence Project, University of Cambridge ; Encyclopaedia Britannica.
+- Albert Schweitzer : Nobel Prize ; Encyclopaedia Britannica ; archives de l'hôpital Albert-Schweitzer de Lambaréné.
 - New Deal : Franklin D. Roosevelt Presidential Library.
 - Accord du Vendredi saint : Gouvernement britannique et Northern Ireland Office.
 - Solidarność : European Solidarity Centre.
