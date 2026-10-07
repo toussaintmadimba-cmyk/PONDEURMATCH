@@ -33,11 +33,11 @@
 **Q3.** Quelle sélection remporta la Coupe du monde féminine de football 2019 ?
 **R.** États-Unis
 
-**Q4.** Combien de joueurs une équipe de handball aligne-t-elle sur le terrain, gardien compris ?
-**R.** 7
+**Q4.** Combien de pierres chaque équipe lance-t-elle au total dans une manche classique de curling ?
+**R.** 8
 
-**Q5.** Quel sport se pratique notamment sur un tatami et attribue des ippons ?
-**R.** Judo
+**Q5.** Quel sport de raquette se pratique dans un court fermé entouré de murs ?
+**R.** Squash
 
 ## 4. CINÉMA ET MUSIQUE
 
@@ -74,20 +74,20 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel dirigeant fut l'un des principaux artisans de l'indépendance du Ghana en 1957 et devint son premier Premier ministre ?
-**R.** Kwame Nkrumah
+**Q1.** Quel dirigeant anticolonial fonda le PAIGC et mena la lutte pour l'indépendance de la Guinée-Bissau et du Cap-Vert ?
+**R.** Amílcar Cabral
 
-**Q2.** Quel nom portait le territoire colonial britannique devenu Ghana en 1957 ?
-**R.** Côte-de-l'Or
+**Q2.** Quel parti fonda-t-il en 1956 ?
+**R.** PAIGC
 
-**Q3.** Quelle capitale fut le centre politique de son gouvernement ?
-**R.** Accra
+**Q3.** Quel pays d'Afrique de l'Ouest fut au cœur de sa lutte armée contre le Portugal ?
+**R.** Guinée-Bissau
 
-**Q4.** En quelle année le Ghana devint-il indépendant ?
-**R.** 1957
+**Q4.** Quel archipel lusophone était également concerné par son projet d'indépendance ?
+**R.** Cap-Vert
 
-**Q5.** Quelle organisation panafricaine fondée en 1963 compta Nkrumah parmi ses principaux promoteurs ?
-**R.** Organisation de l'unité africaine
+**Q5.** En quelle année fut-il assassiné ?
+**R.** 1973
 
 ## 7. LANGAGE B
 
@@ -194,8 +194,8 @@
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Q1.** Quelle province de la RDC a Kamina pour chef-lieu ?
-**R.** Haut-Lomami
+**Q1.** Quelle province de la RDC a Kisangani pour chef-lieu ?
+**R.** Tshopo
 
 **Q2.** Quelle province de la RDC a Lubumbashi pour chef-lieu ?
 **R.** Haut-Katanga
@@ -220,8 +220,8 @@
 **Q3.** Quel écrivain ghanéen est l'auteur de The Beautyful Ones Are Not Yet Born ?
 **R.** Ayi Kwei Armah
 
-**Q4.** Quel écrivain égyptien reçut le prix Nobel de littérature en 1988 ?
-**R.** Naguib Mahfouz
+**Q4.** Quelle écrivaine sud-africaine reçut le prix Nobel de littérature en 1991 ?
+**R.** Nadine Gordimer
 
 **Q5.** Comment appelle-t-on un poème de quatorze vers ?
 **R.** Sonnet
@@ -247,34 +247,34 @@
 
 **THÈME : ROMANCIERS AFRICAINS**
 
-**Q1.** Quel écrivain ivoirien est l'auteur de Allah n'est pas obligé ?
-**R.** Ahmadou Kourouma
+**Q1.** Quelle écrivaine nigériane est l'auteure de Les Enfants sont une bénédiction, traduit de The Joys of Motherhood ?
+**R.** Buchi Emecheta
 
-**Q2.** Quel écrivain camerounais est l'auteur d'Une vie de boy ?
-**R.** Ferdinand Oyono
+**Q2.** Quel écrivain somalien est l'auteur du roman Maps ?
+**R.** Nuruddin Farah
 
-**Q3.** Quel écrivain guinéen est l'auteur du roman Le Regard du roi ?
-**R.** Camara Laye
+**Q3.** Quelle écrivaine sénégalaise est l'auteure de La Grève des bàttu ?
+**R.** Aminata Sow Fall
 
-**Q4.** Quel écrivain congolais est l'auteur de Verre cassé ?
-**R.** Alain Mabanckou
+**Q4.** Quel écrivain congolais est l'auteur de Le Pleurer-rire ?
+**R.** Henri Lopes
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel astronaute soviétique devint en 1961 le premier humain dans l'espace ?
-**R.** Youri Gagarine
+**Q1.** Quelle cosmonaute soviétique devint en 1963 la première femme dans l'espace ?
+**R.** Valentina Terechkova
 
-**Q2.** Quel vaisseau spatial utilisa-t-il ?
-**R.** Vostok 1
+**Q2.** Quel vaisseau spatial utilisa-t-elle ?
+**R.** Vostok 6
 
-**Q3.** Quel pays représentait-il ?
+**Q3.** Quel pays représentait-elle ?
 **R.** URSS
 
-**Q4.** Depuis quel cosmodrome son vol fut-il lancé ?
-**R.** Baïkonour
+**Q4.** En quelle année effectua-t-elle ce vol historique ?
+**R.** 1963
 
-**Q5.** En quelle année effectua-t-il ce vol historique ?
-**R.** 1961
+**Q5.** Dans quel oblast de Russie est-elle née ?
+**R.** Iaroslavl
 
 ## 17. RELAIS B
 
@@ -303,8 +303,8 @@
 **Q3.** Quel lieu saint de l'islam à Jérusalem comprend le Dôme du Rocher ?
 **R.** Haram al-Sharif
 
-**Q4.** Quel grand centre de pèlerinage catholique français est associé aux apparitions de 1858 à Bernadette Soubirous ?
-**R.** Lourdes
+**Q4.** Quel grand lieu de pèlerinage chrétien du nord-ouest de l'Espagne est associé à saint Jacques ?
+**R.** Saint-Jacques-de-Compostelle
 
 **Q5.** Comment appelle-t-on la branche majoritaire de l'islam ?
 **R.** Sunnisme
