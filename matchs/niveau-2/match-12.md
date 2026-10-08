@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel marathonien éthiopien remporta pieds nus le marathon olympique de 1960 ?
+**Q1.** Quel marathonien remporta pieds nus le marathon olympique de 1960 puis conserva son titre en 1964 ?
 
 **R.** Abebe Bikila
 
