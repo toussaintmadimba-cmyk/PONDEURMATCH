@@ -32,7 +32,7 @@
 
 **R.** José Mourinho
 
-**Q2.** Quel athlète éthiopien remporta les titres olympiques du 5 000 m et du 10 000 m aux Jeux de Sydney en 2000 ?
+**Q2.** Quel athlète éthiopien remporta le 10 000 m masculin aux Jeux olympiques de Sydney en 2000 ?
 
 **R.** Haile Gebrselassie
 
@@ -142,9 +142,9 @@
 
 **R.** John Bardeen
 
-**Q3.** Quel botaniste suédois fit connaître la classification binominale moderne des espèces au XVIIIe siècle ?
+**Q3.** Quel métallurgiste français développa indépendamment en 1886 un procédé électrolytique de production de l'aluminium ?
 
-**R.** Carl von Linné
+**R.** Paul Héroult
 
 **Q4.** Comment appelle-t-on un matériau qui laisse passer le courant sous certaines conditions, entre conducteur et isolant ?
 
@@ -172,9 +172,9 @@
 
 **R.** Saint-Louis
 
-**Q5.** Que suis-je ? Détroit entre l'Asie Mineure et la partie européenne d'Istanbul, reliant la mer Noire à la mer de Marmara.
+**Q5.** Que suis-je ? Détroit naturel situé à l'extrémité méridionale de l'Amérique du Sud, reliant l'Atlantique au Pacifique.
 
-**R.** Bosphore
+**R.** Détroit de Magellan
 
 ## 10. DIVERS
 
@@ -262,7 +262,7 @@
 
 **R.** Garamba
 
-**Q5.** Quel musicien congolais lança le groupe Zaïko Langa Langa aux côtés d'autres fondateurs en 1969 ?
+**Q5.** Quel chanteur congolais est connu comme le leader historique du groupe Zaïko Langa Langa ?
 
 **R.** Jossart N'Yoka Longo
 
@@ -398,7 +398,7 @@
 
 **Identification à indices progressifs :**
 
-**Q1.** 40 points : Je suis né en 1778 à Yapeyú. 30 points : J'ai organisé une armée pour franchir les Andes. 20 points : J'ai contribué à la libération du Chili et du Pérou. 10 points : Je suis un grand libérateur sud-américain surnommé le « Libertador » et mon nom de famille est associé à la ville de San Martín. Qui suis-je ?
+**Q1.** 40 points : Je suis né en 1778 à Yapeyú. 30 points : J'ai organisé une armée pour franchir les Andes. 20 points : J'ai contribué à la libération du Chili et du Pérou. 10 points : En 1822, j'ai rencontré Simón Bolívar à Guayaquil. Qui suis-je ?
 
 **R.** José de San Martín
 
