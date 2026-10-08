@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle dramaturge française publia en 1791 la Déclaration des droits de la femme et de la citoyenne ?
+**Q1.** Quelle autrice et militante française défendit les droits des femmes dans des écrits révolutionnaires à la fin du XVIIIe siècle ?
 
 **R.** Olympe de Gouges
 
@@ -196,7 +196,7 @@
 
 **R.** Civilisation maya
 
-**Q5.** Quel royaume d'Afrique australe a donné son nom au site de Mapungubwe ?
+**Q5.** Quel royaume médiéval d'Afrique australe a prospéré près du confluent des fleuves Limpopo et Shashe ?
 
 **R.** Mapungubwe
 
