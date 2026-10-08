@@ -44,9 +44,9 @@
 
 **R.** 2
 
-**Q5.** Quel sport de combat japonais utilise les grades appelés kyū et dan et se pratique sur un tatami ?
+**Q5.** Dans quel jeu sportif provençal lance-t-on des boules métalliques pour les approcher d'un cochonnet ?
 
-**R.** Judo
+**R.** Pétanque
 
 ## 4. CINÉMA ET MUSIQUE
 
@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle autrice et militante française défendit les droits des femmes dans des écrits révolutionnaires à la fin du XVIIIe siècle ?
+**Q1.** Quelle autrice française publia en 1791 une réponse féministe à la Déclaration des droits de l'homme et du citoyen ?
 
 **R.** Olympe de Gouges
 
@@ -164,9 +164,9 @@
 
 **R.** Tombouctou
 
-**Q3.** Que suis-je ? Géant de pierre dressé par les souverains de l'île de Pâques, je représente souvent une figure ancestrale.
+**Q3.** Où suis-je ? Site cérémoniel de l'île de Pâques, je comporte une plateforme portant quinze statues monumentales de type moaï.
 
-**R.** Moaï
+**R.** Ahu Tongariki
 
 **Q4.** Où suis-je ? Ville portuaire du Sénégal, mon île historique fut une capitale de l'Afrique-Occidentale française.
 
@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel mathématicien indien du XXe siècle entretint une correspondance célèbre avec G. H. Hardy ?
+**Q1.** Quel mathématicien indien autodidacte né en 1887 contribua de façon majeure à la théorie des nombres et aux séries infinies ?
 
 **R.** Srinivasa Ramanujan
 
