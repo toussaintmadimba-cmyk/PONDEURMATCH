@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle philosophe et mathématicienne de l'Antiquité enseignait à Alexandrie avant sa mort au début du Ve siècle ?
+**Q1.** Quelle philosophe et mathématicienne de la fin de l'Antiquité fut assassinée lors de troubles à caractère politique et religieux au début du Ve siècle ?
 
 **R.** Hypatie
 
@@ -214,9 +214,9 @@
 
 **R.** Marguerite Yourcenar
 
-**Q4.** Quelle capitale européenne est située sur le Tage ?
+**Q4.** Quelle ville anglaise abrite la cathédrale où l'archevêque Thomas Becket fut assassiné en 1170 ?
 
-**R.** Lisbonne
+**R.** Cantorbéry
 
 **Q5.** Quel physicien allemand a donné son nom à un principe interdisant à deux électrons d'occuper le même état quantique ?
 
@@ -410,21 +410,21 @@
 
 **R.** Giuseppe Tomasi di Lampedusa
 
-**Q3.** Quel pays a pour capitale Paramaribo et pour langue officielle le néerlandais ?
+**Q3.** Quel pays d'Amérique du Sud abrite l'ancienne cité sacrée de Caral ?
 
-**R.** Suriname
+**R.** Pérou
 
-**Q4.** Quel physicien écossais proposa les équations unifiant l'électricité et le magnétisme ?
+**Q4.** Quel inventeur américain présenta publiquement le phonographe en 1877 ?
 
-**R.** James Clerk Maxwell
+**R.** Thomas Edison
 
 **Q5.** Quelle ville britannique accueille le musée Ashmolean, fondé en 1683 ?
 
 **R.** Oxford
 
-**Q6.** Quel pays d'Afrique australe abrite le site archéologique de Great Zimbabwe ?
+**Q6.** Quel pays d'Afrique de l'Ouest abrite la vieille ville de Oualata, inscrite au patrimoine mondial ?
 
-**R.** Zimbabwe
+**R.** Mauritanie
 
 **Q7.** Quelle ville marocaine abrite la mosquée Hassan II ?
 
