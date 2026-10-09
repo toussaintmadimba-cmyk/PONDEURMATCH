@@ -1,24 +1,30 @@
 # Niveau 2 — Suivi éditorial
 
 ## Périmètre
+10 matchs, **11 à 20**, de 96 questions chacun : **960 questions prévues**.
 
-Matchs **11 à 20** (10 matchs de 96 questions, soit 960 questions prévues).
+## Matchs disponibles dans GitHub
 
-## Matchs rédigés
+| Match | Questions | Réponses classées comme noms propres | Fichiers complémentaires |
+|---|---:|---:|---|
+| [11](match-11.md) | 96 | 68/96 | registre et sources |
+| [12](match-12.md) | 96 | 68/96 | registre et sources |
+| [13](match-13.md) | 96 | 68/96 | registre et sources |
+| [14](match-14.md) | 96 | 68/96 | registre et sources |
 
-- [Match 11](match-11.md) — 96 questions et réponses ; registre `registre/match-11.json` ; sources `sources/match-11-sources.md`.
-- [Match 12](match-12.md) — 96 questions et réponses ; registre `registre/match-12.json` ; sources `sources/match-12-sources.md`.
+**Avancement : 4/10 matchs — 384/960 questions (40 %).**
 
 ## Contrôles réalisés
+- Les matchs 11 à 14 ont 20 rubriques, **96 questions et 96 réponses** au format Q puis R.
+- Chaque match a **68 réponses classées comme noms propres (70,8 %)**.
+- Contrôle sur les registres de faits 01 à 14 : **1 344 identifiants de faits sans collision exacte**.
+- Monde contemporain couvre **1789 à nos jours** ; les questions de situation actuelle incluent la date dans leur énoncé.
+- Les références de contrôle sont dans le dossier `sources/`.
 
-- 96 Q/R par match, sans rubrique Langage C.
-- 68/96 réponses classées en noms propres dans chacun.
-- Chaque question a un identifiant de fait ; aucune collision exacte entre les identifiants des matchs 01 à 12.
-- Manchettes datées et monde contemporain pris au sens historique (1789 à nos jours).
-- Relecture ciblée des contradictions, réponses longues et quasi-doublons.
+## Limites de validation
+Le contrôle des identifiants ne démontre pas à lui seul l'absence de tous les **quasi-doublons de connaissances**. Les sources proposées couvrent des faits sensibles mais ne constituent pas une vérification exhaustive de chaque question. Une relecture pédagogique et documentaire définitive est nécessaire avant arbitrage officiel.
 
-**Attention :** le registre et les contrôles automatiques ne garantissent pas à eux seuls l'absence de tous les quasi-doublons ni la véracité exhaustive. Les références conservées dans `sources/` sont des éléments de vérification et une revue humaine finale reste recommandée avant la compétition.
+## Reste à produire
+**Matchs 15 à 20 — six matchs, 576 questions.**
 
-## Suite de la collection
-
-Matchs 13–20 : **non rédigés dans ce lot**. Leur production doit réutiliser les registres 01–12 et continuer sans réemploi des faits.
+Les fichiers PDF ne sont pas encore publiés pour ce niveau ; les fichiers Markdown sont la source de référence.
