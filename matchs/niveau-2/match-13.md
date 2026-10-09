@@ -2,7 +2,7 @@
 
 **96 questions, dans l'ordre officiel des 20 rubriques. Q suivie de R.**
 
-**Réponses classées en noms propres : 69/96 (71.9 %).**
+**Réponses classées en noms propres : 68/96 (70.8 %).**
 
 > Manchettes A et B sans droit de réplique. En questions de situation actuelle, la date se trouve dans l'énoncé. « Monde contemporain » couvre la période de 1789 à nos jours.
 
@@ -222,9 +222,9 @@
 
 **R.** Caracas
 
-**Q6.** Quel grand pont sur le Tage, inauguré en 1998, porte le nom d'un navigateur portugais ?
+**Q6.** Quel instrument sert à mesurer l'humidité relative de l'air ?
 
-**R.** Pont Vasco de Gama
+**R.** Hygromètre
 
 **Q7.** Quel est le symbole chimique du brome ?
 
