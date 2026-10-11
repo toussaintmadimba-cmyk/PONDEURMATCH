@@ -6,9 +6,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville de la mer Caspienne est la capitale de l'Azerbaïdjan ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de l'Ouzbékistan, en Asie centrale ?
 
-**R.** Bakou
+**R.** Tachkent
 
 **Q2.** Au 11 octobre 2026, quelle monnaie nationale du Malawi porte le même nom qu'une monnaie également utilisée en Zambie ?
 
@@ -16,13 +16,13 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale du Kirghizistan, pays d'Asie centrale ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Géorgie, sur le fleuve Koura ?
 
-**R.** Bichkek
+**R.** Tbilissi
 
-**Q2.** Au 11 octobre 2026, quelle capitale d'Asie du Sud-Est se trouve sur le Mékong et dirige le Laos ?
+**Q2.** Au 11 octobre 2026, quelle ville est la capitale du Tadjikistan, en Asie centrale ?
 
-**R.** Vientiane
+**R.** Douchanbé
 
 ## 3. SPORTS ET JEUX
 
@@ -56,9 +56,9 @@
 
 **R.** Med Hondo
 
-**Q3.** Quel chanteur sénégalais interpréta en 1994 le titre 7 Seconds en duo avec Neneh Cherry ?
+**Q3.** Quelle chanteuse malienne publia en 2003 l'album Bowmboï, mêlant traditions et arrangements contemporains ?
 
-**R.** Youssou N'Dour
+**R.** Rokia Traoré
 
 **Q4.** Quel procédé cinématographique consiste à montrer les événements dans un ordre différent de leur chronologie ?
 
@@ -90,7 +90,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante sud-africaine dirigea une organisation de femmes contre l'apartheid et joua un rôle central dans la marche de Pretoria de 1956 ?
+**Q1.** Quelle militante sud-africaine dirigea des mobilisations féminines contre les lois de laissez-passer et participa à une grande marche sur Pretoria ?
 
 **R.** Lilian Ngoyi
 
@@ -102,9 +102,9 @@
 
 **R.** Helen Joseph
 
-**Q4.** Quel mouvement politique de libération, abrégé ANC, comptait Lilian Ngoyi parmi ses dirigeantes ?
+**Q4.** Quelle fédération nationale créée en 1954 rassemblait des femmes de plusieurs communautés contre les discriminations raciales ?
 
-**R.** Congrès national africain
+**R.** Fédération des femmes sud-africaines
 
 **Q5.** En quelle année eut lieu cette grande marche de femmes contre les laissez-passer obligatoires ?
 
@@ -118,17 +118,17 @@
 
 **R.** COI
 
-**Q2.** Quel nom donne-t-on à un groupe nominal détaché qui précise le nom voisin, comme « Marie, mon amie » ?
+**Q2.** Quel nom donne-t-on à la construction « Ce film, je l'ai déjà vu », avec reprise pronominale d'un élément détaché ?
 
-**R.** Apposition
+**R.** Dislocation
 
 **Q3.** Dans « qu'il soit parti », quel temps du subjonctif est employé ?
 
 **R.** Subjonctif passé
 
-**Q4.** Comment appelle-t-on le changement de catégorie grammaticale d'un mot sans modification formelle, comme « le pourquoi » ?
+**Q4.** Quel terme phonétique désigne la disparition progressive d'un son dans la prononciation d'un mot ?
 
-**R.** Conversion
+**R.** Amuïssement
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -204,13 +204,13 @@
 
 **R.** Emanuel Leutze
 
-**Q2.** Quel compositeur tchèque acheva l'opéra Rusalka en 1900, créé à Prague en 1901 ?
+**Q2.** Quel compositeur morave créa en 1904 l'opéra Jenůfa à Brno ?
 
-**R.** Antonín Dvořák
+**R.** Leoš Janáček
 
-**Q3.** Quelle écrivaine britannique reçut le prix Nobel de littérature 2007 et publia Le Carnet d'or ?
+**Q3.** Quelle romancière américaine reçut le prix Pulitzer 2005 pour son roman Gilead ?
 
-**R.** Doris Lessing
+**R.** Marilynne Robinson
 
 **Q4.** Quel poète ougandais est l'auteur du long poème Song of Lawino, paru en 1966 ?
 
@@ -260,23 +260,23 @@
 
 **R.** Chéri Chérin
 
-**Q5.** Quel sculpteur congolais créa une installation appelée Au-delà de l'espoir à partir de matériaux récupérés liés aux violences ?
+**Q5.** Quel photographe congolais est connu pour ses images de la vie nocturne et urbaine de Léopoldville dans les années 1950-1960 ?
 
-**R.** Freddy Tsimba
+**R.** Jean Depara
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quelle écrivaine nigériane publia Les Joies de la maternité en 1979, dénonçant les contraintes imposées aux femmes ?
+**Q1.** Quelle romancière nigériane publia Efuru en 1966, œuvre majeure de la littérature féminine africaine anglophone ?
 
-**R.** Buchi Emecheta
+**R.** Flora Nwapa
 
 **Q2.** Quel romancier guinéen écrivit Les Crapauds-brousse, publié en 1979 ?
 
 **R.** Tierno Monénembo
 
-**Q3.** Quel écrivain sud-africain reçut le Booker Prize 1999 pour Disgrâce ?
+**Q3.** Quel écrivain sud-africain relata sa détention dans Confessions of an Albino Terrorist, publié en 1984 ?
 
-**R.** J. M. Coetzee
+**R.** Breyten Breytenbach
 
 **Q4.** Quel écrivain libyen a publié le récit autobiographique The Return, prix Pulitzer 2017 de la biographie ?
 
@@ -412,25 +412,25 @@
 
 **R.** Alain Locke
 
-**Q2.** Quel poète et anthropologue guinéen écrivit l'essai Le Regard du roi en 1954 ?
+**Q2.** Quel écrivain togolais publia le roman L'Esclave en 1929, l'une des œuvres pionnières du roman francophone africain ?
 
-**R.** Camara Laye
+**R.** Félix Couchoro
 
-**Q3.** Quel dramaturge nigérian écrivit La Danse de la forêt, représentée à l'indépendance du Nigeria en 1960 ?
+**Q3.** Quel dramaturge nigérian réécrivit Les Troyennes d'Euripide dans la pièce Women of Owu ?
 
-**R.** Wole Soyinka
+**R.** Femi Osofisan
 
-**Q4.** Quel explorateur vénitien dicta au XIIIe siècle les récits de voyage connus sous le titre Le Devisement du monde ?
+**Q4.** Quel voyageur andalou du XIIe siècle a laissé une Rihla relatant notamment son pèlerinage vers La Mecque ?
 
-**R.** Marco Polo
+**R.** Ibn Jubayr
 
 **Q5.** Quel architecte suisse-français créa la Villa Savoye à Poissy, manifeste de l'architecture moderne ?
 
 **R.** Le Corbusier
 
-**Q6.** Quel peintre néerlandais réalisa La Ronde de nuit en 1642 ?
+**Q6.** Quel peintre néerlandais réalisa en 1624 le portrait connu sous le nom de Cavalier riant ?
 
-**R.** Rembrandt
+**R.** Frans Hals
 
 **Q7.** Quel phénomène de persistance d'un signal lumineux après l'arrêt de la source est appelé comment ?
 
