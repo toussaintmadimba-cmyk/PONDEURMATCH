@@ -70,9 +70,9 @@
 
 **THÈME : FIGURES ET ORGANISATION DE LA PHRASE**
 
-**Q1.** Quelle figure de style consiste à atténuer une idée en disant moins pour laisser entendre davantage ?
+**Q1.** Quelle figure de style reprend une même construction grammaticale dans plusieurs propositions successives ?
 
-**R.** Litote
+**R.** Parallélisme
 
 **Q2.** Quelle figure consiste à répéter une structure syntaxique voisine dans plusieurs propositions ?
 
@@ -120,13 +120,13 @@
 
 **R.** Pronom personnel
 
-**Q3.** Dans « Sans qu'il le sache », quel mode suit la locution « sans que » ?
+**Q3.** Dans « Sans qu'il le sache », quel temps du subjonctif est employé dans « sache » ?
 
-**R.** Subjonctif
+**R.** Subjonctif présent
 
-**Q4.** Quel nom donne-t-on à la suppression d'un mot en début de phrase, récupérable par le contexte ?
+**Q4.** Quel terme désigne la disparition d'un son ou d'une syllabe au début d'un mot ?
 
-**R.** Ellipse
+**R.** Aphérèse
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -164,9 +164,9 @@
 
 **R.** Sicile
 
-**Q4.** Où suis-je ? Je suis un massif volcanique de la République démocratique du Congo connu pour le lac de lave de mon sommet.
+**Q4.** Où suis-je ? Je suis le volcan actif qui domine l'île de la Grande Comore, dans l'océan Indien.
 
-**R.** Nyiragongo
+**R.** Karthala
 
 **Q5.** Où suis-je ? Je suis une ancienne ville du Guatemala au pied de volcans, ancienne capitale coloniale de la région.
 
@@ -214,9 +214,9 @@
 
 **R.** Johannes Vermeer
 
-**Q5.** Quel écrivain français est l'auteur du roman L'Étranger, publié en 1942 ?
+**Q5.** Quel écrivain français publia La Condition humaine en 1933 ?
 
-**R.** Albert Camus
+**R.** André Malraux
 
 **Q6.** Quel dramaturge anglais écrivit La Tempête au début du XVIIe siècle ?
 
@@ -290,9 +290,9 @@
 
 **R.** Insurrection de Pâques
 
-**Q2.** Quel traité signé en 1919 imposa à l'Allemagne des clauses de paix après la Première Guerre mondiale ?
+**Q2.** Quel traité signé en 1919 régla la paix entre les Alliés et l'Autriche après la Première Guerre mondiale ?
 
-**R.** Traité de Versailles
+**R.** Traité de Saint-Germain-en-Laye
 
 **Q3.** Quel événement de 1989 marqua l'ouverture de la frontière entre les deux parties de Berlin ?
 
@@ -414,9 +414,9 @@
 
 **R.** Thomas Hobbes
 
-**Q3.** Quel peintre britannique réalisa Le Dernier Voyage du Téméraire en 1839 ?
+**Q3.** Quel peintre italien du XVIIe siècle réalisa La Vocation de saint Matthieu pour une église de Rome ?
 
-**R.** J. M. W. Turner
+**R.** Le Caravage
 
 **Q4.** Quel écrivain américain est l'auteur de Gatsby le Magnifique ?
 
