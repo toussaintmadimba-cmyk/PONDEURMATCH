@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante pakistanaise pour l'éducation des filles reçut le prix Nobel de la paix en 2014 ?
+**Q1.** Quelle militante pour la scolarisation des filles, attaquée par des talibans en 2012, devint une voix mondiale du droit à l'éducation ?
 **R.** Malala Yousafzai
 
 **Q2.** Dans quel pays est-elle née ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle abolitionniste américaine, née esclave, devint une figure majeure de l'Underground Railroad ?
+**Q1.** Quelle abolitionniste nord-américaine, née dans l'esclavage, guida de nombreuses personnes vers la liberté au XIXe siècle ?
 **R.** Harriet Tubman
 
 **Q2.** Dans quel État américain est-elle née ?
