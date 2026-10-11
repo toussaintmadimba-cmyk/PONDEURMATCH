@@ -14,3 +14,8 @@ Ce fichier conserve les principales références pour les faits sensibles, rares
 ## Attention à l'arbitrage
 
 Les identifiants de faits ont été comparés aux registres des matchs 01 à 12. Cette vérification automatique ne suffit pas à exclure tous les quasi-doublons ; les variantes de translittération doivent être acceptées lorsqu'elles correspondent à la même réponse.
+
+## Révision complémentaire — révolution de 1848
+- Énoncé reformulé pour ne plus nommer directement la « révolution de février » dans la question.
+- Larousse, révolution française de 1848 (campagne des banquets, interdiction du banquet du 22 février, abdication de Louis-Philippe) : https://www.larousse.fr/encyclopedie/divers/r%C3%A9volution_fran%C3%A7aise_de_1848/140734
+- Réponse courte conservée : **Révolution de Février**. Pour l'arbitrage, **Révolution française de 1848** est également historiquement recevable, sous réserve du règlement.
