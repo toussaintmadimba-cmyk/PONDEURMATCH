@@ -156,9 +156,9 @@
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
-**Q1.** Qui suis-je ? Femme de sciences britannique, j'ai travaillé avec Charles Babbage et donné mon nom à un langage de programmation.
+**Q1.** Qui suis-je ? Informaticienne américaine, j'ai conçu le programme A-0 en 1952, précurseur des compilateurs modernes.
 
-**R.** Ada Lovelace
+**R.** Grace Hopper
 
 **Q2.** Où suis-je ? Cité médiévale du Mali, j'abrite la mosquée Djingareyber et l'université historique de Sankoré.
 
@@ -268,9 +268,9 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain nigérian est l'auteur du roman La Flèche de Dieu ?
+**Q1.** Quel écrivain nigérian est l'auteur du roman La Route de la faim, récompensé par le Booker Prize en 1991 ?
 
-**R.** Chinua Achebe
+**R.** Ben Okri
 
 **Q2.** Quel dramaturge norvégien a écrit Hedda Gabler ?
 
