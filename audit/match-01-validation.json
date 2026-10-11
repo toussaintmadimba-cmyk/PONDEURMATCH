@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 34,
-    "A_VERIFIER_SOURCE": 62
+    "DOCUMENTE_SOURCE_DIRECTE": 38,
+    "A_VERIFIER_SOURCE": 58
   },
   "questions": [
     {
@@ -23,7 +23,8 @@
       "sources": [
         "https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R01-Q02",
@@ -36,7 +37,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R02-Q01",
@@ -51,7 +53,8 @@
       "sources": [
         "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R02-Q02",
@@ -66,7 +69,8 @@
       "sources": [
         "https://www.cbn.gov.ng/Currency/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R03-Q01",
@@ -81,7 +85,8 @@
       "sources": [
         "https://worldathletics.org/athletes/jamaica/usain-bolt-14201847"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R03-Q02",
@@ -96,7 +101,8 @@
       "sources": [
         "https://www.rolandgarros.com/en-us/article/2026-edition-roland-garros-opening-week"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R03-Q03",
@@ -111,7 +117,8 @@
       "sources": [
         "https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R03-Q04",
@@ -124,7 +131,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R03-Q05",
@@ -137,7 +145,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R04-Q01",
@@ -150,7 +159,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R04-Q02",
@@ -163,7 +173,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R04-Q03",
@@ -176,7 +187,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R04-Q04",
@@ -191,7 +203,8 @@
       "sources": [
         "https://www.oscars.org/oscars/ceremonies/2020/B"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R04-Q05",
@@ -204,7 +217,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R05-Q01",
@@ -217,7 +231,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R05-Q02",
@@ -230,7 +245,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R05-Q03",
@@ -243,7 +259,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R05-Q04",
@@ -256,7 +273,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R06-Q01",
@@ -271,7 +289,8 @@
       "sources": [
         "https://www.nelsonmandela.org/biography"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R06-Q02",
@@ -286,7 +305,8 @@
       "sources": [
         "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R06-Q03",
@@ -306,7 +326,8 @@
         "https://www.nelsonmandela.org/biography",
         "https://sahistory.org.za/article/nelson-mandela-presidency-1994-1999"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R06-Q04",
@@ -324,7 +345,8 @@
       "sources": [
         "https://www.nobelprize.org/prizes/peace/1993/summary/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R06-Q05",
@@ -339,7 +361,8 @@
       "sources": [
         "https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R07-Q01",
@@ -352,7 +375,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R07-Q02",
@@ -368,7 +392,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R07-Q03",
@@ -383,7 +408,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R07-Q04",
@@ -396,7 +422,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R08-Q01",
@@ -411,7 +438,8 @@
       "sources": [
         "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R08-Q02",
@@ -426,7 +454,8 @@
       "sources": [
         "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R08-Q03",
@@ -441,7 +470,8 @@
       "sources": [
         "https://www.nobelprize.org/stories/women-who-changed-science/marie-curie"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R08-Q04",
@@ -454,7 +484,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R08-Q05",
@@ -470,7 +501,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R09-Q01",
@@ -483,7 +515,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R09-Q02",
@@ -496,7 +529,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R09-Q03",
@@ -509,7 +543,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R09-Q04",
@@ -523,9 +558,12 @@
         "Pablo Picasso",
         "Picasso"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
-      "notes": ""
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.museoreinasofia.es/colecciones/obra/guernica/"
+      ],
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R09-Q05",
@@ -538,7 +576,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R10-Q01",
@@ -551,7 +590,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R10-Q02",
@@ -564,7 +604,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R10-Q03",
@@ -577,7 +618,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R10-Q04",
@@ -590,7 +632,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R10-Q05",
@@ -603,7 +646,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R11-Q01",
@@ -616,7 +660,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R11-Q02",
@@ -629,7 +674,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R11-Q03",
@@ -642,7 +688,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R11-Q04",
@@ -657,7 +704,8 @@
       "sources": [
         "https://science.nasa.gov/solar-system/planets/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R11-Q05",
@@ -670,7 +718,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R11-Q06",
@@ -683,7 +732,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R11-Q07",
@@ -696,7 +746,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": "Question tautologique reformulée; le modèle est identifié sans annoncer 7"
+      "notes": "Question tautologique reformulée; le modèle est identifié sans annoncer 7",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R11-Q08",
@@ -709,7 +760,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R11-Q09",
@@ -724,7 +776,8 @@
       "sources": [
         "https://science.nasa.gov/solar-system/planets/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R11-Q10",
@@ -734,10 +787,13 @@
       "number": 10,
       "question": "Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?",
       "answer": "Dioxygène",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Oxygène (nom usuel du gaz O₂)"
+      ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R12-Q01",
@@ -750,7 +806,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R12-Q02",
@@ -768,7 +825,8 @@
       "sources": [
         "https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born"
       ],
-      "notes": "Formulation rend explicite l'anachronisme de la dénomination de l'État"
+      "notes": "Formulation rend explicite l'anachronisme de la dénomination de l'État",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R12-Q03",
@@ -786,7 +844,8 @@
       "sources": [
         "https://whc.unesco.org/fr/list/63"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R12-Q04",
@@ -799,7 +858,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R12-Q05",
@@ -817,7 +877,8 @@
       "sources": [
         "https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R13-Q01",
@@ -830,7 +891,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R13-Q02",
@@ -845,7 +907,8 @@
       "sources": [
         "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R13-Q03",
@@ -856,9 +919,12 @@
       "question": "Quel est le véritable nom de Molière ?",
       "answer": "Jean-Baptiste Poquelin",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
-      "notes": ""
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.comedie-francaise.fr/moliere"
+      ],
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R13-Q04",
@@ -871,7 +937,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R13-Q05",
@@ -884,7 +951,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R14-Q01",
@@ -897,7 +965,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R14-Q02",
@@ -912,7 +981,8 @@
       "sources": [
         "https://history.state.gov/historicaldocuments/frus1919Parisv11/d272"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R14-Q03",
@@ -927,7 +997,8 @@
       "sources": [
         "https://www.un.org/fr/about-us/history-of-the-un"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R14-Q04",
@@ -942,7 +1013,8 @@
       "sources": [
         "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R14-Q05",
@@ -955,7 +1027,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R15-Q01",
@@ -970,7 +1043,8 @@
       "sources": [
         "https://royalsociety.org/news/2014/astronaut-tim-peake-principia/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R15-Q02",
@@ -985,7 +1059,8 @@
       "sources": [
         "https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R15-Q03",
@@ -1003,7 +1078,8 @@
       "sources": [
         "https://science.nasa.gov/jupiter/?intent=121"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R15-Q04",
@@ -1018,7 +1094,8 @@
       "sources": [
         "https://computerhistory.org/blog/ada-lovelace-day/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R16-Q01",
@@ -1033,7 +1110,8 @@
       "sources": [
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R16-Q02",
@@ -1044,9 +1122,12 @@
       "question": "Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?",
       "answer": "Négritude",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
-      "notes": ""
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565"
+      ],
+      "notes": "Négritude est un nom commun féminin selon Larousse, non un nom propre pour le quota.",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R16-Q03",
@@ -1061,7 +1142,8 @@
       "sources": [
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R16-Q04",
@@ -1076,7 +1158,8 @@
       "sources": [
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R16-Q05",
@@ -1087,9 +1170,12 @@
       "question": "Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?",
       "answer": "Aimé Césaire",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
-      "notes": ""
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565"
+      ],
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R17-Q01",
@@ -1105,7 +1191,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R17-Q02",
@@ -1118,7 +1205,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R17-Q03",
@@ -1131,7 +1219,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R17-Q04",
@@ -1144,7 +1233,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R18-Q01",
@@ -1157,7 +1247,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R18-Q02",
@@ -1170,7 +1261,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R18-Q03",
@@ -1183,7 +1275,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R18-Q04",
@@ -1196,7 +1289,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R18-Q05",
@@ -1209,7 +1303,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R19-Q01",
@@ -1227,7 +1322,8 @@
       "sources": [
         "https://www.presidencedufaso.bf/thomas-sankara/"
       ],
-      "notes": "Quatre indices vérifiés contre la biographie officielle de la présidence du Faso; difficulté orale à tester"
+      "notes": "Quatre indices vérifiés contre la biographie officielle de la présidence du Faso; difficulté orale à tester",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q01",
@@ -1240,7 +1336,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q02",
@@ -1257,7 +1354,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q03",
@@ -1270,7 +1368,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q04",
@@ -1285,7 +1384,8 @@
       "sources": [
         "https://www.bipm.org/fr/measurement-units/"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R20-Q05",
@@ -1302,7 +1402,8 @@
       ],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q06",
@@ -1317,7 +1418,8 @@
       "sources": [
         "https://whc.unesco.org/en/list/274"
       ],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q07",
@@ -1330,7 +1432,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q08",
@@ -1343,7 +1446,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": true
     },
     {
       "id": "M01-R20-Q09",
@@ -1356,7 +1460,8 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     },
     {
       "id": "M01-R20-Q10",
@@ -1369,7 +1474,10 @@
       "accepted_variants": [],
       "status": "A_VERIFIER_SOURCE",
       "sources": [],
-      "notes": ""
+      "notes": "",
+      "proper_name_answer": false
     }
-  ]
+  ],
+  "proper_name_count": 67,
+  "proper_name_ratio": 0.6979
 }
