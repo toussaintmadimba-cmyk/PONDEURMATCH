@@ -22,12 +22,12 @@ Les corrections éditoriales et plusieurs vérifications factuelles sont réalis
 | Identification | quatre indices 40/30/20/10 présents |
 | Identifiants de faits du registre existant | 96 / 96 |
 | Réponses littéralement répétées dans ce match | 1 paire(s) ; contrôle de sens distinct |
-| Noms propres | **68/96 déclarés** dans le registre historique ; reclassement indépendant exhaustif restant à faire |
+| Noms propres | **67/96 (69,8 %)**, reclassification individuelle des réponses accomplie, incluant le statut de nom commun de « négritude » |
 
 ## Vérification documentaire individuelle
 
-- **34 / 96** Q/R rattachées à une référence spécifique consultée dans cette passe ; statut `DOCUMENTE_SOURCE_DIRECTE`.
-- **62 / 96** Q/R à confirmer par une source spécifique ; statut `A_VERIFIER_SOURCE`.
+- **44 / 96** Q/R rattachées à une référence spécifique consultée dans cette passe ; statut `DOCUMENTE_SOURCE_DIRECTE`.
+- **52 / 96** Q/R à confirmer par une source spécifique ; statut `A_VERIFIER_SOURCE`.
 - Les sources antérieures et la connaissance courante ne sont pas comptées comme preuve vérifiée lorsqu'une référence précise n'a pas été examinée.
 - Inventaire nominatif des 96 questions et statuts : [match-01-validation.json](match-01-validation.json).
 - Tableau des références précises : [sources/match-01-sources.md](../sources/match-01-sources.md).
@@ -72,13 +72,17 @@ Des équivalents ont été consignés dans `audit/match-01-validation.json` pour
 
 ## Bloqueurs avant certification
 
-1. Les **62 associations Q/R restantes** doivent être documentées et contrôlées une par une, sans assimilation d'une réponse plausible à une réponse vérifiée.
+1. Les **52 associations Q/R restantes** doivent être documentées et contrôlées une par une, sans assimilation d'une réponse plausible à une réponse vérifiée.
 2. Faire la **déduplication sémantique complète** contre les 29 autres matchs, avec décisions documentées.
-3. Procéder au **reclassement effectif du quota des noms propres**, sans se fier à l'étiquette antérieure.
+3. Revoir la **convention de classification des noms propres** avec l'arbitre : 67/96 ont été classées individuellement, contre 68 déclarées initialement.
 4. Vérifier finement la cohérence et l'absence de divulgations **indirectes** des deux cantonades ; faire relire les formulations par un arbitre.
 5. Mettre à l'épreuve **l'identification** et la difficulté orale du Niveau 1.
 6. Réaliser une relecture finale après toutes les modifications et constituer la version arbitre prête à l'emploi.
 
 ## Point de reprise
 
-Reprendre les questions dans l'ordre du JSON `audit/match-01-validation.json`, en priorité celles dont le statut est `A_VERIFIER_SOURCE`. Ne repasser à `VALIDÉ` qu'après source exacte, arbitrage et anti-doublon complet. Ne pas commencer la certification finale du Match 02 tant que le Match 01 n'est pas clos si la stratégie du projet est strictement « un match à la fois ».
+Reprendre les 52 questions sans source directe dans l'ordre du JSON `audit/match-01-validation.json`, en priorité celles dont le statut est `A_VERIFIER_SOURCE`. Ne repasser à `VALIDÉ` qu'après source exacte, arbitrage et anti-doublon complet. Ne pas commencer la certification finale du Match 02 tant que le Match 01 n'est pas clos si la stratégie du projet est strictement « un match à la fois ».
+
+## Complément d'audit documentaire
+
+Les sources directes ont été étendues, notamment grâce à la Comédie-Française (Molière), au musée Reina Sofía (Guernica), au dictionnaire Larousse (négritude, homophones, adverbe « dehors », thermomètre, photosynthèse), au Portail linguistique du Canada (pronom) et à Parcs Canada (Ottawa). Le quota reclassé est de **67 réponses-noms propres sur 96 (69,8 %)**, la « négritude » étant un nom commun féminin.
