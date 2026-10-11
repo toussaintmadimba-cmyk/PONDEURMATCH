@@ -1285,14 +1285,14 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 2,
-      "question": "Dans quel pays se trouve le Kilimandjaro ?",
+      "question": "Dans quel pays africain se trouve le parc national du Serengeti ?",
       "answer": "Tanzanie",
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://whc.unesco.org/fr/list/403"
+        "https://whc.unesco.org/fr/list/156"
       ],
-      "notes": "",
+      "notes": "Fait du Kilimandjaro retiré : identification inverse trop proche de la question du Match 29. UNESCO indique le Serengeti en République-Unie de Tanzanie.",
       "proper_name_answer": true
     },
     {
