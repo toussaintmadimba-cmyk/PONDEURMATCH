@@ -2,7 +2,7 @@
 
 **Format : Q suivie de R - 96 questions**
 
-**Contrôle éditorial : 68/96 réponses classées comme noms propres (70.8%).**
+**Cible éditoriale initiale : 68/96 réponses classées comme noms propres (70,8 %), à confirmer après certification individuelle.**
 
 > Les questions d'actualité sont datées dans leur énoncé. Les sources correspondantes sont dans sources/match-01-sources.md.
 
@@ -58,7 +58,7 @@
 
 ## 5. LANGAGE A
 
-**THÈME : VOCABULAIRE : SYNONYMES, ANTONYMES ET FAMILLES DE MOTS**
+**THÈME : VOCABULAIRE — FAMILLES DE MOTS ET HOMOPHONIE**
 
 **Q1.** Quel nom obtient-on à partir du verbe « décider » ?
 **R.** Décision
@@ -80,7 +80,7 @@
 **Q2.** Sur quelle île fut-il emprisonné pendant de longues années ?
 **R.** Robben Island
 
-**Q3.** Quel parti politique sud-africain a-t-il dirigé ?
+**Q3.** Quel parti politique opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
 **R.** ANC
 
 **Q4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
@@ -178,7 +178,7 @@
 **Q6.** Quel est le symbole chimique du fer ?
 **R.** Fe
 
-**Q7.** Combien de continents compte le modèle géographique à sept continents ?
+**Q7.** Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?
 **R.** 7
 
 **Q8.** Quel compositeur autrichien a écrit La Flûte enchantée ?
@@ -187,8 +187,8 @@
 **Q9.** Combien de planètes compte le Système solaire ?
 **R.** 8
 
-**Q10.** Quel gaz de symbole O2 est indispensable à la respiration humaine ?
-**R.** Oxygène
+**Q10.** Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?
+**R.** Dioxygène
 
 # MI-TEMPS
 
@@ -197,8 +197,8 @@
 **Q1.** Quelle ville est la capitale de la République démocratique du Congo ?
 **R.** Kinshasa
 
-**Q2.** Qui fut le premier Premier ministre de la RDC indépendante ?
-**R.** Patrice Emery Lumumba
+**Q2.** Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hui appelé République démocratique du Congo ?
+**R.** Patrice Émery Lumumba
 
 **Q3.** Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?
 **R.** Parc national des Virunga
@@ -311,7 +311,15 @@
 
 ## 19. IDENTIFICATION
 
-**Q1.** 40 points : Je suis né en 1949 à Yako. 30 points : Officier de l'armée, j'arrive au pouvoir en Haute-Volta en 1983. 20 points : Sous mon pouvoir, le pays prend le nom de Burkina Faso. 10 points : Je suis assassiné le 15 octobre 1987. Qui suis-je ?
+**Q1.** Identification progressive — Qui suis-je ?
+
+**40 points —** En 1981, je deviens secrétaire d'État à l'Information en Haute-Volta, avant de démissionner pour marquer mon désaccord avec le régime.
+
+**30 points —** Après avoir été Premier ministre au début de 1983, j'accède à la tête de l'État en août de la même année.
+
+**20 points —** En 1984, sous ma présidence, mon pays abandonne le nom de Haute-Volta pour celui de Burkina Faso.
+
+**10 points —** Né à Yako en 1949, je suis assassiné le 15 octobre 1987.
 **R.** Thomas Sankara
 
 ## 20. ÉCLAIR 2
