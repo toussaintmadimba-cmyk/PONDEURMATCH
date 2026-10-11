@@ -4,9 +4,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale du Sultanat de Brunei, sur l'île de Bornéo ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de Saint-Christophe-et-Niévès, dans les Caraïbes ?
 
-**R.** Bandar Seri Begawan
+**R.** Basseterre
 
 **Q2.** Au 11 octobre 2026, quelle monnaie du Kazakhstan porte le nom de tenge ?
 
@@ -14,9 +14,9 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville du Pacifique est la capitale des Îles Salomon ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Barbade ?
 
-**R.** Honiara
+**R.** Bridgetown
 
 **Q2.** Au 11 octobre 2026, quelle ville est la capitale de l'État insulaire de la Grenade ?
 
@@ -46,9 +46,9 @@
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quel réalisateur sénégalais signa Xala, satire de la bourgeoisie postcoloniale sortie en 1975 ?
+**Q1.** Quel cinéaste sud-africain réalisa Mapantsula, film de 1988 consacré à la vie sous l'apartheid ?
 
-**R.** Ousmane Sembène
+**R.** Oliver Schmitz
 
 **Q2.** Quel cinéaste palestinien réalisa Intervention divine, prix du jury à Cannes en 2002 ?
 
@@ -70,21 +70,21 @@
 
 **THÈME : ARGUMENTATION ET FIGURES**
 
-**Q1.** Quelle figure rapproche dans une phrase deux termes de sens contraire sans les fusionner ?
+**Q1.** Quel procédé rhétorique énumère plusieurs éléments de même nature sans ordre d'intensité imposé ?
 
-**R.** Antithèse
+**R.** Accumulation
 
-**Q2.** Quel procédé substitue un terme plus doux à une réalité pénible ou choquante ?
+**Q2.** Quel terme qualifie la répétition inutile d'une idée déjà exprimée dans un énoncé ?
 
-**R.** Euphémisme
+**R.** Redondance
 
 **Q3.** Quelle figure pose une question qui n'attend pas de réponse pour renforcer une argumentation ?
 
 **R.** Question rhétorique
 
-**Q4.** Quel procédé littéraire repose sur la répétition rapprochée de sons consonantiques ?
+**Q4.** Quel terme qualifie des mots de même radical mais de formes grammaticales différentes ?
 
-**R.** Allitération
+**R.** Mots dérivés
 
 ## 6. CANTONADE 1
 
@@ -112,17 +112,17 @@
 
 **THÈME : RELATIONS LOGIQUES**
 
-**Q1.** Dans « Quoi qu'il arrive, nous viendrons », quel type de relation logique exprime la subordonnée ?
+**Q1.** Dans « Aussitôt qu'il arrive, nous partirons », quel rapport logique exprime « aussitôt que » ?
 
-**R.** Concession
+**R.** Temps
 
 **Q2.** Dans « Il a tant travaillé qu'il a réussi », quelle relation logique exprime la subordonnée introduite par « que » ?
 
 **R.** Conséquence
 
-**Q3.** Dans « Du moment que tu acceptes, nous irons », quelle relation principale peut exprimer la locution « du moment que » ?
+**Q3.** Dans « Puisqu'il pleut, nous restons », quelle relation logique exprime « puisque » ?
 
-**R.** Condition
+**R.** Cause
 
 **Q4.** Dans « Je pars de peur qu'il ne pleuve », quelle valeur exprime « de peur que » ?
 
@@ -134,9 +134,9 @@
 
 **R.** Oswald Avery
 
-**Q2.** Quelle chercheuse britannique réalisa des clichés de diffraction des rayons X décisifs pour l'étude de l'ADN ?
+**Q2.** Quelle microbiologiste américaine découvrit en 1951 le bactériophage lambda ?
 
-**R.** Rosalind Franklin
+**R.** Esther Lederberg
 
 **Q3.** Quel biologiste britannique obtint le Nobel de médecine 1962 avec Watson et Crick pour l'étude de l'ADN ?
 
@@ -156,9 +156,9 @@
 
 **R.** Ghardaïa
 
-**Q2.** Que suis-je ? Je suis un bassin endoréique partagé entre le Tchad, le Niger, le Nigeria et le Cameroun.
+**Q2.** Que suis-je ? Grand lac de la vallée du Rift dans le nord du Kenya, je suis connu pour mes eaux alcalines et mes fossiles.
 
-**R.** Lac Tchad
+**R.** Lac Turkana
 
 **Q3.** Où suis-je ? Je suis un site antique nabatéen de Syrie, célèbre pour ses ruines et ses rues à colonnes.
 
@@ -214,13 +214,13 @@
 
 **R.** Lina Wertmüller
 
-**Q5.** Quel peintre mexicain réalisa L'Homme à la croisée des chemins, fresque controversée ?
+**Q5.** Quel muraliste mexicain réalisa l'ensemble de peintures du Polyforum Cultural Siqueiros à Mexico ?
 
-**R.** Diego Rivera
+**R.** David Alfaro Siqueiros
 
-**Q6.** Quel historien sénégalais publia L'Afrique noire précoloniale ?
+**Q6.** Quel historien burkinabè publia Histoire de l'Afrique noire en 1972 ?
 
-**R.** Cheikh Anta Diop
+**R.** Joseph Ki-Zerbo
 
 **Q7.** Quelle romancière néo-zélandaise reçut le prix Booker 1985 pour The Bone People ?
 
@@ -264,17 +264,17 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quelle romancière sénégalaise publia Une si longue lettre en 1979 ?
+**Q1.** Quelle romancière sénégalaise publia Le Ventre de l'Atlantique en 2003 ?
 
-**R.** Mariama Bâ
+**R.** Fatou Diome
 
 **Q2.** Quel écrivain marocain publia La Boîte à merveilles en 1954 ?
 
 **R.** Ahmed Sefrioui
 
-**Q3.** Quel auteur ivoirien écrivit Allah n'est pas obligé, roman publié en 2000 ?
+**Q3.** Quel romancier ivoirien publia Les Frasques d'Ebinto en 1975 ?
 
-**R.** Ahmadou Kourouma
+**R.** Amadou Koné
 
 **Q4.** Quelle écrivaine haïtienne publia Amour, colère et folie en 1968 ?
 
@@ -310,17 +310,17 @@
 
 **THÈME : ÉLECTRONIQUE ET INFORMATIQUE**
 
-**Q1.** Quel physicien américain mit au point le transistor à point de contact avec Brattain et Shockley chez Bell Labs ?
+**Q1.** Quel ingénieur américain fut l'un des inventeurs du circuit intégré monolithique chez Fairchild à la fin des années 1950 ?
 
-**R.** John Bardeen
+**R.** Robert Noyce
 
 **Q2.** Quel physicien britannique participa à l'invention du circuit intégré à la fin des années 1950 chez Texas Instruments ?
 
 **R.** Jack Kilby
 
-**Q3.** Quel inventeur américain a donné son nom au principe de doublement observé de la densité des transistors ?
+**Q3.** Quel inventeur américain présenta en 1968 une démonstration historique d'interfaces informatiques avec une souris ?
 
-**R.** Gordon Moore
+**R.** Douglas Engelbart
 
 **Q4.** Quel ingénieur japonais est souvent crédité pour le développement de la mémoire flash moderne chez Toshiba ?
 
@@ -410,9 +410,9 @@
 
 **R.** Luis Sepúlveda
 
-**Q2.** Quel cinéaste iranien réalisa Le Goût de la cerise, Palme d'or en 1997 ?
+**Q2.** Quel cinéaste iranien reçut l'Oscar du meilleur film en langue étrangère en 2012 pour Une séparation ?
 
-**R.** Abbas Kiarostami
+**R.** Asghar Farhadi
 
 **Q3.** Quel artiste italien développa les tableaux coupés ou percés, appelés Concetti spaziali ?
 
@@ -422,13 +422,13 @@
 
 **R.** Judy Chicago
 
-**Q5.** Quel compositeur allemand écrivit la Neuvième Symphonie, créée à Vienne en 1824 ?
+**Q5.** Quel compositeur polonais écrivit le Stabat Mater, créé en 1926 ?
 
-**R.** Ludwig van Beethoven
+**R.** Karol Szymanowski
 
-**Q6.** Quel romancier japonais publia Kafka sur le rivage en 2002 ?
+**Q6.** Quel romancier japonais publia La Femme des sables en 1962 ?
 
-**R.** Haruki Murakami
+**R.** Kōbō Abe
 
 **Q7.** Comment nomme-t-on la variation de la fréquence observée d'une onde due au mouvement relatif ?
 
