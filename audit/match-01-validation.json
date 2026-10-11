@@ -1,0 +1,1355 @@
+{
+  "match": "01",
+  "niveau": 1,
+  "branch": "qc/match-01-2026-10-11",
+  "question_count": 96,
+  "status": "CERTIFICATION_INCOMPLETE",
+  "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
+  "counts": {
+    "DOCUMENTE_SOURCE_DIRECTE": 24,
+    "A_VERIFIER_SOURCE": 72
+  },
+  "questions": [
+    {
+      "id": "M01-R01-Q01",
+      "fact_id": "1-1",
+      "section_number": 1,
+      "section": "MANCHETTE A - ÉQUIPE A",
+      "number": 1,
+      "question": "Au 6 octobre 2026, qui est le président de la République du Ghana ?",
+      "answer": "John Dramani Mahama",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R01-Q02",
+      "fact_id": "1-2",
+      "section_number": 1,
+      "section": "MANCHETTE A - ÉQUIPE A",
+      "number": 2,
+      "question": "Au 6 octobre 2026, quelle est la capitale de la Namibie ?",
+      "answer": "Windhoek",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R02-Q01",
+      "fact_id": "2-1",
+      "section_number": 2,
+      "section": "MANCHETTE B - ÉQUIPE B",
+      "number": 1,
+      "question": "Au 6 octobre 2026, qui est la présidente du Mexique ?",
+      "answer": "Claudia Sheinbaum Pardo",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R02-Q02",
+      "fact_id": "2-2",
+      "section_number": 2,
+      "section": "MANCHETTE B - ÉQUIPE B",
+      "number": 2,
+      "question": "Au 6 octobre 2026, quelle monnaie a cours légal au Nigeria ?",
+      "answer": "Naira",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.cbn.gov.ng/Currency/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R03-Q01",
+      "fact_id": "3-1",
+      "section_number": 3,
+      "section": "SPORTS ET JEUX",
+      "number": 1,
+      "question": "Au 6 octobre 2026, quel sprinteur jamaïcain détient les records du monde masculins du 100 m et du 200 m ?",
+      "answer": "Usain Bolt",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://worldathletics.org/athletes/jamaica/usain-bolt-14201847"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R03-Q02",
+      "fact_id": "3-2",
+      "section_number": 3,
+      "section": "SPORTS ET JEUX",
+      "number": 2,
+      "question": "Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?",
+      "answer": "Roland-Garros",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R03-Q03",
+      "fact_id": "3-3",
+      "section_number": 3,
+      "section": "SPORTS ET JEUX",
+      "number": 3,
+      "question": "Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?",
+      "answer": "Afrique du Sud",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R03-Q04",
+      "fact_id": "3-4",
+      "section_number": 3,
+      "section": "SPORTS ET JEUX",
+      "number": 4,
+      "question": "Combien de joueurs une équipe de basketball aligne-t-elle simultanément sur le terrain ?",
+      "answer": "5",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R03-Q05",
+      "fact_id": "3-5",
+      "section_number": 3,
+      "section": "SPORTS ET JEUX",
+      "number": 5,
+      "question": "Combien de points rapporte un tir réussi derrière la ligne des trois points au basketball ?",
+      "answer": "3",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R04-Q01",
+      "fact_id": "4-1",
+      "section_number": 4,
+      "section": "CINÉMA ET MUSIQUE",
+      "number": 1,
+      "question": "Quel réalisateur a signé les films Inception et Oppenheimer ?",
+      "answer": "Christopher Nolan",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R04-Q02",
+      "fact_id": "4-2",
+      "section_number": 4,
+      "section": "CINÉMA ET MUSIQUE",
+      "number": 2,
+      "question": "Quelle chanteuse britannique interprète Rolling in the Deep ?",
+      "answer": "Adele",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R04-Q03",
+      "fact_id": "4-3",
+      "section_number": 4,
+      "section": "CINÉMA ET MUSIQUE",
+      "number": 3,
+      "question": "Combien de cordes possède normalement une guitare classique ?",
+      "answer": "6",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R04-Q04",
+      "fact_id": "4-4",
+      "section_number": 4,
+      "section": "CINÉMA ET MUSIQUE",
+      "number": 4,
+      "question": "Quel réalisateur sud-coréen a réalisé Parasite ?",
+      "answer": "Bong Joon-ho",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R04-Q05",
+      "fact_id": "4-5",
+      "section_number": 4,
+      "section": "CINÉMA ET MUSIQUE",
+      "number": 5,
+      "question": "Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?",
+      "answer": "Piano",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R05-Q01",
+      "fact_id": "5-1",
+      "section_number": 5,
+      "section": "LANGAGE A",
+      "number": 1,
+      "question": "Quel nom obtient-on à partir du verbe « décider » ?",
+      "answer": "Décision",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R05-Q02",
+      "fact_id": "5-2",
+      "section_number": 5,
+      "section": "LANGAGE A",
+      "number": 2,
+      "question": "Quel verbe de la même famille que « début » signifie commencer ?",
+      "answer": "Débuter",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R05-Q03",
+      "fact_id": "5-3",
+      "section_number": 5,
+      "section": "LANGAGE A",
+      "number": 3,
+      "question": "Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?",
+      "answer": "Homophones",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R05-Q04",
+      "fact_id": "5-4",
+      "section_number": 5,
+      "section": "LANGAGE A",
+      "number": 4,
+      "question": "Quel est le nom formé à partir de l'adjectif « prudent » ?",
+      "answer": "Prudence",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R06-Q01",
+      "fact_id": "6-1",
+      "section_number": 6,
+      "section": "CANTONADE 1",
+      "number": 1,
+      "question": "Quel dirigeant sud-africain, ancien prisonnier de l'apartheid, devint président de son pays en 1994 ?",
+      "answer": "Nelson Mandela",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nelsonmandela.org/biography"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R06-Q02",
+      "fact_id": "6-2",
+      "section_number": 6,
+      "section": "CANTONADE 1",
+      "number": 2,
+      "question": "Sur quelle île fut-il emprisonné pendant de longues années ?",
+      "answer": "Robben Island",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R06-Q03",
+      "fact_id": "6-3",
+      "section_number": 6,
+      "section": "CANTONADE 1",
+      "number": 3,
+      "question": "Quel parti politique opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?",
+      "answer": "ANC",
+      "accepted_variants": [
+        "Congrès national africain",
+        "African National Congress",
+        "ANC"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nelsonmandela.org/biography",
+        "https://sahistory.org.za/article/nelson-mandela-presidency-1994-1999"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R06-Q04",
+      "fact_id": "6-4",
+      "section_number": 6,
+      "section": "CANTONADE 1",
+      "number": 4,
+      "question": "Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?",
+      "answer": "Frederik Willem de Klerk",
+      "accepted_variants": [
+        "F. W. de Klerk",
+        "Frederik Willem de Klerk"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nobelprize.org/prizes/peace/1993/summary/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R06-Q05",
+      "fact_id": "6-5",
+      "section_number": 6,
+      "section": "CANTONADE 1",
+      "number": 5,
+      "question": "Dans quelle ville eut lieu son investiture présidentielle du 10 mai 1994 ?",
+      "answer": "Pretoria",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R07-Q01",
+      "fact_id": "7-1",
+      "section_number": 7,
+      "section": "LANGAGE B",
+      "number": 1,
+      "question": "Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?",
+      "answer": "Adverbe",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R07-Q02",
+      "fact_id": "7-2",
+      "section_number": 7,
+      "section": "LANGAGE B",
+      "number": 2,
+      "question": "Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?",
+      "answer": "COD",
+      "accepted_variants": [
+        "Complément d'objet direct",
+        "COD"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R07-Q03",
+      "fact_id": "7-3",
+      "section_number": 7,
+      "section": "LANGAGE B",
+      "number": 3,
+      "question": "Quel temps verbal est employé dans « nous partirons demain » ?",
+      "answer": "Futur simple",
+      "accepted_variants": [
+        "Futur simple de l'indicatif"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R07-Q04",
+      "fact_id": "7-4",
+      "section_number": 7,
+      "section": "LANGAGE B",
+      "number": 4,
+      "question": "Comment appelle-t-on un mot qui remplace un nom ?",
+      "answer": "Pronom",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R08-Q01",
+      "fact_id": "8-1",
+      "section_number": 8,
+      "section": "SCIENCE ET TECHNIQUE",
+      "number": 1,
+      "question": "Quel scientifique écossais découvrit la pénicilline en 1928 ?",
+      "answer": "Alexander Fleming",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R08-Q02",
+      "fact_id": "8-2",
+      "section_number": 8,
+      "section": "SCIENCE ET TECHNIQUE",
+      "number": 2,
+      "question": "Quelle unité du SI mesure la résistance électrique ?",
+      "answer": "Ohm",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R08-Q03",
+      "fact_id": "8-3",
+      "section_number": 8,
+      "section": "SCIENCE ET TECHNIQUE",
+      "number": 3,
+      "question": "Quelle scientifique fut la première femme à recevoir un prix Nobel ?",
+      "answer": "Marie Curie",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nobelprize.org/stories/women-who-changed-science/marie-curie"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R08-Q04",
+      "fact_id": "8-4",
+      "section_number": 8,
+      "section": "SCIENCE ET TECHNIQUE",
+      "number": 4,
+      "question": "Quel processus permet aux plantes vertes de produire de la matière organique grâce à la lumière ?",
+      "answer": "Photosynthèse",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R08-Q05",
+      "fact_id": "8-5",
+      "section_number": 8,
+      "section": "SCIENCE ET TECHNIQUE",
+      "number": 5,
+      "question": "Quel physicien formula la théorie de la relativité générale ?",
+      "answer": "Albert Einstein",
+      "accepted_variants": [
+        "Albert Einstein",
+        "Einstein"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R09-Q01",
+      "fact_id": "9-1",
+      "section_number": 9,
+      "section": "QUI, QUE, OÙ SUIS-JE ?",
+      "number": 1,
+      "question": "Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symphonie.",
+      "answer": "Ludwig van Beethoven",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R09-Q02",
+      "fact_id": "9-2",
+      "section_number": 9,
+      "section": "QUI, QUE, OÙ SUIS-JE ?",
+      "number": 2,
+      "question": "Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.",
+      "answer": "Everest",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R09-Q03",
+      "fact_id": "9-3",
+      "section_number": 9,
+      "section": "QUI, QUE, OÙ SUIS-JE ?",
+      "number": 3,
+      "question": "Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.",
+      "answer": "Nil",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R09-Q04",
+      "fact_id": "9-4",
+      "section_number": 9,
+      "section": "QUI, QUE, OÙ SUIS-JE ?",
+      "number": 4,
+      "question": "Qui suis-je ? Peintre espagnol, je suis l'auteur de Guernica.",
+      "answer": "Pablo Picasso",
+      "accepted_variants": [
+        "Pablo Picasso",
+        "Picasso"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R09-Q05",
+      "fact_id": "9-5",
+      "section_number": 9,
+      "section": "QUI, QUE, OÙ SUIS-JE ?",
+      "number": 5,
+      "question": "Où suis-je ? Capitale italienne, j'abrite le Colisée.",
+      "answer": "Rome",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R10-Q01",
+      "fact_id": "10-1",
+      "section_number": 10,
+      "section": "DIVERS",
+      "number": 1,
+      "question": "Quelle est la capitale de l'Éthiopie ?",
+      "answer": "Addis-Abeba",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R10-Q02",
+      "fact_id": "10-2",
+      "section_number": 10,
+      "section": "DIVERS",
+      "number": 2,
+      "question": "Quelle est la capitale du Sénégal ?",
+      "answer": "Dakar",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R10-Q03",
+      "fact_id": "10-3",
+      "section_number": 10,
+      "section": "DIVERS",
+      "number": 3,
+      "question": "Quelle est la capitale du Rwanda ?",
+      "answer": "Kigali",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R10-Q04",
+      "fact_id": "10-4",
+      "section_number": 10,
+      "section": "DIVERS",
+      "number": 4,
+      "question": "Quelle est la capitale du Mozambique ?",
+      "answer": "Maputo",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R10-Q05",
+      "fact_id": "10-5",
+      "section_number": 10,
+      "section": "DIVERS",
+      "number": 5,
+      "question": "Quelle est la capitale du Botswana ?",
+      "answer": "Gaborone",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q01",
+      "fact_id": "11-1",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 1,
+      "question": "Quel instrument sert à mesurer la température ?",
+      "answer": "Thermomètre",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q02",
+      "fact_id": "11-2",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 2,
+      "question": "Quel auteur anglais a écrit Hamlet ?",
+      "answer": "William Shakespeare",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q03",
+      "fact_id": "11-3",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 3,
+      "question": "Quelle est la capitale du Japon ?",
+      "answer": "Tokyo",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q04",
+      "fact_id": "11-4",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 4,
+      "question": "Quelle est la plus grande planète du Système solaire ?",
+      "answer": "Jupiter",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q05",
+      "fact_id": "11-5",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 5,
+      "question": "Quel est l'état physique de l'eau à -10 °C sous pression atmosphérique normale ?",
+      "answer": "Solide",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q06",
+      "fact_id": "11-6",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 6,
+      "question": "Quel est le symbole chimique du fer ?",
+      "answer": "Fe",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q07",
+      "fact_id": "11-7",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 7,
+      "question": "Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?",
+      "answer": "7",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": "Question tautologique reformulée; le modèle est identifié sans annoncer 7"
+    },
+    {
+      "id": "M01-R11-Q08",
+      "fact_id": "11-8",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 8,
+      "question": "Quel compositeur autrichien a écrit La Flûte enchantée ?",
+      "answer": "Wolfgang Amadeus Mozart",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q09",
+      "fact_id": "11-9",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 9,
+      "question": "Combien de planètes compte le Système solaire ?",
+      "answer": "8",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R11-Q10",
+      "fact_id": "11-10",
+      "section_number": 11,
+      "section": "ÉCLAIR 1",
+      "number": 10,
+      "question": "Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?",
+      "answer": "Dioxygène",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R12-Q01",
+      "fact_id": "12-1",
+      "section_number": 12,
+      "section": "CULTURE RÉGIONALE - RDC",
+      "number": 1,
+      "question": "Quelle ville est la capitale de la République démocratique du Congo ?",
+      "answer": "Kinshasa",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R12-Q02",
+      "fact_id": "12-2",
+      "section_number": 12,
+      "section": "CULTURE RÉGIONALE - RDC",
+      "number": 2,
+      "question": "Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hui appelé République démocratique du Congo ?",
+      "answer": "Patrice Émery Lumumba",
+      "accepted_variants": [
+        "Patrice Lumumba",
+        "Patrice Émery Lumumba"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born"
+      ],
+      "notes": "Formulation rend explicite l'anachronisme de la dénomination de l'État"
+    },
+    {
+      "id": "M01-R12-Q03",
+      "fact_id": "12-3",
+      "section_number": 12,
+      "section": "CULTURE RÉGIONALE - RDC",
+      "number": 3,
+      "question": "Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?",
+      "answer": "Parc national des Virunga",
+      "accepted_variants": [
+        "Virunga",
+        "Parc national des Virunga"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://whc.unesco.org/fr/list/63"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R12-Q04",
+      "fact_id": "12-4",
+      "section_number": 12,
+      "section": "CULTURE RÉGIONALE - RDC",
+      "number": 4,
+      "question": "Quel fleuve sépare notamment Kinshasa de Brazzaville ?",
+      "answer": "Fleuve Congo",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R12-Q05",
+      "fact_id": "12-5",
+      "section_number": 12,
+      "section": "CULTURE RÉGIONALE - RDC",
+      "number": 5,
+      "question": "Quel complexe hydroélectrique majeur est établi sur le fleuve Congo dans le Kongo Central ?",
+      "answer": "Inga",
+      "accepted_variants": [
+        "Complexe d'Inga",
+        "Inga"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R13-Q01",
+      "fact_id": "13-1",
+      "section_number": 13,
+      "section": "LITTÉRATURE ET ART",
+      "number": 1,
+      "question": "Quel écrivain nigérian est l'auteur de Things Fall Apart ?",
+      "answer": "Chinua Achebe",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R13-Q02",
+      "fact_id": "13-2",
+      "section_number": 13,
+      "section": "LITTÉRATURE ET ART",
+      "number": 2,
+      "question": "Quel sculpteur français a créé Le Penseur ?",
+      "answer": "Auguste Rodin",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R13-Q03",
+      "fact_id": "13-3",
+      "section_number": 13,
+      "section": "LITTÉRATURE ET ART",
+      "number": 3,
+      "question": "Quel est le véritable nom de Molière ?",
+      "answer": "Jean-Baptiste Poquelin",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R13-Q04",
+      "fact_id": "13-4",
+      "section_number": 13,
+      "section": "LITTÉRATURE ET ART",
+      "number": 4,
+      "question": "Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?",
+      "answer": "Fresque",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R13-Q05",
+      "fact_id": "13-5",
+      "section_number": 13,
+      "section": "LITTÉRATURE ET ART",
+      "number": 5,
+      "question": "Quel écrivain français est l'auteur du roman L'Étranger ?",
+      "answer": "Albert Camus",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R14-Q01",
+      "fact_id": "14-1",
+      "section_number": 14,
+      "section": "MONDE CONTEMPORAIN",
+      "number": 1,
+      "question": "Quel événement du 14 juillet 1789 constitue un épisode central de la Révolution française ?",
+      "answer": "Prise de la Bastille",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R14-Q02",
+      "fact_id": "14-2",
+      "section_number": 14,
+      "section": "MONDE CONTEMPORAIN",
+      "number": 2,
+      "question": "Quel traité signé le 28 juin 1919 régla notamment la paix entre l'Allemagne et les puissances alliées après la Première Guerre mondiale ?",
+      "answer": "Traité de Versailles",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://history.state.gov/historicaldocuments/frus1919Parisv11/d272"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R14-Q03",
+      "fact_id": "14-3",
+      "section_number": 14,
+      "section": "MONDE CONTEMPORAIN",
+      "number": 3,
+      "question": "En quelle année l'Organisation des Nations Unies est-elle officiellement entrée en existence ?",
+      "answer": "1945",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.un.org/fr/about-us/history-of-the-un"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R14-Q04",
+      "fact_id": "14-4",
+      "section_number": 14,
+      "section": "MONDE CONTEMPORAIN",
+      "number": 4,
+      "question": "Quel chancelier fédéral allemand était en fonction lors de la réunification de l'Allemagne le 3 octobre 1990 ?",
+      "answer": "Helmut Kohl",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R14-Q05",
+      "fact_id": "14-5",
+      "section_number": 14,
+      "section": "MONDE CONTEMPORAIN",
+      "number": 5,
+      "question": "Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?",
+      "answer": "Mikhaïl Gorbatchev",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R15-Q01",
+      "fact_id": "15-1",
+      "section_number": 15,
+      "section": "RELAIS A",
+      "number": 1,
+      "question": "Quel savant anglais formula les lois classiques du mouvement et de la gravitation universelle ?",
+      "answer": "Isaac Newton",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R15-Q02",
+      "fact_id": "15-2",
+      "section_number": 15,
+      "section": "RELAIS A",
+      "number": 2,
+      "question": "Quel naturaliste anglais publia De l'origine des espèces ?",
+      "answer": "Charles Darwin",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R15-Q03",
+      "fact_id": "15-3",
+      "section_number": 15,
+      "section": "RELAIS A",
+      "number": 3,
+      "question": "Quel savant italien défendit l'observation télescopique du ciel au début du XVIIe siècle ?",
+      "answer": "Galilée",
+      "accepted_variants": [
+        "Galileo Galilei",
+        "Galilée"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R15-Q04",
+      "fact_id": "15-4",
+      "section_number": 15,
+      "section": "RELAIS A",
+      "number": 4,
+      "question": "Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?",
+      "answer": "Ada Lovelace",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R16-Q01",
+      "fact_id": "16-1",
+      "section_number": 16,
+      "section": "CANTONADE 2",
+      "number": 1,
+      "question": "Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?",
+      "answer": "Léopold Sédar Senghor",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R16-Q02",
+      "fact_id": "16-2",
+      "section_number": 16,
+      "section": "CANTONADE 2",
+      "number": 2,
+      "question": "Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?",
+      "answer": "Négritude",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R16-Q03",
+      "fact_id": "16-3",
+      "section_number": 16,
+      "section": "CANTONADE 2",
+      "number": 3,
+      "question": "Quel pays a-t-il dirigé de 1960 à 1980 ?",
+      "answer": "Sénégal",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R16-Q04",
+      "fact_id": "16-4",
+      "section_number": 16,
+      "section": "CANTONADE 2",
+      "number": 4,
+      "question": "Dans quelle institution française fut-il élu en 1983 ?",
+      "answer": "Académie française",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R16-Q05",
+      "fact_id": "16-5",
+      "section_number": 16,
+      "section": "CANTONADE 2",
+      "number": 5,
+      "question": "Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?",
+      "answer": "Aimé Césaire",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R17-Q01",
+      "fact_id": "17-1",
+      "section_number": 17,
+      "section": "RELAIS B",
+      "number": 1,
+      "question": "Quel pays africain a Le Caire pour capitale ?",
+      "answer": "Égypte",
+      "accepted_variants": [
+        "Égypte",
+        "République arabe d'Égypte"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R17-Q02",
+      "fact_id": "17-2",
+      "section_number": 17,
+      "section": "RELAIS B",
+      "number": 2,
+      "question": "Dans quel pays se trouve le Kilimandjaro ?",
+      "answer": "Tanzanie",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R17-Q03",
+      "fact_id": "17-3",
+      "section_number": 17,
+      "section": "RELAIS B",
+      "number": 3,
+      "question": "Quel pays africain a Luanda pour capitale ?",
+      "answer": "Angola",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R17-Q04",
+      "fact_id": "17-4",
+      "section_number": 17,
+      "section": "RELAIS B",
+      "number": 4,
+      "question": "Quel pays du Maghreb a Rabat pour capitale ?",
+      "answer": "Maroc",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R18-Q01",
+      "fact_id": "18-1",
+      "section_number": 18,
+      "section": "MYTHOLOGIE ET RELIGION",
+      "number": 1,
+      "question": "Dans la mythologie grecque, quel dieu règne sur l'Olympe ?",
+      "answer": "Zeus",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R18-Q02",
+      "fact_id": "18-2",
+      "section_number": 18,
+      "section": "MYTHOLOGIE ET RELIGION",
+      "number": 2,
+      "question": "Comment appelle-t-on l'abstention de nourriture pratiquée pendant une période religieuse ?",
+      "answer": "Jeûne",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R18-Q03",
+      "fact_id": "18-3",
+      "section_number": 18,
+      "section": "MYTHOLOGIE ET RELIGION",
+      "number": 3,
+      "question": "Quelle ville d'Arabie saoudite abrite la Kaaba ?",
+      "answer": "La Mecque",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R18-Q04",
+      "fact_id": "18-4",
+      "section_number": 18,
+      "section": "MYTHOLOGIE ET RELIGION",
+      "number": 4,
+      "question": "Comment appelle-t-on la croyance en un seul Dieu ?",
+      "answer": "Monothéisme",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R18-Q05",
+      "fact_id": "18-5",
+      "section_number": 18,
+      "section": "MYTHOLOGIE ET RELIGION",
+      "number": 5,
+      "question": "Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?",
+      "answer": "Moïse",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R19-Q01",
+      "fact_id": "19-1",
+      "section_number": 19,
+      "section": "IDENTIFICATION",
+      "number": 1,
+      "question": "Identification progressive — Qui suis-je ?\n\n**40 points —** En 1981, je deviens secrétaire d'État à l'Information en Haute-Volta, avant de démissionner pour marquer mon désaccord avec le régime.\n\n**30 points —** Après avoir été Premier ministre au début de 1983, j'accède à la tête de l'État en août de la même année.\n\n**20 points —** En 1984, sous ma présidence, mon pays abandonne le nom de Haute-Volta pour celui de Burkina Faso.\n\n**10 points —** Né à Yako en 1949, je suis assassiné le 15 octobre 1987.",
+      "answer": "Thomas Sankara",
+      "accepted_variants": [
+        "Thomas Sankara",
+        "Sankara"
+      ],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.presidencedufaso.bf/thomas-sankara/"
+      ],
+      "notes": "Quatre indices vérifiés contre la biographie officielle de la présidence du Faso; difficulté orale à tester"
+    },
+    {
+      "id": "M01-R20-Q01",
+      "fact_id": "20-1",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 1,
+      "question": "Quelle est la capitale du Canada ?",
+      "answer": "Ottawa",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q02",
+      "fact_id": "20-2",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 2,
+      "question": "Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut sommet du pays ?",
+      "answer": "Mont Fuji",
+      "accepted_variants": [
+        "Fujisan",
+        "Mont Fuji",
+        "Fuji-san"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q03",
+      "fact_id": "20-3",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 3,
+      "question": "Quel écrivain espagnol a créé Don Quichotte ?",
+      "answer": "Miguel de Cervantes",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q04",
+      "fact_id": "20-4",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 4,
+      "question": "Quelle unité du SI mesure la fréquence ?",
+      "answer": "Hertz",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.bipm.org/fr/measurement-units/"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q05",
+      "fact_id": "20-5",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 5,
+      "question": "Quelle organisation internationale a son siège principal à New York et fut fondée en 1945 ?",
+      "answer": "ONU",
+      "accepted_variants": [
+        "ONU",
+        "Organisation des Nations unies",
+        "Nations unies"
+      ],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q06",
+      "fact_id": "20-6",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 6,
+      "question": "Dans quel pays se trouve le Machu Picchu ?",
+      "answer": "Pérou",
+      "accepted_variants": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://whc.unesco.org/en/list/274"
+      ],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q07",
+      "fact_id": "20-7",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 7,
+      "question": "Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?",
+      "answer": "Frédéric Chopin",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q08",
+      "fact_id": "20-8",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 8,
+      "question": "Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?",
+      "answer": "Buenos Aires",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q09",
+      "fact_id": "20-9",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 9,
+      "question": "Quel instrument mesure la pression atmosphérique ?",
+      "answer": "Baromètre",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    },
+    {
+      "id": "M01-R20-Q10",
+      "fact_id": "20-10",
+      "section_number": 20,
+      "section": "ÉCLAIR 2",
+      "number": 10,
+      "question": "Combien de côtés possède un octogone ?",
+      "answer": "8",
+      "accepted_variants": [],
+      "status": "A_VERIFIER_SOURCE",
+      "sources": [],
+      "notes": ""
+    }
+  ]
+}
