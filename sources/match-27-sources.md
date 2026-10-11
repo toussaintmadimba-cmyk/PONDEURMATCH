@@ -18,3 +18,9 @@
 
 ## Portée du contrôle
 Le Match 27 possède 96 Q/R et un registre réactualisé. Ces références concernent des ensembles ciblés de questions ; **la validation individuelle des 96 faits n'est pas terminée**.
+
+## Rectificatif QC — Hattousa et Edith Clarke
+- La question sur Hattusa ne contient plus le nom de la cité. Accepter **Hattusa**, **Hattousa** et **Hattusha** selon les graphies documentées.
+- UNESCO, ancienne capitale hittite Hattousa près de Boğazkale : https://whc.unesco.org/fr/list/377/
+- Le dernier indice d'Edith Clarke a été remplacé pour supprimer la divulgation de son patronyme et inclure son recrutement à l'université du Texas en 1947.
+- University of Texas, première femme professeure d'ingénierie électrique aux États-Unis : https://news.utexas.edu/2023/03/08/celebrating-womens-history-month/
