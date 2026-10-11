@@ -28,11 +28,11 @@
 
 **R.** Linford Christie
 
-**Q2.** Quelle athlète mexicaine remporta l'or au 400 m féminin à Athènes en 2004 ?
+**Q2.** Quel sauteur suédois remporta le saut en hauteur masculin aux Jeux olympiques d'Athènes en 2004 ?
 
-**R.** Tonique Williams-Darling
+**R.** Stefan Holm
 
-**Q3.** Quel nageur sud-africain remporta le 100 m papillon masculin à Athènes en 2004 devant Michael Phelps ?
+**Q3.** Quel nageur sud-africain remporta le 200 m papillon masculin à Londres en 2012 devant Michael Phelps ?
 
 **R.** Chad le Clos
 
@@ -156,9 +156,9 @@
 
 **R.** Saint-Louis du Sénégal
 
-**Q2.** Où suis-je ? Ville haute perchée du Yémen, je suis réputée pour mes maisons en terre à plusieurs étages et mes paysages de montagne.
+**Q2.** Où suis-je ? Village fortifié du Yémen, je suis réputé pour mes maisons de pierre bâties sur le flanc escarpé des montagnes.
 
-**R.** Shibam
+**R.** Al Hajjarah
 
 **Q3.** Que suis-je ? Archipel du Pacifique situé à l'est de l'Australie, je suis célèbre pour mes lagons et ma culture kanak.
 
@@ -276,9 +276,9 @@
 
 **R.** Driss Chraïbi
 
-**Q4.** Quelle romancière nigériane publia Half of a Yellow Sun en 2006 ?
+**Q4.** Quelle romancière nigériane publia On Black Sisters' Street en 2009 ?
 
-**R.** Chimamanda Ngozi Adichie
+**R.** Chika Unigwe
 
 **Q5.** Comment appelle-t-on un récit à la première personne où l'auteur, le narrateur et le personnage principal portent la même identité ?
 
@@ -294,9 +294,9 @@
 
 **R.** Révolte des Cipayes
 
-**Q3.** Quel traité de 1920 attribua le Schleswig du Nord au Danemark à la suite de plébiscites ?
+**Q3.** Quel pacte de 1919 institua une organisation internationale destinée au maintien de la paix après la Grande Guerre ?
 
-**R.** Traité de Versailles
+**R.** Pacte de la Société des Nations
 
 **Q4.** En quelle année la révolution des Œillets mit-elle fin à la dictature portugaise ?
 
@@ -364,9 +364,9 @@
 
 **R.** Marib
 
-**Q4.** Quelle ville du Mali fondée au XIVe siècle devint un centre commercial et savant du Niger ?
+**Q4.** Quelle ville du Mali, fondée vers le XIe siècle, devint un centre commercial et savant des empires ouest-africains ?
 
-**R.** Djenné
+**R.** Tombouctou
 
 ## 18. MYTHOLOGIE ET RELIGION
 
@@ -410,9 +410,9 @@
 
 **R.** Frida Kahlo
 
-**Q2.** Quel philosophe autrichien écrivit Recherches philosophiques, ouvrage publié après sa mort ?
+**Q2.** Quel philosophe allemand publia Le Principe responsabilité en 1979 ?
 
-**R.** Ludwig Wittgenstein
+**R.** Hans Jonas
 
 **Q3.** Quel chanteur et guitariste américain développa l'album Songs in the Key of Life en 1976 ?
 
