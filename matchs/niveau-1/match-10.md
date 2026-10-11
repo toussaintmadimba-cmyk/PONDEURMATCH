@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel dirigeant anticolonial fonda le PAIGC et mena la lutte pour l'indépendance de la Guinée-Bissau et du Cap-Vert ?
+**Q1.** Quel agronome et dirigeant anticolonial africain né en 1924 organisa une lutte de libération contre le Portugal ?
 **R.** Amílcar Cabral
 
 **Q2.** Quel parti fonda-t-il en 1956 ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle cosmonaute soviétique devint en 1963 la première femme dans l'espace ?
+**Q1.** Quelle ancienne ouvrière du textile devint la première femme de l'histoire à accomplir un vol orbital dans l'espace ?
 **R.** Valentina Terechkova
 
 **Q2.** Quel vaisseau spatial utilisa-t-elle ?
