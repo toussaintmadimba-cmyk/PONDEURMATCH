@@ -328,7 +328,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel journaliste et écrivain algérien fut assassiné en 1993 après avoir dénoncé l'intimidation des intellectuels ?
+**Q1.** Quel écrivain et journaliste francophone, auteur du roman Les Vigiles, fut assassiné après avoir dénoncé les menaces contre les intellectuels ?
 
 **R.** Tahar Djaout
 
