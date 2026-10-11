@@ -88,7 +88,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle résistante allemande, étudiante à Munich, participa à la distribution de tracts antinazis et fut exécutée à 21 ans ?
+**Q1.** Quelle étudiante allemande de 21 ans distribua avec son frère des tracts antinazis avant d'être exécutée par le régime hitlérien ?
 
 **R.** Sophie Scholl
 
