@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 26,
-    "A_VERIFIER_SOURCE": 70
+    "DOCUMENTE_SOURCE_DIRECTE": 27,
+    "A_VERIFIER_SOURCE": 69
   },
   "questions": [
     {
@@ -835,8 +835,10 @@
       "question": "Quel sculpteur français a créé Le Penseur ?",
       "answer": "Auguste Rodin",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur"
+      ],
       "notes": ""
     },
     {
