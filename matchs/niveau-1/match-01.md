@@ -146,8 +146,8 @@
 **Q1.** Quelle est la capitale de l'Éthiopie ?
 **R.** Addis-Abeba
 
-**Q2.** Quelle est la capitale de la Gambie ?
-**R.** Banjul
+**Q2.** Quelle est la capitale de l'Union des Comores ?
+**R.** Moroni
 
 **Q3.** Quelle est la capitale du Rwanda ?
 **R.** Kigali
