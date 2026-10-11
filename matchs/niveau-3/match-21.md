@@ -22,7 +22,7 @@
 
 **R.** Castries
 
-**Q2.** Au 11 octobre 2026, sur quel atoll se trouve Tarawa-Sud, siège du gouvernement de Kiribati ?
+**Q2.** Au 11 octobre 2026, sur quel atoll des îles Gilbert se trouvent les localités de Betio et de Bairiki, à Kiribati ?
 
 **R.** Tarawa
 
