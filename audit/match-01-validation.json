@@ -49,7 +49,9 @@
       "number": 1,
       "question": "Au 6 octobre 2026, qui est la présidente du Mexique ?",
       "answer": "Claudia Sheinbaum Pardo",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Claudia Sheinbaum"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026"
