@@ -6,9 +6,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale du royaume polynésien des Tonga ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale des îles Féroé, territoire autonome du Royaume du Danemark ?
 
-**R.** Nuku'alofa
+**R.** Tórshavn
 
 **Q2.** Au 11 octobre 2026, quelle monnaie nationale est utilisée au Népal, pays de l'Himalaya ?
 
@@ -20,9 +20,9 @@
 
 **R.** Apia
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale de la République de Vanuatu, dans le Pacifique Sud ?
+**Q2.** Au 11 octobre 2026, quelle ville est le chef-lieu de Guernesey, dépendance de la Couronne britannique ?
 
-**R.** Port-Vila
+**R.** Saint-Pierre-Port
 
 ## 3. SPORTS ET JEUX
 
