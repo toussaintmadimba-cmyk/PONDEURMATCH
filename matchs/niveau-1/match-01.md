@@ -36,7 +36,7 @@
 **Q4.** Selon le règlement FIBA du basketball traditionnel, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
 **R.** 5
 
-**Q5.** Au basketball, combien de points rapporte un tir réussi au-delà de l'arc extérieur de tir ?
+**Q5.** Selon le règlement FIBA du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?
 **R.** 3
 
 ## 4. CINÉMA ET MUSIQUE
