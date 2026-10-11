@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 78,
-    "A_VERIFIER_SOURCE": 18
+    "DOCUMENTE_SOURCE_DIRECTE": 82,
+    "A_VERIFIER_SOURCE": 14
   },
   "questions": [
     {
@@ -163,8 +163,11 @@
       "question": "Quel réalisateur a signé les films Inception et Oppenheimer ?",
       "answer": "Christopher Nolan",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.universalpictures.com/about/",
+        "https://www.universalpictures.fr/micro/oppenheimer"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -177,8 +180,10 @@
       "question": "Quelle chanteuse britannique interprète Rolling in the Deep ?",
       "answer": "Adele",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.grammy.com/artists/adele/528/"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -191,8 +196,10 @@
       "question": "Combien de cordes possède normalement une guitare classique ?",
       "answer": "6",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -221,8 +228,10 @@
       "question": "Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?",
       "answer": "Piano",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://ca.yamaha.com/fr/musical-instruments/pianos/explore/musical-instrument-guide/piano/trivia/trivia007.html"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
