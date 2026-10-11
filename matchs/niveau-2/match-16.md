@@ -22,9 +22,9 @@
 
 **R.** Téhéran
 
-**Q2.** Au 11 octobre 2026, quelle est la capitale de l'Érythrée ?
+**Q2.** Au 11 octobre 2026, quelle est la capitale de la Syrie ?
 
-**R.** Asmara
+**R.** Damas
 
 ## 3. SPORTS ET JEUX
 
@@ -104,9 +104,9 @@
 
 **R.** Franz Boas
 
-**Q4.** Quel titre anglais porte son roman de 1937 consacré à Janie Crawford ?
+**Q4.** Quel titre anglais porte son recueil de folklore afro-américain publié en 1935 ?
 
-**R.** Their Eyes Were Watching God
+**R.** Mules and Men
 
 **Q5.** En quelle année mourut-elle ?
 
@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle poétesse chilienne reçut le prix Nobel de littérature en 1945 ?
+**Q1.** Quelle poétesse de langue espagnole fut la première personnalité latino-américaine à recevoir le prix Nobel de littérature ?
 
 **R.** Gabriela Mistral
 
