@@ -11,7 +11,7 @@
 **Q1.** Au 6 octobre 2026, quelle est la capitale de la Zambie ?
 **R.** Lusaka
 
-**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal au Botswana ?
+**Q2.** Quelle monnaie nationale le Botswana a-t-il mise en circulation en 1976 ?
 **R.** Pula
 
 ## 2. MANCHETTE B - ÉQUIPE B
@@ -33,7 +33,7 @@
 **Q3.** Quelle ville a accueilli les Jeux olympiques d'été de 2016 ?
 **R.** Rio de Janeiro
 
-**Q4.** Combien de minutes dure une mi-temps réglementaire au rugby à XV ?
+**Q4.** Au 11 octobre 2026, combien de minutes comporte une période normale de rugby à XV, hors temps perdu ?
 **R.** 40
 
 **Q5.** Quel sport se joue avec un volant ?
@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante pour l'environnement créa un mouvement de plantation d'arbres et devint une figure mondiale de l'écologie politique ?
+**Q1.** Quelle militante de l’environnement, première femme africaine à recevoir le Nobel de la paix, créa un mouvement de plantation d’arbres ?
 **R.** Wangari Maathai
 
 **Q2.** Dans quel pays est-elle née ?
@@ -86,7 +86,7 @@
 **Q4.** En quelle année reçut-elle le prix Nobel de la paix ?
 **R.** 2004
 
-**Q5.** Dans quelle capitale se trouve l'Université de Nairobi, où Wangari Maathai a enseigné ?
+**Q5.** Dans quelle capitale kényane enseigna-t-elle l’anatomie vétérinaire à l’université ?
 **R.** Nairobi
 
 ## 7. LANGAGE B
@@ -147,7 +147,7 @@
 **R.** Pétra
 
 **Q2.** Quel vaste complexe de temples se trouve près de Siem Reap au Cambodge ?
-**R.** Angkor Wat
+**R.** Angkor
 
 **Q3.** Quel ensemble monumental domine la ville d'Athènes ?
 **R.** Acropole d'Athènes
@@ -178,8 +178,8 @@
 **Q6.** Quel métal a pour symbole chimique Cu ?
 **R.** Cuivre
 
-**Q7.** Combien de degrés mesure un angle droit ?
-**R.** 90°
+**Q7.** Quel nom donne-t-on au segment qui relie le centre d’un cercle à un point de sa circonférence ?
+**R.** Rayon
 
 **Q8.** Quel pays est traversé par le canal de Suez ?
 **R.** Égypte
@@ -311,7 +311,7 @@
 
 ## 19. IDENTIFICATION
 
-**Q1.** 40 points : Je suis né en 1923 à Thieytou. 30 points : Historien, anthropologue et scientifique sénégalais, j'ai étudié l'histoire des civilisations africaines. 20 points : Un grand musée de Dakar porte aujourd'hui mon nom. 10 points : Mon ouvrage Nations nègres et culture paraît en 1954. Qui suis-je ?
+**Q1.** 40 points : Je suis né en 1923 à Caytou, au Sénégal. 30 points : Chercheur sénégalais, j’ai étudié l’histoire africaine et dirigé un laboratoire de datation au carbone 14. 20 points : Depuis 1987, l’université de Dakar porte mon nom. 10 points : Mon ouvrage Nations nègres et culture paraît en 1954. Qui suis-je ?
 **R.** Cheikh Anta Diop
 
 ## 20. ÉCLAIR 2
@@ -331,8 +331,8 @@
 **Q5.** Quel pays européen a la forme d'une botte sur les cartes ?
 **R.** Italie
 
-**Q6.** Quel est le résultat de 12 × 8 ?
-**R.** 96
+**Q6.** Quel terme désigne le résultat d’une multiplication ?
+**R.** Produit
 
 **Q7.** Quelle substance donne sa couleur verte aux feuilles ?
 **R.** Chlorophylle

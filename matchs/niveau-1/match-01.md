@@ -24,7 +24,7 @@
 
 ## 3. SPORTS ET JEUX
 
-**Q1.** Au 6 octobre 2026, quel sprinteur jamaïcain détient les records du monde masculins du 100 m et du 200 m ?
+**Q1.** Quel sprinteur a battu le record du monde du 100 m en 9,58 secondes aux Mondiaux de Berlin en 2009 ?
 **R.** Usain Bolt
 
 **Q2.** Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?
@@ -33,10 +33,10 @@
 **Q3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
 **R.** Afrique du Sud
 
-**Q4.** Selon le règlement FIBA du basketball traditionnel, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
+**Q4.** Selon les règles FIBA de 2024 du basketball traditionnel, combien de joueurs une équipe complète aligne-t-elle sur le terrain ?
 **R.** 5
 
-**Q5.** Selon le règlement FIBA du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?
+**Q5.** Selon les règles FIBA de 2024 du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?
 **R.** 3
 
 ## 4. CINÉMA ET MUSIQUE
@@ -50,7 +50,7 @@
 **Q3.** Combien de cordes possède normalement une guitare classique ?
 **R.** 6
 
-**Q4.** Quel réalisateur sud-coréen a réalisé Parasite ?
+**Q4.** Quel réalisateur sud-coréen a réalisé le film Parasite, sorti en 2019 ?
 **R.** Bong Joon-ho
 
 **Q5.** Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?
@@ -80,7 +80,7 @@
 **Q2.** Sur quelle île fut-il emprisonné pendant de longues années ?
 **R.** Robben Island
 
-**Q3.** Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
+**Q3.** À la présidence de quel parti politique sud-africain opposé à l'apartheid a-t-il été élu en 1991 ?
 **R.** ANC
 
 **Q4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
@@ -102,7 +102,7 @@
 **Q3.** Quel temps verbal est employé dans « nous partirons demain » ?
 **R.** Futur simple
 
-**Q4.** Comment appelle-t-on un mot qui remplace un nom ?
+**Q4.** Quelle classe grammaticale peut représenter un nom et en exercer les fonctions dans une phrase ?
 **R.** Pronom
 
 ## 8. SCIENCE ET TECHNIQUE
@@ -130,10 +130,10 @@
 **Q2.** Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.
 **R.** Everest
 
-**Q3.** Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.
+**Q3.** Que suis-je ? Fleuve africain, je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.
 **R.** Nil
 
-**Q4.** Qui suis-je ? Peintre espagnol, je suis l'auteur de Guernica.
+**Q4.** Qui suis-je ? Peintre né à Málaga en Espagne, je suis l'auteur de Guernica.
 **R.** Pablo Picasso
 
 **Q5.** Où suis-je ? Capitale italienne, j'abrite le Colisée.
@@ -146,8 +146,8 @@
 **Q1.** Quelle est la capitale de l'Éthiopie ?
 **R.** Addis-Abeba
 
-**Q2.** Quelle est la capitale de l'Union des Comores ?
-**R.** Moroni
+**Q2.** Quelle est la capitale officielle du Bénin ?
+**R.** Porto-Novo
 
 **Q3.** Quelle est la capitale du Rwanda ?
 **R.** Kigali
@@ -160,7 +160,7 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quel instrument sert à mesurer la température ?
+**Q1.** Quel instrument utilise-t-on pour mesurer la température corporelle et détecter une fièvre ?
 **R.** Thermomètre
 
 **Q2.** Quel auteur anglais a écrit Hamlet ?
@@ -172,8 +172,8 @@
 **Q4.** Quelle est la plus grande planète du Système solaire ?
 **R.** Jupiter
 
-**Q5.** À −10 °C et sous pression atmosphérique normale, dans quel état se trouve généralement l'eau pure à l'équilibre thermodynamique ?
-**R.** Solide
+**Q5.** Comment appelle-t-on l’eau à l’état solide ?
+**R.** Glace.
 
 **Q6.** Quel est le symbole chimique du fer ?
 **R.** Fe
@@ -181,7 +181,7 @@
 **Q7.** Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?
 **R.** 7
 
-**Q8.** Quel compositeur autrichien a écrit La Flûte enchantée ?
+**Q8.** Quel compositeur a écrit la musique de l’opéra La Flûte enchantée ?
 **R.** Wolfgang Amadeus Mozart
 
 **Q9.** Combien de planètes compte le Système solaire ?
@@ -206,15 +206,15 @@
 **Q4.** Quel fleuve sépare notamment Kinshasa de Brazzaville ?
 **R.** Fleuve Congo
 
-**Q5.** Quel complexe hydroélectrique majeur est établi sur le fleuve Congo dans le Kongo Central ?
-**R.** Inga
+**Q5.** Quel est le titre de l’hymne national de la RDC inscrit dans sa Constitution de 2006 ?
+**R.** Debout Congolais
 
 ## 13. LITTÉRATURE ET ART
 
 **Q1.** Quel écrivain nigérian est l'auteur de Things Fall Apart ?
 **R.** Chinua Achebe
 
-**Q2.** Quel sculpteur français a créé Le Penseur ?
+**Q2.** Quel sculpteur a créé Le Penseur ?
 **R.** Auguste Rodin
 
 **Q3.** Quel est le véritable nom de Molière ?
@@ -283,8 +283,8 @@
 **Q1.** Quel pays africain a Le Caire pour capitale ?
 **R.** Égypte
 
-**Q2.** Dans quel pays africain se trouve le parc national du Serengeti ?
-**R.** Tanzanie
+**Q2.** Dans quel pays africain se trouve le parc national d’Etosha ?
+**R.** Namibie
 
 **Q3.** Quel pays africain a Luanda pour capitale ?
 **R.** Angola
@@ -297,7 +297,7 @@
 **Q1.** Dans la mythologie grecque, quel dieu règne sur l'Olympe ?
 **R.** Zeus
 
-**Q2.** Comment appelle-t-on l'abstention de nourriture pratiquée pendant une période religieuse ?
+**Q2.** Comment appelle-t-on la privation temporaire de toute nourriture, notamment pour une pratique religieuse ?
 **R.** Jeûne
 
 **Q3.** Quelle ville d'Arabie saoudite abrite la Kaaba ?
@@ -336,13 +336,13 @@
 **Q4.** Quelle unité du SI mesure la fréquence ?
 **R.** Hertz
 
-**Q5.** Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?
+**Q5.** Quelle organisation internationale, fondée en 1945 pour lutter contre la faim, a transféré son siège à Rome en 1951 ?
 **R.** FAO
 
 **Q6.** Dans quel pays se trouve le Machu Picchu ?
 **R.** Pérou
 
-**Q7.** Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?
+**Q7.** Quel compositeur a écrit les Nocturnes pour piano de l’opus 9 ?
 **R.** Frédéric Chopin
 
 **Q8.** Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?
@@ -351,5 +351,5 @@
 **Q9.** Quel instrument mesure la pression atmosphérique ?
 **R.** Baromètre
 
-**Q10.** Combien de côtés possède un octogone ?
-**R.** 8
+**Q10.** Dans une fraction écrite verticalement, comment appelle-t-on le nombre sous la barre de fraction ?
+**R.** Dénominateur

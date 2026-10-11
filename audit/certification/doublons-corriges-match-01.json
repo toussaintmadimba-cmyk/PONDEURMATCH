@@ -1,0 +1,38 @@
+[
+  {
+    "first": "M01-R10-Q02",
+    "former_fact": "Moroni capitale des Comores",
+    "second": "M12-R01-Q01",
+    "decision": "DOUBLON_CORRIGE",
+    "replacement": "Porto-Novo, capitale officielle du Bénin",
+    "reason": "Même relation capitale–pays, conservée au match 12."
+  },
+  {
+    "first": "M01-R17-Q02",
+    "former_fact": "Serengeti situé en Tanzanie",
+    "second": "M08-R09-Q01",
+    "decision": "DOUBLON_CORRIGE",
+    "replacement": "Etosha situé en Namibie",
+    "reason": "Identification du Serengeti répétée; remplacement par un parc absent du corpus."
+  },
+  {
+    "first": "M01-R20-Q10",
+    "former_fact": "Octogone, huit côtés",
+    "second": [
+      "M03 exercices triangle/carré",
+      "M10 décagone",
+      "M17 heptagone"
+    ],
+    "decision": "DOUBLON_CORRIGE",
+    "replacement": "Dénominateur sous la barre de fraction",
+    "reason": "Même exercice sur le nombre de côtés d’un polygone avec donnée numérique modifiée."
+  },
+  {
+    "first": "M01-R12-Q05",
+    "former_fact": "Inga I mis en service en 1972 (et Inga II en 1982)",
+    "second": "M26-R12-Q01",
+    "decision": "DOUBLON_CORRIGE",
+    "replacement": "Titre constitutionnel de l’hymne national : Debout Congolais",
+    "reason": "Le remplacement intermédiaire reprenait la mise en service d’Inga I déjà testée dans le match 26."
+  }
+]
