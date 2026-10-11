@@ -122,9 +122,9 @@
 
 **R.** Dislocation
 
-**Q3.** Dans « qu'il soit parti », quel temps du subjonctif est employé ?
+**Q3.** Dans « Il fallait qu'il vînt », quel temps du subjonctif est employé pour « vînt » ?
 
-**R.** Subjonctif passé
+**R.** Imparfait du subjonctif
 
 **Q4.** Quel terme phonétique désigne la disparition progressive d'un son dans la prononciation d'un mot ?
 
@@ -384,9 +384,9 @@
 
 **R.** Nergal
 
-**Q4.** Quel dieu égyptien à tête de crocodile était notamment vénéré dans le Fayoum ?
+**Q4.** Quel dieu lunaire égyptien de la triade thébaine est présenté comme le fils d'Amon et de Mout ?
 
-**R.** Sobek
+**R.** Khonsou
 
 **Q5.** Quel terme d'histoire des religions désigne une manifestation du sacré dans le monde profane ?
 
