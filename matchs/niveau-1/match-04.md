@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel diplomate ghanéen fut secrétaire général de l'ONU de 1997 à 2006 et prix Nobel de la paix en 2001 ?
+**Q1.** Quel diplomate africain né en 1938, défenseur du multilatéralisme, fut distingué par le prix Nobel de la paix ?
 **R.** Kofi Annan
 
 **Q2.** Dans quel pays africain est-il né ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle aviatrice américaine disparut en 1937 lors d'une tentative de tour du monde en avion ?
+**Q1.** Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?
 **R.** Amelia Earhart
 
 **Q2.** Quel océan traversa-t-elle seule en avion en 1932 ?
