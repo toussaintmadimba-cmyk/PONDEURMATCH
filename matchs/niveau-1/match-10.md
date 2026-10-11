@@ -136,8 +136,8 @@
 **Q4.** Où suis-je ? Ville marocaine connue pour sa médina et la place Jemaa el-Fna.
 **R.** Marrakech
 
-**Q5.** Que suis-je ? Fleuve européen qui se jette dans la mer Noire après avoir traversé ou bordé plusieurs pays.
-**R.** Danube
+**Q5.** Que suis-je ? Principal fleuve de Pologne, je traverse Cracovie et Varsovie avant de rejoindre la mer Baltique.
+**R.** Vistule
 
 ## 10. DIVERS
 
@@ -166,8 +166,8 @@
 **Q2.** Quel écrivain irlandais est l'auteur d'Ulysse ?
 **R.** James Joyce
 
-**Q3.** Quel fleuve traverse Le Caire ?
-**R.** Nil
+**Q3.** Quel fleuve d'Andalousie longe Séville avant de se jeter dans l'Atlantique ?
+**R.** Guadalquivir
 
 **Q4.** Quel peintre espagnol est l'auteur des Ménines ?
 **R.** Diego Velázquez
@@ -175,8 +175,8 @@
 **Q5.** Quel pays a Sofia pour capitale ?
 **R.** Bulgarie
 
-**Q6.** Quel scientifique formula la loi de la gravitation universelle ?
-**R.** Isaac Newton
+**Q6.** Quel physicien français démontra en 1851 la rotation de la Terre au moyen d'un pendule au Panthéon ?
+**R.** Léon Foucault
 
 **Q7.** Quel pays a Santiago pour capitale ?
 **R.** Chili
