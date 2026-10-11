@@ -272,9 +272,9 @@
 
 **R.** Amos Tutuola
 
-**Q2.** Quel écrivain libanais est l'auteur du livre Le Prophète publié en 1923 ?
+**Q2.** Quel poète syrien, né Ali Ahmad Saïd Esber, est connu sous le pseudonyme emprunté à un dieu grec ?
 
-**R.** Khalil Gibran
+**R.** Adonis
 
 **Q3.** Quelle écrivaine sud-africaine écrivit Mother to Mother ?
 
