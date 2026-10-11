@@ -338,7 +338,7 @@
 
 **R.** Halle
 
-**Q3.** Dans quelle ville universitaire allemande obtint-il un doctorat en philosophie en 1734 ?
+**Q3.** Dans quelle ville universitaire allemande obtint-il un doctorat en philosophie après ses études à Halle ?
 
 **R.** Wittenberg
 
