@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 33,
-    "A_VERIFIER_SOURCE": 63
+    "DOCUMENTE_SOURCE_DIRECTE": 34,
+    "A_VERIFIER_SOURCE": 62
   },
   "questions": [
     {
@@ -422,8 +422,10 @@
       "question": "Quelle unité du SI mesure la résistance électrique ?",
       "answer": "Ohm",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
+      ],
       "notes": ""
     },
     {
