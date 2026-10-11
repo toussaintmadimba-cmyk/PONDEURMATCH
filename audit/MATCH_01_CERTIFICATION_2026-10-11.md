@@ -94,3 +94,9 @@ Les 96 questions sont désormais toutes dotées de références dans `audit/matc
 
 
 Le tableau intermédiaire de `sources/match-01-sources.md` (44 sources) représente une photographie antérieure à la présente passe. Pour l'intégralité des 96 références, consulter le catalogue JSON. La préparation des documents pour arbitre est en cours.
+
+## Reprise du contrôle — vérification des références (11 octobre 2026)
+
+Les 96 entrées disposent désormais d'au moins un lien dans `audit/match-01-validation.json` ; ce chiffre mesure la **couverture des liens**, et non la validation factuelle indépendante des 96 assertions. La mention historique `DOCUMENTE_SOURCE_DIRECTE` ne doit **pas** être assimilée à `VALIDÉ` jusqu'à vérification du contenu précis de chaque page. Une référence manifestement trop générale sur Jupiter associée à Galilée a été remplacée par deux pages explicitement consacrées à ses observations télescopiques : [NASA](https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/) et [Museo Galileo](https://catalogue.museogalileo.it/multimedia/GalileosAstronomyBis.html). Les règles de basket ont été actualisées avec les pages de publication 2026 [FIBA](https://about.fiba.basketball/en/services/resource-hub/downloads) et [FFBB](https://www.ffbb.com/reglement-de-jeu).
+
+**Décision inchangée : NON CERTIFIÉ.** La concordance individualisée de chaque source, le passage de chaque Q/R au statut `VALIDÉ`, la revue arbitrale et la comparaison sémantique complète avec les 29 autres matchs restent à établir. Ne pas confondre 96 liens et 96 vérifications terminées.
