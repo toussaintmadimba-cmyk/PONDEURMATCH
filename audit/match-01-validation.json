@@ -212,7 +212,10 @@
         "https://www.grammy.com/artists/adele/528/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Grammy : Rolling in the Deep et Adele",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R04-Q03",
@@ -263,10 +266,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://ca.yamaha.com/fr/musical-instruments/pianos/explore/musical-instrument-guide/piano/trivia/trivia007.html"
+        "https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Yamaha : piano standard 88 touches",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R05-Q01",
@@ -282,7 +288,10 @@
         "https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : sens de décision",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R05-Q02",
@@ -298,7 +307,10 @@
         "https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : débuter commencer",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R05-Q03",
@@ -314,7 +326,10 @@
         "https://www.larousse.fr/dictionnaires/francais/homophone/40297"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : homophones",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R05-Q04",
@@ -330,7 +345,10 @@
         "https://www.larousse.fr/dictionnaires/francais/prudence/64688"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : prudence",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R06-Q01",
@@ -346,7 +364,10 @@
         "https://www.nelsonmandela.org/biography"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Fondation Mandela : président 1994, ancien prisonnier",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R06-Q02",
@@ -359,10 +380,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nobelprize.org/prizes/peace/1993/mandela/facts/"
+        "https://www.nelsonmandela.org/biography"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Fondation Mandela : Robben Island",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R06-Q03",
@@ -379,11 +403,13 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nelsonmandela.org/biography",
-        "https://sahistory.org.za/article/nelson-mandela-presidency-1994-1999"
+        "https://www.anc.co.za/documents/Documents/president.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Archives historiques ANC : Mandela 1991-1997",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R06-Q04",
@@ -399,10 +425,13 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nobelprize.org/prizes/peace/1993/summary/"
+        "https://www.gov.za/mandela100/biography"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Gouvernement sud-africain : Nobel partagé avec F W de Klerk",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R06-Q05",
@@ -418,7 +447,10 @@
         "https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Discours officiel : Union Buildings Pretoria 10 mai 1994",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R07-Q01",
@@ -434,7 +466,10 @@
         "https://www.larousse.fr/dictionnaires/francais/dehors/22967"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : dehors adverbe en contexte",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R07-Q02",
@@ -453,7 +488,10 @@
         "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "OQLF : groupe nominal complément d'objet direct",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R07-Q03",
@@ -471,7 +509,10 @@
         "https://www.larousse.fr/conjugaison/francais/partir/6596"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : nous partirons au futur simple",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R07-Q04",
@@ -487,7 +528,10 @@
         "https://nos-langues.canada.ca/fr/cles-de-la-redaction/pronoms-generalites"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Canada : emploi des pronoms",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R08-Q01",
@@ -500,10 +544,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/"
+        "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/?vm=r"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NobelPrize : Fleming découverte 1928",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R08-Q02",
@@ -519,7 +566,10 @@
         "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "BIPM Résolution 1960 : résistance électrique en ohm",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R08-Q03",
@@ -532,10 +582,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nobelprize.org/stories/women-who-changed-science/marie-curie"
+        "https://www.nobelprize.org/prizes/physics/1903/marie-curie/questions-and-answers/?print=1"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NobelPrize : Marie Curie première femme Nobel",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R08-Q04",
@@ -551,7 +604,10 @@
         "https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : photosynthèse matière organique et lumière",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R08-Q05",
@@ -586,10 +642,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.beethoven.de/en/g/mit-beethovens-ohr-gehoert"
+        "https://internet.beethoven.de/pdf-sonderausstellung/Von-der-Nulltern-bis-zur-Zehnten-Brief-Guide.pdf"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Beethoven-Haus : Beethoven sourd et Neuvième symphonie",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R09-Q02",
@@ -1686,7 +1745,7 @@
     ],
     "notes": "Comparaison automatique de questions identiques et de réponses identiques ; examen de sens des chevauchements identifiés, sans garantir l'absence de doublons par paraphrase à réponses différentes."
   },
-  "reviewed_count": 22,
-  "unreviewed_count": 74,
+  "reviewed_count": 42,
+  "unreviewed_count": 54,
   "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation."
 }
