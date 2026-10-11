@@ -82,9 +82,9 @@
 
 **R.** Polyphonie
 
-**Q4.** Quelle figure commence et finit par la même expression ?
+**Q4.** Quel terme désigne une construction où les propositions sont liées par des subordonnées plutôt que simplement juxtaposées ?
 
-**R.** Épanadiplose
+**R.** Hypotaxe
 
 ## 6. CANTONADE 1
 
@@ -112,9 +112,9 @@
 
 **THÈME : CONSTRUCTIONS GRAMMATICALES**
 
-**Q1.** Quel terme sémiotique désigne la récurrence de traits de sens communs dans un même texte ?
+**Q1.** Quel terme de linguistique désigne le fait qu'un même mot possède plusieurs significations ?
 
-**R.** Isotopie
+**R.** Polysémie
 
 **Q2.** Dans « Il se fait construire une maison », quelle construction exprime le fait de faire exécuter une action ?
 
@@ -340,9 +340,9 @@
 
 **R.** Sophie de Grouchy
 
-**Q4.** Quel pays européen fut le théâtre de son engagement politique et de sa mort durant la Révolution ?
+**Q4.** Dans quelle commune proche de Paris mourut-il en mars 1794 ?
 
-**R.** France
+**R.** Bourg-la-Reine
 
 **Q5.** En quelle année mourut-il, après son arrestation pendant la Terreur ?
 
