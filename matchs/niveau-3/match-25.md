@@ -6,9 +6,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Papouasie-Nouvelle-Guinée, en Océanie ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale du royaume polynésien des Tonga ?
 
-**R.** Port Moresby
+**R.** Nuku'alofa
 
 **Q2.** Au 11 octobre 2026, quelle monnaie nationale est utilisée au Népal, pays de l'Himalaya ?
 
@@ -16,13 +16,13 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de l'Union des Comores, dans l'océan Indien ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de l'État insulaire des Samoa ?
 
-**R.** Moroni
+**R.** Apia
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale du Lesotho, royaume enclavé en Afrique du Sud ?
+**Q2.** Au 11 octobre 2026, quelle ville est la capitale de la République de Vanuatu, dans le Pacifique Sud ?
 
-**R.** Maseru
+**R.** Port-Vila
 
 ## 3. SPORTS ET JEUX
 
@@ -114,9 +114,9 @@
 
 **THÈME : MODES, TEMPS ET FONCTIONS**
 
-**Q1.** Dans « Il aurait fallu qu'il eût terminé », quel temps du subjonctif est « eût terminé » ?
+**Q1.** Dans « Après avoir révisé, il se présenta », quel temps de l'infinitif est « avoir révisé » ?
 
-**R.** Plus-que-parfait du subjonctif
+**R.** Infinitif passé
 
 **Q2.** Dans « Demain, il aura achevé son travail », quel temps est « aura achevé » ?
 
@@ -182,17 +182,17 @@
 
 **R.** Inge Lehmann
 
-**Q2.** Quelle mathématicienne iranienne devint en 2014 la première femme à recevoir la médaille Fields ?
+**Q2.** Quelle généticienne américaine étudia vers 1905 le rôle des chromosomes X et Y dans la détermination du sexe ?
 
-**R.** Maryam Mirzakhani
+**R.** Nettie Stevens
 
-**Q3.** Quelle mathématicienne russe du XIXe siècle devint professeure à l'université de Stockholm ?
+**Q3.** Quelle mathématicienne née dans l'Empire austro-hongrois fut une spécialiste reconnue de la théorie des matrices au XXe siècle ?
 
-**R.** Sofia Kovalevskaïa
+**R.** Olga Taussky-Todd
 
-**Q4.** Quelle astronome américaine étudia la rotation des galaxies et apporta des indices importants sur la matière noire ?
+**Q4.** Quelle astrophysicienne d'origine britannique participa à l'article B²FH de 1957 sur la formation des éléments dans les étoiles ?
 
-**R.** Vera Rubin
+**R.** Margaret Burbidge
 
 **Q5.** Quelle biologiste américaine développa l'explication endosymbiotique de l'origine des mitochondries et des chloroplastes ?
 
@@ -208,13 +208,13 @@
 
 **R.** Carson McCullers
 
-**Q3.** Quelle écrivaine algérienne publia en 1985 L'Amour, la fantasia, œuvre mêlant mémoire et histoire ?
+**Q3.** Quelle romancière franco-algérienne publia La Seine était rouge, récit lié au 17 octobre 1961 à Paris ?
 
-**R.** Assia Djebar
+**R.** Leïla Sebbar
 
-**Q4.** Quel romancier brésilien est l'auteur de Dona Flor et ses deux maris, paru en 1966 ?
+**Q4.** Quel romancier brésilien publia Dom Casmurro en 1899, œuvre importante du réalisme lusophone ?
 
-**R.** Jorge Amado
+**R.** Machado de Assis
 
 **Q5.** Quel peintre cubain réalisa en 1943 La Jungle, grande peinture influencée par l'art afro-cubain ?
 
@@ -232,9 +232,9 @@
 
 **R.** Biogéographie
 
-**Q9.** Comment appelle-t-on une technique de séparation des constituants d'un mélange par migration différentielle ?
+**Q9.** Quelle technique analyse des ions selon leur rapport masse sur charge ?
 
-**R.** Chromatographie
+**R.** Spectrométrie de masse
 
 **Q10.** Quel mot désigne un nouveau mot obtenu en réorganisant les lettres d'un autre ?
 
@@ -312,17 +312,17 @@
 
 **THÈME : GRANDES DÉCOUVERTES ASTRONOMIQUES**
 
-**Q1.** Quel astronome italien découvrit en 1801 le corps céleste Cérès, aujourd'hui classé planète naine ?
+**Q1.** Quel astronome allemand réalisa en 1838 une des premières mesures fiables de parallaxe stellaire, sur 61 Cygni ?
 
-**R.** Giuseppe Piazzi
+**R.** Friedrich Bessel
 
 **Q2.** Quel astronome américain découvrit les deux satellites naturels de Mars en 1877 ?
 
 **R.** Asaph Hall
 
-**Q3.** Quel astronome américain découvrit Pluton en 1930 à l'observatoire Lowell ?
+**Q3.** Quel astronome américain découvrit en 1916 une étoile au mouvement propre exceptionnel, qui porte aujourd'hui son nom ?
 
-**R.** Clyde Tombaugh
+**R.** Edward Emerson Barnard
 
 **Q4.** Quel astronome suisse partagea le Nobel de physique 2019 pour la découverte d'une exoplanète autour d'une étoile de type solaire ?
 
@@ -412,9 +412,9 @@
 
 **R.** Paulo Freire
 
-**Q2.** Quel poète indien reçut le prix Nobel de littérature en 1913 pour ses écrits et traductions poétiques ?
+**Q2.** Quelle poétesse iranienne publia en 1964 le recueil Une autre naissance, œuvre majeure de la poésie persane moderne ?
 
-**R.** Rabindranath Tagore
+**R.** Forough Farrokhzad
 
 **Q3.** Quelle artiste contemporaine kényane, née à Nairobi, réalise des collages et sculptures mêlant corps et mythologie ?
 
@@ -444,7 +444,7 @@
 
 **R.** Modélisation
 
-**Q10.** Quel terme désigne le résultat d'une transformation biologique d'un organisme en milieu extrême sur de longues périodes ?
+**Q10.** Comment appelle-t-on la coexistence de plusieurs variantes génétiques dans une population ?
 
-**R.** Adaptation
+**R.** Polymorphisme
 
