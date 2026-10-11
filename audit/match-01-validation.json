@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 44,
-    "A_VERIFIER_SOURCE": 52
+    "DOCUMENTE_SOURCE_DIRECTE": 54,
+    "A_VERIFIER_SOURCE": 42
   },
   "questions": [
     {
@@ -35,8 +35,10 @@
       "question": "Au 6 octobre 2026, quelle est la capitale de la Namibie ?",
       "answer": "Windhoek",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -596,8 +598,10 @@
       "question": "Quelle est la capitale de l'Éthiopie ?",
       "answer": "Addis-Abeba",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -610,8 +614,10 @@
       "question": "Quelle est la capitale du Sénégal ?",
       "answer": "Dakar",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -624,8 +630,10 @@
       "question": "Quelle est la capitale du Rwanda ?",
       "answer": "Kigali",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -638,8 +646,10 @@
       "question": "Quelle est la capitale du Mozambique ?",
       "answer": "Maputo",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -652,8 +662,10 @@
       "question": "Quelle est la capitale du Botswana ?",
       "answer": "Gaborone",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -814,8 +826,10 @@
       "question": "Quelle ville est la capitale de la République démocratique du Congo ?",
       "answer": "Kinshasa",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1199,8 +1213,10 @@
         "Égypte",
         "République arabe d'Égypte"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1227,8 +1243,10 @@
       "question": "Quel pays africain a Luanda pour capitale ?",
       "answer": "Angola",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1241,8 +1259,10 @@
       "question": "Quel pays du Maghreb a Rabat pour capitale ?",
       "answer": "Maroc",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
