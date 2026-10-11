@@ -74,9 +74,9 @@
 
 **R.** Parallélisme
 
-**Q2.** Quelle figure consiste à répéter une structure syntaxique voisine dans plusieurs propositions ?
+**Q2.** Quel procédé stylistique répète une sonorité ou une terminaison semblable à la fin de plusieurs mots proches ?
 
-**R.** Parallélisme
+**R.** Homéotéleute
 
 **Q3.** Quel terme désigne le déplacement d'un élément habituellement en fin de phrase vers son début pour l'insister ?
 
