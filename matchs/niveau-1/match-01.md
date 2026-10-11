@@ -336,8 +336,8 @@
 **Q4.** Quelle unité du SI mesure la fréquence ?
 **R.** Hertz
 
-**Q5.** Quelle organisation internationale a son siège principal à New York et fut fondée en 1945 ?
-**R.** ONU
+**Q5.** Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?
+**R.** FAO
 
 **Q6.** Dans quel pays se trouve le Machu Picchu ?
 **R.** Pérou
