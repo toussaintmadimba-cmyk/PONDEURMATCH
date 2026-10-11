@@ -246,9 +246,9 @@
 
 ## 12. CULTURE RÉGIONALE — RDC
 
-**Q1.** Quel site historique du Kongo Central comprend les vestiges de l'ancienne ville de Mbanza Kongo, capitale du royaume du Kongo ?
+**Q1.** Quelle première centrale hydroélectrique du site des rapides du fleuve Congo, dans le Kongo Central, est entrée en service en 1972 ?
 
-**R.** Mbanza-Kongo
+**R.** Inga I
 
 **Q2.** Quelle association artistique de Lubumbashi organise la Biennale de Lubumbashi, rendez-vous consacré à l'art contemporain ?
 
