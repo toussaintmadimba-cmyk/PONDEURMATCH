@@ -18,9 +18,9 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville abrite le siège de la Cour internationale de Justice ?
+**Q1.** Au 11 octobre 2026, quelle ville allemande abrite le Tribunal international du droit de la mer ?
 
-**R.** La Haye
+**R.** Hambourg
 
 **Q2.** Au 11 octobre 2026, dans quelle ville se trouve le siège de la Banque centrale européenne ?
 
@@ -32,9 +32,9 @@
 
 **R.** Gezahegne Abera
 
-**Q2.** Quelle athlète kényane fut championne olympique du 1 500 m féminin à Rio en 2016 ?
+**Q2.** Quel coureur éthiopien remporta le 10 000 mètres olympique masculin à Tokyo en 2021 ?
 
-**R.** Faith Kipyegon
+**R.** Selemon Barega
 
 **Q3.** Quel pilote brésilien remporta son troisième titre mondial de Formule 1 en 1991 ?
 
@@ -74,21 +74,21 @@
 
 **THÈME : RHÉTORIQUE ET EFFETS DE LANGUE**
 
-**Q1.** Quelle figure consiste à faire suivre une expression par une autre qui la corrige explicitement ?
+**Q1.** Quelle figure répète un même mot à la fin de plusieurs propositions successives ?
 
-**R.** Épanorthose
+**R.** Épiphore
 
-**Q2.** Quelle figure de diction supprime une syllabe à l'intérieur d'un mot ?
+**Q2.** Quel procédé phonétique introduit un son à l'intérieur d'un mot ?
 
-**R.** Syncope
+**R.** Épenthèse
 
-**Q3.** Quelle figure répète un terme immédiatement au début d'une proposition voisine ?
+**Q3.** Quelle figure consiste à construire plusieurs propositions de longueur et de syntaxe parallèles ?
 
-**R.** Anadiplose
+**R.** Isocolon
 
-**Q4.** Quel procédé oratoire consiste à interrompre une phrase pour laisser entendre sa conclusion ?
+**Q4.** Quel procédé répète volontairement des sons vocaliques dans des mots proches ?
 
-**R.** Aposiopèse
+**R.** Assonance
 
 ## 6. CANTONADE 1
 
@@ -104,9 +104,9 @@
 
 **R.** On the Connexion of the Physical Sciences
 
-**Q4.** Quel astronome et mathématicien français avait rédigé l'ouvrage dont elle réalisa la traduction commentée ?
+**Q4.** Quelle société savante britannique accueillit Mary Somerville comme membre honoraire en 1835 ?
 
-**R.** Pierre-Simon Laplace
+**R.** Royal Astronomical Society
 
 **Q5.** En quelle année mourut-elle à Naples, après une longue carrière intellectuelle ?
 
@@ -116,13 +116,13 @@
 
 **THÈME : FONCTIONS ET TRANSFORMATIONS**
 
-**Q1.** Dans « Si elle était venue, je l'aurais vue », quel mode-temps est « j'aurais vue » ?
+**Q1.** Dans « Lorsque nous eûmes fini, nous sortîmes », quel temps est « eûmes fini » ?
 
-**R.** Conditionnel passé
+**R.** Passé antérieur
 
-**Q2.** Dans « Bien qu'il fût absent, il répondit », quel temps est « fût » ?
+**Q2.** Dans « Vous chantâtes », quel temps du passé est utilisé ?
 
-**R.** Imparfait du subjonctif
+**R.** Passé simple
 
 **Q3.** Dans « Les lettres que j'ai envoyées », quelle fonction grammaticale a « que » ?
 
@@ -138,9 +138,9 @@
 
 **R.** Ignace Semmelweis
 
-**Q2.** Quelle physicienne d'origine polonaise partagea le Nobel de physique 1903 pour les recherches sur la radioactivité ?
+**Q2.** Quel physicien britannique découvrit le neutron en 1932 ?
 
-**R.** Marie Curie
+**R.** James Chadwick
 
 **Q3.** Quel biologiste américain découvrit la transduction bactérienne avec Norton Zinder ?
 
@@ -180,9 +180,9 @@
 
 **THÈME : SAVOIRS DU MONDE MÉDIÉVAL**
 
-**Q1.** Quel mathématicien persan du IXe siècle donna son nom latinisé au mot « algorithme » ?
+**Q1.** Quel savant persan du XIIIe siècle dirigea l'observatoire astronomique de Maragha ?
 
-**R.** Al-Khwârizmî
+**R.** Nasir al-Din al-Tusi
 
 **Q2.** Quel traité du savant Al-Biruni traite notamment d'astronomie et porte le nom d'un prince ghaznévide ?
 
@@ -192,9 +192,9 @@
 
 **R.** Mahmud Kati
 
-**Q4.** Quel savant d'origine perse rédigea au XIe siècle Le Livre de la guérison et Le Canon de la médecine ?
+**Q4.** Quel penseur juif médiéval, né à Cordoue, rédigea le Guide des égarés ?
 
-**R.** Avicenne
+**R.** Moïse Maïmonide
 
 **Q5.** Quel savant andalou écrivit au XIIe siècle le traité philosophique Le Vivant, fils de l'Éveillé ?
 
@@ -202,9 +202,9 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quel écrivain colombien rédigea L'Amour aux temps du choléra ?
+**Q1.** Quel écrivain argentin publia Le Tunnel en 1948 ?
 
-**R.** Gabriel García Márquez
+**R.** Ernesto Sábato
 
 **Q2.** Quelle dramaturge américaine écrivit A Raisin in the Sun, créé à Broadway en 1959 ?
 
@@ -222,9 +222,9 @@
 
 **R.** Arundhati Roy
 
-**Q6.** Quel peintre autrichien réalisa Le Baiser au début du XXe siècle ?
+**Q6.** Quel peintre tchèque réalisa la série monumentale L'Épopée slave ?
 
-**R.** Gustav Klimt
+**R.** Alfons Mucha
 
 **Q7.** Quel architecte américain est associé à la maison Fallingwater en Pennsylvanie ?
 
@@ -258,9 +258,9 @@
 
 **R.** Festival de Gungu
 
-**Q4.** Quel parc national de la RDC protège une vaste zone de forêt tropicale humide dans le bassin central ?
+**Q4.** Quel grand lac artificiel du Lualaba s'est formé derrière un barrage sur la rivière Lualaba près de Kolwezi ?
 
-**R.** Parc national de la Salonga
+**R.** Lac Nzilo
 
 **Q5.** Quel célèbre fleuve frontalier entre la RDC et la République du Congo reçoit l'Oubangui au niveau de Liranga ?
 
@@ -272,27 +272,27 @@
 
 **R.** Margaret Atwood
 
-**Q2.** Quel écrivain nigérian publia Les Interprètes, roman paru en 1965 ?
+**Q2.** Quel écrivain nigérian publia The Fishermen en 2015 ?
 
-**R.** Wole Soyinka
+**R.** Chigozie Obioma
 
 **Q3.** Quel poète soudanais écrivit L'Oiseau de la pluie, figure de la poésie arabe moderne ?
 
 **R.** Muhammad al-Fayturi
 
-**Q4.** Quelle écrivaine nigériane publia Americanah en 2013 ?
+**Q4.** Quelle romancière nigériane publia Stay with Me en 2017 ?
 
-**R.** Chimamanda Ngozi Adichie
+**R.** Ayọ̀bámi Adébáyọ̀
 
-**Q5.** Quelle technique picturale consiste à peindre sur un enduit de chaux encore humide ?
+**Q5.** Quel procédé de gravure imprime une image à partir d'une matrice en bois taillée en relief ?
 
-**R.** Fresque
+**R.** Xylographie
 
 ## 14. MONDE CONTEMPORAIN
 
-**Q1.** Quelle révolution de 1848 inaugura la Deuxième République en France ?
+**Q1.** Quel acte constitutionnel de 1867 établit la Confédération canadienne ?
 
-**R.** Révolution de Février
+**R.** Acte de l'Amérique du Nord britannique
 
 **Q2.** Quel document adopté en 1941 par Roosevelt et Churchill expose des principes pour le monde d'après-guerre ?
 
@@ -318,17 +318,17 @@
 
 **R.** Heinrich Hertz
 
-**Q2.** Quel ingénieur italien réalisa des expériences pionnières en télégraphie sans fil à la fin du XIXe siècle ?
+**Q2.** Quel inventeur français créa un réseau de télégraphie optique à sémaphores à la fin du XVIIIe siècle ?
 
-**R.** Guglielmo Marconi
+**R.** Claude Chappe
 
 **Q3.** Quel physicien français découvrit l'effet piézoélectrique avec son frère Paul en 1880 ?
 
 **R.** Pierre Curie
 
-**Q4.** Quel physicien allemand découvrit en 1895 les rayons X, ensuite utilisés en radiographie ?
+**Q4.** Quel physicien néerlandais découvrit la division des raies spectrales sous l'action d'un champ magnétique ?
 
-**R.** Wilhelm Röntgen
+**R.** Pieter Zeeman
 
 ## 16. CANTONADE 2
 
@@ -360,9 +360,9 @@
 
 **R.** Abomey
 
-**Q2.** Quelle ancienne capitale du royaume mossi est associée au règne du Mogho Naaba au Burkina Faso ?
+**Q2.** Quelle ville du Ghana fut le siège de l'empire ashanti aux XVIIIe et XIXe siècles ?
 
-**R.** Ouagadougou
+**R.** Kumasi
 
 **Q3.** Quel centre historique éthiopien fut la capitale politique de l'empire aksoumite ?
 
@@ -390,9 +390,9 @@
 
 **R.** Lakshmi
 
-**Q5.** Quel terme désigne la présence de plusieurs dieux dans un panthéon religieux ?
+**Q5.** Quelle doctrine admet un dieu créateur sans nécessairement lui attribuer une intervention continue dans le monde ?
 
-**R.** Polythéisme
+**R.** Déisme
 
 ## 19. IDENTIFICATION
 
@@ -414,9 +414,9 @@
 
 **R.** Jérôme Bosch
 
-**Q2.** Quel écrivain camerounais publia Ville cruelle sous le pseudonyme Eza Boto ?
+**Q2.** Quel écrivain algérien publia le roman d'anticipation 2084 : La fin du monde ?
 
-**R.** Mongo Beti
+**R.** Boualem Sansal
 
 **Q3.** Quel sculpteur américain réalisa le monument Cloud Gate à Chicago ?
 
@@ -426,9 +426,9 @@
 
 **R.** T. S. Eliot
 
-**Q5.** Quel dramaturge norvégien écrivit Une maison de poupée ?
+**Q5.** Quel dramaturge suédois écrivit Mademoiselle Julie en 1888 ?
 
-**R.** Henrik Ibsen
+**R.** August Strindberg
 
 **Q6.** Quel philosophe allemand est l'auteur de l'ouvrage Être et Temps ?
 
@@ -446,7 +446,7 @@
 
 **R.** Fabrication additive
 
-**Q10.** Quel terme biologique désigne une molécule qui catalyse une réaction biochimique ?
+**Q10.** Quel terme désigne une molécule organique contenant une fonction amine et une fonction carboxyle, composante des protéines ?
 
-**R.** Enzyme
+**R.** Acide aminé
 
