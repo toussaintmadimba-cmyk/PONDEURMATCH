@@ -172,7 +172,7 @@
 **Q4.** Quelle est la plus grande planète du Système solaire ?
 **R.** Jupiter
 
-**Q5.** À l'équilibre thermique, quel est l'état physique stable de l'eau pure à -10 °C ?
+**Q5.** Quel est l'état physique de l'eau à -10 °C sous pression atmosphérique normale ?
 **R.** Solide
 
 **Q6.** Quel est le symbole chimique du fer ?
