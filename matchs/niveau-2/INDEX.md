@@ -1,35 +1,38 @@
-# Niveau 2 — Suivi éditorial
+# Niveau 2 — Collection complète (matchs 11 à 20)
 
-Objectif : 10 matchs, numérotés **11 à 20**, soit **960 questions** à raison de 96 par match.
+**Rédaction : TERMINÉE** — 10 matchs de 96 questions chacun, soit **960 questions et 960 réponses** en 20 rubriques, Q immédiatement suivie de R.
 
-## Matchs publiés
+| Match | Questionnaire | Registre des faits | Références |
+|---|---|---|---|
+| 11 | [Match 11](match-11.md) | [Registre](../../registre/match-11.json) | [Sources](../../sources/match-11-sources.md) |
+| 12 | [Match 12](match-12.md) | [Registre](../../registre/match-12.json) | [Sources](../../sources/match-12-sources.md) |
+| 13 | [Match 13](match-13.md) | [Registre](../../registre/match-13.json) | [Sources](../../sources/match-13-sources.md) |
+| 14 | [Match 14](match-14.md) | [Registre](../../registre/match-14.json) | [Sources](../../sources/match-14-sources.md) |
+| 15 | [Match 15](match-15.md) | [Registre](../../registre/match-15.json) | [Sources](../../sources/match-15-sources.md) |
+| 16 | [Match 16](match-16.md) | [Registre](../../registre/match-16.json) | [Sources](../../sources/match-16-sources.md) |
+| 17 | [Match 17](match-17.md) | [Registre](../../registre/match-17.json) | [Sources](../../sources/match-17-sources.md) |
+| 18 | [Match 18](match-18.md) | [Registre](../../registre/match-18.json) | [Sources](../../sources/match-18-sources.md) |
+| 19 | [Match 19](match-19.md) | [Registre](../../registre/match-19.json) | [Sources](../../sources/match-19-sources.md) |
+| 20 | [Match 20](match-20.md) | [Registre](../../registre/match-20.json) | [Sources](../../sources/match-20-sources.md) |
 
-| Match | Questions | Noms propres classés | Documents |
-|---|---:|---:|---|
-| [11](match-11.md) | 96 | 68/96 | [Sources](../../sources/match-11-sources.md) · [Registre](../../registre/match-11.json) |
-| [12](match-12.md) | 96 | 68/96 | [Sources](../../sources/match-12-sources.md) · [Registre](../../registre/match-12.json) |
-| [13](match-13.md) | 96 | 68/96 | [Sources](../../sources/match-13-sources.md) · [Registre](../../registre/match-13.json) |
-| [14](match-14.md) | 96 | 68/96 | [Sources](../../sources/match-14-sources.md) · [Registre](../../registre/match-14.json) |
-| [15](match-15.md) | 96 | 68/96 | [Sources](../../sources/match-15-sources.md) · [Registre](../../registre/match-15.json) |
-| [16](match-16.md) | 96 | 68/96 | [Sources](../../sources/match-16-sources.md) · [Registre](../../registre/match-16.json) |
+## Contrôles effectués
 
-**Avancement : 6/10 matchs, 576/960 questions, soit 60 %.**
+- Dix questionnaires présents et relus dans GitHub : chacun comporte **20 rubriques, 96 questions et 96 réponses**.
+- **68/96 réponses classées comme noms propres** dans chaque match (70,8 %).
+- Les registres des **20 matchs du projet** contiennent 1 920 identifiants de faits **distincts** après les remplacements effectués.
+- Monde contemporain couvre l'époque **1789 à nos jours**.
+- Les situations d'actualité dans les Manchettes sont datées dans les questions.
+- Recherche automatique des répétitions de formulations et de réponses, complétée par corrections ciblées.
+- Les introductions des 20 cantonades du Niveau 2 ont été vérifiées pour déceler les réponses ultérieures annoncées dans la question de préambule. Aucun cas restant n'a été détecté par ce test.
 
-## Contrôle technique
+## Qualité et publication
 
-- 20 rubriques et 96 Q/R par match.
-- 68 réponses classées comme noms propres par match, environ 70,8 %.
-- Les registres du projet des matchs **01 à 16** contiennent **1 536 identifiants de faits**, sans doublon exact entre identifiants.
-- Les questions d'actualité sont datées dans leur énoncé.
-- *Monde contemporain* s'entend au sens de l'époque contemporaine (1789 à nos jours).
-- Une relecture a corrigé plusieurs indices de cantonades et questions déjà posées dans l'autre sens.
+**Statut actuel : collection rédigée et contrôlée sur la structure ; audit documentaire exhaustif non achevé.** Les sources proposées dans `sources/` couvrent des points de vérification, mais ne sont pas encore un justificatif individuel de chacune des 960 réponses. Un contrôle des identifiants différents ne peut pas non plus démontrer l'absence totale de reformulations du même savoir.
 
-## Reste à produire
+Les PDF ne sont pas publiés pour ce niveau ; les Markdown de GitHub constituent les versions de référence.
 
-**Matchs 17, 18, 19 et 20 : 384 questions.**
+Dossier de suivi : [audit du Niveau 2](../../audit/NIVEAU_2_2026-10-11.md).
 
-## Limites qualité et diffusion
+## Suite du projet
 
-Les identifiants et le classement des noms propres reposent sur un contrôle éditorial assisté : absence de collision d'identifiants **ne signifie pas** absence certaine de quasi-doublons sémantiques. Les fichiers de sources contiennent des références ciblées, pas une attestation de vérification exhaustive des 576 questions. Une revue factuelle finale reste nécessaire pour une utilisation officielle en compétition.
-
-**Les PDF du Niveau 2 ne sont pas encore générés : les fichiers Markdown font foi.**
+Le **Niveau 3** correspond aux Matchs 21 à 30. Aucune rédaction du Niveau 3 n'est revendiquée dans cette livraison.
