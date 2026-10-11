@@ -664,7 +664,10 @@
         "https://www.guinnessworldrecords.com/world-records/highest-mountain"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Guinness : Everest montagne la plus élevée au-dessus du niveau marin",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R09-Q03",
@@ -680,7 +683,10 @@
         "https://education.nationalgeographic.org/resource/nile-river/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "National Geographic : Nil traverse Égypte, se jette dans Méditerranée",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R09-Q04",
@@ -699,7 +705,10 @@
         "https://www.museoreinasofia.es/colecciones/obra/guernica/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Musée Reina Sofía : Picasso auteur Guernica",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R09-Q05",
@@ -832,7 +841,10 @@
         "https://www.rsc.org.uk/hamlet/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Royal Shakespeare Company : Hamlet de Shakespeare",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q03",
@@ -902,7 +914,10 @@
         "https://periodic-table.rsc.org/element/26/iron"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Royal Society of Chemistry : fer Fe",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q07",
@@ -934,7 +949,10 @@
         "https://www.opera-comique.com/fr/spectacles/la-flute-enchantee"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Opéra-Comique : Flûte enchantée Mozart",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q09",
@@ -1028,7 +1046,10 @@
         "https://whc.unesco.org/fr/list/63"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "UNESCO : Virunga gorilles montagne",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R12-Q04",
@@ -1044,7 +1065,10 @@
         "https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NASA : Congo sépare Kinshasa et Brazzaville",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R12-Q05",
@@ -1079,7 +1103,10 @@
         "https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Éditeur Penguin : Things Fall Apart Chinua Achebe",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R13-Q02",
@@ -1095,7 +1122,10 @@
         "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Musée Rodin : Le Penseur",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R13-Q03",
@@ -1111,7 +1141,10 @@
         "https://www.comedie-francaise.fr/moliere"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Comédie-Française : Molière alias Jean-Baptiste Poquelin",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R13-Q04",
@@ -1127,7 +1160,10 @@
         "https://www.larousse.fr/dictionnaires/francais/fresque/35200"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : fresque sur enduit humide",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R13-Q05",
@@ -1143,7 +1179,10 @@
         "https://catalogue.bnf.fr/ark:/12148/cb31902899n"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "BnF : L'Étranger Albert Camus",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R14-Q01",
@@ -1258,7 +1297,10 @@
         "https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Natural History Museum : Darwin auteur Origin of Species",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R15-Q03",
@@ -1296,7 +1338,10 @@
         "https://computerhistory.org/blog/ada-lovelace-day/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Computer History Museum : notes et programme pour machine analytique Ada Lovelace",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R16-Q01",
@@ -1312,7 +1357,10 @@
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Académie française : Senghor né Joal 1906, président jusqu'en 1980",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R16-Q02",
@@ -1328,7 +1376,10 @@
         "https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565"
       ],
       "notes": "Négritude est un nom commun féminin selon Larousse, non un nom propre pour le quota.",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Senghor, Césaire et négritude",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R16-Q03",
@@ -1344,7 +1395,10 @@
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Académie française : président du Sénégal 1960-1980",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R16-Q04",
@@ -1360,7 +1414,10 @@
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Académie française : élu en 1983",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R16-Q05",
@@ -1376,7 +1433,10 @@
         "https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Aimé Césaire et Senghor dans la négritude",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R17-Q01",
@@ -1411,7 +1471,10 @@
         "https://whc.unesco.org/fr/list/156"
       ],
       "notes": "Fait du Kilimandjaro retiré : identification inverse trop proche de la question du Match 29. UNESCO indique le Serengeti en République-Unie de Tanzanie.",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "UNESCO : Serengeti en Tanzanie",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R17-Q03",
@@ -1459,7 +1522,10 @@
         "https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Zeus mythologie grecque",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R18-Q02",
@@ -1475,7 +1541,10 @@
         "https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : jeûne religieux",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R18-Q03",
@@ -1491,7 +1560,10 @@
         "https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Kaaba située à La Mecque",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R18-Q04",
@@ -1507,7 +1579,10 @@
         "https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : croyance en un seul dieu",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R18-Q05",
@@ -1523,7 +1598,10 @@
         "https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Moïse associé à Exode",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R19-Q01",
@@ -1637,7 +1715,10 @@
         "https://www.fao.org/about/who-we-are/fr"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "FAO : organisation onusienne lutte contre la faim, siège Rome, fondée 1945",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q06",
@@ -1653,7 +1734,10 @@
         "https://whc.unesco.org/en/list/274"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "UNESCO : Machu Picchu au Pérou",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q07",
@@ -1701,7 +1785,10 @@
         "https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : baromètre mesure pression atmosphérique",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q10",
@@ -1717,7 +1804,10 @@
         "https://www.larousse.fr/dictionnaires/francais/octogone/55565"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : octogone huit côtés",
+      "reviewed_at": "2026-10-11"
     }
   ],
   "proper_name_count": 67,
@@ -1745,7 +1835,7 @@
     ],
     "notes": "Comparaison automatique de questions identiques et de réponses identiques ; examen de sens des chevauchements identifiés, sans garantir l'absence de doublons par paraphrase à réponses différentes."
   },
-  "reviewed_count": 42,
-  "unreviewed_count": 54,
+  "reviewed_count": 72,
+  "unreviewed_count": 24,
   "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation."
 }
