@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel prélat sud-africain, opposant à l’apartheid, reçut le prix Nobel de la paix en 1984 ?
+**Q1.** Quel archevêque anglican africain fit de la non-violence une arme majeure contre un régime raciste dans les années 1980 ?
 **R.** Desmond Tutu
 
 **Q2.** Dans quel pays mena-t-il l’essentiel de son combat public contre l’apartheid ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel cosmonaute soviétique devint en 1961 le premier humain à voyager dans l’espace ?
+**Q1.** Quel cosmonaute et ancien pilote militaire devint le premier humain à accomplir un vol spatial orbital ?
 **R.** Youri Gagarine
 
 **Q2.** Quel pays représentait-il lors de ce vol historique ?
