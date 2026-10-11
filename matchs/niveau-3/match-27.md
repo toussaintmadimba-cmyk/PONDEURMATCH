@@ -4,9 +4,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de Saint-Christophe-et-Niévès, dans les Caraïbes ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale du Belize, en Amérique centrale ?
 
-**R.** Basseterre
+**R.** Belmopan
 
 **Q2.** Au 11 octobre 2026, quelle monnaie du Kazakhstan porte le nom de tenge ?
 
@@ -14,9 +14,9 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Barbade ?
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Dominique, dans les Petites Antilles ?
 
-**R.** Bridgetown
+**R.** Roseau
 
 **Q2.** Au 11 octobre 2026, quelle ville est la capitale de l'État insulaire de la Grenade ?
 
@@ -264,9 +264,9 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quelle romancière sénégalaise publia Le Ventre de l'Atlantique en 2003 ?
+**Q1.** Quelle romancière sénégalaise publia Le Baobab fou en 1982 ?
 
-**R.** Fatou Diome
+**R.** Ken Bugul
 
 **Q2.** Quel écrivain marocain publia La Boîte à merveilles en 1954 ?
 
