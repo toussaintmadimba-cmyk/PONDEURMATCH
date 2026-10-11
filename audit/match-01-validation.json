@@ -535,7 +535,7 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.mpg.de/nobel-prize"
+        "https://www.einstein-online.info/en/spotlight/general_relativity_history/"
       ],
       "notes": "",
       "proper_name_answer": true
@@ -1600,5 +1600,10 @@
   "proper_name_ratio": 0.6979,
   "documentation_coverage": 96,
   "all_sources_claim_checked": false,
-  "documentation_notice": "96/96 questions ont des URL rattachées, mais cela ne prouve ni vérification humaine des 96 correspondances ni arbitrage final. L'étiquette DOCUMENTE_SOURCE_DIRECTE indique uniquement un lien dans le registre; ne doit pas être assimilée à VALIDÉ."
+  "documentation_notice": "96/96 questions ont des URL rattachées, mais cela ne prouve ni vérification humaine des 96 correspondances ni arbitrage final. L'étiquette DOCUMENTE_SOURCE_DIRECTE indique uniquement un lien dans le registre; ne doit pas être assimilée à VALIDÉ.",
+  "reference_review_notes": [
+    "Correction de la source 11-10 : la NASA confirme que O₂ est le dioxygène respiré, tandis que O₃ est l'ozone.",
+    "Source Newton 15-1 : malgré son titre consacré à Tim Peake, la page de la Royal Society décrit explicitement les trois lois du mouvement et la gravitation universelle de Newton.",
+    "Une URL associée à chaque question ne garantit pas encore que chaque affirmation a été lue et recoupée."
+  ]
 }
