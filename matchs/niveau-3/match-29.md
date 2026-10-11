@@ -176,9 +176,9 @@
 
 **THÈME : LANGUES CLASSIQUES ET SAVOIRS**
 
-**Q1.** Quelle langue sémitique liturgique de l'Éthiopie et de l'Érythrée est écrite en caractères éthiopiens ?
+**Q1.** Quelle langue sémitique ancienne était utilisée dans les inscriptions du royaume de Saba, au sud de la péninsule Arabique ?
 
-**R.** Guèze
+**R.** Sabéen
 
 **Q2.** Quelle langue liturgique de l'Égypte chrétienne descend du dernier stade de l'égyptien ancien ?
 
