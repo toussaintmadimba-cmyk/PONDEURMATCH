@@ -54,10 +54,12 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026"
+        "https://www.gob.mx/presidencia/es/articulos/inauguracion-del-centro-de-rehabilitacion-e-inclusion-teleton-colima-colima?idiom=es"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R02-Q02",
@@ -86,10 +88,12 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://worldathletics.org/athletes/jamaica/usain-bolt-14201847"
+        "https://worldathletics.org/news/news/bolt-ne-pensait-pas-courir-en-1919"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R03-Q02",
@@ -535,11 +539,12 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.mpg.de/en/albert-einstein",
-        "https://www.mpp.mpg.de/en/about-us/history/albert-einstein-and-the-mpp-historical-annotations"
+        "https://www.mpg.de/en/albert-einstein"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R09-Q01",
@@ -782,11 +787,12 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.open.edu/openlearn/nature-environment/natural-history/surviving-the-winter/content-section-1.2.1",
-        "https://sethna.lassp.cornell.edu/Nucleation/"
+        "https://www.open.edu/openlearn/nature-environment/natural-history/surviving-the-winter/content-section-1.2.1"
       ],
       "notes": "Équilibre thermodynamique précisé pour ne pas confondre eau surfondue et état stable.",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q06",
@@ -1447,7 +1453,9 @@
         "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada/territoire-climat.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q02",
@@ -1608,7 +1616,10 @@
   "reference_review_notes": [
     "Correction de la source 11-10 : la NASA confirme que O₂ est le dioxygène respiré, tandis que O₃ est l'ozone.",
     "Source Newton 15-1 : malgré son titre consacré à Tim Peake, la page de la Royal Society décrit explicitement les trois lois du mouvement et la gravitation universelle de Newton.",
-    "Une URL associée à chaque question ne garantit pas encore que chaque affirmation a été lue et recoupée."
+    "Une URL associée à chaque question ne garantit pas encore que chaque affirmation a été lue et recoupée.",
+    "Remplacement du lien de la Présidence mexicaine non accessible par discours institutionnel du 6 octobre 2026.",
+    "Contrôle du record Usain Bolt : texte fédéral mondial (records 9,58 s et 19,19 s).",
+    "La surfusion rend une question sur l'état de l'eau à -10°C ambiguë sans la mention de l'équilibre, ajoutée à la Q11-5."
   ],
   "semantic_review": {
     "status": "PARTIAL",
