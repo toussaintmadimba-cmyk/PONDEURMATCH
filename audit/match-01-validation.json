@@ -1502,17 +1502,14 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 5,
-      "question": "Quelle organisation internationale a son siège principal à New York et fut fondée en 1945 ?",
-      "answer": "ONU",
+      "question": "Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?",
+      "answer": "FAO",
       "accepted_variants": [
-        "ONU",
-        "Organisation des Nations unies",
-        "Nations unies"
+        "Organisation des Nations unies pour l'alimentation et l'agriculture"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.un.org/fr/about-us/secretariat",
-        "https://www.un.org/en/about-us/history-of-the-un"
+        "https://www.fao.org/about/who-we-are/fr"
       ],
       "notes": "",
       "proper_name_answer": true
