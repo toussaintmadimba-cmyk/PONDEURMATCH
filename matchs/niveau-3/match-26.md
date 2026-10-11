@@ -138,9 +138,9 @@
 
 **R.** Ignace Semmelweis
 
-**Q2.** Quel physicien britannique découvrit le neutron en 1932 ?
+**Q2.** Quel physicien américain découvrit le positron en 1932 grâce à des expériences sur les rayons cosmiques ?
 
-**R.** James Chadwick
+**R.** Carl David Anderson
 
 **Q3.** Quel biologiste américain découvrit la transduction bactérienne avec Norton Zinder ?
 
