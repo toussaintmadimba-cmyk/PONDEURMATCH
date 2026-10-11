@@ -386,9 +386,9 @@
 
 **R.** Durga
 
-**Q5.** Comment appelle-t-on un récit interprétant symboliquement des événements dans une tradition religieuse ?
+**Q5.** Quel terme désigne l'interprétation critique des textes sacrés et de leur contexte historique ?
 
-**R.** Allégorie
+**R.** Exégèse
 
 ## 19. IDENTIFICATION
 
