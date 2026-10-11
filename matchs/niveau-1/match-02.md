@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante kényane de l'environnement reçut le prix Nobel de la paix en 2004 ?
+**Q1.** Quelle militante pour l'environnement créa un mouvement de plantation d'arbres et devint une figure mondiale de l'écologie politique ?
 **R.** Wangari Maathai
 
 **Q2.** Dans quel pays est-elle née ?
