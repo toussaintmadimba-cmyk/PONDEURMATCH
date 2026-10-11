@@ -18,9 +18,9 @@
 
 **R.** Trieste
 
-**Q2.** Au 11 octobre 2026, quelle ville abrite le secrétariat général de l'Organisation mondiale du tourisme des Nations unies ?
+**Q2.** Au 11 octobre 2026, dans quelle ville allemande se trouve le secrétariat de la convention des Nations unies sur le climat ?
 
-**R.** Madrid
+**R.** Bonn
 
 ## 3. SPORTS ET JEUX
 
@@ -112,9 +112,9 @@
 
 **THÈME : VALEURS GRAMMATICALES**
 
-**Q1.** Quel type de coordination relie deux propositions par « or », dans « Il pleuvait, or nous partîmes » ?
+**Q1.** Dans « Il pleuvait, or nous partîmes », quelle relation logique est introduite par « or » ?
 
-**R.** Coordination
+**R.** Opposition
 
 **Q2.** Dans « Il semble que tu comprennes », quel mode est employé pour « comprennes » ?
 
@@ -268,9 +268,9 @@
 
 **R.** Thomas Mpoyi-Buatu
 
-**Q2.** Quelle écrivaine ivoirienne publia Le Royaume aveugle, pièce de théâtre sur le pouvoir ?
+**Q2.** Quel écrivain ivoirien publia La Carte d'identité en 1980 ?
 
-**R.** Véronique Tadjo
+**R.** Jean-Marie Adiaffi
 
 **Q3.** Quelle romancière camerounaise publia La Saison de l'ombre en 2013 ?
 
