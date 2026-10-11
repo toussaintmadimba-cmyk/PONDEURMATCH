@@ -174,10 +174,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.ffbb.com/reglement-de-jeu"
+        "https://about.fiba.basketball/en/our-sport/basketball"
       ],
       "notes": "Précision FIBA basketball traditionnel obligatoire : en basketball 3x3, un panier au-delà de l’arc vaut 2 points, et non 3.",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "FIBA classique : panier derrière la ligne vaut 3 points",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R04-Q01",
@@ -721,10 +724,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.turismoroma.it/fr/node/1155"
+        "https://whc.unesco.org/en/list/91"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "UNESCO : Rome capitale italienne avec Colisée",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R10-Q01",
@@ -740,7 +746,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Addis-Abeba Éthiopie",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R10-Q02",
@@ -777,7 +786,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Kigali Rwanda",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R10-Q04",
@@ -793,7 +805,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Maputo Mozambique",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R10-Q05",
@@ -809,7 +824,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Gaborone Botswana",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q01",
@@ -825,7 +843,10 @@
         "https://www.larousse.fr/dictionnaires/francais/thermom%C3%A8tre/77814"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : thermomètre mesure température",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q02",
@@ -860,7 +881,10 @@
         "https://www.japan.go.jp/japan/index.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Gouvernement du Japon : capitale Tokyo",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q04",
@@ -930,10 +954,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://education.nationalgeographic.org/resource/Continent/5th-grade/"
+        "https://www.nationalgeographic.org/national-geographic-map-policy"
       ],
       "notes": "Question tautologique reformulée; le modèle est identifié sans annoncer 7",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "National Geographic : sept continents distinguant Europe et Asie, les deux Amériques",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q08",
@@ -1008,7 +1035,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Kinshasa RDC",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R12-Q02",
@@ -1027,7 +1057,10 @@
         "https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born"
       ],
       "notes": "Formulation rend explicite l'anachronisme de la dénomination de l'État",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "South African History Online : Lumumba premier Premier ministre Congo indépendant",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R12-Q03",
@@ -1087,7 +1120,10 @@
         "https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Banque mondiale : complexe Inga rivière Congo RDC",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R13-Q01",
@@ -1195,10 +1231,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://gallica.bnf.fr/essentiels/repere/prise-bastille-1789"
+        "https://www.carnavalet.paris.fr/le-nouveau-parcours"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Musée Carnavalet : prise Bastille 14 juillet 1789",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R14-Q02",
@@ -1211,10 +1250,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://history.state.gov/historicaldocuments/frus1919Parisv11/d272"
+        "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Château de Versailles : traité 28 juin 1919 Allemagne et puissances alliées",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R14-Q03",
@@ -1227,10 +1269,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.un.org/fr/about-us/history-of-the-un"
+        "https://www.un.org/en/about-us/history-of-the-un"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "ONU : créée 24 octobre 1945",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R14-Q04",
@@ -1243,10 +1288,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720"
+        "https://www.bundeskanzler-helmut-kohl.de/seite/3-oktober-1990/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Archives Helmut Kohl : chancelier 3 octobre 1990",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R14-Q05",
@@ -1262,7 +1310,10 @@
         "https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Larousse : Gorbatchev perestroïka et glasnost",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R15-Q01",
@@ -1455,7 +1506,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Le Caire Égypte",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R17-Q02",
@@ -1490,7 +1544,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Luanda Angola",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R17-Q04",
@@ -1506,7 +1563,10 @@
         "https://www.nationsonline.org/oneworld/capitals_africa.htm"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Nations Online : Rabat Maroc",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R18-Q01",
@@ -1678,10 +1738,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://cervantes.bne.es/es/sus-obras"
+        "https://www.bne.es/es/colecciones/cervantes"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Biblioteca Nacional España : Cervantes auteur Don Quijote",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q04",
@@ -1694,10 +1757,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.bipm.org/fr/measurement-units/"
+        "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "BIPM : hertz unité de fréquence",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q05",
@@ -1753,7 +1819,10 @@
         "https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Institut Chopin : nocturnes de Chopin",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q08",
@@ -1766,10 +1835,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.argentina.gob.ar/node/136479"
+        "https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Gouvernement de Buenos Aires : capitale Argentine et Río de la Plata",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q09",
@@ -1835,7 +1907,8 @@
     ],
     "notes": "Comparaison automatique de questions identiques et de réponses identiques ; examen de sens des chevauchements identifiés, sans garantir l'absence de doublons par paraphrase à réponses différentes."
   },
-  "reviewed_count": 72,
-  "unreviewed_count": 24,
-  "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation."
+  "reviewed_count": 96,
+  "unreviewed_count": 0,
+  "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation.",
+  "verification_phase": "96 Q/R documentées et recoupées ; arbitrage, déduplication sémantique approfondie et épreuve orale restent distincts"
 }
