@@ -149,14 +149,14 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 5,
-      "question": "Au basketball, combien de points rapporte un tir réussi au-delà de l'arc extérieur de tir ?",
+      "question": "Selon le règlement FIBA du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?",
       "answer": "3",
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.ffbb.com/reglement-de-jeu"
       ],
-      "notes": "Ancien énoncé révélait « trois points » ; reformulé pour supprimer la tautologie.",
+      "notes": "Précision FIBA basketball traditionnel obligatoire : en basketball 3x3, un panier au-delà de l’arc vaut 2 points, et non 3.",
       "proper_name_answer": false
     },
     {
