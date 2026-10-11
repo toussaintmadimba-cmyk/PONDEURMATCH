@@ -24,9 +24,9 @@ La rubrique Monde contemporain couvre l'époque contemporaine et n'est pas une r
 
 ## Contrôle individuel complémentaire — 11 octobre 2026
 
-Les références ci-dessous ont été consultées pour les associations Q/R indiquées. Les autres questions restent au statut `A_VERIFIER_SOURCE` dans `audit/match-01-validation.json`. Une source d'une question ne valide pas automatiquement les autres.
+Table des sources directes consultées pendant cette passe ; les autres questions restent à vérifier. Le tableau complet des statuts est dans `audit/match-01-validation.json`.
 
-| Question | Réponse retenue | Source contrôlée |
+| Question | Réponse | Source exacte |
 |---|---|---|
 | M01-R01-Q01 | John Dramani Mahama | [Référence](https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/) |
 | M01-R02-Q01 | Claudia Sheinbaum Pardo | [Référence](https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026) |
@@ -41,7 +41,10 @@ Les références ci-dessous ont été consultées pour les associations Q/R indi
 | M01-R06-Q04 | Frederik Willem de Klerk | [Référence](https://www.nobelprize.org/prizes/peace/1993/summary/) |
 | M01-R06-Q05 | Pretoria | [Référence](https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994) |
 | M01-R08-Q01 | Alexander Fleming | [Référence](https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/) |
+| M01-R08-Q02 | Ohm | [Référence](https://www.bipm.org/fr/-/resolution-cgpm-11-12) |
 | M01-R08-Q03 | Marie Curie | [Référence](https://www.nobelprize.org/stories/women-who-changed-science/marie-curie) |
+| M01-R11-Q04 | Jupiter | [Référence](https://science.nasa.gov/solar-system/planets/) |
+| M01-R11-Q09 | 8 | [Référence](https://science.nasa.gov/solar-system/planets/) |
 | M01-R12-Q02 | Patrice Émery Lumumba | [Référence](https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born) |
 | M01-R12-Q03 | Parc national des Virunga | [Référence](https://whc.unesco.org/fr/list/63) |
 | M01-R12-Q05 | Inga | [Référence](https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program) |
@@ -49,6 +52,10 @@ Les références ci-dessous ont été consultées pour les associations Q/R indi
 | M01-R14-Q02 | Traité de Versailles | [Référence](https://history.state.gov/historicaldocuments/frus1919Parisv11/d272) |
 | M01-R14-Q03 | 1945 | [Référence](https://www.un.org/fr/about-us/history-of-the-un) |
 | M01-R14-Q04 | Helmut Kohl | [Référence](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720) |
+| M01-R15-Q01 | Isaac Newton | [Référence](https://royalsociety.org/news/2014/astronaut-tim-peake-principia/) |
+| M01-R15-Q02 | Charles Darwin | [Référence](https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html) |
+| M01-R15-Q03 | Galilée | [Référence](https://science.nasa.gov/jupiter/?intent=121) |
+| M01-R15-Q04 | Ada Lovelace | [Référence](https://computerhistory.org/blog/ada-lovelace-day/) |
 | M01-R16-Q01 | Léopold Sédar Senghor | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
 | M01-R16-Q03 | Sénégal | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
 | M01-R16-Q04 | Académie française | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
@@ -56,6 +63,4 @@ Les références ci-dessous ont été consultées pour les associations Q/R indi
 | M01-R20-Q04 | Hertz | [Référence](https://www.bipm.org/fr/measurement-units/) |
 | M01-R20-Q06 | Pérou | [Référence](https://whc.unesco.org/en/list/274) |
 
-**Corrections de cette passe :** énoncé des continents sans réponse intégrée ; thème de Langage A harmonisé ; mandat ANC de Mandela précisé ; formule chimique O₂ corrigée ; désignation historiquement explicite pour le premier Premier ministre du Congo indépendant ; quatre indices sur Thomas Sankara séparés et documentés.
-
-**Limite :** 27 Q/R directement documentées ; 69 autres questions à confirmer individuellement. Les tests anti-doublons sémantiques transversaux et l'arbitrage oral restent ouverts.
+**Statut :** 34 réponses appuyées par des références consultées ; 62 réponses restant à confirmer individuellement. Pas de certification globale du Match 01 à ce stade.
