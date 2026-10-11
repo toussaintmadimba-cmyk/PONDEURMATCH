@@ -10,3 +10,8 @@
 - Culture de la RDC (Baloji, Lufira, royaumes) : recoupement avec les archives des institutions congolaises requis avant arbitrage.
 
 Les identifiants de faits sont contrôlés face aux matchs 01 à 13. Les quasi-doublons sémantiques et l'arbitrage final restent à relire par un responsable pédagogique.
+
+## Révision complémentaire — lac d'Ourmia
+- Énoncé reformulé pour ne plus donner littéralement le nom du lac dans la question.
+- Programme des Nations unies pour l'environnement, lac salé du nord-ouest iranien, réserve de biosphère depuis 1976 et assèchement : https://wedocs.unep.org/items/7e426336-b3c7-4c39-b993-9aa80d8376c3
+- Réponse courte : **Lac d'Ourmia** (variante : **lac Urmia**).
