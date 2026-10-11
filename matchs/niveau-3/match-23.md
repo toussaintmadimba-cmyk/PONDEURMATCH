@@ -90,7 +90,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante sud-africaine dirigea des mobilisations féminines contre les lois de laissez-passer et participa à une grande marche sur Pretoria ?
+**Q1.** Quelle militante sud-africaine devint la première femme élue au comité exécutif national de l'ANC et organisa des protestations contre les laissez-passer ?
 
 **R.** Lilian Ngoyi
 
@@ -432,7 +432,7 @@
 
 **R.** Frans Hals
 
-**Q7.** Quel phénomène de persistance d'un signal lumineux après l'arrêt de la source est appelé comment ?
+**Q7.** Comment appelle-t-on la persistance d'une émission lumineuse après l'arrêt de la source d'excitation ?
 
 **R.** Rémanence
 
