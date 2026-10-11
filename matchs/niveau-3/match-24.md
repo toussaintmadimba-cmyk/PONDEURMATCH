@@ -10,7 +10,7 @@
 
 **R.** Dili
 
-**Q2.** Au 11 octobre 2026, quelle monnaie nationale porte le nom de somoni au Tadjikistan ?
+**Q2.** Au 11 octobre 2026, quelle monnaie nationale du Tadjikistan doit son nom au souverain samanide Ismaïl Samani ?
 
 **R.** Somoni
 
