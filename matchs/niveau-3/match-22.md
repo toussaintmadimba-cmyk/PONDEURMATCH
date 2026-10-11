@@ -6,9 +6,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quel pays d'Amérique du Sud possède Sucre comme capitale constitutionnelle et La Paz comme siège du gouvernement ?
+**Q1.** Au 11 octobre 2026, quel État mélanésien du Pacifique possède le vatu comme monnaie nationale ?
 
-**R.** Bolivie
+**R.** Vanuatu
 
 **Q2.** Au 11 octobre 2026, quelle monnaie du Paraguay porte le nom d'un peuple et d'une langue autochtones ?
 
@@ -56,9 +56,9 @@
 
 **R.** Wong Kar-wai
 
-**Q3.** Quel compositeur italien créa la musique du film Il était une fois dans l'Ouest, réalisé par Sergio Leone ?
+**Q3.** Quel compositeur polonais écrivit la musique du film Trois Couleurs : Bleu de Krzysztof Kieślowski ?
 
-**R.** Ennio Morricone
+**R.** Zbigniew Preisner
 
 **Q4.** Quel angle de prise de vue filme un personnage du bas vers le haut pour le grandir visuellement ?
 
@@ -132,17 +132,17 @@
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Q1.** Quelle généticienne américaine reçut le prix Nobel de médecine 1983 pour ses travaux sur les éléments génétiques mobiles ?
+**Q1.** Quelle virologue française partagea le prix Nobel de médecine 2008 pour des travaux majeurs dans la découverte du VIH ?
 
-**R.** Barbara McClintock
+**R.** Françoise Barré-Sinoussi
 
 **Q2.** Quelle biochimiste d'origine hongroise partagea le Nobel de médecine 2023 pour des travaux ayant permis les vaccins à ARN messager ?
 
 **R.** Katalin Karikó
 
-**Q3.** Quelle mathématicienne allemande donna son nom à un théorème reliant symétries continues et lois de conservation ?
+**Q3.** Quel physicien allemand introduisit en 1865 le mot « entropie » en thermodynamique ?
 
-**R.** Emmy Noether
+**R.** Rudolf Clausius
 
 **Q4.** Quel terme désigne l'ensemble des protéines exprimées par une cellule, un tissu ou un organisme dans des conditions données ?
 
@@ -200,9 +200,9 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle biologiste américaine publia Printemps silencieux en 1962, ouvrage majeur de l'histoire environnementale ?
+**Q1.** Quelle anthropologue américaine publia Coming of Age in Samoa en 1928 ?
 
-**R.** Rachel Carson
+**R.** Margaret Mead
 
 **Q2.** Quel philosophe des sciences publia La Structure des révolutions scientifiques en 1962 ?
 
@@ -260,9 +260,9 @@
 
 **R.** La SAPE
 
-**Q5.** Quelle pratique musicale et chorégraphique commune aux deux Congo a été inscrite en 2021 au patrimoine culturel immatériel de l'UNESCO ?
+**Q5.** Quel groupe de Kinshasa fondé en 1969 renouvela la musique populaire zaïroise, notamment à travers le soukous ?
 
-**R.** Rumba congolaise
+**R.** Zaïko Langa Langa
 
 ## 13. LITTÉRATURE ET ART
 
@@ -274,9 +274,9 @@
 
 **R.** Léon-Gontran Damas
 
-**Q3.** Quel écrivain argentin publia le recueil Fictions, contenant notamment La Bibliothèque de Babel ?
+**Q3.** Quel poète portugais écrivit Le Livre de l'intranquillité, attribué au semi-hétéronyme Bernardo Soares ?
 
-**R.** Jorge Luis Borges
+**R.** Fernando Pessoa
 
 **Q4.** Quel romancier japonais reçut le prix Nobel de littérature en 1994 et écrivit Une affaire personnelle ?
 
