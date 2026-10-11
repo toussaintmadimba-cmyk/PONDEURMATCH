@@ -50,7 +50,7 @@
 **Q3.** Quel compositeur italien a signé la musique du film Le Bon, la Brute et le Truand ?
 **R.** Ennio Morricone
 
-**Q4.** Quel signe musical indique généralement la hauteur des notes aiguës et est aussi appelé clé de sol ?
+**Q4.** Quelle clé musicale, dessinée autour de la deuxième ligne de la portée, y fixe la note sol ?
 **R.** Clé de sol
 
 **Q5.** Quel terme musical italien désigne généralement un tempo lent et large ?
@@ -155,7 +155,7 @@
 **Q4.** Quel peuple marin de l’Antiquité fonda notamment Carthage selon la tradition historique ?
 **R.** Phéniciens
 
-**Q5.** Quelle région antique située entre le Tigre et l’Euphrate est souvent appelée Mésopotamie ?
+**Q5.** Comment nomme-t-on la région historique du Proche-Orient située entre les fleuves Tigre et Euphrate ?
 **R.** Mésopotamie
 
 ## 11. ÉCLAIR 1
@@ -286,7 +286,7 @@
 **Q2.** Quel fleuve forme une partie de la frontière entre l’Afrique du Sud et la Namibie ?
 **R.** Orange
 
-**Q3.** Quel fleuve donne son nom au Sénégal et marque une partie de sa frontière avec la Mauritanie ?
+**Q3.** Quel grand fleuve d'Afrique de l'Ouest marque une partie de la frontière entre le pays de Dakar et la Mauritanie ?
 **R.** Sénégal
 
 **Q4.** Quel fleuve d’Afrique australe traverse notamment l’Afrique du Sud et le Mozambique avant l’océan Indien ?
