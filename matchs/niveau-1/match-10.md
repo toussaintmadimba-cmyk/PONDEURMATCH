@@ -133,8 +133,8 @@
 **Q3.** Que suis-je ? Désert froid d'Asie réparti principalement entre la Mongolie et la Chine.
 **R.** Gobi
 
-**Q4.** Où suis-je ? Ville marocaine connue pour sa médina et la place Jemaa el-Fna.
-**R.** Marrakech
+**Q4.** Où suis-je ? Ville du Rif marocain, célèbre pour les façades bleues de sa vieille médina.
+**R.** Chefchaouen
 
 **Q5.** Que suis-je ? Principal fleuve de Pologne, je traverse Cracovie et Varsovie avant de rejoindre la mer Baltique.
 **R.** Vistule
@@ -289,8 +289,8 @@
 **Q3.** Quelle est la capitale du Turkménistan ?
 **R.** Achgabat
 
-**Q4.** Quelle est la capitale du Kirghizistan ?
-**R.** Bichkek
+**Q4.** Quelle est la capitale du Turkménistan, en Asie centrale ?
+**R.** Achgabat
 
 ## 18. MYTHOLOGIE ET RELIGION
 
