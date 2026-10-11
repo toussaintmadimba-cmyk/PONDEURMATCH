@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel pasteur américain, figure majeure du mouvement des droits civiques, reçut le prix Nobel de la paix en 1964 ?
+**Q1.** Quel pasteur baptiste américain, assassiné à Memphis en 1968, défendit les droits civiques par des actions non violentes ?
 **R.** Martin Luther King Jr.
 
 **Q2.** Dans quelle ville de l'Alabama débuta en 1955 le boycott des bus auquel il participa ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle infirmière britannique devint célèbre pour son action pendant la guerre de Crimée et contribua à transformer les soins infirmiers modernes ?
+**Q1.** Quelle infirmière britannique surnommée « la Dame à la lampe » contribua à transformer les soins militaires au XIXe siècle ?
 **R.** Florence Nightingale
 
 **Q2.** Pendant quel conflit mena-t-elle son action la plus célèbre auprès des soldats britanniques ?
