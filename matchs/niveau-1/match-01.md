@@ -2,7 +2,7 @@
 
 **Format : Q suivie de R - 96 questions**
 
-**Cible éditoriale initiale : 68/96 réponses classées comme noms propres (70,8 %), à confirmer après certification individuelle.**
+**Répartition éditoriale réévaluée question par question : 67/96 réponses-noms propres (69,8 %), sous réserve de la validation finale des critères d’arbitrage.**
 
 > Les questions d'actualité sont datées dans leur énoncé. Les sources correspondantes sont dans sources/match-01-sources.md.
 
