@@ -116,13 +116,13 @@
 
 **THÈME : ANALYSE DES PROPOSITIONS**
 
-**Q1.** Dans « Si j'avais mieux appris, j'aurais réussi », quel temps est employé pour « j'aurais réussi » ?
+**Q1.** Dans « Pourvu qu'il ait réussi », quel temps est employé pour « ait réussi » ?
 
-**R.** Conditionnel passé
+**R.** Subjonctif passé
 
-**Q2.** Dans « La nuit venue, nous sommes partis », comment nomme-t-on la construction initiale ?
+**Q2.** Dans une question comme « Viendra-t-il demain ? », quel procédé grammatical place le sujet après le verbe ?
 
-**R.** Proposition participiale
+**R.** Inversion du sujet
 
 **Q3.** Dans « Le village où il naquit », quel type de subordonnée est « où il naquit » ?
 
@@ -142,9 +142,9 @@
 
 **R.** Stanley Prusiner
 
-**Q3.** Quelle physicienne sino-américaine réalisa une expérience célèbre révélant une violation de la parité dans la désintégration bêta ?
+**Q3.** Quelle physicienne américaine reçut le prix Nobel de médecine 1977 pour le développement du dosage radio-immunologique ?
 
-**R.** Chien-Shiung Wu
+**R.** Rosalyn Yalow
 
 **Q4.** Quelle technique sépare des molécules chargées par leur migration dans un champ électrique ?
 
@@ -268,21 +268,21 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel romancier égyptien reçut le Nobel de littérature 1988 et publia une trilogie de romans sur Le Caire ?
+**Q1.** Quel romancier égyptien écrivit L'Immeuble Yacoubian, roman publié en arabe en 2002 ?
 
-**R.** Naguib Mahfouz
+**R.** Alaa al-Aswany
 
-**Q2.** Quel romancier somalien écrivit Maps, premier volet de sa trilogie Blood in the Sun ?
+**Q2.** Quel écrivain marocain publia Le Pain nu, récit autobiographique de son enfance et de son adolescence ?
 
-**R.** Nuruddin Farah
+**R.** Mohamed Choukri
 
 **Q3.** Quelle écrivaine brésilienne publia La Passion selon G.H. en 1964 ?
 
 **R.** Clarice Lispector
 
-**Q4.** Quelle romancière américaine remporta le prix Pulitzer de fiction 1988 pour Beloved ?
+**Q4.** Quel romancier américain reçut le National Book Award 1953 pour Invisible Man, récit publié l'année précédente ?
 
-**R.** Toni Morrison
+**R.** Ralph Ellison
 
 **Q5.** Quel terme littéraire désigne la description d'une œuvre visuelle dans un texte ?
 
@@ -290,9 +290,9 @@
 
 ## 14. MONDE CONTEMPORAIN
 
-**Q1.** Quelle rencontre diplomatique de 1814-1815 redessina l'équilibre européen après les guerres napoléoniennes ?
+**Q1.** Quelle conférence internationale réunie en 1921-1922 fixa des limitations aux principales flottes de guerre ?
 
-**R.** Congrès de Vienne
+**R.** Conférence navale de Washington
 
 **Q2.** Quelle conférence tenue aux États-Unis en 1945 élabora la Charte des Nations unies ?
 
@@ -314,9 +314,9 @@
 
 **THÈME : GRANDES DÉCOUVERTES EN CHIMIE**
 
-**Q1.** Quel chimiste russe publia en 1869 une classification périodique des éléments ?
+**Q1.** Quel chimiste anglais formula en 1865 la « loi des octaves », précurseur d'une classification périodique des éléments ?
 
-**R.** Dmitri Mendeleïev
+**R.** John Newlands
 
 **Q2.** Quel physicien suédois reçut le prix Nobel de chimie 1903 pour ses recherches sur la dissociation électrolytique ?
 
@@ -378,13 +378,13 @@
 
 **R.** Anubis
 
-**Q2.** Quelle déesse solaire du shinto japonais se cache dans une caverne dans un mythe célèbre ?
+**Q2.** Quel kami japonais des études et des lettres est associé à la divinisation de Sugawara no Michizane ?
 
-**R.** Amaterasu
+**R.** Tenjin
 
-**Q3.** Quelle déesse grecque des récoltes part à la recherche de sa fille Perséphone ?
+**Q3.** Quel dieu égyptien à tête de crocodile était particulièrement vénéré dans la région du Fayoum ?
 
-**R.** Déméter
+**R.** Sobek
 
 **Q4.** Quel héros des mythes polynésiens pêche des îles à l'aide d'un hameçon magique ?
 
