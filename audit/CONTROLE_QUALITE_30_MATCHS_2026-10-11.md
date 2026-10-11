@@ -41,3 +41,7 @@ Corpus : `matchs/niveau-1/match-01.md` à `match-10.md`, `matchs/niveau-2/match-
 | Documents prêts à être arbitrés sans autre vérification | **NON** |
 
 Ce rapport vise à garder des critères vérifiables et à ne pas confondre **travail réalisé** et **garantie totale**.
+
+## Mise à jour — deuxième passe du 11 octobre 2026
+
+Une seconde passe de contrôle, avec **14 questions corrigées dans les trois niveaux**, dont le remplacement de l'affirmation géographique erronée plaçant Mbanza Kongo (Angola) en RDC, est consignée dans [PASSE_2_QUALITE_TRANSVERSALE_2026-10-11.md](PASSE_2_QUALITE_TRANSVERSALE_2026-10-11.md). Les registres et sources concernés ont été actualisés. **La certification intégrale reste non acquise.**
