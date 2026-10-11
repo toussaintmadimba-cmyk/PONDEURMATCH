@@ -226,9 +226,9 @@
 
 **R.** Archimède
 
-**Q7.** Quel romancier turc publia Mon nom est Rouge ?
+**Q7.** Quel écrivain albanais est l'auteur du roman Le Général de l'armée morte ?
 
-**R.** Orhan Pamuk
+**R.** Ismaïl Kadaré
 
 **Q8.** Comment appelle-t-on l'altération progressive d'un métal sous l'effet de son environnement ?
 
