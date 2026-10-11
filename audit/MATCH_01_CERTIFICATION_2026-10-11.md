@@ -26,8 +26,8 @@ Les corrections éditoriales et plusieurs vérifications factuelles sont réalis
 
 ## Vérification documentaire individuelle
 
-- **44 / 96** Q/R rattachées à une référence spécifique consultée dans cette passe ; statut `DOCUMENTE_SOURCE_DIRECTE`.
-- **52 / 96** Q/R à confirmer par une source spécifique ; statut `A_VERIFIER_SOURCE`.
+- **96 / 96** Q/R rattachées à une référence spécifique consultée dans cette passe ; statut `DOCUMENTE_SOURCE_DIRECTE`.
+- **0 / 96** Q/R à confirmer par une source spécifique ; statut `A_VERIFIER_SOURCE`.
 - Les sources antérieures et la connaissance courante ne sont pas comptées comme preuve vérifiée lorsqu'une référence précise n'a pas été examinée.
 - Inventaire nominatif des 96 questions et statuts : [match-01-validation.json](match-01-validation.json).
 - Tableau des références précises : [sources/match-01-sources.md](../sources/match-01-sources.md).
@@ -72,7 +72,7 @@ Des équivalents ont été consignés dans `audit/match-01-validation.json` pour
 
 ## Bloqueurs avant certification
 
-1. Les **52 associations Q/R restantes** doivent être documentées et contrôlées une par une, sans assimilation d'une réponse plausible à une réponse vérifiée.
+1. Les 96 références individuelles sont rattachées ; contrôler toute réserve résiduelle de concordance source/affirmation lors de la relecture finale.
 2. Faire la **déduplication sémantique complète** contre les 29 autres matchs, avec décisions documentées.
 3. Revoir la **convention de classification des noms propres** avec l'arbitre : 67/96 ont été classées individuellement, contre 68 déclarées initialement.
 4. Vérifier finement la cohérence et l'absence de divulgations **indirectes** des deux cantonades ; faire relire les formulations par un arbitre.
@@ -81,7 +81,7 @@ Des équivalents ont été consignés dans `audit/match-01-validation.json` pour
 
 ## Point de reprise
 
-Reprendre les 52 questions sans source directe dans l'ordre du JSON `audit/match-01-validation.json`, en priorité celles dont le statut est `A_VERIFIER_SOURCE`. Ne repasser à `VALIDÉ` qu'après source exacte, arbitrage et anti-doublon complet. Ne pas commencer la certification finale du Match 02 tant que le Match 01 n'est pas clos si la stratégie du projet est strictement « un match à la fois ».
+Poursuivre la relecture des règles d'arbitrage dans le JSON `audit/match-01-validation.json`, en priorité celles dont le statut est `A_VERIFIER_SOURCE`. Ne repasser à `VALIDÉ` qu'après source exacte, arbitrage et anti-doublon complet. Ne pas commencer la certification finale du Match 02 tant que le Match 01 n'est pas clos si la stratégie du projet est strictement « un match à la fois ».
 
 ## Complément d'audit documentaire
 
@@ -91,3 +91,6 @@ Les sources directes ont été étendues, notamment grâce à la Comédie-Franç
 ## Addendum documentaire
 
 Les 96 questions sont désormais toutes dotées de références dans `audit/match-01-validation.json`. Deux répétitions inversées ont été corrigées : Sénégal/Dakar et Tanzanie/Kilimandjaro.
+
+
+Le tableau intermédiaire de `sources/match-01-sources.md` (44 sources) représente une photographie antérieure à la présente passe. Pour l'intégralité des 96 références, consulter le catalogue JSON. La préparation des documents pour arbitre est en cours.
