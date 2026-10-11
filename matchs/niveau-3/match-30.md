@@ -314,9 +314,9 @@
 
 **R.** Robert Stephenson
 
-**Q2.** Quel inventeur obtint en 1876 un brevet américain important pour l'invention du téléphone ?
+**Q2.** Quel inventeur français fit connaître en 1839 le procédé photographique portant son nom ?
 
-**R.** Alexander Graham Bell
+**R.** Louis Daguerre
 
 **Q3.** Quel inventeur allemand est associé au premier moteur à combustion interne à quatre temps commercialisé à la fin du XIXe siècle ?
 
