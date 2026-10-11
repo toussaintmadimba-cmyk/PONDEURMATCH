@@ -1,22 +1,8 @@
 # Niveau 3 — Matchs 21 à 30
 
-## Objectif éditorial
+**Rédaction achevée le 11 octobre 2026 : 10 matchs / 960 questions et réponses.**
 
-**96 questions par match**, 20 rubriques et environ 70 % de réponses en noms propres. Le Niveau 3 demande des connaissances plus sélectives et une meilleure précision, pas des questions inutilement longues.
-
-Les énoncés fournissent un repère discriminant : contexte, œuvre, lieu, date ou conséquence, sans dévoiler la réponse.
-
-## Identification — format renforcé
-
-Chaque match possède **une seule Identification** à **quatre indices lus séparément** :
-- **40 points :** réalisation rare, sans donner le nom.
-- **30 points :** second contexte historique ou biographique indépendant.
-- **20 points :** œuvre, découverte ou réalisation plus reconnaissable.
-- **10 points :** indice très accessible, sans révélation littérale du nom.
-
-Il faut éviter les répétitions d'une même information reformulée quatre fois. Les faits des indices sont contrôlés par des références institutionnelles.
-
-## Matchs rédigés
+Chaque match suit les vingt rubriques de la compétition. Les énoncés contiennent un indice contextuel précis sans formulation inutilement longue. L'Identification présente **quatre indices séparés, valant 40, 30, 20 et 10 points**, qui deviennent progressivement plus révélateurs.
 
 | Match | Questionnaire | Identification | Registre | Sources |
 |---|---|---|---|---|
@@ -25,24 +11,23 @@ Il faut éviter les répétitions d'une même information reformulée quatre foi
 | 23 | [Match 23](match-23.md) | Gladys West | [Registre](../../registre/match-23.json) | [Sources](../../sources/match-23-sources.md) |
 | 24 | [Match 24](match-24.md) | Nellie Bly | [Registre](../../registre/match-24.json) | [Sources](../../sources/match-24-sources.md) |
 | 25 | [Match 25](match-25.md) | Alice Guy-Blaché | [Registre](../../registre/match-25.json) | [Sources](../../sources/match-25-sources.md) |
+| 26 | [Match 26](match-26.md) | Katherine Dunham | [Registre](../../registre/match-26.json) | [Sources](../../sources/match-26-sources.md) |
+| 27 | [Match 27](match-27.md) | Edith Clarke | [Registre](../../registre/match-27.json) | [Sources](../../sources/match-27-sources.md) |
+| 28 | [Match 28](match-28.md) | Bayard Rustin | [Registre](../../registre/match-28.json) | [Sources](../../sources/match-28-sources.md) |
+| 29 | [Match 29](match-29.md) | Wang Zhenyi | [Registre](../../registre/match-29.json) | [Sources](../../sources/match-29-sources.md) |
+| 30 | [Match 30](match-30.md) | Henrietta Lacks | [Registre](../../registre/match-30.json) | [Sources](../../sources/match-30-sources.md) |
 
-**Avancement de rédaction du Niveau 3 : 5/10 matchs (480/960 questions, 50 %).**
+## Qualité et statut
 
-## Contrôles effectués sur ces matchs
+- **Rédaction : terminée (100 %).**
+- **Structure : vérifiée** pour les dix matchs — chacun compte 96 Q/R, 20 rubriques et une Identification en quatre indices.
+- **Doublons :** plusieurs réemplois ont été détectés entre les nouveaux matchs et les niveaux précédents, puis corrigés. Un contrôle lexical des réponses à l'intérieur du Niveau 3 a aussi été effectué.
+- **Traçabilité :** les dix registres contiennent des empreintes textuelles des questions et réponses ; ces empreintes ne prouvent **pas** l'absence de doublons sémantiques.
+- **Certification factuelle complète : non acquise.** Les sources de chaque match documentent des points ciblés, mais toutes les 960 réponses n'ont pas encore été justifiées une par une.
 
-- 96 questions et 96 réponses par questionnaire.
-- 20 rubriques, Q suivie immédiatement de R, identification à quatre indices.
-- 68/96 réponses classées comme noms propres, soit 70,8 %, dans chacun.
-- Registre individuel à 96 identifiants distincts par match.
-- Recherche des réemplois de réponses et de faits, y compris contre les Matchs 01–20, suivie de remplacements.
-- Dossiers de sources spécifiques aux deux cantonades et à l'Identification de chaque nouveau match.
+### Avant utilisation en compétition
+Un audit éditorial question par question reste indispensable pour les dates, titres, translittérations, variantes acceptées par l'arbitre, faits locaux peu documentés et ambiguïtés. Il doit aussi vérifier les répétitions sur l'ensemble des **30 matchs**, non uniquement à l'intérieur du Niveau 3.
 
-## Important : validation pédagogique
+**Ne pas interpréter « 100 % de rédaction » comme « 100 % de fiabilité certifiée ».**
 
-**Rédigé et contrôlé en structure ne signifie pas encore « certifié pour compétition ».**
-
-Le registre n'exclut pas automatiquement tous les doublons sémantiques. Certaines questions spécialisées, les sources des faits rares et les variantes de réponse doivent encore être auditées individuellement avant la version finale destinée aux arbitres.
-
-## Reste à faire
-
-**Matchs 26 à 30** (480 Q/R), puis audit documentaire transversal final des 30 matchs, harmonisation de l'arbitrage et génération des PDF si nécessaire.
+[Rapport de contrôles du Niveau 3](../../audit/NIVEAU_3_2026-10-11.md).
