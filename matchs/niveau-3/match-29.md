@@ -1,0 +1,448 @@
+# MATCH 29 — NIVEAU 3
+
+**96 questions et réponses ; 20 rubriques ; Identification progressive.**
+
+## 1. MANCHETTE A — ÉQUIPE A
+
+**Q1.** Au 11 octobre 2026, quelle ville est la capitale du Pakistan, dont la construction débuta dans les années 1960 ?
+
+**R.** Islamabad
+
+**Q2.** Au 11 octobre 2026, quelle monnaie est utilisée en Tanzanie ?
+
+**R.** Shilling tanzanien
+
+## 2. MANCHETTE B — ÉQUIPE B
+
+**Q1.** Au 11 octobre 2026, quelle ville abrite la Cour pénale internationale aux Pays-Bas ?
+
+**R.** La Haye
+
+**Q2.** Au 11 octobre 2026, quelle ville abrite le secrétariat général de l'Organisation mondiale du tourisme des Nations unies ?
+
+**R.** Madrid
+
+## 3. SPORTS ET JEUX
+
+**Q1.** Quel lanceur indien remporta le javelot olympique masculin à Tokyo en 2021 ?
+
+**R.** Neeraj Chopra
+
+**Q2.** Quel sprinteur canadien remporta le 200 m masculin aux Jeux olympiques de Tokyo ?
+
+**R.** Andre De Grasse
+
+**Q3.** Quelle athlète chinoise remporta le lancer du poids féminin aux Jeux olympiques de Tokyo ?
+
+**R.** Gong Lijiao
+
+**Q4.** Au volley-ball, combien de touches un camp possède-t-il normalement pour renvoyer le ballon, contre compris selon les règles ?
+
+**R.** 3
+
+**Q5.** Au rugby à XV, combien de points rapporte un essai marqué avant transformation ?
+
+**R.** 5
+
+## 4. CINÉMA ET MUSIQUE
+
+**Q1.** Quel cinéaste colombien réalisa L'Étreinte du serpent en 2015, film tourné dans l'Amazonie ?
+
+**R.** Ciro Guerra
+
+**Q2.** Quelle réalisatrice libanaise réalisa Capharnaüm, prix du jury au Festival de Cannes 2018 ?
+
+**R.** Nadine Labaki
+
+**Q3.** Quel cinéaste japonais reçut la Palme d'or 2018 pour Une affaire de famille ?
+
+**R.** Hirokazu Kore-eda
+
+**Q4.** Quel terme cinématographique désigne la position de la caméra au-dessus du sujet filmé ?
+
+**R.** Plongée
+
+**Q5.** Comment appelle-t-on une ligne mélodique accompagnée par des accords, opposée à une texture polyphonique ?
+
+**R.** Homophonie
+
+## 5. LANGAGE A
+
+**THÈME : IMAGES ET SUBSTITUTIONS**
+
+**Q1.** Quelle figure désigne un objet par sa matière, comme « le fer » pour une épée ?
+
+**R.** Métonymie
+
+**Q2.** Quelle figure désigne une partie pour le tout, comme « des voiles » pour des bateaux ?
+
+**R.** Synecdoque
+
+**Q3.** Quel procédé décrit un objet inanimé comme s'il avait des sentiments humains ?
+
+**R.** Personnification
+
+**Q4.** Comment appelle-t-on un texte qui critique par imitation caricaturale le style d'un auteur ?
+
+**R.** Parodie
+
+## 6. CANTONADE 1
+
+**Q1.** Quelle souveraine de la dynastie Silla monta sur le trône de Corée en 632, devenant la première reine régnante de ce royaume ?
+
+**R.** Seondeok
+
+**Q2.** Quel royaume de la péninsule coréenne gouverna-t-elle jusqu'en 647 ?
+
+**R.** Silla
+
+**Q3.** Quelle ville historique de Corée du Sud servait de capitale à cette dynastie ?
+
+**R.** Gyeongju
+
+**Q4.** Quelle reine lui succéda au trône et mourut en 654 ?
+
+**R.** Jindeok
+
+**Q5.** En quelle année la première de ces deux reines mourut-elle ?
+
+**R.** 647
+
+## 7. LANGAGE B
+
+**THÈME : VALEURS GRAMMATICALES**
+
+**Q1.** Quel type de coordination relie deux propositions par « or », dans « Il pleuvait, or nous partîmes » ?
+
+**R.** Coordination
+
+**Q2.** Dans « Il semble que tu comprennes », quel mode est employé pour « comprennes » ?
+
+**R.** Subjonctif
+
+**Q3.** Dans « Nous avions quitté la ville », quel temps est « avions quitté » ?
+
+**R.** Plus-que-parfait
+
+**Q4.** Dans « En arrivant, il salua », quel mode non personnel est employé pour « en arrivant » ?
+
+**R.** Gérondif
+
+## 8. SCIENCE ET TECHNIQUE
+
+**Q1.** Quel mathématicien anglais posa les fondations de la théorie des ensembles flous en 1965 ?
+
+**R.** Lotfi Zadeh
+
+**Q2.** Quelle mathématicienne américaine reçut en 2019 le prix Abel pour ses travaux sur les équations aux dérivées partielles ?
+
+**R.** Karen Uhlenbeck
+
+**Q3.** Quel astrophysicien canadien fut l'un des pionniers de l'étude des lentilles gravitationnelles ?
+
+**R.** Peter Schneider
+
+**Q4.** Quel terme décrit l'augmentation de l'énergie libre requise pour former une interface entre deux phases ?
+
+**R.** Tension interfaciale
+
+**Q5.** Comment appelle-t-on l'étude des mouvements d'un fluide indépendamment des forces qui les produisent ?
+
+**R.** Cinématique des fluides
+
+## 9. QUI, QUE, OÙ SUIS-JE ?
+
+**Q1.** Où suis-je ? Je suis une ville d'Iran connue pour des jardins persans, des poètes et une citadelle appelée Arg-e Karim Khan.
+
+**R.** Chiraz
+
+**Q2.** Où suis-je ? Je suis la montagne sacrée de la Tanzanie dont le sommet est l'Uhuru Peak.
+
+**R.** Kilimandjaro
+
+**Q3.** Que suis-je ? Je suis un grand lac des hautes Andes, partagé entre le Pérou et la Bolivie.
+
+**R.** Titicaca
+
+**Q4.** Où suis-je ? Je suis la cité ancienne de la vallée de l'Indus située dans l'actuel Pakistan, proche de Harappa.
+
+**R.** Harappa
+
+**Q5.** Où suis-je ? Je suis une ville sainte d'Éthiopie aux églises taillées dans le roc sous un souverain médiéval.
+
+**R.** Lalibela
+
+## 10. DIVERS
+
+**THÈME : LANGUES CLASSIQUES ET SAVOIRS**
+
+**Q1.** Quelle langue sémitique liturgique de l'Éthiopie et de l'Érythrée est écrite en caractères éthiopiens ?
+
+**R.** Guèze
+
+**Q2.** Quelle langue liturgique de l'Égypte chrétienne descend du dernier stade de l'égyptien ancien ?
+
+**R.** Copte
+
+**Q3.** Quelle langue indo-européenne fut l'une des langues religieuses des anciens Perses zoroastriens ?
+
+**R.** Avestique
+
+**Q4.** Quelle langue classique de l'Inde est associée au Rig-Véda et à la littérature sacrée hindoue ?
+
+**R.** Sanskrit
+
+**Q5.** Quelle langue classique d'Asie du Sud a donné naissance à une littérature bouddhique du canon theravada ?
+
+**R.** Pali
+
+## 11. ÉCLAIR 1
+
+**Q1.** Quel peintre russe signa Carré noir sur fond blanc en 1915 ?
+
+**R.** Kasimir Malevitch
+
+**Q2.** Quel écrivain français écrivit À la recherche du temps perdu ?
+
+**R.** Marcel Proust
+
+**Q3.** Quel poète bengali est connu pour le recueil Gitanjali, traduit en anglais en 1912 ?
+
+**R.** Rabindranath Tagore
+
+**Q4.** Quelle romancière américaine publia Ne tirez pas sur l'oiseau moqueur en 1960 ?
+
+**R.** Harper Lee
+
+**Q5.** Quel cinéaste américain signa La Nuit du chasseur en 1955, son unique long métrage comme réalisateur ?
+
+**R.** Charles Laughton
+
+**Q6.** Quel musicien américain de jazz fut surnommé Bird et jouait du saxophone alto ?
+
+**R.** Charlie Parker
+
+**Q7.** Quel peintre norvégien réalisa Le Cri dans plusieurs versions à partir des années 1890 ?
+
+**R.** Edvard Munch
+
+**Q8.** Quel mot désigne une transformation de forme sans changement de composition chimique ?
+
+**R.** Déformation
+
+**Q9.** Quelle grandeur physique exprime une variation de vitesse par unité de temps ?
+
+**R.** Accélération
+
+**Q10.** Quel nombre irrationnel est le rapport entre la circonférence d'un cercle et son diamètre ?
+
+**R.** Pi
+
+# MI-TEMPS
+
+## 12. CULTURE RÉGIONALE — RDC
+
+**Q1.** Quel établissement universitaire public de Lubumbashi est souvent désigné par le sigle UNILU ?
+
+**R.** Université de Lubumbashi
+
+**Q2.** Quel établissement de formation artistique de Kinshasa est connu sous le nom d'ABA ?
+
+**R.** Académie des beaux-arts
+
+**Q3.** Quel établissement supérieur de Kinshasa forme notamment en théâtre, musique et arts de la scène ?
+
+**R.** Institut national des arts
+
+**Q4.** Quel institut public de Kinshasa forme notamment des ingénieurs dans l'aéronautique et l'électricité sous le sigle ISTA ?
+
+**R.** Institut supérieur des techniques appliquées
+
+**Q5.** Quelle université de Kinshasa, dite UNIKIN, fut l'ancienne université Lovanium ?
+
+**R.** Université de Kinshasa
+
+## 13. LITTÉRATURE ET ART
+
+**Q1.** Quel écrivain congolais publia La Re-production, roman lauréat du Grand Prix littéraire d'Afrique noire en 1987 ?
+
+**R.** Thomas Mpoyi-Buatu
+
+**Q2.** Quelle écrivaine ivoirienne publia Le Royaume aveugle, pièce de théâtre sur le pouvoir ?
+
+**R.** Véronique Tadjo
+
+**Q3.** Quelle romancière camerounaise publia La Saison de l'ombre en 2013 ?
+
+**R.** Léonora Miano
+
+**Q4.** Quel écrivain haïtien publia Gouverneurs de la rosée après sa mort en 1944 ?
+
+**R.** Jacques Roumain
+
+**Q5.** Quel procédé de narration consiste à raconter une histoire dans une autre histoire ?
+
+**R.** Récit enchâssé
+
+## 14. MONDE CONTEMPORAIN
+
+**Q1.** Quelle réforme politique japonaise de 1868 rétablit un pouvoir impérial central et engagea une modernisation rapide ?
+
+**R.** Restauration de Meiji
+
+**Q2.** Quel traité conclu en 1990 prépara la réunification de l'Allemagne après la chute du mur de Berlin ?
+
+**R.** Traité Deux-plus-Quatre
+
+**Q3.** Quel événement de 1979 mit fin au règne du Shah et instaura une république islamique en Iran ?
+
+**R.** Révolution iranienne
+
+**Q4.** En quelle année le Bangladesh proclama-t-il son indépendance après une guerre avec le Pakistan ?
+
+**R.** 1971
+
+**Q5.** En quelle année l'empire allemand fut-il proclamé à Versailles ?
+
+**R.** 1871
+
+## 15. RELAIS A
+
+**THÈME : LOIS PHYSIQUES ET LEURS AUTEURS**
+
+**Q1.** Quel chimiste allemand donna son nom à la loi reliant la concentration d'une solution à son absorption lumineuse ?
+
+**R.** August Beer
+
+**Q2.** Quel physicien suisse formula en 1729 une relation entre l'absorption de la lumière et l'épaisseur d'un milieu ?
+
+**R.** Johann Heinrich Lambert
+
+**Q3.** Quel physicien allemand donna son nom à la loi reliant intensité et tension dans un conducteur ohmique ?
+
+**R.** Georg Ohm
+
+**Q4.** Quel physicien français donna son nom à une relation entre pression et volume des gaz à température constante ?
+
+**R.** Edme Mariotte
+
+## 16. CANTONADE 2
+
+**Q1.** Quelle astronome allemande puis britannique découvrit plusieurs comètes et travailla aux côtés de son frère astronome ?
+
+**R.** Caroline Herschel
+
+**Q2.** Quel astronome britannique, célèbre pour la découverte d'Uranus, était son frère ?
+
+**R.** William Herschel
+
+**Q3.** Dans quelle ville allemande naquit-elle en 1750, alors au sein de l'électorat de Hanovre ?
+
+**R.** Hanovre
+
+**Q4.** Dans quelle ville anglaise les deux membres de la famille menèrent-ils des observations astronomiques au XVIIIe siècle ?
+
+**R.** Bath
+
+**Q5.** En quelle année mourut-elle, presque centenaire ?
+
+**R.** 1848
+
+## 17. RELAIS B
+
+**THÈME : INSTRUMENTS SCIENTIFIQUES**
+
+**Q1.** Quel appareil d'observation optique utilise deux objectifs pour permettre la vision stéréoscopique ?
+
+**R.** Stéréoscope
+
+**Q2.** Quel ancien instrument astronomique mesure l'angle entre l'horizon et un astre en mer ?
+
+**R.** Sextant
+
+**Q3.** Quel instrument ancien à anneaux concentriques représente les cercles de la sphère céleste ?
+
+**R.** Sphère armillaire
+
+**Q4.** Quel appareil mesure l'angle d'un faisceau lumineux lors d'expériences optiques en laboratoire ?
+
+**R.** Goniomètre
+
+## 18. MYTHOLOGIE ET RELIGION
+
+**Q1.** Quel dieu grec du vin et de l'extase est associé au théâtre antique ?
+
+**R.** Dionysos
+
+**Q2.** Quel personnage de la mythologie grecque dut soutenir la voûte céleste après la défaite des Titans ?
+
+**R.** Atlas
+
+**Q3.** Quelle figure divine grecque symbolise la victoire et est souvent représentée ailée ?
+
+**R.** Niké
+
+**Q4.** Quel dieu hindou est généralement représenté avec une tête d'éléphant et associé à la levée des obstacles ?
+
+**R.** Ganesh
+
+**Q5.** Quel terme religieux désigne la croyance dans un dieu unique ?
+
+**R.** Monothéisme
+
+## 19. IDENTIFICATION
+
+**Q1.** Qui suis-je ?
+
+**40 points —** J'ai expliqué des phénomènes astronomiques au moyen d'objets ordinaires, comme une table ronde, un miroir et une lampe pour représenter les ombres.
+
+**30 points —** Autodidacte de la dynastie Qing, j'ai étudié les calendriers, les mathématiques et le mouvement des astres malgré les limites imposées aux femmes savantes.
+
+**20 points —** Mon traité Yue Shi Jie explique le mécanisme des éclipses de Lune et leur relation avec la position de la Terre et du Soleil.
+
+**10 points —** Astronome, mathématicienne et poétesse chinoise née en 1768, je suis morte en 1797 à seulement 29 ans.
+
+**R.** Wang Zhenyi
+
+## 20. ÉCLAIR 2
+
+**Q1.** Quelle romancière japonaise publia La Déchéance d'un homme, récit de 1948, sous le nom de plume d'un écrivain masculin ?
+
+**R.** Osamu Dazai
+
+**Q2.** Quel peintre américain réalisa Christina's World en 1948 ?
+
+**R.** Andrew Wyeth
+
+**Q3.** Quel écrivain français publia Les Mains sales en 1948 ?
+
+**R.** Jean-Paul Sartre
+
+**Q4.** Quel philosophe français écrivit De la grammatologie en 1967 ?
+
+**R.** Jacques Derrida
+
+**Q5.** Quel peintre espagnol est associé au mouvement surréaliste et aux montres molles ?
+
+**R.** Salvador Dalí
+
+**Q6.** Quel écrivain tchèque écrivit La Métamorphose en 1915 ?
+
+**R.** Franz Kafka
+
+**Q7.** Quelle grandeur physique se mesure en pascals ?
+
+**R.** Pression
+
+**Q8.** Quelle science étudie les sols, leur formation et leur classification ?
+
+**R.** Pédologie
+
+**Q9.** Quel type de rayonnement électromagnétique se situe entre le visible et les rayons X ?
+
+**R.** Ultraviolet
+
+**Q10.** Quel nom donne-t-on à l'état d'une cellule ayant deux jeux de chromosomes homologues ?
+
+**R.** Diploïdie
+
