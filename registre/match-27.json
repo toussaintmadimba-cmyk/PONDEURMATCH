@@ -73,7 +73,7 @@
     "2008-en-quelle-annee-la-chute-de-la-monarchie-nepalaise-fut-ell",
     "1964-en-quelle-annee-la-tanzanie-fut-elle-formee-par-l-union-du",
     "robert-noyce-quel-ingenieur-americain-fut-l-un-des-inventeurs-du-circui",
-    "jack-kilby-quel-physicien-britannique-participa-a-l-invention-du-circ",
+    "jack-kilby-quel-ingenieur-americain-realisa-en-1958-chez-texas-instru",
     "douglas-engelbart-quel-inventeur-americain-presenta-en-1968-une-demonstratio",
     "fujio-masuoka-quel-ingenieur-japonais-est-souvent-credite-pour-le-develo",
     "bessie-coleman-quelle-aviatrice-americaine-empechee-d-integrer-les-ecoles",
@@ -103,5 +103,5 @@
     "isolant-comment-appelle-t-on-un-materiau-qui-s-oppose-au-passage-d"
   ],
   "identification": "Lise Meitner",
-  "quality_status": "structural_check_passed; full_semantic_and_fact_audit_pending"
+  "quality_status": "structure_validated_factual_audit_pending"
 }
