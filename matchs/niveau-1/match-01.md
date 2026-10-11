@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel poète et homme d'État fut le premier président du Sénégal indépendant ?
+**Q1.** Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?
 **R.** Léopold Sédar Senghor
 
 **Q2.** Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?
