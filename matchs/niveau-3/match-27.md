@@ -352,7 +352,7 @@
 
 **THÈME : CAPITALES ET CITÉS ANTIQUES**
 
-**Q1.** Quel site de l'Empire hittite de l'actuelle Turquie fut sa capitale sous le nom Hattusa ?
+**Q1.** Quel site archéologique proche de Boğazkale, inscrit au patrimoine mondial de l'UNESCO, fut la capitale de l'Empire hittite ?
 
 **R.** Hattusa
 
@@ -400,7 +400,7 @@
 
 **20 points —** Mon calculateur graphique, destiné aux ingénieurs des réseaux électriques, a donné lieu à un brevet dans les années 1920.
 
-**10 points —** Ingénieure américaine née en 1883, je compte parmi les pionnières de l'ingénierie électrique et porte le nom de famille Clarke.
+**10 points —** En 1947, je devins la première femme professeure d'ingénierie électrique aux États-Unis, à l'université du Texas à Austin.
 
 **R.** Edith Clarke
 
