@@ -29,3 +29,8 @@ Lire séparément les quatre indices (40/30/20/10 points). Ne pas donner le proc
 
 ## État
 96 Q/R et 20 rubriques contrôlées. Corrections anti-répétition engagées ; les réponses non citées ici demandent une validation individuelle avant compétition. Accepter les graphies usuelles : Hatshepsut/Hatchepsout ; Senenmut/Senenmout.
+
+## Rectificatif QC — auteur et définition
+- L'énoncé sur Olaudah Equiano ne contient plus le nom de l'auteur dans le titre de son autobiographie. Réponse : **Olaudah Equiano**.
+- London Museum, autobiographie publiée à Londres en 1789 : https://www.londonmuseum.org.uk/collections/london-stories/olaudah-equiano-writer-abolitionist/
+- La question sur la limite mathématique a également été reformulée sans donner le terme attendu.
