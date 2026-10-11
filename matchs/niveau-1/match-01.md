@@ -283,7 +283,7 @@
 **Q1.** Quel pays africain a Le Caire pour capitale ?
 **R.** Égypte
 
-**Q2.** Dans quel pays se trouve le Kilimandjaro ?
+**Q2.** Dans quel pays africain se trouve le parc national du Serengeti ?
 **R.** Tanzanie
 
 **Q3.** Quel pays africain a Luanda pour capitale ?
