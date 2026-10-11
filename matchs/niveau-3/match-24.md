@@ -396,13 +396,13 @@
 
 **Q1.** Qui suis-je ?
 
-**40 points —** Journaliste d'enquête, j'ai volontairement vécu sous une fausse identité dans une institution psychiatrique new-yorkaise pour en dénoncer les conditions.
+**40 points —** Lors d'un séjour au Mexique dans les années 1880, je dénonçai l'emprisonnement d'un journaliste critique du régime de Porfirio Díaz.
 
-**30 points —** À la fin du XIXe siècle, j'ai entrepris un voyage autour du globe destiné à rivaliser avec le parcours d'un personnage de Jules Verne.
+**30 points —** En 1887, j'ai simulé des troubles mentaux pour enquêter dans un asile new-yorkais de Blackwell's Island.
 
-**20 points —** Mon reportage sur l'internement psychiatrique fut publié sous le titre Ten Days in a Mad-House en 1887.
+**20 points —** Mon voyage commencé en 1889 cherchait à battre le record imaginaire de Phileas Fogg, héros de Jules Verne.
 
-**10 points —** Née Elizabeth Jane Cochran, j'ai réalisé un tour du monde en 72 jours sous un pseudonyme de journaliste devenu célèbre.
+**10 points —** Née Elizabeth Jane Cochran, j'ai bouclé ce tour du monde en 72 jours sous un pseudonyme devenu célèbre.
 
 **R.** Nellie Bly
 
