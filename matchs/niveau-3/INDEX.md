@@ -24,8 +24,9 @@ Il faut éviter les répétitions d'une même information reformulée quatre foi
 | 22 | [Match 22](match-22.md) | Ellen Ochoa | [Registre](../../registre/match-22.json) | [Sources](../../sources/match-22-sources.md) |
 | 23 | [Match 23](match-23.md) | Gladys West | [Registre](../../registre/match-23.json) | [Sources](../../sources/match-23-sources.md) |
 | 24 | [Match 24](match-24.md) | Nellie Bly | [Registre](../../registre/match-24.json) | [Sources](../../sources/match-24-sources.md) |
+| 25 | [Match 25](match-25.md) | Alice Guy-Blaché | [Registre](../../registre/match-25.json) | [Sources](../../sources/match-25-sources.md) |
 
-**Avancement de rédaction du Niveau 3 : 4/10 matchs (384/960 questions, 40 %).**
+**Avancement de rédaction du Niveau 3 : 5/10 matchs (480/960 questions, 50 %).**
 
 ## Contrôles effectués sur ces matchs
 
@@ -44,4 +45,4 @@ Le registre n'exclut pas automatiquement tous les doublons sémantiques. Certain
 
 ## Reste à faire
 
-**Matchs 25 à 30** (576 Q/R), puis audit documentaire transversal final des 30 matchs, harmonisation de l'arbitrage et génération des PDF si nécessaire.
+**Matchs 26 à 30** (480 Q/R), puis audit documentaire transversal final des 30 matchs, harmonisation de l'arbitrage et génération des PDF si nécessaire.
