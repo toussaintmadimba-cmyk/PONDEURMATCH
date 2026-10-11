@@ -17,7 +17,10 @@
       "number": 1,
       "question": "Au 6 octobre 2026, qui est le président de la République du Ghana ?",
       "answer": "John Dramani Mahama",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "John Mahama",
+        "John Dramani Mahama"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/"
@@ -56,7 +59,8 @@
       "question": "Au 6 octobre 2026, qui est la présidente du Mexique ?",
       "answer": "Claudia Sheinbaum Pardo",
       "accepted_variants": [
-        "Claudia Sheinbaum"
+        "Claudia Sheinbaum",
+        "Claudia Sheinbaum Pardo"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -380,7 +384,10 @@
       "number": 2,
       "question": "Sur quelle île fut-il emprisonné pendant de longues années ?",
       "answer": "Robben Island",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Île de Robben",
+        "Robben Island"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.nelsonmandela.org/biography"
@@ -400,9 +407,9 @@
       "question": "Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?",
       "answer": "ANC",
       "accepted_variants": [
-        "Congrès national africain",
+        "ANC",
         "African National Congress",
-        "ANC"
+        "Congrès national africain"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -423,6 +430,7 @@
       "question": "Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?",
       "answer": "Frederik Willem de Klerk",
       "accepted_variants": [
+        "Frederik de Klerk",
         "F. W. de Klerk",
         "Frederik Willem de Klerk"
       ],
@@ -483,8 +491,8 @@
       "question": "Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?",
       "answer": "COD",
       "accepted_variants": [
-        "Complément d'objet direct",
-        "COD"
+        "COD",
+        "complément d’objet direct"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -563,7 +571,10 @@
       "number": 2,
       "question": "Quelle unité du SI mesure la résistance électrique ?",
       "answer": "Ohm",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "ohm",
+        "Ω"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
@@ -661,7 +672,12 @@
       "number": 2,
       "question": "Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.",
       "answer": "Everest",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Everest",
+        "mont Everest",
+        "Sagarmatha",
+        "Chomolungma"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.guinnessworldrecords.com/world-records/highest-mountain"
@@ -680,7 +696,10 @@
       "number": 3,
       "question": "Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.",
       "answer": "Nil",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Nil",
+        "fleuve Nil"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://education.nationalgeographic.org/resource/nile-river/"
@@ -700,8 +719,8 @@
       "question": "Qui suis-je ? Peintre espagnol, je suis l'auteur de Guernica.",
       "answer": "Pablo Picasso",
       "accepted_variants": [
-        "Pablo Picasso",
-        "Picasso"
+        "Picasso",
+        "Pablo Picasso"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1009,7 +1028,8 @@
       "question": "Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?",
       "answer": "Dioxygène",
       "accepted_variants": [
-        "Oxygène (nom usuel du gaz O₂)"
+        "dioxygène",
+        "oxygène"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1072,7 +1092,7 @@
       "answer": "Parc national des Virunga",
       "accepted_variants": [
         "Virunga",
-        "Parc national des Virunga"
+        "parc national des Virunga"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1092,7 +1112,10 @@
       "number": 4,
       "question": "Quel fleuve sépare notamment Kinshasa de Brazzaville ?",
       "answer": "Fleuve Congo",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Congo",
+        "fleuve Congo"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/"
@@ -1112,8 +1135,8 @@
       "question": "Quel complexe hydroélectrique majeur est établi sur le fleuve Congo dans le Kongo Central ?",
       "answer": "Inga",
       "accepted_variants": [
-        "Complexe d'Inga",
-        "Inga"
+        "Inga",
+        "complexe hydroélectrique d’Inga"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1304,7 +1327,10 @@
       "number": 5,
       "question": "Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?",
       "answer": "Mikhaïl Gorbatchev",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Mikhaïl Gorbatchev",
+        "Mikhail Gorbachev"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821"
@@ -1362,8 +1388,8 @@
       "question": "Quel savant italien observa quatre satellites de Jupiter en 1610 grâce à une lunette astronomique ?",
       "answer": "Galilée",
       "accepted_variants": [
-        "Galileo Galilei",
-        "Galilée"
+        "Galilée",
+        "Galileo Galilei"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1402,7 +1428,10 @@
       "number": 1,
       "question": "Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?",
       "answer": "Léopold Sédar Senghor",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Léopold Sédar Senghor",
+        "Senghor"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16"
@@ -1614,7 +1643,11 @@
       "number": 3,
       "question": "Quelle ville d'Arabie saoudite abrite la Kaaba ?",
       "answer": "La Mecque",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "La Mecque",
+        "Makkah",
+        "Makka"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518"
@@ -1713,9 +1746,9 @@
       "question": "Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut sommet du pays ?",
       "answer": "Mont Fuji",
       "accepted_variants": [
-        "Fujisan",
         "Mont Fuji",
-        "Fuji-san"
+        "Fuji",
+        "Fujisan"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
@@ -1754,7 +1787,10 @@
       "number": 4,
       "question": "Quelle unité du SI mesure la fréquence ?",
       "answer": "Hertz",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "hertz",
+        "Hz"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.bipm.org/fr/-/resolution-cgpm-11-12"
@@ -1774,6 +1810,7 @@
       "question": "Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?",
       "answer": "FAO",
       "accepted_variants": [
+        "FAO",
         "Organisation des Nations unies pour l'alimentation et l'agriculture"
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
@@ -1794,7 +1831,10 @@
       "number": 6,
       "question": "Dans quel pays se trouve le Machu Picchu ?",
       "answer": "Pérou",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Pérou",
+        "République du Pérou"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://whc.unesco.org/en/list/274"
@@ -1813,7 +1853,10 @@
       "number": 7,
       "question": "Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?",
       "answer": "Frédéric Chopin",
-      "accepted_variants": [],
+      "accepted_variants": [
+        "Frédéric Chopin",
+        "Fryderyk Chopin"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny"
@@ -1910,5 +1953,7 @@
   "reviewed_count": 96,
   "unreviewed_count": 0,
   "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation.",
-  "verification_phase": "96 Q/R documentées et recoupées ; arbitrage, déduplication sémantique approfondie et épreuve orale restent distincts"
+  "verification_phase": "96 Q/R documentées et recoupées ; arbitrage, déduplication sémantique approfondie et épreuve orale restent distincts",
+  "arbitration_status": "REVUE_EDITORIALE_AVEC_VARIANTES; TEST_ORAL_NON_EFFECTUE",
+  "certification_status": "DOCUMENTAIREMENT_CONTROLE; PUBLICATION_FINALE_SOUS_RESERVE_TEST_ORAL"
 }
