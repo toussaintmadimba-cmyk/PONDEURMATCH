@@ -92,25 +92,25 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle scientifique et militante britannique du XIXe siècle est célèbre pour une étude majeure des fossiles de reptiles marins ?
+**Q1.** Quelle mathématicienne et vulgarisatrice écossaise traduisit et annota la Mécanique céleste de Laplace au XIXe siècle ?
 
-**R.** Mary Anning
+**R.** Mary Somerville
 
-**Q2.** Dans quelle ville côtière du Dorset vendait-elle et étudiait-elle ses trouvailles ?
+**Q2.** Dans quelle ville écossaise naquit-elle en 1780 ?
 
-**R.** Lyme Regis
+**R.** Jedburgh
 
-**Q3.** Quel reptile marin au long cou contribua-t-elle à faire connaître avec une découverte en 1823 ?
+**Q3.** Quel ouvrage de vulgarisation scientifique publia-t-elle en 1834 sur les sciences physiques ?
 
-**R.** Plésiosaure
+**R.** On the Connexion of the Physical Sciences
 
-**Q4.** Quel autre grand reptile marin ressemblant à un dauphin, mais reptile, fut identifié grâce à ses fossiles ?
+**Q4.** Quel astronome et mathématicien français avait rédigé l'ouvrage dont elle réalisa la traduction commentée ?
 
-**R.** Ichtyosaure
+**R.** Pierre-Simon Laplace
 
-**Q5.** En quelle année mourut-elle ?
+**Q5.** En quelle année mourut-elle à Naples, après une longue carrière intellectuelle ?
 
-**R.** 1847
+**R.** 1872
 
 ## 7. LANGAGE B
 
@@ -214,9 +214,9 @@
 
 **R.** Heitor Villa-Lobos
 
-**Q4.** Quel écrivain ghanéen publia Les Beaux ne sont pas encore nés ?
+**Q4.** Quel romancier d'origine sri-lankaise reçut le Booker Prize en 1992 pour Le Patient anglais ?
 
-**R.** Ayi Kwei Armah
+**R.** Michael Ondaatje
 
 **Q5.** Quelle écrivaine indienne publia Le Dieu des petits riens en 1997 ?
 
@@ -250,17 +250,17 @@
 
 **R.** Mbanza-Kongo
 
-**Q2.** Quel artiste de Lubumbashi est connu pour sa peinture sur les transformations urbaines et minières, souvent signée « Moke fils » ?
+**Q2.** Quelle association artistique de Lubumbashi organise la Biennale de Lubumbashi, rendez-vous consacré à l'art contemporain ?
 
-**R.** Moke Fils
+**R.** Picha
 
-**Q3.** Quelle danse traditionnelle des Pende accompagne notamment les masques de fête et de cérémonie ?
+**Q3.** Quel festival du Kwilu valorise les masques et les danses traditionnelles de plusieurs communautés du pays ?
 
-**R.** Gungu
+**R.** Festival de Gungu
 
-**Q4.** Quel écrivain congolais publia La Vie et demie, roman écrit en français et paru en 1979 ?
+**Q4.** Quel parc national de la RDC protège une vaste zone de forêt tropicale humide dans le bassin central ?
 
-**R.** Sony Labou Tansi
+**R.** Parc national de la Salonga
 
 **Q5.** Quel célèbre fleuve frontalier entre la RDC et la République du Congo reçoit l'Oubangui au niveau de Liranga ?
 
@@ -326,9 +326,9 @@
 
 **R.** Pierre Curie
 
-**Q4.** Quel physicien français donna son nom à une expérience montrant la rotation de la Terre grâce à un pendule ?
+**Q4.** Quel physicien allemand découvrit en 1895 les rayons X, ensuite utilisés en radiographie ?
 
-**R.** Léon Foucault
+**R.** Wilhelm Röntgen
 
 ## 16. CANTONADE 2
 
