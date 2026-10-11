@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 38,
-    "A_VERIFIER_SOURCE": 58
+    "DOCUMENTE_SOURCE_DIRECTE": 44,
+    "A_VERIFIER_SOURCE": 52
   },
   "questions": [
     {
@@ -257,8 +257,10 @@
       "question": "Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?",
       "answer": "Homophones",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/homophone/40297"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -373,8 +375,10 @@
       "question": "Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?",
       "answer": "Adverbe",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/dehors/22967"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -420,8 +424,10 @@
       "question": "Comment appelle-t-on un mot qui remplace un nom ?",
       "answer": "Pronom",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://nos-langues.canada.ca/fr/cles-de-la-redaction/pronoms-generalites"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -482,8 +488,10 @@
       "question": "Quel processus permet aux plantes vertes de produire de la matière organique grâce à la lumière ?",
       "answer": "Photosynthèse",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -658,8 +666,10 @@
       "question": "Quel instrument sert à mesurer la température ?",
       "answer": "Thermomètre",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/thermom%C3%A8tre/77814"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -1334,8 +1344,10 @@
       "question": "Quelle est la capitale du Canada ?",
       "answer": "Ottawa",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://parcs.canada.ca/culture/designation/lieu-site/capitale-capital"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
