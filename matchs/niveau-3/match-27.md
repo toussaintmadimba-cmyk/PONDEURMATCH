@@ -82,9 +82,9 @@
 
 **R.** Question rhétorique
 
-**Q4.** Quelle figure donne à un objet ou un animal des comportements propres à l'être humain ?
+**Q4.** Quel procédé littéraire repose sur la répétition rapprochée de sons consonantiques ?
 
-**R.** Personnification
+**R.** Allitération
 
 ## 6. CANTONADE 1
 
@@ -116,9 +116,9 @@
 
 **R.** Concession
 
-**Q2.** Dans « Il a beau travailler, il échoue », quelle valeur exprime « avoir beau » ?
+**Q2.** Dans « Il a tant travaillé qu'il a réussi », quelle relation logique exprime la subordonnée introduite par « que » ?
 
-**R.** Concession
+**R.** Conséquence
 
 **Q3.** Dans « Du moment que tu acceptes, nous irons », quelle relation principale peut exprimer la locution « du moment que » ?
 
@@ -202,13 +202,13 @@
 
 **R.** Louisa May Alcott
 
-**Q2.** Quel philosophe français écrivit Le Mythe de Sisyphe en 1942 ?
+**Q2.** Quel philosophe français publia La Pensée et le Mouvant en 1934 ?
 
-**R.** Albert Camus
+**R.** Henri Bergson
 
-**Q3.** Quel poète ghanéen publia The Beautyful Ones Are Not Yet Born en 1968 ?
+**Q3.** Quel écrivain ghanéen publia This Earth, My Brother... en 1971 ?
 
-**R.** Ayi Kwei Armah
+**R.** Kofi Awoonor
 
 **Q4.** Quelle cinéaste italienne réalisa Sept beautés, film nommé aux Oscars en 1977 ?
 
@@ -268,9 +268,9 @@
 
 **R.** Mariama Bâ
 
-**Q2.** Quel écrivain marocain reçut le prix Renaudot 1987 pour Naissance à l'aube ?
+**Q2.** Quel écrivain marocain publia La Boîte à merveilles en 1954 ?
 
-**R.** Driss Chraïbi
+**R.** Ahmed Sefrioui
 
 **Q3.** Quel auteur ivoirien écrivit Allah n'est pas obligé, roman publié en 2000 ?
 
@@ -294,9 +294,9 @@
 
 **R.** Accord du Sinaï II
 
-**Q3.** Quel traité de 1898 mit fin à la guerre hispano-américaine et entraîna notamment la cession de Porto Rico aux États-Unis ?
+**Q3.** Quel protocole signé en 1901 imposa des indemnités à la Chine après la révolte des Boxers ?
 
-**R.** Traité de Paris
+**R.** Protocole de Pékin
 
 **Q4.** En quelle année la chute de la monarchie népalaise fut-elle consacrée par la proclamation d'une république ?
 
@@ -406,9 +406,9 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quel écrivain chilien publia La Maison aux esprits en 1982 ?
+**Q1.** Quel romancier chilien publia Le Vieux qui lisait des romans d'amour, roman paru en 1989 ?
 
-**R.** Isabel Allende
+**R.** Luis Sepúlveda
 
 **Q2.** Quel cinéaste iranien réalisa Le Goût de la cerise, Palme d'or en 1997 ?
 
