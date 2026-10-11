@@ -90,7 +90,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle traductrice et intellectuelle martiniquaise anima dans l'entre-deux-guerres un salon littéraire favorisant les échanges entre penseurs noirs des deux rives de l'Atlantique ?
+**Q1.** Quelle traductrice et intellectuelle antillaise anima dans l'entre-deux-guerres un salon littéraire favorisant les échanges entre penseurs noirs des deux rives de l'Atlantique ?
 
 **R.** Paulette Nardal
 
@@ -98,7 +98,7 @@
 
 **R.** Martinique
 
-**Q3.** Quelle revue bilingue fondée en 1931 contribua à diffuser les cultures noires entre la France et les États-Unis ?
+**Q3.** Quelle revue bilingue contribua à diffuser les cultures noires entre la France et les États-Unis durant l'entre-deux-guerres ?
 
 **R.** La Revue du monde noir
 
@@ -334,7 +334,7 @@
 
 **R.** Claudette Colvin
 
-**Q2.** Dans quelle ville de l'Alabama eut lieu cette arrestation, au cœur des futurs boycotts des autobus ?
+**Q2.** Dans quelle ville du sud des États-Unis eut lieu cette arrestation, à l'origine d'une longue mobilisation contre la ségrégation dans les autobus ?
 
 **R.** Montgomery
 
