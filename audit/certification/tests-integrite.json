@@ -1,0 +1,975 @@
+{
+  "command": "python scripts/certification_niveau1.py check",
+  "executed_at": "2026-10-11T21:57:01.892300+00:00",
+  "mode": "intégrité; ne certifie ni faits ni arbitrage",
+  "test_count": 193,
+  "passed": 193,
+  "failed": 0,
+  "checks": [
+    {
+      "test": "M01 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 types de réponse calculés",
+      "passed": true,
+      "detail": "67 noms propres; 96/96 classés"
+    },
+    {
+      "test": "M02 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 types de réponse calculés",
+      "passed": true,
+      "detail": "68 noms propres; 96/96 classés"
+    },
+    {
+      "test": "M03 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M03 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M04 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M04 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M05 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M05 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M06 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M06 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M07 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M07 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M08 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M08 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M09 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M09 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "M10 fichier",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 rubriques",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 effectifs Q/R",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 96 associations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 langages",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 thème R5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 thème R7",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 thème R15",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 thème R17",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 quatre indices",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 synchronisation registre",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 empreinte questionnaire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 lecture sans réponses",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 arbitrage synchronisé",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 sources 96 fiches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 statuts légitimes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 validation sans preuve interdite",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 finale exige trois volets",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M10 types de réponse calculés",
+      "passed": true,
+      "detail": "0 noms propres; 0/96 classés"
+    },
+    {
+      "test": "960 identifiants distincts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "2880 questions comparées",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "décisions de doublons traçables",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}
