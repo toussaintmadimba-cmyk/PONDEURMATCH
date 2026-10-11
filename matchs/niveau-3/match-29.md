@@ -88,7 +88,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle souveraine de la dynastie Silla monta sur le trône de Corée en 632, devenant la première reine régnante de ce royaume ?
+**Q1.** Quelle souveraine coréenne du VIIe siècle encouragea les arts et les sciences et devint la première reine régnante de son royaume ?
 
 **R.** Seondeok
 
