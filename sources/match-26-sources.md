@@ -23,3 +23,9 @@ Ces références sont sélectives ; **elles ne certifient pas les 96 réponses**
 ## Rectificatif du contrôle transversal
 - Remplacement par : Quel physicien américain découvrit le positron en 1932 grâce à des expériences sur les rayons cosmiques ? **Réponse :** Carl David Anderson
 - Source : American Physical Society — https://www.aps.org/apsnews/2004/08/discovery-positron-1932
+
+## Rectificatif factuel critique — Kongo Central / Mbanza Kongo
+- **Erreur supprimée :** la question antérieure plaçait Mbanza Kongo dans le Kongo Central (RDC), alors que les vestiges historiques inscrits à l'UNESCO sont en **Angola**.
+- UNESCO, inscription de Mbanza Kongo en Angola : https://whc.unesco.org/fr/decisions/6882/
+- **Nouvelle question :** première centrale du site des rapides du Congo mise en service en 1972. **Réponse : Inga I**.
+- Banque mondiale, fiche officielle sur les centrales Inga I (1972) et Inga II (1982) : https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program
