@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel médecin, philosophe et théologien alsacien reçut le prix Nobel de la paix en 1952 et fonda un hôpital à Lambaréné ?
+**Q1.** Quel médecin et philosophe alsacien fonda un hôpital en Afrique centrale et défendit une éthique du « respect de la vie » ?
 **R.** Albert Schweitzer
 
 **Q2.** Dans quel pays africain se trouve Lambaréné ?
