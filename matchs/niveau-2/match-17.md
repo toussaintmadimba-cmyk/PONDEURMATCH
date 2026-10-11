@@ -22,9 +22,9 @@
 
 **R.** Port-d'Espagne
 
-**Q2.** Au 11 octobre 2026, quelle est la capitale du Bahreïn ?
+**Q2.** Au 11 octobre 2026, quelle est la capitale des États fédérés de Micronésie ?
 
-**R.** Manama
+**R.** Palikir
 
 ## 3. SPORTS ET JEUX
 
@@ -44,9 +44,9 @@
 
 **R.** 5
 
-**Q5.** Quel sport olympique se pratique notamment sur un tatami avec des prises et immobilisations, sans frappe ?
+**Q5.** Quel sport enchaîne natation, cyclisme et course à pied lors d'une même compétition ?
 
-**R.** Judo
+**R.** Triathlon
 
 ## 4. CINÉMA ET MUSIQUE
 
@@ -62,9 +62,9 @@
 
 **R.** Nouri Bouzid
 
-**Q4.** Quel mot italien désigne une musique exécutée sans accompagnement instrumental ?
+**Q4.** Quel terme musical désigne l'exécution simultanée de la même mélodie par plusieurs voix ou instruments ?
 
-**R.** A cappella
+**R.** Unisson
 
 **Q5.** Comment appelle-t-on la technique d'une prise de vue filmée à l'épaule sans support fixe ?
 
@@ -410,13 +410,13 @@
 
 **R.** William Faulkner
 
-**Q3.** Quel pays possède pour capitale Ljubljana ?
+**Q3.** Quel pays possède pour capitale Antananarivo ?
 
-**R.** Slovénie
+**R.** Madagascar
 
-**Q4.** Quel est le nom du sommet le plus élevé de la chaîne de l'Atlas ?
+**Q4.** Quel sommet constitue le point culminant du massif des Vosges en France ?
 
-**R.** Toubkal
+**R.** Grand Ballon
 
 **Q5.** Quel compositeur finlandais est l'auteur de Finlandia ?
 
