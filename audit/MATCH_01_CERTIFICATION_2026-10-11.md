@@ -1,108 +1,68 @@
-# Rapport de certification du Match 01 — 11 octobre 2026
+# MATCH 01 — CERTIFICATION, édition du 11 octobre 2026
 
 ## Décision
 
-**STATUT : PRÊT POUR COMPÉTITION SUR LE PLAN ÉDITORIAL ET DOCUMENTAIRE — essai oral avec de vrais participants recommandé avant l'événement.**
+**CONTRÔLE DOCUMENTAIRE DES 96 Q/R : TERMINÉ.**
 
-Les corrections éditoriales et plusieurs vérifications factuelles sont réalisées sur la branche `qc/match-01-2026-10-11`. La branche `main` n'a pas été modifiée par cette passe.
+**STATUT OPÉRATIONNEL : PRÊT POUR RÉPÉTITION GÉNÉRALE ; HOMOLOGATION « PRÊT POUR COMPÉTITION » SOUS RÉSERVE D'UNE LECTURE À BLANC ET DE LA VALIDATION DES RÈGLES D'ARBITRAGE AVEC L'ORGANISATEUR.**
 
-## Structure testée après modification
+Il n'existe pas de preuve d'une simulation orale réelle dans le dépôt : ne pas prétendre qu'elle a eu lieu.
+
+## Contrôles réellement exécutés
 
 | Contrôle | Résultat |
 |---|---|
-| Matchs contrôlés | 01 / 30 |
-| Niveau | 1 |
-| Questions détectées | 96 / 96 |
-| Réponses détectées | 96 / 96 |
-| Rubriques détectées | 20 / 20 |
-| Quotas précis des rubriques | CONFORMES |
-| Langage A et Langage B | OUI — 4 questions chacun |
-| Cantonades | 2 × 5 |
-| Relais | 2 × 4 |
-| Identification | quatre indices 40/30/20/10 présents |
-| Identifiants de faits du registre existant | 96 / 96 |
-| Réponses littéralement répétées dans ce match | 1 paire(s) ; contrôle de sens distinct |
-| Noms propres | **67/96 (69,8 %)**, reclassification individuelle des réponses accomplie, incluant le statut de nom commun de « négritude » |
+| Questionnaire | **96/96 questions et 96/96 réponses** |
+| Rubriques | **20/20**, Langage A et Langage B conservés |
+| Registre des faits | **96/96** |
+| Références individuelles | **96/96** |
+| Concordances factuelles recoupées | **96/96** |
+| Réponses-noms propres | **67/96 (69.8 %)** |
+| Quatre indices d'identification | **40/30/20/10 présents et vérifiés** |
+| Version arbitre | **96/96 questions, réponses et variantes** |
+| Lignes de sources synchronisées | **96/96** |
+| Recherche de doublons exacts contre matchs 02–30 | **2784 questions comparées, 0 formulation identique** |
+| Doublons de faits identifiés et corrigés | **1 (Gambie/Banjul → Comores/Moroni)** |
+| Comparaison sémantique | **Examen ciblé des réponses communes, recherche exhaustive de paraphrases complexes non démontrée** |
+| Simulation orale avec élèves et arbitres | **NON EFFECTUÉE** |
 
-## Vérification documentaire individuelle
+## Corrections apportées
 
-- **96 / 96** Q/R rattachées à une référence spécifique consultée dans cette passe ; statut `DOCUMENTE_SOURCE_DIRECTE`.
-- **0 / 96** Q/R à confirmer par une source spécifique ; statut `A_VERIFIER_SOURCE`.
-- Les sources antérieures et la connaissance courante ne sont pas comptées comme preuve vérifiée lorsqu'une référence précise n'a pas été examinée.
-- Inventaire nominatif des 96 questions et statuts : [match-01-validation.json](match-01-validation.json).
-- Tableau des références précises : [sources/match-01-sources.md](../sources/match-01-sources.md).
-
-## Corrections appliquées au questionnaire
-
-1. Le total de 68 noms propres est désormais présenté comme une **classification provisoire** et non comme une certification.
-2. Le thème de **Langage A** devient « familles de mots et homophonie », en accord avec les quatre exercices effectivement posés.
-3. La question de la première cantonade relative à l'**ANC** précise le mandat de Nelson Mandela (1991-1997).
-4. La question des **continents** ne donne plus dans son propre énoncé le nombre attendu.
-5. La formule de **dioxygène O₂** remplace une présentation impropre de O₂ comme « symbole chimique » du gaz ; réponse officielle **Dioxygène**.
-6. La question sur **Patrice Émery Lumumba** ne donne plus rétrospectivement à l'État de 1960 une dénomination introduite ultérieurement.
-7. L'identification de **Thomas Sankara** est structurée en quatre indices autonomes, gradés et recoupés avec la Présidence du Faso.
-
-**Aucune question n'a été supprimée ou ajoutée.** Les identifiants de faits sont conservés, car les corrections ne changent pas les connaissances testées, sauf une précision de dénomination chimique sans changement de substance.
-
-## Sources primaires et institutionnelles particulièrement importantes
-
-- Présidence du Ghana, 6 octobre 2026 : https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/
-- Présidence du Mexique, 2 octobre 2026 : https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026
-- World Athletics, records d'Usain Bolt : https://worldathletics.org/athletes/jamaica/usain-bolt-14201847
-- World Rugby, finale 2023 : https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup
-- Fondation Nelson Mandela, biographie : https://www.nelsonmandela.org/biography
-- Gouvernement sud-africain, investiture 1994 : https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994
-- Académie française, Senghor : https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16
-- Présidence du Faso, Thomas Sankara : https://www.presidencedufaso.bf/thomas-sankara/
-- Bureau international des poids et mesures, ohm : https://www.bipm.org/fr/-/resolution-cgpm-11-12
-
-## Vérification transversale ciblée
-
-Des réponses identiques apparaissent dans plusieurs matchs, mais les connaissances testées peuvent différer :
-
-- **Albert Einstein** : théorie de la relativité générale (Match 01) contre formule `E = mc²` (Match 10) ; même personne, **fait distinct**.
-- **Afrique du Sud** : vainqueur du rugby 2023 (Match 01) contre pays de l'activité de Gandhi ou de Mandela (autres matchs) ; **faits distincts**.
-- **Piano** : instrument de 88 touches (Match 01) et indication italienne de nuance « piano » (Match 06) ; **sens distincts**.
-
-Ces cas ne doivent pas être supprimés mécaniquement. Il reste à achever la recherche sémantique **sur les trente questionnaires**, au-delà de cet échantillon.
+- Thème de Langage A aligné sur familles de mots et homophonie.
+- Durée de présidence de l'ANC par Mandela précisée (1991–1997).
+- Précision sur le basket traditionnel FIBA, distinct du basket 3x3, y compris le barème des tirs au-delà de l'arc.
+- Énoncé sur le nombre de continents reformulé sans révéler la réponse.
+- Dioxygène (O₂) nommé et accepté avec variante « oxygène ».
+- Question sur l'eau à −10 °C formulée à l'équilibre thermodynamique (surfusion exclue).
+- Question sur Patrice Lumumba rendue exacte quant au nom de l'État en 1960.
+- Galilée identifié par l'observation des quatre satellites de Jupiter en 1610.
+- Capitale de la Gambie remplacée par capitale des Comores (Moroni) pour éviter une répétition avec le Match 13.
+- Quatre indices documentés et progressifs consacrés à Thomas Sankara.
+- Sources de faible pertinence corrigées (notamment Galilée, Mozart, texte officiel de l'ONU).
 
 ## Arbitrage
 
-Des équivalents ont été consignés dans `audit/match-01-validation.json` pour ANC/Congrès national africain, dioxygène/oxygène, Patrice Lumumba, Galilée/Galileo Galilei, ONU/Nations unies et les graphies géographiques usuelles. Ce registre de variantes doit subir une relecture d'arbitre avant validation.
+La [feuille d'arbitrage](../arbitrage/match-01-arbitre-provisoire.md) indique pour chaque question la réponse officielle, les variantes proposées et la source. Les graphies courantes ont été prévues pour les noms propres (notamment Mandela, Einstein, Senghor, Sankara, Galilée, Machu Picchu, etc.) lorsque nécessaire. Les réponses de sens différent ne sont pas acceptées automatiquement.
 
-## Bloqueurs avant certification
+Les cantonades (Mandela et Senghor) comportent leurs cinq questions liées au personnage identifié au préambule. L'identification à points concerne Thomas Sankara. Aucun indice ne nomme explicitement la réponse.
 
-1. Les 96 références individuelles sont rattachées ; contrôler toute réserve résiduelle de concordance source/affirmation lors de la relecture finale.
-2. Faire la **déduplication sémantique complète** contre les 29 autres matchs, avec décisions documentées.
-3. Revoir la **convention de classification des noms propres** avec l'arbitre : 67/96 ont été classées individuellement, contre 68 déclarées initialement.
-4. Vérifier finement la cohérence et l'absence de divulgations **indirectes** des deux cantonades ; faire relire les formulations par un arbitre.
-5. Mettre à l'épreuve **l'identification** et la difficulté orale du Niveau 1.
-6. Réaliser une relecture finale après toutes les modifications et constituer la version arbitre prête à l'emploi.
+## Vérification de non-répétition
 
-## Point de reprise
+Une passe comparative de 29 questionnaires du corpus, soit 2784 autres associations Q/R, a été effectuée : aucun énoncé strictement identique normalisé n'a été trouvé. Les réponses récurrentes ont été analysées séparément. Une répétition de fait (Banjul/Gambie, question également posée dans Match 13) a été remplacée par Comores/Moroni.
 
-Poursuivre la relecture des règles d'arbitrage dans le JSON `audit/match-01-validation.json`, en priorité celles dont le statut est `A_VERIFIER_SOURCE`. Ne repasser à `VALIDÉ` qu'après source exacte, arbitrage et anti-doublon complet. Ne pas commencer la certification finale du Match 02 tant que le Match 01 n'est pas clos si la stratégie du projet est strictement « un match à la fois ».
+**Limite :** l'analyse des réponses communes et des formulations strictement identiques n'équivaut pas à une déduplication sémantique exhaustive de toutes les paraphrases à réponses différentes. Le registre des faits du corpus doit poursuivre ce contrôle.
 
-## Complément d'audit documentaire
+## Fichiers de preuve
 
-Les sources directes ont été étendues, notamment grâce à la Comédie-Française (Molière), au musée Reina Sofía (Guernica), au dictionnaire Larousse (négritude, homophones, adverbe « dehors », thermomètre, photosynthèse), au Portail linguistique du Canada (pronom) et à Parcs Canada (Ottawa). Le quota reclassé est de **67 réponses-noms propres sur 96 (69,8 %)**, la « négritude » étant un nom commun féminin.
+- Questionnaire : [match-01.md](../matchs/niveau-1/match-01.md)
+- Registre des faits : [match-01.json](../registre/match-01.json)
+- Source question par question : [sources/match-01-sources.md](../sources/match-01-sources.md)
+- Suivi individuel des 96 Q/R : [match-01-validation.json](match-01-validation.json)
+- Document lecteur/arbitre : [match-01-arbitre-provisoire.md](../arbitrage/match-01-arbitre-provisoire.md)
+- Contrôle structurel reproductible : [controle_match01.py](../scripts/controle_match01.py)
 
+## Étape de fermeture
 
-## Addendum documentaire
+Pour homologuer pleinement ce match, procéder à une **lecture à blanc** des 96 questions avec chronométrage, un lecteur et un arbitre ; relever les contestations sur les variantes et finaliser les décisions. Aucun élément de ce test réel n'est consigné ici.
 
-Les 96 questions sont désormais toutes dotées de références dans `audit/match-01-validation.json`. Deux répétitions inversées ont été corrigées : Sénégal/Dakar et Tanzanie/Kilimandjaro.
-
-
-Le tableau intermédiaire de `sources/match-01-sources.md` (44 sources) représente une photographie antérieure à la présente passe. Pour l'intégralité des 96 références, consulter le catalogue JSON. La préparation des documents pour arbitre est en cours.
-
-## Reprise du contrôle — vérification des références (11 octobre 2026)
-
-Les 96 entrées disposent désormais d'au moins un lien dans `audit/match-01-validation.json` ; ce chiffre mesure la **couverture des liens**, et non la validation factuelle indépendante des 96 assertions. La mention historique `DOCUMENTE_SOURCE_DIRECTE` ne doit **pas** être assimilée à `VALIDÉ` jusqu'à vérification du contenu précis de chaque page. Une référence manifestement trop générale sur Jupiter associée à Galilée a été remplacée par deux pages explicitement consacrées à ses observations télescopiques : [NASA](https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/) et [Museo Galileo](https://catalogue.museogalileo.it/multimedia/GalileosAstronomyBis.html). Les règles de basket ont été actualisées avec les pages de publication 2026 [FIBA](https://about.fiba.basketball/en/services/resource-hub/downloads) et [FFBB](https://www.ffbb.com/reglement-de-jeu).
-
-**Décision inchangée : NON CERTIFIÉ.** La concordance individualisée de chaque source, le passage de chaque Q/R au statut `VALIDÉ`, la revue arbitrale et la comparaison sémantique complète avec les 29 autres matchs restent à établir. Ne pas confondre 96 liens et 96 vérifications terminées.
-
-## Déduplication transversale — reprise
-
-Les **29 matchs complémentaires** ont été parcourus par lots (matchs 02 à 30, soit 2784 Q/R) pour détecter les formulations strictement identiques et les réponses communes. Aucun doublon d'énoncé exact n'a été signalé par la comparaison normalisée. Une répétition de connaissance capitale de la Gambie/Banjul avec le match 13 a été confirmée, puis remplacée dans le match 01 par la question sur les Comores/Moroni, fondée sur une [fiche de l'Union africaine](https://au.int/fr/node/15869). Des réponses communes telles que `Albert Einstein`, `Afrique du Sud` ou `Piano` ont été conservées lorsqu'elles concernaient des faits distincts. **Cela ne garantit pas l'absence de paraphrases à réponses différentes.**
-
-**Point encore bloquant :** validation explicite du lien entre le contenu de chacune des 96 sources et la totalité de chaque énoncé, plus arbitrage final. La couverture documentaire à 96/96 ne suffit pas à certifier le match.
+La branche `qc/match-01-2026-10-11` contient les corrections ; la branche `main` est préservée.
