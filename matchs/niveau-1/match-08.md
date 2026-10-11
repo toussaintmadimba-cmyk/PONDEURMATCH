@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante américaine refusa de céder sa place dans un autobus en 1955 et devint une figure du mouvement des droits civiques ?
+**Q1.** Quelle militante afro-américaine déclencha un mouvement de boycott des autobus après avoir refusé une règle de ségrégation raciale ?
 **R.** Rosa Parks
 
 **Q2.** Dans quel État américain eut lieu son arrestation ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel trompettiste et chanteur américain surnommé « Satchmo » devint une figure majeure du jazz ?
+**Q1.** Quel célèbre musicien américain surnommé « Satchmo » fut connu pour son timbre de voix rocailleux et ses improvisations ?
 **R.** Louis Armstrong
 
 **Q2.** Dans quelle ville américaine naquit-il en 1901 ?
