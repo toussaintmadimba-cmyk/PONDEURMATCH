@@ -146,8 +146,8 @@
 **Q1.** Quel pays a pour capitale Colombo sur le plan économique tandis que Sri Jayawardenepura Kotte est la capitale législative ?
 **R.** Sri Lanka
 
-**Q2.** Quel pays a Ljubljana pour capitale ?
-**R.** Slovénie
+**Q2.** Quel pays a Minsk pour capitale ?
+**R.** Biélorussie
 
 **Q3.** Quel pays d'Amérique du Sud a Paramaribo pour capitale ?
 **R.** Suriname
@@ -166,8 +166,8 @@
 **Q2.** Quel écrivain russe est l'auteur de Guerre et Paix ?
 **R.** Léon Tolstoï
 
-**Q3.** Quel fleuve traverse Budapest ?
-**R.** Danube
+**Q3.** Quel fleuve traverse Dublin ?
+**R.** Liffey
 
 **Q4.** Quel peintre français est l'auteur d'Impression, soleil levant ?
 **R.** Claude Monet
@@ -343,6 +343,6 @@
 **Q9.** Quel est le résultat de 9 × 9 ?
 **R.** 81
 
-**Q10.** Comment appelle-t-on le passage direct de l'état solide à l'état gazeux ?
-**R.** Sublimation
+**Q10.** Comment appelle-t-on la formation de bulles de vapeur dans un liquide chauffé à sa température d'ébullition ?
+**R.** Ébullition
 
