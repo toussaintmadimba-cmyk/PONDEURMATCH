@@ -53,8 +53,8 @@
 **Q4.** Quel instrument à vent en bois utilise une anche double ?
 **R.** Hautbois
 
-**Q5.** Quel terme musical signifie une augmentation progressive du volume ?
-**R.** Crescendo
+**Q5.** Quel terme musical italien désigne un ralentissement progressif du tempo ?
+**R.** Rallentando
 
 ## 5. LANGAGE A
 
@@ -200,11 +200,11 @@
 **Q2.** Quelle province de la RDC a Lubumbashi pour chef-lieu ?
 **R.** Haut-Katanga
 
-**Q3.** Quelle province de la RDC a Kabinda pour chef-lieu ?
-**R.** Lomami
+**Q3.** Quel grand stade de Kinshasa fut inauguré en 1994 ?
+**R.** Stade des Martyrs
 
-**Q4.** Quelle province de la RDC a Gbadolite pour chef-lieu ?
-**R.** Nord-Ubangi
+**Q4.** Quel est le principal aéroport international situé à l'est de Kinshasa ?
+**R.** Aéroport de N'Djili
 
 **Q5.** Quel musicien congolais est surnommé « Mopao Mokonzi » ?
 **R.** Koffi Olomidé
@@ -231,8 +231,8 @@
 **Q1.** Quel président égyptien signa les accords de Camp David avec Israël en 1978 ?
 **R.** Anouar el-Sadate
 
-**Q2.** Quel traité signé en 1992 posa les bases de l'Union européenne moderne ?
-**R.** Traité de Maastricht
+**Q2.** Quelle déclaration adoptée par les Nations unies en 1948 énonce les droits fondamentaux de tous les êtres humains ?
+**R.** Déclaration universelle des droits de l'homme
 
 **Q3.** Quel mouvement politique sud-africain remporta les élections nationales de 1994 avec Nelson Mandela à sa tête ?
 **R.** Congrès national africain
@@ -316,14 +316,14 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle est la capitale de l'Irlande ?
-**R.** Dublin
+**Q1.** Quelle est la capitale de la République centrafricaine ?
+**R.** Bangui
 
 **Q2.** Quel écrivain américain est l'auteur des Aventures de Tom Sawyer ?
 **R.** Mark Twain
 
-**Q3.** Quelle ville italienne est célèbre pour sa tour penchée ?
-**R.** Pise
+**Q3.** Quelle ville italienne abrite les célèbres Arènes de Vérone datant de l'époque romaine ?
+**R.** Vérone
 
 **Q4.** Quel physicien formula l'équation E = mc² ?
 **R.** Albert Einstein
@@ -337,8 +337,8 @@
 **Q7.** Quel est le symbole chimique du cuivre ?
 **R.** Cu
 
-**Q8.** Combien de secondes compte une minute ?
-**R.** 60
+**Q8.** Combien de minutes contient une journée de 24 heures ?
+**R.** 1 440
 
 **Q9.** Quelle est la moitié de 144 ?
 **R.** 72
