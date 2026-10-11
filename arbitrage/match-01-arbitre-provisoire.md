@@ -1,605 +1,623 @@
-# MATCH 01 — FEUILLE DE LECTURE ET D'ARBITRAGE (PROVISOIRE)
+# MATCH 01 — VERSION LECTEUR ET ARBITRE
 
-> Document de travail. Des vérifications factuelles et la validation finale des variantes restent ouvertes. Ne pas employer comme document officiel de compétition avant certification.
+**ÉDITION VALIDÉE DOCUMENTAIREMENT — simulation orale en compétition à réaliser avant homologation opérationnelle.**
 
-**Modalités :** les Manchettes A/B sont réservées aux équipes concernées sans réplique ; les règles opérationnelles des autres rubriques suivent le règlement de compétition. L'identification se lit indice par indice aux paliers 40/30/20/10 points.
+Les manchettes sont réservées aux équipes correspondantes, sans droit de réplique. Les modalités des autres rubriques suivent le règlement de compétition. Pour l'identification : lire les indices un par un (40 → 30 → 20 → 10 points).
 
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Question 1.** Au 6 octobre 2026, qui est le président de la République du Ghana ?
+**Q1.** Au 6 octobre 2026, qui est le président de la République du Ghana ?
 
-**Réponse officielle :** John Dramani Mahama
+**R.** John Dramani Mahama
 
-**Justificatif :** [référence 1](https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/)
+**Acceptations :** John Mahama / John Dramani Mahama
 
-**Question 2.** Au 6 octobre 2026, quelle est la capitale de la Namibie ?
+*Source : [1](https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/)*
 
-**Réponse officielle :** Windhoek
+**Q2.** Au 6 octobre 2026, quelle est la capitale de la Namibie ?
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+**R.** Windhoek
+
+*Source : [1](https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/namibia)*
 
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Question 1.** Au 6 octobre 2026, qui est la présidente du Mexique ?
+**Q1.** Au 6 octobre 2026, qui est la présidente du Mexique ?
 
-**Réponse officielle :** Claudia Sheinbaum Pardo
+**R.** Claudia Sheinbaum Pardo
 
-**Variantes proposées (à valider) :** Claudia Sheinbaum
+**Acceptations :** Claudia Sheinbaum / Claudia Sheinbaum Pardo
 
-**Justificatif :** [référence 1](https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026)
+*Source : [1](https://www.gob.mx/presidencia/es/articulos/inauguracion-del-centro-de-rehabilitacion-e-inclusion-teleton-colima-colima?idiom=es)*
 
-**Question 2.** Au 6 octobre 2026, quelle monnaie a cours légal au Nigeria ?
+**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal au Nigeria ?
 
-**Réponse officielle :** Naira
+**R.** Naira
 
-**Justificatif :** [référence 1](https://www.cbn.gov.ng/Currency/)
+*Source : [1](https://www.cbn.gov.ng/Currency/)*
 
 
 ## 3. SPORTS ET JEUX
 
-**Question 1.** Au 6 octobre 2026, quel sprinteur jamaïcain détient les records du monde masculins du 100 m et du 200 m ?
+**Q1.** Au 6 octobre 2026, quel sprinteur jamaïcain détient les records du monde masculins du 100 m et du 200 m ?
 
-**Réponse officielle :** Usain Bolt
+**R.** Usain Bolt
 
-**Justificatif :** [référence 1](https://worldathletics.org/athletes/jamaica/usain-bolt-14201847)
+*Source : [1](https://worldathletics.org/news/news/bolt-ne-pensait-pas-courir-en-1919)*
 
-**Question 2.** Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?
+**Q2.** Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?
 
-**Réponse officielle :** Roland-Garros
+**R.** Roland-Garros
 
-**Justificatif :** [référence 1](https://www.rolandgarros.com/en-us/article/2026-edition-roland-garros-opening-week)
+*Source : [1](https://www.rolandgarros.com/en-us/article/behold-the-clay-canvas-at-roland-garros-rg2022)*
 
-**Question 3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
+**Q3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
 
-**Réponse officielle :** Afrique du Sud
+**R.** Afrique du Sud
 
-**Justificatif :** [référence 1](https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup)
+*Source : [1](https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup)*
 
-**Question 4.** Combien de joueurs une équipe de basketball aligne-t-elle simultanément sur le terrain ?
+**Q4.** Selon le règlement FIBA du basketball traditionnel, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
 
-**Réponse officielle :** 5
+**R.** 5
 
-**Justificatif :** [référence 1](https://about.fiba.basketball/en/services/resource-hub/downloads)
+*Source : [1](https://about.fiba.basketball/en/our-sport/basketball)*
 
-**Question 5.** Combien de points rapporte un tir réussi derrière la ligne des trois points au basketball ?
+**Q5.** Selon le règlement FIBA du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?
 
-**Réponse officielle :** 3
+**R.** 3
 
-**Justificatif :** [référence 1](https://www.ffbb.com/reglement-de-jeu)
+*Source : [1](https://about.fiba.basketball/en/our-sport/basketball)*
 
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Question 1.** Quel réalisateur a signé les films Inception et Oppenheimer ?
+**Q1.** Quel réalisateur a signé les films Inception et Oppenheimer ?
 
-**Réponse officielle :** Christopher Nolan
+**R.** Christopher Nolan
 
-**Justificatif :** [référence 1](https://www.universalpictures.com/about/) ; [référence 2](https://www.universalpictures.fr/micro/oppenheimer)
+*Source : [1](https://www.universalpicturesathome.com/press-release/oppenheimer-press-release)*
 
-**Question 2.** Quelle chanteuse britannique interprète Rolling in the Deep ?
+**Q2.** Quelle chanteuse britannique interprète Rolling in the Deep ?
 
-**Réponse officielle :** Adele
+**R.** Adele
 
-**Justificatif :** [référence 1](https://www.grammy.com/artists/adele/528/)
+*Source : [1](https://www.grammy.com/artists/adele/528/)*
 
-**Question 3.** Combien de cordes possède normalement une guitare classique ?
+**Q3.** Combien de cordes possède normalement une guitare classique ?
 
-**Réponse officielle :** 6
+**R.** 6
 
-**Justificatif :** [référence 1](https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html)
+*Source : [1](https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html)*
 
-**Question 4.** Quel réalisateur sud-coréen a réalisé Parasite ?
+**Q4.** Quel réalisateur sud-coréen a réalisé Parasite ?
 
-**Réponse officielle :** Bong Joon-ho
+**R.** Bong Joon-ho
 
-**Justificatif :** [référence 1](https://www.oscars.org/oscars/ceremonies/2020/B)
+*Source : [1](https://www.oscars.org/oscars/ceremonies/2020/B)*
 
-**Question 5.** Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?
+**Q5.** Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?
 
-**Réponse officielle :** Piano
+**R.** Piano
 
-**Justificatif :** [référence 1](https://ca.yamaha.com/fr/musical-instruments/pianos/explore/musical-instrument-guide/piano/trivia/trivia007.html)
+*Source : [1](https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/)*
 
 
 ## 5. LANGAGE A
 
-**Question 1.** Quel nom féminin de la famille de « décider » désigne un choix fait après réflexion ?
+**Q1.** Quel nom féminin de la famille de « décider » désigne un choix fait après réflexion ?
 
-**Réponse officielle :** Décision
+**R.** Décision
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210)*
 
-**Question 2.** Quel verbe de la même famille que « début » signifie commencer ?
+**Q2.** Quel verbe de la même famille que « début » signifie commencer ?
 
-**Réponse officielle :** Débuter
+**R.** Débuter
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955)*
 
-**Question 3.** Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?
+**Q3.** Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?
 
-**Réponse officielle :** Homophones
+**R.** Homophones
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/homophone/40297)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/homophone/40297)*
 
-**Question 4.** Quel nom féminin de la famille de « prudent » désigne la qualité de celui qui agit avec précaution ?
+**Q4.** Quel nom féminin de la famille de « prudent » désigne la qualité de celui qui agit avec précaution ?
 
-**Réponse officielle :** Prudence
+**R.** Prudence
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/prudence/64688)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/prudence/64688)*
 
 
 ## 6. CANTONADE 1
 
-**Question 1.** Quel dirigeant sud-africain, ancien prisonnier de l'apartheid, devint président de son pays en 1994 ?
+**Q1.** Quel dirigeant sud-africain, ancien prisonnier de l'apartheid, devint président de son pays en 1994 ?
 
-**Réponse officielle :** Nelson Mandela
+**R.** Nelson Mandela
 
-**Justificatif :** [référence 1](https://www.nelsonmandela.org/biography)
+*Source : [1](https://www.nelsonmandela.org/biography)*
 
-**Question 2.** Sur quelle île fut-il emprisonné pendant de longues années ?
+**Q2.** Sur quelle île fut-il emprisonné pendant de longues années ?
 
-**Réponse officielle :** Robben Island
+**R.** Robben Island
 
-**Justificatif :** [référence 1](https://www.nobelprize.org/prizes/peace/1993/mandela/facts/)
+**Acceptations :** Île de Robben / Robben Island
 
-**Question 3.** Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
+*Source : [1](https://www.nelsonmandela.org/biography)*
 
-**Réponse officielle :** ANC
+**Q3.** Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
 
-**Variantes proposées (à valider) :** Congrès national africain ; African National Congress ; ANC
+**R.** ANC
 
-**Justificatif :** [référence 1](https://www.nelsonmandela.org/biography) ; [référence 2](https://sahistory.org.za/article/nelson-mandela-presidency-1994-1999)
+**Acceptations :** ANC / African National Congress / Congrès national africain
 
-**Question 4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
+*Source : [1](https://www.anc.co.za/documents/Documents/president.html)*
 
-**Réponse officielle :** Frederik Willem de Klerk
+**Q4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
 
-**Variantes proposées (à valider) :** F. W. de Klerk ; Frederik Willem de Klerk
+**R.** Frederik Willem de Klerk
 
-**Justificatif :** [référence 1](https://www.nobelprize.org/prizes/peace/1993/summary/)
+**Acceptations :** Frederik de Klerk / F. W. de Klerk / Frederik Willem de Klerk
 
-**Question 5.** Dans quelle ville eut lieu son investiture présidentielle du 10 mai 1994 ?
+*Source : [1](https://www.gov.za/mandela100/biography)*
 
-**Réponse officielle :** Pretoria
+**Q5.** Dans quelle ville eut lieu son investiture présidentielle du 10 mai 1994 ?
 
-**Justificatif :** [référence 1](https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994)
+**R.** Pretoria
+
+*Source : [1](https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994)*
 
 
 ## 7. LANGAGE B
 
-**Question 1.** Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?
+**Q1.** Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?
 
-**Réponse officielle :** Adverbe
+**R.** Adverbe
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/dehors/22967)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/dehors/22967)*
 
-**Question 2.** Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?
+**Q2.** Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?
 
-**Réponse officielle :** COD
+**R.** COD
 
-**Variantes proposées (à valider) :** Complément d'objet direct ; COD
+**Acceptations :** COD / complément d’objet direct
 
-**Justificatif :** [référence 1](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct)
+*Source : [1](https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct)*
 
-**Question 3.** Quel temps verbal est employé dans « nous partirons demain » ?
+**Q3.** Quel temps verbal est employé dans « nous partirons demain » ?
 
-**Réponse officielle :** Futur simple
+**R.** Futur simple
 
-**Variantes proposées (à valider) :** Futur simple de l'indicatif
+**Acceptations :** Futur simple de l'indicatif
 
-**Justificatif :** [référence 1](https://www.larousse.fr/conjugaison/francais/partir/6596)
+*Source : [1](https://www.larousse.fr/conjugaison/francais/partir/6596)*
 
-**Question 4.** Comment appelle-t-on un mot qui remplace un nom ?
+**Q4.** Comment appelle-t-on un mot qui remplace un nom ?
 
-**Réponse officielle :** Pronom
+**R.** Pronom
 
-**Justificatif :** [référence 1](https://nos-langues.canada.ca/fr/cles-de-la-redaction/pronoms-generalites)
+*Source : [1](https://nos-langues.canada.ca/fr/cles-de-la-redaction/pronoms-generalites)*
 
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Question 1.** Quel scientifique écossais découvrit la pénicilline en 1928 ?
+**Q1.** Quel scientifique écossais découvrit la pénicilline en 1928 ?
 
-**Réponse officielle :** Alexander Fleming
+**R.** Alexander Fleming
 
-**Justificatif :** [référence 1](https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/)
+*Source : [1](https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/?vm=r)*
 
-**Question 2.** Quelle unité du SI mesure la résistance électrique ?
+**Q2.** Quelle unité du SI mesure la résistance électrique ?
 
-**Réponse officielle :** Ohm
+**R.** Ohm
 
-**Justificatif :** [référence 1](https://www.bipm.org/fr/-/resolution-cgpm-11-12)
+**Acceptations :** ohm / Ω
 
-**Question 3.** Quelle scientifique fut la première femme à recevoir un prix Nobel ?
+*Source : [1](https://www.bipm.org/fr/-/resolution-cgpm-11-12)*
 
-**Réponse officielle :** Marie Curie
+**Q3.** Quelle scientifique fut la première femme à recevoir un prix Nobel ?
 
-**Justificatif :** [référence 1](https://www.nobelprize.org/stories/women-who-changed-science/marie-curie)
+**R.** Marie Curie
 
-**Question 4.** Quel processus permet aux plantes vertes de produire de la matière organique grâce à la lumière ?
+*Source : [1](https://www.nobelprize.org/prizes/physics/1903/marie-curie/questions-and-answers/?print=1)*
 
-**Réponse officielle :** Photosynthèse
+**Q4.** Quel processus permet aux plantes vertes de produire de la matière organique grâce à la lumière ?
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404)
+**R.** Photosynthèse
 
-**Question 5.** Quel physicien formula la théorie de la relativité générale ?
+*Source : [1](https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404)*
 
-**Réponse officielle :** Albert Einstein
+**Q5.** Quel physicien formula la théorie de la relativité générale ?
 
-**Variantes proposées (à valider) :** Albert Einstein ; Einstein
+**R.** Albert Einstein
 
-**Justificatif :** [référence 1](https://www.einstein-online.info/en/spotlight/general_relativity_history/)
+**Acceptations :** Albert Einstein / Einstein
+
+*Source : [1](https://www.mpg.de/en/albert-einstein)*
 
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
-**Question 1.** Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symphonie.
+**Q1.** Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symphonie.
 
-**Réponse officielle :** Ludwig van Beethoven
+**R.** Ludwig van Beethoven
 
-**Justificatif :** [référence 1](https://www.beethoven.de/en/g/mit-beethovens-ohr-gehoert)
+*Source : [1](https://internet.beethoven.de/pdf-sonderausstellung/Von-der-Nulltern-bis-zur-Zehnten-Brief-Guide.pdf)*
 
-**Question 2.** Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.
+**Q2.** Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.
 
-**Réponse officielle :** Everest
+**R.** Everest
 
-**Justificatif :** [référence 1](https://www.guinnessworldrecords.com/world-records/highest-mountain)
+**Acceptations :** Everest / mont Everest / Sagarmatha / Chomolungma
 
-**Question 3.** Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.
+*Source : [1](https://www.guinnessworldrecords.com/world-records/highest-mountain)*
 
-**Réponse officielle :** Nil
+**Q3.** Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.
 
-**Justificatif :** [référence 1](https://education.nationalgeographic.org/resource/nile-river/)
+**R.** Nil
 
-**Question 4.** Qui suis-je ? Peintre espagnol, je suis l'auteur de Guernica.
+**Acceptations :** Nil / fleuve Nil
 
-**Réponse officielle :** Pablo Picasso
+*Source : [1](https://education.nationalgeographic.org/resource/nile-river/)*
 
-**Variantes proposées (à valider) :** Pablo Picasso ; Picasso
+**Q4.** Qui suis-je ? Peintre espagnol, je suis l'auteur de Guernica.
 
-**Justificatif :** [référence 1](https://www.museoreinasofia.es/colecciones/obra/guernica/)
+**R.** Pablo Picasso
 
-**Question 5.** Où suis-je ? Capitale italienne, j'abrite le Colisée.
+**Acceptations :** Picasso / Pablo Picasso
 
-**Réponse officielle :** Rome
+*Source : [1](https://www.museoreinasofia.es/colecciones/obra/guernica/)*
 
-**Justificatif :** [référence 1](https://www.turismoroma.it/fr/node/1155)
+**Q5.** Où suis-je ? Capitale italienne, j'abrite le Colisée.
+
+**R.** Rome
+
+*Source : [1](https://whc.unesco.org/en/list/91)*
 
 
 ## 10. DIVERS
 
-**Question 1.** Quelle est la capitale de l'Éthiopie ?
+**Q1.** Quelle est la capitale de l'Éthiopie ?
 
-**Réponse officielle :** Addis-Abeba
+**R.** Addis-Abeba
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 2.** Quelle est la capitale de l'Union des Comores ?
+**Q2.** Quelle est la capitale de l'Union des Comores ?
 
-**Réponse officielle :** Moroni
+**R.** Moroni
 
-**Variantes proposées (à valider) :** Moroni
+**Acceptations :** Moroni
 
-**Justificatif :** [référence 1](https://au.int/fr/node/15869) ; [référence 2](https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/comoros)
+*Source : [1](https://au.int/fr/node/15869)*
 
-**Question 3.** Quelle est la capitale du Rwanda ?
+**Q3.** Quelle est la capitale du Rwanda ?
 
-**Réponse officielle :** Kigali
+**R.** Kigali
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 4.** Quelle est la capitale du Mozambique ?
+**Q4.** Quelle est la capitale du Mozambique ?
 
-**Réponse officielle :** Maputo
+**R.** Maputo
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 5.** Quelle est la capitale du Botswana ?
+**Q5.** Quelle est la capitale du Botswana ?
 
-**Réponse officielle :** Gaborone
+**R.** Gaborone
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
 
 ## 11. ÉCLAIR 1
 
-**Question 1.** Quel instrument sert à mesurer la température ?
+**Q1.** Quel instrument sert à mesurer la température ?
 
-**Réponse officielle :** Thermomètre
+**R.** Thermomètre
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/thermom%C3%A8tre/77814)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/thermom%C3%A8tre/77814)*
 
-**Question 2.** Quel auteur anglais a écrit Hamlet ?
+**Q2.** Quel auteur anglais a écrit Hamlet ?
 
-**Réponse officielle :** William Shakespeare
+**R.** William Shakespeare
 
-**Justificatif :** [référence 1](https://www.rsc.org.uk/hamlet/)
+*Source : [1](https://www.rsc.org.uk/hamlet/)*
 
-**Question 3.** Quelle est la capitale du Japon ?
+**Q3.** Quelle est la capitale du Japon ?
 
-**Réponse officielle :** Tokyo
+**R.** Tokyo
 
-**Justificatif :** [référence 1](https://www.japan.go.jp/japan/index.html)
+*Source : [1](https://www.japan.go.jp/japan/index.html)*
 
-**Question 4.** Quelle est la plus grande planète du Système solaire ?
+**Q4.** Quelle est la plus grande planète du Système solaire ?
 
-**Réponse officielle :** Jupiter
+**R.** Jupiter
 
-**Justificatif :** [référence 1](https://science.nasa.gov/jupiter/)
+*Source : [1](https://science.nasa.gov/jupiter/)*
 
-**Question 5.** Quel est l'état physique de l'eau à -10 °C sous pression atmosphérique normale ?
+**Q5.** À −10 °C et sous pression atmosphérique normale, dans quel état se trouve généralement l'eau pure à l'équilibre thermodynamique ?
 
-**Réponse officielle :** Solide
+**R.** Solide
 
-**Justificatif :** [référence 1](https://www.weather.gov/bgm/helpMeteorologicalCalculator)
+*Source : [1](https://www.open.edu/openlearn/nature-environment/natural-history/surviving-the-winter/content-section-1.2.1)*
 
-**Question 6.** Quel est le symbole chimique du fer ?
+**Q6.** Quel est le symbole chimique du fer ?
 
-**Réponse officielle :** Fe
+**R.** Fe
 
-**Justificatif :** [référence 1](https://periodic-table.rsc.org/element/26/iron)
+*Source : [1](https://periodic-table.rsc.org/element/26/iron)*
 
-**Question 7.** Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?
+**Q7.** Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?
 
-**Réponse officielle :** 7
+**R.** 7
 
-**Justificatif :** [référence 1](https://education.nationalgeographic.org/resource/Continent/5th-grade/)
+*Source : [1](https://www.nationalgeographic.org/national-geographic-map-policy)*
 
-**Question 8.** Quel compositeur autrichien a écrit La Flûte enchantée ?
+**Q8.** Quel compositeur autrichien a écrit La Flûte enchantée ?
 
-**Réponse officielle :** Wolfgang Amadeus Mozart
+**R.** Wolfgang Amadeus Mozart
 
-**Justificatif :** [référence 1](https://www.opera-comique.com/fr/spectacles/la-flute-enchantee)
+*Source : [1](https://www.opera-comique.com/fr/spectacles/la-flute-enchantee)*
 
-**Question 9.** Combien de planètes compte le Système solaire ?
+**Q9.** Combien de planètes compte le Système solaire ?
 
-**Réponse officielle :** 8
+**R.** 8
 
-**Justificatif :** [référence 1](https://science.nasa.gov/solar-system/planets/)
+*Source : [1](https://science.nasa.gov/solar-system/planets/)*
 
-**Question 10.** Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?
+**Q10.** Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?
 
-**Réponse officielle :** Dioxygène
+**R.** Dioxygène
 
-**Variantes proposées (à valider) :** Oxygène (nom usuel du gaz O₂)
+**Acceptations :** dioxygène / oxygène
 
-**Justificatif :** [référence 1](https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/)
+*Source : [1](https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/)*
 
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Question 1.** Quelle ville est la capitale de la République démocratique du Congo ?
+**Q1.** Quelle ville est la capitale de la République démocratique du Congo ?
 
-**Réponse officielle :** Kinshasa
+**R.** Kinshasa
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 2.** Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hui appelé République démocratique du Congo ?
+**Q2.** Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hui appelé République démocratique du Congo ?
 
-**Réponse officielle :** Patrice Émery Lumumba
+**R.** Patrice Émery Lumumba
 
-**Variantes proposées (à valider) :** Patrice Lumumba ; Patrice Émery Lumumba
+**Acceptations :** Patrice Lumumba / Patrice Émery Lumumba
 
-**Justificatif :** [référence 1](https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born)
+*Source : [1](https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born)*
 
-**Question 3.** Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?
+**Q3.** Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?
 
-**Réponse officielle :** Parc national des Virunga
+**R.** Parc national des Virunga
 
-**Variantes proposées (à valider) :** Virunga ; Parc national des Virunga
+**Acceptations :** Virunga / parc national des Virunga
 
-**Justificatif :** [référence 1](https://whc.unesco.org/fr/list/63)
+*Source : [1](https://whc.unesco.org/fr/list/63)*
 
-**Question 4.** Quel fleuve sépare notamment Kinshasa de Brazzaville ?
+**Q4.** Quel fleuve sépare notamment Kinshasa de Brazzaville ?
 
-**Réponse officielle :** Fleuve Congo
+**R.** Fleuve Congo
 
-**Justificatif :** [référence 1](https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/)
+**Acceptations :** Congo / fleuve Congo
 
-**Question 5.** Quel complexe hydroélectrique majeur est établi sur le fleuve Congo dans le Kongo Central ?
+*Source : [1](https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/)*
 
-**Réponse officielle :** Inga
+**Q5.** Quel complexe hydroélectrique majeur est établi sur le fleuve Congo dans le Kongo Central ?
 
-**Variantes proposées (à valider) :** Complexe d'Inga ; Inga
+**R.** Inga
 
-**Justificatif :** [référence 1](https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program)
+**Acceptations :** Inga / complexe hydroélectrique d’Inga
+
+*Source : [1](https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program)*
 
 
 ## 13. LITTÉRATURE ET ART
 
-**Question 1.** Quel écrivain nigérian est l'auteur de Things Fall Apart ?
+**Q1.** Quel écrivain nigérian est l'auteur de Things Fall Apart ?
 
-**Réponse officielle :** Chinua Achebe
+**R.** Chinua Achebe
 
-**Justificatif :** [référence 1](https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/)
+*Source : [1](https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/)*
 
-**Question 2.** Quel sculpteur français a créé Le Penseur ?
+**Q2.** Quel sculpteur français a créé Le Penseur ?
 
-**Réponse officielle :** Auguste Rodin
+**R.** Auguste Rodin
 
-**Justificatif :** [référence 1](https://www.musee-rodin.fr/musee/collections/oeuvres/penseur)
+*Source : [1](https://www.musee-rodin.fr/musee/collections/oeuvres/penseur)*
 
-**Question 3.** Quel est le véritable nom de Molière ?
+**Q3.** Quel est le véritable nom de Molière ?
 
-**Réponse officielle :** Jean-Baptiste Poquelin
+**R.** Jean-Baptiste Poquelin
 
-**Justificatif :** [référence 1](https://www.comedie-francaise.fr/moliere)
+*Source : [1](https://www.comedie-francaise.fr/moliere)*
 
-**Question 4.** Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?
+**Q4.** Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?
 
-**Réponse officielle :** Fresque
+**R.** Fresque
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/fresque/35200)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/fresque/35200)*
 
-**Question 5.** Quel écrivain français est l'auteur du roman L'Étranger ?
+**Q5.** Quel écrivain français est l'auteur du roman L'Étranger ?
 
-**Réponse officielle :** Albert Camus
+**R.** Albert Camus
 
-**Justificatif :** [référence 1](https://catalogue.bnf.fr/ark:/12148/cb31902899n)
+*Source : [1](https://catalogue.bnf.fr/ark:/12148/cb31902899n)*
 
 
 ## 14. MONDE CONTEMPORAIN
 
-**Question 1.** Quel événement du 14 juillet 1789 constitue un épisode central de la Révolution française ?
+**Q1.** Quel événement du 14 juillet 1789 constitue un épisode central de la Révolution française ?
 
-**Réponse officielle :** Prise de la Bastille
+**R.** Prise de la Bastille
 
-**Justificatif :** [référence 1](https://gallica.bnf.fr/essentiels/repere/prise-bastille-1789)
+*Source : [1](https://www.carnavalet.paris.fr/le-nouveau-parcours)*
 
-**Question 2.** Quel traité signé le 28 juin 1919 régla notamment la paix entre l'Allemagne et les puissances alliées après la Première Guerre mondiale ?
+**Q2.** Quel traité signé le 28 juin 1919 régla notamment la paix entre l'Allemagne et les puissances alliées après la Première Guerre mondiale ?
 
-**Réponse officielle :** Traité de Versailles
+**R.** Traité de Versailles
 
-**Justificatif :** [référence 1](https://history.state.gov/historicaldocuments/frus1919Parisv11/d272)
+*Source : [1](https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles)*
 
-**Question 3.** En quelle année l'Organisation des Nations Unies est-elle officiellement entrée en existence ?
+**Q3.** En quelle année l'Organisation des Nations Unies est-elle officiellement entrée en existence ?
 
-**Réponse officielle :** 1945
+**R.** 1945
 
-**Justificatif :** [référence 1](https://www.un.org/fr/about-us/history-of-the-un)
+*Source : [1](https://www.un.org/en/about-us/history-of-the-un)*
 
-**Question 4.** Quel chancelier fédéral allemand était en fonction lors de la réunification de l'Allemagne le 3 octobre 1990 ?
+**Q4.** Quel chancelier fédéral allemand était en fonction lors de la réunification de l'Allemagne le 3 octobre 1990 ?
 
-**Réponse officielle :** Helmut Kohl
+**R.** Helmut Kohl
 
-**Justificatif :** [référence 1](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720)
+*Source : [1](https://www.bundeskanzler-helmut-kohl.de/seite/3-oktober-1990/)*
 
-**Question 5.** Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?
+**Q5.** Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?
 
-**Réponse officielle :** Mikhaïl Gorbatchev
+**R.** Mikhaïl Gorbatchev
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821)
+**Acceptations :** Mikhaïl Gorbatchev / Mikhail Gorbachev
+
+*Source : [1](https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821)*
 
 
 ## 15. RELAIS A
 
-**Question 1.** Quel savant anglais formula les lois classiques du mouvement et de la gravitation universelle ?
+**Q1.** Quel savant anglais formula les lois classiques du mouvement et de la gravitation universelle ?
 
-**Réponse officielle :** Isaac Newton
+**R.** Isaac Newton
 
-**Justificatif :** [référence 1](https://royalsociety.org/news/2014/astronaut-tim-peake-principia/)
+*Source : [1](https://royalsociety.org/news/2014/astronaut-tim-peake-principia/)*
 
-**Question 2.** Quel naturaliste anglais publia De l'origine des espèces ?
+**Q2.** Quel naturaliste anglais publia De l'origine des espèces ?
 
-**Réponse officielle :** Charles Darwin
+**R.** Charles Darwin
 
-**Justificatif :** [référence 1](https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html)
+*Source : [1](https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html)*
 
-**Question 3.** Quel savant italien défendit l'observation télescopique du ciel au début du XVIIe siècle ?
+**Q3.** Quel savant italien observa quatre satellites de Jupiter en 1610 grâce à une lunette astronomique ?
 
-**Réponse officielle :** Galilée
+**R.** Galilée
 
-**Variantes proposées (à valider) :** Galileo Galilei ; Galilée
+**Acceptations :** Galilée / Galileo Galilei
 
-**Justificatif :** [référence 1](https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/) ; [référence 2](https://catalogue.museogalileo.it/multimedia/GalileosAstronomyBis.html)
+*Source : [1](https://catalogue.museogalileo.it/object/GalileosObjectiveLens.html)*
 
-**Question 4.** Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?
+**Q4.** Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?
 
-**Réponse officielle :** Ada Lovelace
+**R.** Ada Lovelace
 
-**Justificatif :** [référence 1](https://computerhistory.org/blog/ada-lovelace-day/)
+*Source : [1](https://computerhistory.org/blog/ada-lovelace-day/)*
 
 
 ## 16. CANTONADE 2
 
-**Question 1.** Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?
+**Q1.** Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?
 
-**Réponse officielle :** Léopold Sédar Senghor
+**R.** Léopold Sédar Senghor
 
-**Justificatif :** [référence 1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)
+**Acceptations :** Léopold Sédar Senghor / Senghor
 
-**Question 2.** Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?
+*Source : [1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)*
 
-**Réponse officielle :** Négritude
+**Q2.** Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565)
+**R.** Négritude
 
-**Question 3.** Quel pays a-t-il dirigé de 1960 à 1980 ?
+*Source : [1](https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565)*
 
-**Réponse officielle :** Sénégal
+**Q3.** Quel pays a-t-il dirigé de 1960 à 1980 ?
 
-**Justificatif :** [référence 1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)
+**R.** Sénégal
 
-**Question 4.** Dans quelle institution française fut-il élu en 1983 ?
+*Source : [1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)*
 
-**Réponse officielle :** Académie française
+**Q4.** Dans quelle institution française fut-il élu en 1983 ?
 
-**Justificatif :** [référence 1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)
+**R.** Académie française
 
-**Question 5.** Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?
+*Source : [1](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16)*
 
-**Réponse officielle :** Aimé Césaire
+**Q5.** Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565)
+**R.** Aimé Césaire
+
+*Source : [1](https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565)*
 
 
 ## 17. RELAIS B
 
-**Question 1.** Quel pays africain a Le Caire pour capitale ?
+**Q1.** Quel pays africain a Le Caire pour capitale ?
 
-**Réponse officielle :** Égypte
+**R.** Égypte
 
-**Variantes proposées (à valider) :** Égypte ; République arabe d'Égypte
+**Acceptations :** Égypte / République arabe d'Égypte
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 2.** Dans quel pays africain se trouve le parc national du Serengeti ?
+**Q2.** Dans quel pays africain se trouve le parc national du Serengeti ?
 
-**Réponse officielle :** Tanzanie
+**R.** Tanzanie
 
-**Justificatif :** [référence 1](https://whc.unesco.org/fr/list/156)
+*Source : [1](https://whc.unesco.org/fr/list/156)*
 
-**Question 3.** Quel pays africain a Luanda pour capitale ?
+**Q3.** Quel pays africain a Luanda pour capitale ?
 
-**Réponse officielle :** Angola
+**R.** Angola
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
-**Question 4.** Quel pays du Maghreb a Rabat pour capitale ?
+**Q4.** Quel pays du Maghreb a Rabat pour capitale ?
 
-**Réponse officielle :** Maroc
+**R.** Maroc
 
-**Justificatif :** [référence 1](https://www.nationsonline.org/oneworld/capitals_africa.htm)
+*Source : [1](https://www.nationsonline.org/oneworld/capitals_africa.htm)*
 
 
 ## 18. MYTHOLOGIE ET RELIGION
 
-**Question 1.** Dans la mythologie grecque, quel dieu règne sur l'Olympe ?
+**Q1.** Dans la mythologie grecque, quel dieu règne sur l'Olympe ?
 
-**Réponse officielle :** Zeus
+**R.** Zeus
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863)
+*Source : [1](https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863)*
 
-**Question 2.** Comment appelle-t-on l'abstention de nourriture pratiquée pendant une période religieuse ?
+**Q2.** Comment appelle-t-on l'abstention de nourriture pratiquée pendant une période religieuse ?
 
-**Réponse officielle :** Jeûne
+**R.** Jeûne
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251)
+*Source : [1](https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251)*
 
-**Question 3.** Quelle ville d'Arabie saoudite abrite la Kaaba ?
+**Q3.** Quelle ville d'Arabie saoudite abrite la Kaaba ?
 
-**Réponse officielle :** La Mecque
+**R.** La Mecque
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518)
+**Acceptations :** La Mecque / Makkah / Makka
 
-**Question 4.** Comment appelle-t-on la croyance en un seul Dieu ?
+*Source : [1](https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518)*
 
-**Réponse officielle :** Monothéisme
+**Q4.** Comment appelle-t-on la croyance en un seul Dieu ?
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437)
+**R.** Monothéisme
 
-**Question 5.** Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437)*
 
-**Réponse officielle :** Moïse
+**Q5.** Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?
 
-**Justificatif :** [référence 1](https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575)
+**R.** Moïse
+
+*Source : [1](https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575)*
 
 
 ## 19. IDENTIFICATION
 
-**Question 1.** Identification progressive — Qui suis-je ?
+**Q1.** Identification progressive — Qui suis-je ?
 
 **40 points —** En 1981, je deviens secrétaire d'État à l'Information en Haute-Volta, avant de démissionner pour marquer mon désaccord avec le régime.
 
@@ -609,79 +627,86 @@
 
 **10 points —** Né à Yako en 1949, je suis assassiné le 15 octobre 1987.
 
-**Réponse officielle :** Thomas Sankara
+**R.** Thomas Sankara
 
-**Variantes proposées (à valider) :** Thomas Sankara ; Sankara
+**Acceptations :** Thomas Sankara / Sankara
 
-**Justificatif :** [référence 1](https://www.presidencedufaso.bf/thomas-sankara/)
+*Source : [1](https://www.presidencedufaso.bf/thomas-sankara/)*
 
 
 ## 20. ÉCLAIR 2
 
-**Question 1.** Quelle est la capitale du Canada ?
+**Q1.** Quelle est la capitale du Canada ?
 
-**Réponse officielle :** Ottawa
+**R.** Ottawa
 
-**Justificatif :** [référence 1](https://parcs.canada.ca/culture/designation/lieu-site/capitale-capital)
+*Source : [1](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada/territoire-climat.html)*
 
-**Question 2.** Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut sommet du pays ?
+**Q2.** Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut sommet du pays ?
 
-**Réponse officielle :** Mont Fuji
+**R.** Mont Fuji
 
-**Variantes proposées (à valider) :** Fujisan ; Mont Fuji ; Fuji-san
+**Acceptations :** Mont Fuji / Fuji / Fujisan
 
-**Justificatif :** [référence 1](https://www.fujisan-3776.jp/en/value/index.html)
+*Source : [1](https://www.fujisan-3776.jp/en/value/index.html)*
 
-**Question 3.** Quel écrivain espagnol a créé Don Quichotte ?
+**Q3.** Quel écrivain espagnol a créé Don Quichotte ?
 
-**Réponse officielle :** Miguel de Cervantes
+**R.** Miguel de Cervantes
 
-**Justificatif :** [référence 1](https://cervantes.bne.es/es/sus-obras)
+*Source : [1](https://www.bne.es/es/colecciones/cervantes)*
 
-**Question 4.** Quelle unité du SI mesure la fréquence ?
+**Q4.** Quelle unité du SI mesure la fréquence ?
 
-**Réponse officielle :** Hertz
+**R.** Hertz
 
-**Justificatif :** [référence 1](https://www.bipm.org/fr/measurement-units/)
+**Acceptations :** hertz / Hz
 
-**Question 5.** Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?
+*Source : [1](https://www.bipm.org/fr/-/resolution-cgpm-11-12)*
 
-**Réponse officielle :** FAO
+**Q5.** Quelle institution spécialisée de l’ONU, établie en 1945 et siégeant aujourd’hui à Rome, lutte contre la faim dans le monde ?
 
-**Variantes proposées (à valider) :** Organisation des Nations unies pour l'alimentation et l'agriculture
+**R.** FAO
 
-**Justificatif :** [référence 1](https://www.fao.org/about/who-we-are/fr)
+**Acceptations :** FAO / Organisation des Nations unies pour l'alimentation et l'agriculture
 
-**Question 6.** Dans quel pays se trouve le Machu Picchu ?
+*Source : [1](https://www.fao.org/about/who-we-are/fr)*
 
-**Réponse officielle :** Pérou
+**Q6.** Dans quel pays se trouve le Machu Picchu ?
 
-**Justificatif :** [référence 1](https://whc.unesco.org/en/list/274)
+**R.** Pérou
 
-**Question 7.** Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?
+**Acceptations :** Pérou / République du Pérou
 
-**Réponse officielle :** Frédéric Chopin
+*Source : [1](https://whc.unesco.org/en/list/274)*
 
-**Justificatif :** [référence 1](https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny)
+**Q7.** Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?
 
-**Question 8.** Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?
+**R.** Frédéric Chopin
 
-**Réponse officielle :** Buenos Aires
+**Acceptations :** Frédéric Chopin / Fryderyk Chopin
 
-**Justificatif :** [référence 1](https://www.argentina.gob.ar/node/136479)
+*Source : [1](https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny)*
 
-**Question 9.** Quel instrument mesure la pression atmosphérique ?
+**Q8.** Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?
 
-**Réponse officielle :** Baromètre
+**R.** Buenos Aires
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060)
+*Source : [1](https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad)*
 
-**Question 10.** Combien de côtés possède un octogone ?
+**Q9.** Quel instrument mesure la pression atmosphérique ?
 
-**Réponse officielle :** 8
+**R.** Baromètre
 
-**Justificatif :** [référence 1](https://www.larousse.fr/dictionnaires/francais/octogone/55565)
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060)*
+
+**Q10.** Combien de côtés possède un octogone ?
+
+**R.** 8
+
+*Source : [1](https://www.larousse.fr/dictionnaires/francais/octogone/55565)*
+
 
 ## Statut
 
-96/96 associations Q/R sont présentes, 96/96 ont au moins une URL. La revue de concordance et d'arbitrage n'étant pas finie, cette édition n'est pas certifiée.
+96/96 réponses recoupées documentairement ; 20 rubriques ; 67/96 noms propres. La simulation orale par équipe et arbitre réel n'a pas été exécutée.
