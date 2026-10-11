@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle abolitionniste américaine, née sous le nom d'Isabella Baumfree, défendit les droits des femmes au XIXe siècle ?
+**Q1.** Quelle abolitionniste du XIXe siècle choisit en 1843 un nouveau nom exprimant une mission spirituelle ?
 
 **R.** Sojourner Truth
 
