@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel astronome de Gdańsk publia Selenographia en 1647, un atlas détaillé de la Lune ?
+**Q1.** Quel astronome du XVIIe siècle réalisa un important atlas détaillé de la Lune publié en 1647 ?
 
 **R.** Johannes Hevelius
 
@@ -128,9 +128,9 @@
 
 **R.** Indéfini
 
-**Q4.** Quel type de proposition est « qu'il pleuve » dans « Je crains qu'il pleuve » ?
+**Q4.** Dans « Le train arrive à huit heures », quelle fonction remplit « à huit heures » ?
 
-**R.** Complétive
+**R.** Complément circonstanciel de temps
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle sociologue et militante brésilienne née en 1935 contribua à fonder le Movimento Negro Unificado ?
+**Q1.** Quelle sociologue et militante afro-latino-américaine née en 1935 a développé la notion d'« améfricanité » ?
 
 **R.** Lélia Gonzalez
 
