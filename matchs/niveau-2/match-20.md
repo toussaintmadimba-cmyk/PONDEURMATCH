@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle militante yézidie irakienne reçut le prix Nobel de la paix 2018 après avoir témoigné des crimes de l'État islamique ?
+**Q1.** Quelle militante partagea avec le médecin congolais Denis Mukwege le prix Nobel de la paix ?
 
 **R.** Nadia Murad
 
