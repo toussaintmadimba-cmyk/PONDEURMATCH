@@ -86,3 +86,8 @@ Reprendre les 52 questions sans source directe dans l'ordre du JSON `audit/match
 ## Complément d'audit documentaire
 
 Les sources directes ont été étendues, notamment grâce à la Comédie-Française (Molière), au musée Reina Sofía (Guernica), au dictionnaire Larousse (négritude, homophones, adverbe « dehors », thermomètre, photosynthèse), au Portail linguistique du Canada (pronom) et à Parcs Canada (Ottawa). Le quota reclassé est de **67 réponses-noms propres sur 96 (69,8 %)**, la « négritude » étant un nom commun féminin.
+
+
+## Addendum documentaire
+
+Les 96 questions sont désormais toutes dotées de références dans `audit/match-01-validation.json`. Deux répétitions inversées ont été corrigées : Sénégal/Dakar et Tanzanie/Kilimandjaro.
