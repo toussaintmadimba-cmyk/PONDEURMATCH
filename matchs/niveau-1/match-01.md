@@ -60,7 +60,7 @@
 
 **THÈME : VOCABULAIRE — FAMILLES DE MOTS ET HOMOPHONIE**
 
-**Q1.** Quel nom obtient-on à partir du verbe « décider » ?
+**Q1.** Quel nom féminin de la famille de « décider » désigne un choix fait après réflexion ?
 **R.** Décision
 
 **Q2.** Quel verbe de la même famille que « début » signifie commencer ?
@@ -69,7 +69,7 @@
 **Q3.** Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?
 **R.** Homophones
 
-**Q4.** Quel est le nom formé à partir de l'adjectif « prudent » ?
+**Q4.** Quel nom féminin de la famille de « prudent » désigne la qualité de celui qui agit avec précaution ?
 **R.** Prudence
 
 ## 6. CANTONADE 1
@@ -80,7 +80,7 @@
 **Q2.** Sur quelle île fut-il emprisonné pendant de longues années ?
 **R.** Robben Island
 
-**Q3.** Quel parti politique opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
+**Q3.** Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?
 **R.** ANC
 
 **Q4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
