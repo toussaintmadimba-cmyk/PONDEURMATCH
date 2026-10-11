@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle scientifique israélienne fut colauréate du prix Nobel de chimie 2009 pour ses travaux de biologie structurale ?
+**Q1.** Quelle scientifique fut la seule femme parmi les trois lauréats du prix Nobel de chimie 2009 ?
 
 **R.** Ada Yonath
 
