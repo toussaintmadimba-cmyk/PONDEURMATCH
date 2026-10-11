@@ -290,7 +290,7 @@
 
 ## 14. MONDE CONTEMPORAIN
 
-**Q1.** Quelle révolution de février 1848 provoqua l'abdication du roi Louis-Philippe en France ?
+**Q1.** Quelle révolution déclenchée après l'interdiction d'un banquet réformiste provoqua l'abdication de Louis-Philippe en 1848 ?
 
 **R.** Révolution de Février
 
