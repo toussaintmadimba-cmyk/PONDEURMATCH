@@ -643,14 +643,15 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 2,
-      "question": "Quelle est la capitale du Sénégal ?",
-      "answer": "Dakar",
+      "question": "Quelle est la capitale de la Gambie ?",
+      "answer": "Banjul",
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+        "https://data.un.org/fr/iso/gm.html",
+        "https://gambia.gov.gm/about/"
       ],
-      "notes": "",
+      "notes": "Question de remplacement : ancien couple Sénégal/Dakar doublonnait par inversion une question du Match 08. Gambie/Banjul vérifié par les Nations unies et le gouvernement gambien.",
       "proper_name_answer": true
     },
     {
