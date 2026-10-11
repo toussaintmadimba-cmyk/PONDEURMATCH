@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 67,
-    "A_VERIFIER_SOURCE": 29
+    "DOCUMENTE_SOURCE_DIRECTE": 78,
+    "A_VERIFIER_SOURCE": 18
   },
   "questions": [
     {
@@ -981,8 +981,10 @@
       "question": "Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?",
       "answer": "Fresque",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/fresque/35200"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -1253,8 +1255,10 @@
       "question": "Dans quel pays se trouve le Kilimandjaro ?",
       "answer": "Tanzanie",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://whc.unesco.org/fr/list/403"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1299,8 +1303,10 @@
       "question": "Dans la mythologie grecque, quel dieu règne sur l'Olympe ?",
       "answer": "Zeus",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1313,8 +1319,10 @@
       "question": "Comment appelle-t-on l'abstention de nourriture pratiquée pendant une période religieuse ?",
       "answer": "Jeûne",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -1327,8 +1335,10 @@
       "question": "Quelle ville d'Arabie saoudite abrite la Kaaba ?",
       "answer": "La Mecque",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1341,8 +1351,10 @@
       "question": "Comment appelle-t-on la croyance en un seul Dieu ?",
       "answer": "Monothéisme",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -1355,8 +1367,10 @@
       "question": "Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?",
       "answer": "Moïse",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1458,8 +1472,11 @@
         "Organisation des Nations unies",
         "Nations unies"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.un.org/fr/about-us/secretariat",
+        "https://www.un.org/en/about-us/history-of-the-un"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1488,8 +1505,10 @@
       "question": "Quel compositeur polonais est célèbre pour ses œuvres pour piano, notamment ses nocturnes ?",
       "answer": "Frédéric Chopin",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1516,8 +1535,10 @@
       "question": "Quel instrument mesure la pression atmosphérique ?",
       "answer": "Baromètre",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -1530,8 +1551,10 @@
       "question": "Combien de côtés possède un octogone ?",
       "answer": "8",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/octogone/55565"
+      ],
       "notes": "",
       "proper_name_answer": false
     }
