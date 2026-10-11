@@ -74,7 +74,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle religieuse catholique, fondatrice des Missionnaires de la Charité, reçut le prix Nobel de la paix en 1979 ?
+**Q1.** Quelle religieuse catholique née Anjezë Gonxhe Bojaxhiu consacra sa vie aux personnes démunies ?
 **R.** Mère Teresa
 
 **Q2.** Dans quelle ville aujourd’hui capitale de la Macédoine du Nord est-elle née ?
@@ -261,7 +261,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel penseur maghrébin du XIVe siècle est l’auteur de la Muqaddima ?
+**Q1.** Quel historien et philosophe maghrébin développa une réflexion pionnière sur les sociétés, les États et leurs cycles historiques ?
 **R.** Ibn Khaldoun
 
 **Q2.** Dans quelle ville d’Afrique du Nord est-il né en 1332 ?
