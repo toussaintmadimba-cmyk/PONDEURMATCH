@@ -214,9 +214,9 @@
 
 **R.** Dmitri Chostakovitch
 
-**Q4.** Quelle ville italienne est traversée par l'Arno et célèbre pour son ponte Vecchio ?
+**Q4.** Quelle ville italienne abrite la basilique San Vitale, réputée pour ses mosaïques byzantines ?
 
-**R.** Florence
+**R.** Ravenne
 
 **Q5.** Quel pays d'Amérique centrale a San Salvador pour capitale ?
 
