@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle souveraine malgache du XIXe siècle succéda à Radama Ier et mena une politique de fermeture relative du royaume mérina ?
+**Q1.** Quelle souveraine malgache régna de 1828 à 1861 et mena une politique de fermeture relative du royaume mérina ?
 
 **R.** Ranavalona Ire
 
