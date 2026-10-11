@@ -2,19 +2,19 @@
 
 Date : 11 octobre 2026. Ce rapport remplace, pour la nouvelle branche, les conclusions non suffisamment étayées de l’audit historique; les anciens fichiers restent conservés.
 
-**Décision : contrôles des 96 fiches achevés; éditions PDF et audit final de collection encore ouverts. Le match n’est pas déclaré PRÊT POUR COMPÉTITION à ce stade.**
+**Décision : contrôles des 96 fiches achevés; audit final de collection encore ouvert. Le match n’est pas déclaré PRÊT POUR COMPÉTITION à ce stade.**
 
 - Faits vérifiés : 96/96, chacun avec passage, corroboration et date de consultation.
 - Arbitrage : 96/96; variantes, graphies, réponses concurrentes et lecture orale examinées.
 - Noms propres : 67/96 (69,8 %).
-- Déduplication : 537 paires candidates examinées contre le corpus de 2 880 Q/R; les rapprochements actuels sont des faits distincts.
+- Déduplication : 535 paires candidates examinées contre le corpus de 2 880 Q/R; les rapprochements actuels sont des faits distincts.
 - Remplacements pour répétition : Moroni, Serengeti, octogone et Inga. Voir doublons-corriges-match-01.json. Le remplacement intermédiaire sur Inga a lui-même été recontrôlé puis remplacé par le titre de l’hymne.
 - Sources : preuves individuelles dans registre/certification/match-01.json et sources/certification/match-01.md. Les références héritées sont distinguées des nouvelles preuves.
 - Cantonades Mandela/Senghor : 2 × 5 questions lues et vérifiées; sujet de Q1 commun aux quatre suivantes, sans divulgation des futures réponses.
 - Relais astronomes/savants et pays africains : 2 × 4 questions, thèmes et difficultés relus.
 - Identification Sankara : 4 preuves individualisées (40/30/20/10 points) provenant de la biographie de la présidence du Faso.
 - Validation terrain : aucune répétition physique avec élèves réalisée; les simulations sont intellectuelles.
-- Tests d’intégrité : 193/193 à la dernière exécution. Les contrôles stricts propres à M01 réussissent; la suite de collection échoue volontairement tant que M02–M10 et les alertes ne sont pas terminés.
+- Tests d’intégrité : 193/193 à la dernière exécution. Les contrôles stricts propres à M01 réussissent; la suite de collection échoue volontairement tant que M03–M10 et les alertes ne sont pas terminés.
 
 ## Modifications individuelles
 
@@ -115,3 +115,9 @@ Date : 11 octobre 2026. Ce rapport remplace, pour la nouvelle branche, les concl
 - Avant : Combien de côtés possède un octogone ? → 8
 - Après : Dans une fraction écrite verticalement, comment appelle-t-on le nombre sous la barre de fraction ? → Dénominateur
 - Motif : Exercice octogone identique à la famille polygonale déjà utilisée avec d’autres nombres dans plusieurs matchs ; notion nouvelle après recherche du corpus.
+
+## Éditions imprimables contrôlées
+
+PDF lecteur : 6 pages, 96 questions sans corrigé. PDF arbitrage : 22 pages, 96 réponses, variantes et preuves. Toutes les pages ont été rendues et inspectées ; contrôle enregistré dans pdf-match-01.json. Bandeau explicite : revue globale en cours.
+
+Tests après ajout des contrôles éditoriaux et PDF : 193/193 en intégrité ; 209/274 en certification globale (65 blocages attendus : huit matchs non traités et alertes globales). Aucun échec propre aux matchs 01 et 02.

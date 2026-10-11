@@ -1,10 +1,10 @@
 {
   "command": "python scripts/certification_niveau1.py check --strict",
-  "executed_at": "2026-10-11T21:23:42.208569+00:00",
+  "executed_at": "2026-10-11T21:57:02.579942+00:00",
   "mode": "certification",
-  "test_count": 244,
-  "passed": 200,
-  "failed": 44,
+  "test_count": 274,
+  "passed": 209,
+  "failed": 65,
   "checks": [
     {
       "test": "M01 fichier",
@@ -127,6 +127,21 @@
       "detail": ""
     },
     {
+      "test": "M01 cantonades et relais relus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 quatre preuves identification",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M01 PDF contrôlés et synchronisés",
+      "passed": true,
+      "detail": ""
+    },
+    {
       "test": "M02 fichier",
       "passed": true,
       "detail": ""
@@ -223,7 +238,7 @@
     },
     {
       "test": "M02 96 validations finales",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
@@ -238,12 +253,27 @@
     },
     {
       "test": "M02 preuve localisée complète",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M02 variantes consignées",
-      "passed": false,
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 cantonades et relais relus",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 quatre preuves identification",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "test": "M02 PDF contrôlés et synchronisés",
+      "passed": true,
       "detail": ""
     },
     {
@@ -363,6 +393,21 @@
     },
     {
       "test": "M03 variantes consignées",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M03 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M03 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M03 PDF contrôlés et synchronisés",
       "passed": false,
       "detail": ""
     },
@@ -487,6 +532,21 @@
       "detail": ""
     },
     {
+      "test": "M04 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M04 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M04 PDF contrôlés et synchronisés",
+      "passed": false,
+      "detail": ""
+    },
+    {
       "test": "M05 fichier",
       "passed": true,
       "detail": ""
@@ -603,6 +663,21 @@
     },
     {
       "test": "M05 variantes consignées",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M05 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M05 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M05 PDF contrôlés et synchronisés",
       "passed": false,
       "detail": ""
     },
@@ -727,6 +802,21 @@
       "detail": ""
     },
     {
+      "test": "M06 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M06 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M06 PDF contrôlés et synchronisés",
+      "passed": false,
+      "detail": ""
+    },
+    {
       "test": "M07 fichier",
       "passed": true,
       "detail": ""
@@ -843,6 +933,21 @@
     },
     {
       "test": "M07 variantes consignées",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M07 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M07 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M07 PDF contrôlés et synchronisés",
       "passed": false,
       "detail": ""
     },
@@ -967,6 +1072,21 @@
       "detail": ""
     },
     {
+      "test": "M08 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M08 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M08 PDF contrôlés et synchronisés",
+      "passed": false,
+      "detail": ""
+    },
+    {
       "test": "M09 fichier",
       "passed": true,
       "detail": ""
@@ -1087,6 +1207,21 @@
       "detail": ""
     },
     {
+      "test": "M09 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M09 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M09 PDF contrôlés et synchronisés",
+      "passed": false,
+      "detail": ""
+    },
+    {
       "test": "M10 fichier",
       "passed": true,
       "detail": ""
@@ -1203,6 +1338,21 @@
     },
     {
       "test": "M10 variantes consignées",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M10 cantonades et relais relus",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M10 quatre preuves identification",
+      "passed": false,
+      "detail": ""
+    },
+    {
+      "test": "M10 PDF contrôlés et synchronisés",
       "passed": false,
       "detail": ""
     },

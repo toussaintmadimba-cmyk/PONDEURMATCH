@@ -18,7 +18,7 @@ Au 6 octobre 2026, qui est le président de la République du Ghana ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/ — turn0view0 L10–15
+**Preuves :** https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/ — Page consultée L10–15
 
 
 
@@ -34,7 +34,7 @@ Au 6 octobre 2026, quelle est la capitale de la Namibie ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/namibia — turn0view1 L26–34
+**Preuves :** https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/namibia — Page consultée L26–34
 
 
 
@@ -50,7 +50,7 @@ Au 6 octobre 2026, qui est la présidente du Mexique ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.quadratin.com.mx/nacionales/en-enero-apertura-de-12-mil-consultorios-del-servicio-universal-de-salud/ — turn27view0 L44–55; https://lavision.mx/la-presidenta-de-mexico-claudia-sheinbaum-encabezo-la-inauguracion-del-crit-colima/ — turn18view5 L19
+**Preuves :** https://www.quadratin.com.mx/nacionales/en-enero-apertura-de-12-mil-consultorios-del-servicio-universal-de-salud/ — Page consultée L44–55; https://lavision.mx/la-presidenta-de-mexico-claudia-sheinbaum-encabezo-la-inauguracion-del-crit-colima/ — Page consultée L19
 
 
 
@@ -66,7 +66,7 @@ Au 6 octobre 2026, quelle monnaie a cours légal au Nigeria ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.cbn.gov.ng/Currency/ — turn0view3 L2–5
+**Preuves :** https://www.cbn.gov.ng/Currency/ — Page consultée L2–5
 
 
 
@@ -82,7 +82,7 @@ Quel sprinteur a battu le record du monde du 100 m en 9,58 secondes aux Mondiaux
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://arxiv.org/abs/0911.1952 — turn33view2 L3,12,76–78
+**Preuves :** https://arxiv.org/abs/0911.1952 — Page consultée L3,12,76–78
 
 
 
@@ -98,7 +98,7 @@ Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.rolandgarros.com/en-us/article/behold-the-clay-canvas-at-roland-garros-rg2022 — turn0view5 L54,62,89
+**Preuves :** https://www.rolandgarros.com/en-us/article/behold-the-clay-canvas-at-roland-garros-rg2022 — Page consultée L54,62,89
 
 
 
@@ -114,7 +114,7 @@ Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup — turn0view6 L182–195
+**Preuves :** https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup — Page consultée L182–195
 
 
 
@@ -130,7 +130,7 @@ Selon les règles FIBA de 2024 du basketball traditionnel, combien de joueurs un
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf — turn2view0 art. 4.2.2 p.12
+**Preuves :** https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf — Page consultée art. 4.2.2 p.12
 
 
 
@@ -146,7 +146,7 @@ Selon les règles FIBA de 2024 du basketball traditionnel, combien de points rap
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf — turn3view0 art. 16.2.1 p.21
+**Preuves :** https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf — Page consultée art. 16.2.1 p.21
 
 
 
@@ -162,7 +162,7 @@ Quel réalisateur a signé les films Inception et Oppenheimer ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.universalpicturesathome.com/press-release/oppenheimer-press-release — turn5view7 L21–25
+**Preuves :** https://www.universalpicturesathome.com/press-release/oppenheimer-press-release — Page consultée L21–25
 
 
 
@@ -178,7 +178,7 @@ Quelle chanteuse britannique interprète Rolling in the Deep ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.grammy.com/artists/adele/528/ — turn6view2 L107–109 et turn3view2 L130
+**Preuves :** https://www.grammy.com/artists/adele/528/ — Page consultée L107–109 et Page consultée L130
 
 
 
@@ -194,7 +194,7 @@ Combien de cordes possède normalement une guitare classique ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html — turn3view3 L6–15
+**Preuves :** https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html — Page consultée L6–15
 
 
 
@@ -210,7 +210,7 @@ Quel réalisateur sud-coréen a réalisé le film Parasite, sorti en 2019 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.oscars.org/oscars/ceremonies/2020/B — turn28view2 L389–395; https://en.yna.co.kr/view/AEN20190418010351315 — turn35view1 L191,208–214
+**Preuves :** https://www.oscars.org/oscars/ceremonies/2020/B — Page consultée L389–395; https://en.yna.co.kr/view/AEN20190418010351315 — Page consultée L191,208–214
 
 
 
@@ -226,7 +226,7 @@ Quel instrument à clavier comporte généralement 88 touches dans sa version mo
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/ — turn3view5 L46–55
+**Preuves :** https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/ — Page consultée L46–55
 
 
 
@@ -242,7 +242,7 @@ Quel nom féminin de la famille de « décider » désigne un choix fait après 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210 — turn3view6 L28–40
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210 — Page consultée L28–40
 
 
 
@@ -258,7 +258,7 @@ Quel verbe de la même famille que « début » signifie commencer ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955 — turn3view7 L31–47 et L75–79
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955 — Page consultée L31–47 et L75–79
 
 
 
@@ -274,7 +274,7 @@ Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont p
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/homophone/40297 — turn5view6 L21–39
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/homophone/40297 — Page consultée L21–39
 
 
 
@@ -290,7 +290,7 @@ Quel nom féminin de la famille de « prudent » désigne la qualité de celui q
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/prudence/64688 — turn3view9 L25–31
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/prudence/64688 — Page consultée L25–31
 
 
 
@@ -306,7 +306,7 @@ Quel dirigeant sud-africain, ancien prisonnier de l'apartheid, devint président
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nelsonmandela.org/biography — turn4view0 L99–116
+**Preuves :** https://www.nelsonmandela.org/biography — Page consultée L99–116
 
 
 
@@ -322,7 +322,7 @@ Sur quelle île fut-il emprisonné pendant de longues années ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nelsonmandela.org/biography — turn4view0 L103–106
+**Preuves :** https://www.nelsonmandela.org/biography — Page consultée L103–106
 
 
 
@@ -338,7 +338,7 @@ Sur quelle île fut-il emprisonné pendant de longues années ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.gov.za/mandela100/biography — turn25view4 L63,98
+**Preuves :** https://www.gov.za/mandela100/biography — Page consultée L63,98
 
 
 
@@ -354,7 +354,7 @@ Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nelsonmandela.org/biography — turn4view0 L113
+**Preuves :** https://www.nelsonmandela.org/biography — Page consultée L113
 
 
 
@@ -370,7 +370,7 @@ Dans quelle ville eut lieu son investiture présidentielle du 10 mai 1994 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994 — turn5view1 L32–35
+**Preuves :** https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994 — Page consultée L32–35
 
 
 
@@ -386,7 +386,7 @@ Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/dehors/22967 — turn5view2 L27–41
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/dehors/22967 — Page consultée L27–41
 
 
 
@@ -402,7 +402,7 @@ Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct — turn5view3 L17–35
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct — Page consultée L17–35
 
 
 
@@ -418,7 +418,7 @@ Quel temps verbal est employé dans « nous partirons demain » ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/conjugaison/francais/partir/6596 — turn5view4 L61–68
+**Preuves :** https://www.larousse.fr/conjugaison/francais/partir/6596 — Page consultée L61–68
 
 
 
@@ -434,7 +434,7 @@ Quelle classe grammaticale peut représenter un nom et en exercer les fonctions 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/college/pronom/32537 — turn25view0 L15–21
+**Preuves :** https://www.larousse.fr/dictionnaires/college/pronom/32537 — Page consultée L15–21
 
 
 
@@ -450,7 +450,7 @@ Quel scientifique écossais découvrit la pénicilline en 1928 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nms.ac.uk/discover-catalogue/how-a-ceramic-object-fueled-a-medical-breakthrough — turn20view1 L42–49; https://www.scotmt.scot.nhs.uk/timeline/1928/ — turn18view1 L24–27
+**Preuves :** https://www.nms.ac.uk/discover-catalogue/how-a-ceramic-object-fueled-a-medical-breakthrough — Page consultée L42–49; https://www.scotmt.scot.nhs.uk/timeline/1928/ — Page consultée L24–27
 
 
 
@@ -466,7 +466,7 @@ Quelle unité du SI mesure la résistance électrique ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.bipm.org/fr/-/resolution-cgpm-11-12 — turn7view1 L127
+**Preuves :** https://www.bipm.org/fr/-/resolution-cgpm-11-12 — Page consultée L127
 
 
 
@@ -482,7 +482,7 @@ Quelle scientifique fut la première femme à recevoir un prix Nobel ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://oumnh.ox.ac.uk/learn-marie-curie — turn20view0 L184–187
+**Preuves :** https://oumnh.ox.ac.uk/learn-marie-curie — Page consultée L184–187
 
 
 
@@ -498,7 +498,7 @@ Quel processus permet aux plantes vertes de produire de la matière organique gr
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404 — turn7view3 L19–25
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404 — Page consultée L19–25
 
 
 
@@ -514,7 +514,7 @@ Quel physicien formula la théorie de la relativité générale ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.mpg.de/en/albert-einstein — turn8view0 L109–111
+**Preuves :** https://www.mpg.de/en/albert-einstein — Page consultée L109–111
 
 
 
@@ -530,7 +530,7 @@ Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symp
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://internet.beethoven.de/pdf-sonderausstellung/Von-der-Nulltern-bis-zur-Zehnten-Brief-Guide.pdf — turn35view2 L147–150 p.2; https://www.larousse.fr/encyclopedie/personnage/Ludwig_van_Beethoven/108152 — turn35view0 introduction et L42,58–59
+**Preuves :** https://internet.beethoven.de/pdf-sonderausstellung/Von-der-Nulltern-bis-zur-Zehnten-Brief-Guide.pdf — Page consultée L147–150 p.2; https://www.larousse.fr/encyclopedie/personnage/Ludwig_van_Beethoven/108152 — Page consultée introduction et L42,58–59
 
 
 
@@ -546,7 +546,7 @@ Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.guinnessworldrecords.com/world-records/highest-mountain — turn8view1 L59–73
+**Preuves :** https://www.guinnessworldrecords.com/world-records/highest-mountain — Page consultée L59–73
 
 
 
@@ -562,7 +562,7 @@ Que suis-je ? Fleuve africain, je traverse notamment l'Égypte avant de me jeter
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://education.nationalgeographic.org/resource/nile-river/ — turn8view2 L42–44
+**Preuves :** https://education.nationalgeographic.org/resource/nile-river/ — Page consultée L42–44
 
 
 
@@ -578,7 +578,7 @@ Qui suis-je ? Peintre né à Málaga en Espagne, je suis l'auteur de Guernica.
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.museoreinasofia.es/colecciones/obra/guernica/ — turn8view3 L21; https://www.museoreinasofia.es/colecciones/artista/picasso-pablo-pablo-ruiz-picasso/ — turn31view2 L17–19
+**Preuves :** https://www.museoreinasofia.es/colecciones/obra/guernica/ — Page consultée L21; https://www.museoreinasofia.es/colecciones/artista/picasso-pablo-pablo-ruiz-picasso/ — Page consultée L17–19
 
 
 
@@ -594,7 +594,7 @@ Où suis-je ? Capitale italienne, j'abrite le Colisée.
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://whc.unesco.org/en/list/91 — turn28view5 L43–46; https://www.nationsonline.org/oneworld/capitals_europe.htm — turn31view1 L100
+**Preuves :** https://whc.unesco.org/en/list/91 — Page consultée L43–46; https://www.nationsonline.org/oneworld/capitals_europe.htm — Page consultée L100
 
 
 
@@ -610,7 +610,7 @@ Quelle est la capitale de l'Éthiopie ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view5 L69
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L69
 
 
 
@@ -626,7 +626,7 @@ Quelle est la capitale officielle du Bénin ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.gouv.bj/article/1048/destination-benin---porto-novo--condense-histoire-culture-fete-adoucit-moeurs/ — turn24view0 L45–47
+**Preuves :** https://www.gouv.bj/article/1048/destination-benin---porto-novo--condense-histoire-culture-fete-adoucit-moeurs/ — Page consultée L45–47
 
 
 
@@ -642,7 +642,7 @@ Quelle est la capitale du Rwanda ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view6 L101
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L101
 
 
 
@@ -658,7 +658,7 @@ Quelle est la capitale du Mozambique ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view7 L113
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L113
 
 
 
@@ -674,7 +674,7 @@ Quelle est la capitale du Botswana ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view8 L96
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L96
 
 
 
@@ -706,7 +706,7 @@ Quel auteur anglais a écrit Hamlet ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.rsc.org.uk/hamlet/ — turn9view1 L23–25
+**Preuves :** https://www.rsc.org.uk/hamlet/ — Page consultée L23–25
 
 
 
@@ -722,7 +722,7 @@ Quelle est la capitale du Japon ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.japan.go.jp/japan/index.html — turn10view0 L136–138
+**Preuves :** https://www.japan.go.jp/japan/index.html — Page consultée L136–138
 
 
 
@@ -738,7 +738,7 @@ Quelle est la plus grande planète du Système solaire ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://science.nasa.gov/jupiter/ — turn10view1 L247–260
+**Preuves :** https://science.nasa.gov/jupiter/ — Page consultée L247–260
 
 
 
@@ -770,7 +770,7 @@ Quel est le symbole chimique du fer ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://periodic-table.rsc.org/element/26/iron — turn22view4 L69–71,169–173
+**Preuves :** https://periodic-table.rsc.org/element/26/iron — Page consultée L69–71,169–173
 
 
 
@@ -786,7 +786,7 @@ Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les de
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationalgeographic.org/national-geographic-map-policy — turn10view4 L219–225
+**Preuves :** https://www.nationalgeographic.org/national-geographic-map-policy — Page consultée L219–225
 
 
 
@@ -802,7 +802,7 @@ Quel compositeur a écrit la musique de l’opéra La Flûte enchantée ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.opera-comique.com/fr/spectacles/la-flute-enchantee — turn28view3 L202–204,227–230
+**Preuves :** https://www.opera-comique.com/fr/spectacles/la-flute-enchantee — Page consultée L202–204,227–230
 
 
 
@@ -818,7 +818,7 @@ Combien de planètes compte le Système solaire ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://science.nasa.gov/solar-system/planets/ — turn10view6 L239–255
+**Preuves :** https://science.nasa.gov/solar-system/planets/ — Page consultée L239–255
 
 
 
@@ -834,7 +834,7 @@ Quel gaz de formule moléculaire O₂ est indispensable à la respiration humain
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/ — turn10view7 L300–304
+**Preuves :** https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/ — Page consultée L300–304
 
 
 
@@ -850,7 +850,7 @@ Quelle ville est la capitale de la République démocratique du Congo ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view6 L102
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L102
 
 
 
@@ -866,7 +866,7 @@ Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hu
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born — turn11view0 L48 et L64
+**Preuves :** https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born — Page consultée L48 et L64
 
 
 
@@ -882,7 +882,7 @@ Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://whc.unesco.org/fr/list/63 — turn11view1 L8–10
+**Preuves :** https://whc.unesco.org/fr/list/63 — Page consultée L8–10
 
 
 
@@ -898,7 +898,7 @@ Quel fleuve sépare notamment Kinshasa de Brazzaville ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/ — turn12view0 L239–243
+**Preuves :** https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/ — Page consultée L239–243
 
 
 
@@ -914,7 +914,7 @@ Quel est le titre de l’hymne national de la RDC inscrit dans sa Constitution d
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.presidence.cd/uploads/files/Constitution%20de%20la%20RDC%20%202011.pdf — turn39view1 article 1, p.8 imprimée / p.8 PDF, L102; https://presidence.cd/detail-symbole/3 — turn39view0 L54,62
+**Preuves :** https://www.presidence.cd/uploads/files/Constitution%20de%20la%20RDC%20%202011.pdf — Page consultée article 1, p.8 imprimée / p.8 PDF, L102; https://presidence.cd/detail-symbole/3 — Page consultée L54,62
 
 
 
@@ -930,7 +930,7 @@ Quel écrivain nigérian est l'auteur de Things Fall Apart ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/ — turn12view2 L224–233
+**Preuves :** https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/ — Page consultée L224–233
 
 
 
@@ -946,7 +946,7 @@ Quel sculpteur a créé Le Penseur ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.musee-rodin.fr/musee/collections/oeuvres/penseur — turn28view4 L36–45
+**Preuves :** https://www.musee-rodin.fr/musee/collections/oeuvres/penseur — Page consultée L36–45
 
 
 
@@ -962,7 +962,7 @@ Quel est le véritable nom de Molière ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.comedie-francaise.fr/moliere — turn12view4 L41–42
+**Preuves :** https://www.comedie-francaise.fr/moliere — Page consultée L41–42
 
 
 
@@ -978,7 +978,7 @@ Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/fresque/35200 — turn12view5 L21–28
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/fresque/35200 — Page consultée L21–28
 
 
 
@@ -994,7 +994,7 @@ Quel écrivain français est l'auteur du roman L'Étranger ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb31902899n — turn12view6 L55–61
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb31902899n — Page consultée L55–61
 
 
 
@@ -1010,7 +1010,7 @@ Quel événement du 14 juillet 1789 constitue un épisode central de la Révolut
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.carnavalet.paris.fr/le-nouveau-parcours — turn14view0 L311–315
+**Preuves :** https://www.carnavalet.paris.fr/le-nouveau-parcours — Page consultée L311–315
 
 
 
@@ -1026,7 +1026,7 @@ Quel traité signé le 28 juin 1919 régla notamment la paix entre l'Allemagne e
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles — turn14view1 L37–43
+**Preuves :** https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles — Page consultée L37–43
 
 
 
@@ -1042,7 +1042,7 @@ En quelle année l'Organisation des Nations Unies est-elle officiellement entré
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://research.un.org/en/unmembers/founders — turn24view1 L74–76
+**Preuves :** https://research.un.org/en/unmembers/founders — Page consultée L74–76
 
 
 
@@ -1058,7 +1058,7 @@ Quel chancelier fédéral allemand était en fonction lors de la réunification 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.bundesregierung.de/breg-fr/service/archives/archives/le-chancelier-de-l-unit%C3%A9-411066 — turn25view1 L99–106,118
+**Preuves :** https://www.bundesregierung.de/breg-fr/service/archives/archives/le-chancelier-de-l-unit%C3%A9-411066 — Page consultée L99–106,118
 
 
 
@@ -1074,7 +1074,7 @@ Quel dirigeant soviétique est associé aux réformes appelées perestroïka et 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821 — turn14view3 L21–24
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821 — Page consultée L21–24
 
 
 
@@ -1090,7 +1090,7 @@ Quel savant anglais formula les lois classiques du mouvement et de la gravitatio
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://royalsociety.org/news/2014/astronaut-tim-peake-principia/ — turn14view4 L205–214
+**Preuves :** https://royalsociety.org/news/2014/astronaut-tim-peake-principia/ — Page consultée L205–214
 
 
 
@@ -1106,7 +1106,7 @@ Quel naturaliste anglais publia De l'origine des espèces ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html — turn14view5 L57–65 et L102–111
+**Preuves :** https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html — Page consultée L57–65 et L102–111
 
 
 
@@ -1122,7 +1122,7 @@ Quel savant italien observa quatre satellites de Jupiter en 1610 grâce à une l
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/ — turn28view0 L253–254
+**Preuves :** https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/ — Page consultée L253–254
 
 
 
@@ -1138,7 +1138,7 @@ Quelle mathématicienne publia des notes sur la machine analytique de Charles Ba
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://computerhistory.org/blog/ada-lovelace-day/ — turn20view3 L60,69–81
+**Preuves :** https://computerhistory.org/blog/ada-lovelace-day/ — Page consultée L60,69–81
 
 
 
@@ -1154,7 +1154,7 @@ Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 198
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — turn14view8 L166–173 et turn16view0 L177
+**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — Page consultée L166–173 et Page consultée L177
 
 
 
@@ -1170,7 +1170,7 @@ Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellec
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565 — turn14view9 L20–27
+**Preuves :** https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565 — Page consultée L20–27
 
 
 
@@ -1186,7 +1186,7 @@ Quel pays a-t-il dirigé de 1960 à 1980 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — turn16view0 L177
+**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — Page consultée L177
 
 
 
@@ -1202,7 +1202,7 @@ Dans quelle institution française fut-il élu en 1983 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — turn16view1 L181
+**Preuves :** https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor — Page consultée L181
 
 
 
@@ -1218,7 +1218,7 @@ Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://musee.sacem.fr/index.php/Detail/entities/727 — turn32view1 L37
+**Preuves :** https://musee.sacem.fr/index.php/Detail/entities/727 — Page consultée L37
 
 
 
@@ -1234,7 +1234,7 @@ Quel pays africain a Le Caire pour capitale ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view5 L79
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L79
 
 
 
@@ -1250,7 +1250,7 @@ Dans quel pays africain se trouve le parc national d’Etosha ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.meft.gov.na/national-parks/etosha-national-park/217/ — turn33view0 L10
+**Preuves :** https://www.meft.gov.na/national-parks/etosha-national-park/217/ — Page consultée L10
 
 
 
@@ -1266,7 +1266,7 @@ Quel pays africain a Luanda pour capitale ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn8view6 L110
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L110
 
 
 
@@ -1282,7 +1282,7 @@ Quel pays du Maghreb a Rabat pour capitale ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — turn31view0 L129
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_africa.htm — Page consultée L129
 
 
 
@@ -1298,7 +1298,7 @@ Dans la mythologie grecque, quel dieu règne sur l'Olympe ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863 — turn16view3 L68–74
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863 — Page consultée L68–74
 
 
 
@@ -1314,7 +1314,7 @@ Comment appelle-t-on la privation temporaire de toute nourriture, notamment pour
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251 — turn27view2 L20–23
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251 — Page consultée L20–23
 
 
 
@@ -1330,7 +1330,7 @@ Quelle ville d'Arabie saoudite abrite la Kaaba ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518 — turn16view5 L34
+**Preuves :** https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518 — Page consultée L34
 
 
 
@@ -1346,7 +1346,7 @@ Comment appelle-t-on la croyance en un seul Dieu ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437 — turn27view3 L21–25
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437 — Page consultée L21–25
 
 
 
@@ -1362,7 +1362,7 @@ Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575 — turn16view7 L43–48
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575 — Page consultée L43–48
 
 
 
@@ -1386,7 +1386,7 @@ Identification progressive — Qui suis-je ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.presidencedufaso.bf/thomas-sankara/ — turn6view0 L43; https://www.presidencedufaso.bf/thomas-sankara/ — turn6view0 L44–45; https://www.presidencedufaso.bf/thomas-sankara/ — turn6view0 L45–46; https://www.presidencedufaso.bf/thomas-sankara/ — turn6view0 L40 et L48
+**Preuves :** https://www.presidencedufaso.bf/thomas-sankara/ — Page consultée L43; https://www.presidencedufaso.bf/thomas-sankara/ — Page consultée L44–45; https://www.presidencedufaso.bf/thomas-sankara/ — Page consultée L45–46; https://www.presidencedufaso.bf/thomas-sankara/ — Page consultée L40 et L48
 
 
 
@@ -1402,7 +1402,7 @@ Quelle est la capitale du Canada ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada/territoire-climat.html — turn16view8 L69
+**Preuves :** https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada/territoire-climat.html — Page consultée L69
 
 
 
@@ -1418,7 +1418,7 @@ Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.fujisan-3776.jp/en/value/index.html — turn16view9 L38
+**Preuves :** https://www.fujisan-3776.jp/en/value/index.html — Page consultée L38
 
 
 
@@ -1434,7 +1434,7 @@ Quel écrivain espagnol a créé Don Quichotte ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Miguel_de_Cervant%C3%A8s/112410 — turn32view0 L17–23,40,75
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Miguel_de_Cervant%C3%A8s/112410 — Page consultée L17–23,40,75
 
 
 
@@ -1450,7 +1450,7 @@ Quelle unité du SI mesure la fréquence ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.bipm.org/fr/-/resolution-cgpm-11-12 — turn7view1 L112
+**Preuves :** https://www.bipm.org/fr/-/resolution-cgpm-11-12 — Page consultée L112
 
 
 
@@ -1466,7 +1466,7 @@ Quelle organisation internationale, fondée en 1945 pour lutter contre la faim, 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.fao.org/newsroom/story/75-years-of-growing-nourishing-and-sustaining-our-world/en — turn30view2 L16,24–26,55
+**Preuves :** https://www.fao.org/newsroom/story/75-years-of-growing-nourishing-and-sustaining-our-world/en — Page consultée L16,24–26,55
 
 
 
@@ -1482,7 +1482,7 @@ Dans quel pays se trouve le Machu Picchu ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://whc.unesco.org/en/list/274 — turn16view11 L122
+**Preuves :** https://whc.unesco.org/en/list/274 — Page consultée L122
 
 
 
@@ -1498,7 +1498,7 @@ Quel compositeur a écrit les Nocturnes pour piano de l’opus 9 ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb395878915 — turn25view2 L54–68
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb395878915 — Page consultée L54–68
 
 
 
@@ -1514,7 +1514,7 @@ Quelle ville argentine est située sur le Río de la Plata et est la capitale du
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad — turn16view12 L8
+**Preuves :** https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad — Page consultée L8
 
 
 
@@ -1530,7 +1530,7 @@ Quel instrument mesure la pression atmosphérique ?
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060 — turn16view13 L25
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060 — Page consultée L25
 
 
 
@@ -1546,4 +1546,4 @@ Dans une fraction écrite verticalement, comment appelle-t-on le nombre sous la 
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19494153/barre-de-fraction — turn22view2 L20–25
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19494153/barre-de-fraction — Page consultée L20–25

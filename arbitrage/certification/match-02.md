@@ -8,7 +8,7 @@
 
 ## M02-R01-Q01 — MANCHETTE A - ÉQUIPE A
 
-Au 6 octobre 2026, quelle est la capitale de la Zambie ?
+Au 11 octobre 2026, quelle est la capitale de la Zambie ?
 
 **Réponse :** Lusaka
 
@@ -40,13 +40,13 @@ Quelle monnaie nationale le Botswana a-t-il mise en circulation en 1976 ?
 
 ## M02-R02-Q01 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quel sommet est le point culminant du Kenya ?
+Quelle montagne est le point culminant du Kenya ?
 
 **Réponse :** Mont Kenya
 
 **Variantes :** Mont Kenya; Mount Kenya; Kenya
 
-**Décision :** Accepter le nom de la montagne. Batian désigne son sommet principal et doit aussi être accepté; ne pas refuser une précision topographique correcte.
+**Décision :** Accepter mont Kenya, ou Kenya lorsque le contexte indique la montagne. Si une équipe précise Batian, sommet principal du massif, demander le nom de la montagne; ne pas opposer artificiellement montagne et sommet.
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
@@ -56,7 +56,7 @@ Au 6 octobre 2026, quel sommet est le point culminant du Kenya ?
 
 ## M02-R02-Q02 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quelle monnaie a cours légal en Inde ?
+Au 11 octobre 2026, quelle monnaie a cours légal en Inde ?
 
 **Réponse :** Roupie indienne
 
@@ -76,13 +76,13 @@ Quel joueur de tennis espagnol est surnommé le « roi de la terre battue » ?
 
 **Réponse :** Rafael Nadal
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Rafael Nadal; Rafa Nadal; Nadal
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Nadal, Rafael ou Rafa Nadal; le surnom est associé explicitement à ce joueur dans la source officielle.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.rolandgarros.com/en-us/article/rafael-nadal-stats-and-milestones-rg19 — Introduction, ligne 62; ligne 87 pour Spaniard.
 
 
 
@@ -92,13 +92,13 @@ Quel club anglais joue traditionnellement ses matchs à domicile à Anfield ?
 
 **Réponse :** Liverpool FC
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Liverpool; Liverpool FC; Liverpool Football Club; LFC
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Liverpool ou le nom du club complet. Everton ne correspond pas à Anfield.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.liverpoolfc.com/info/anfield — Anfield Stadium, introduction, ligne 7.
 
 
 
@@ -108,13 +108,13 @@ Quelle ville a accueilli les Jeux olympiques d'été de 2016 ?
 
 **Réponse :** Rio de Janeiro
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Rio de Janeiro; Rio
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Rio ou Rio de Janeiro. Brésil seul donne le pays, pas la ville : demander une précision.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://olympic.ca/games/2016-rio/ — Rio 2016, History, ligne 96 et section Rio de Janeiro lignes 168–170.
 
 
 
@@ -136,49 +136,49 @@ Au 11 octobre 2026, combien de minutes comporte une période normale de rugby à
 
 ## M02-R03-Q05 — SPORTS ET JEUX
 
-Quel sport se joue avec un volant ?
+Quel sport se joue avec des raquettes et un volant que les joueurs frappent par-dessus un filet ?
 
 **Réponse :** Badminton
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Badminton; Bad
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter badminton. Le terme informel bad est admissible si clairement prononcé; ne pas accepter tennis ou tennis de table. Filet et raquette distinguent notamment les jeux de volant frappé à la main ou au pied.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.ffbad.org/en/pratiquer-comment-jouer-au-badminton — Règles simplifiées, lignes 32, 36, 50 et 80–98.
 
 
 
 ## M02-R04-Q01 — CINÉMA ET MUSIQUE
 
-Quelle actrice interprète Rose dans le film Titanic de James Cameron ?
+Quelle actrice interprète Rose jeune dans Titanic, le film de James Cameron sorti en 1997 ?
 
 **Réponse :** Kate Winslet
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kate Winslet; Winslet
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kate Winslet ou Winslet. Gloria Stuart joue Rose âgée : préciser jeune rend son refus équitable. Rose elle-même est le personnage, non l’actrice.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.20thcenturystudios.com.au/movies/titanic — Synopsis et fiche du studio, lignes 15, 21, 23 et 27.
 
 
 
 ## M02-R04-Q02 — CINÉMA ET MUSIQUE
 
-Quel compositeur italien a écrit Les Quatre Saisons ?
+Quel compositeur a écrit les quatre concertos pour violon intitulés Les Quatre Saisons ?
 
 **Réponse :** Antonio Vivaldi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Antonio Vivaldi; Vivaldi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Vivaldi. Tchaïkovski a composé un cycle pour piano Les Saisons, et Max Richter une recomposition : le cycle original de quatre concertos pour violon distingue Vivaldi.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://philharmoniedeparis.fr/fr/scolaires-enseignants/27677-vivaldi-les-quatre-saisons — Programme, lignes 42–44; présentation, ligne 51.
 
 
 
@@ -188,45 +188,45 @@ Quelle chanteuse sud-africaine était surnommée « Mama Africa » ?
 
 **Réponse :** Miriam Makeba
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Miriam Makeba; Zenzile Miriam Makeba; Makeba
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Makeba ou son nom complet; Mama Africa seul est le surnom déjà donné, pas l’identité demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.archives.gov/research/african-americans/individuals/miriam-makeba — Biographie, lignes 52–53.
 
 
 
 ## M02-R04-Q04 — CINÉMA ET MUSIQUE
 
-Quel studio japonais a produit Mon voisin Totoro et Le Voyage de Chihiro ?
+Quel studio d’animation a produit Mon voisin Totoro et Le Voyage de Chihiro ?
 
 **Réponse :** Studio Ghibli
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Studio Ghibli; Ghibli
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ghibli. Miyazaki est le réalisateur mais le studio est demandé. Les titres français correspondent aux titres japonais des fiches.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.ghibli.jp/works/totoro/ — Fiche officielle となりのトトロ (1988), lignes 33 et 39.; https://www.ghibli.jp/works/chihiro/ — Fiche officielle 千と千尋の神隠し (2001), lignes 33 et 39.
 
 
 
 ## M02-R04-Q05 — CINÉMA ET MUSIQUE
 
-Quel instrument à vent inventé par Adolphe Sax porte le nom de son inventeur ?
+Quel instrument à anche simple doit son nom à son inventeur Adolphe Sax ?
 
 **Réponse :** Saxophone
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Saxophone; Saxo; Saxophone alto; Saxophone ténor
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter saxophone et sa famille précisée. Refuser saxhorn: autre invention de Sax, mais sans anche simple. La précision supprime cette réponse concurrente.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.mim.be/fr/collection-piece/saxophone-alto — Présentation de la pièce; lignes 15–17; https://www.larousse.fr/dictionnaires/college/saxophone/36369 — Étymologie et définition; lignes 45–47
 
 
 
@@ -236,13 +236,13 @@ Quel est le féminin de « acteur » ?
 
 **Réponse :** Actrice
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Actrice
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Actrice est le féminin demandé; comédienne est un synonyme et non la transformation du mot acteur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/acteur/885 — Vedette acteur, actrice; lignes 27–29 de la page ouverte
 
 
 
@@ -252,13 +252,13 @@ Quel est le pluriel de « cheval » ?
 
 **Réponse :** Chevaux
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Chevaux
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter chevaux; refuser chevals.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/cheval/15173 — Vedette cheval, chevaux; lignes 28–30
 
 
 
@@ -268,13 +268,13 @@ Dans « une maison blanche », quel mot est l'adjectif qualificatif ?
 
 **Réponse :** Blanche
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Blanche
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** La question demande de citer le mot adjectif dans une maison blanche: accepter blanche. Adjectif ou épithète seul ne cite pas le mot demandé; maison est un nom.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://eduscol.education.gouv.fr/sites/default/files/document/guide-la-grammaire-du-francais-terminologie-grammaticale-67998.pdf — PDF page 104, section 3.5.1; lignes 3221–3231
 
 
 
@@ -284,13 +284,13 @@ Quel préfixe exprime la négation dans le mot « impossible » ?
 
 **Réponse :** Im-
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** im-; im; Préfixe im
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter im-. Accepter une explication in- sous la forme im-; in- seul ne désigne pas la forme écrite demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://eduscol.education.gouv.fr/sites/default/files/document/guide-la-grammaire-du-francais-terminologie-grammaticale-67998.pdf — PDF page 167, morphologie lexicale; lignes 5318–5322
 
 
 
@@ -380,13 +380,13 @@ Dans « ils finissaient », quel est le temps verbal ?
 
 **Réponse :** Imparfait
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Imparfait; Imparfait de l’indicatif
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** L’indicatif peut être précisé mais imparfait suffit. Refuser passé simple.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/conjugaison/francais/finir/4725 — Indicatif, imparfait; lignes 42–49
 
 
 
@@ -396,13 +396,13 @@ Dans « le chat noir dort », quelle est la fonction de « noir » ?
 
 **Réponse :** Épithète
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Épithète; Épithète liée; Épithète du nom chat
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** La fonction est épithète. Adjectif seul donne la classe grammaticale: demander la fonction. Refuser attribut, aucun verbe attributif ne relie noir à chat.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://eduscol.education.gouv.fr/sites/default/files/document/guide-la-grammaire-du-francais-terminologie-grammaticale-67998.pdf — PDF pages 96–97, section 3.3.2; lignes 2964–2995
 
 
 
@@ -412,13 +412,13 @@ Comment appelle-t-on le groupe formé autour d'un nom ?
 
 **Réponse :** Groupe nominal
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Groupe nominal; GN; Syntagme nominal
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter groupe nominal, GN et syntagme nominal; le noyau est le nom.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://eduscol.education.gouv.fr/sites/default/files/document/guide-la-grammaire-du-francais-terminologie-grammaticale-67998.pdf — PDF page 14, groupe nominal; lignes 348–352
 
 
 
@@ -428,13 +428,13 @@ Dans « parce qu'il pleut », quelle relation logique exprime « parce que » ?
 
 **Réponse :** Cause
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Cause; Causalité; Relation de cause
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter cause et relation causale. Explication peut être précisé comme cause; refuser conséquence.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://eduscol.education.gouv.fr/sites/default/files/document/guide-la-grammaire-du-francais-terminologie-grammaticale-67998.pdf — PDF pages 43, 53 et 57; lignes 1218, 1471–1473 et 1604–1606
 
 
 
@@ -444,13 +444,13 @@ Quel chimiste russe est associé à la classification périodique des éléments
 
 **Réponse :** Dmitri Mendeleïev
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Dmitri Mendeleïev; Mendeleïev; Dimitri Mendeleev; Mendeleev
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les translittérations Mendeleïev/Mendeleev. La mention russe distingue Meyer, Newlands et de Chancourtois, également acteurs de la classification.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://periodic-table.rsc.org/about — Dmitri Mendeleev; lignes 69–79
 
 
 
@@ -460,13 +460,13 @@ Quel inventeur est associé au brevet du téléphone en 1876 ?
 
 **Réponse :** Alexander Graham Bell
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Alexander Graham Bell; Alexandre Graham Bell; Graham Bell; Bell
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** La question porte sur ce brevet de 1876, et non une attribution exclusive de toute invention du téléphone. Refuser Meucci ou Gray pour ce brevet précis.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://patents.google.com/patent/US174465A/en — Brevet original US174465A, en-tête et revendication 5; lignes 108–120, 177–181
 
 
 
@@ -476,29 +476,29 @@ Quelle agence spatiale américaine a conduit le programme Apollo ?
 
 **Réponse :** NASA
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** NASA; National Aeronautics and Space Administration; Administration nationale de l’aéronautique et de l’espace
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter NASA ou le développement de son sigle. Refuser ESA, agence européenne, ou Roscosmos.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nasa.gov/mission/apollo-11/ — Apollo Resources, What Was the Apollo Program?; lignes 425, 437
 
 
 
 ## M02-R08-Q04 — SCIENCE ET TECHNIQUE
 
-Quel télescope spatial lancé en 1990 porte le nom d'un astronome américain ?
+Quel télescope spatial lancé en 1990 porte le nom d’un astronome ?
 
 **Réponse :** Hubble
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Hubble; Télescope Hubble; Hubble Space Telescope; HST
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Hubble et HST. Refuser James Webb, lancé en 2021. Le nom de l’astronome n’est pas donné dans l’énoncé oral.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://science.nasa.gov/mission/hubble/overview/the-history-of-hubble/ — Preparing for launch; lignes 387–391
 
 
 
@@ -508,29 +508,29 @@ Quelle unité du SI mesure la différence de potentiel électrique ?
 
 **Réponse :** Volt
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Volt; V
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter volt et symbole V prononcé vé. Refuser watt, ampère ou ohm, associés à d’autres grandeurs.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.epo.org/en/legal/guidelines-epc/2025/f_iia2_1_2_2.html — Annexe unités SI, tableau; ligne 617; https://www.bipm.org/en/committees/ci/cipm/41-1946/resolution-2 — Unités électriques; ligne 24
 
 
 
 ## M02-R09-Q01 — QUI, QUE, OÙ SUIS-JE ?
 
-Qui suis-je ? Philosophe grec, j'ai été le maître d'Alexandre le Grand.
+Qui suis-je ? Philosophe grec, j’ai fondé à Athènes l’école appelée Lycée.
 
 **Réponse :** Aristote
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Aristote; Aristotle
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Aristote. Refuser Platon, fondateur de l’Académie, et Socrate.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Aristote/98715 — L’homme : un disciple de Platon, ligne 29.
 
 
 
@@ -540,13 +540,13 @@ Où suis-je ? Grand lac africain bordé notamment par l'Ouganda, le Kenya et la 
 
 **Réponse :** Lac Victoria
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Lac Victoria; Victoria; Victoria Nyanza
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Les trois pays constituent le discriminant. Accepter Victoria; refuser Tanganyika qui ne borde pas le Kenya.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://wldb.ilec.or.jp/Display/html/3586 — Description B; lignes 31–37
 
 
 
@@ -556,13 +556,13 @@ Que suis-je ? Long ouvrage défensif construit et reconstruit dans le nord de la
 
 **Réponse :** Grande Muraille de Chine
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Grande Muraille de Chine; Grande Muraille; Muraille de Chine
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Grande Muraille. Les ouvrages romains ou les murs urbains ne correspondent pas à la Chine.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/438 — Brief synthesis; ligne 48
 
 
 
@@ -572,29 +572,29 @@ Où suis-je ? Mausolée de marbre blanc situé à Agra.
 
 **Réponse :** Taj Mahal
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Taj Mahal; Tadj Mahal
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les graphies orales équivalentes. Refuser Fort d’Agra, de fonction et matériau distincts.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/252 — Description française; ligne 11
 
 
 
 ## M02-R09-Q05 — QUI, QUE, OÙ SUIS-JE ?
 
-Que suis-je ? Je suis une grande pierre dressée ou utilisée dans un monument préhistorique.
+Que suis-je ? Terme général pour un monument préhistorique formé d’un ou de plusieurs grands blocs de pierre.
 
 **Réponse :** Mégalithe
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mégalithe; Monument mégalithique
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Le terme général demandé est mégalithe. Menhir et dolmen désignent des types particuliers: demander le terme général.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/m%C3%A9galithe/50202 — Définition principale; ligne 26
 
 
 
@@ -636,13 +636,13 @@ Quel ensemble monumental domine la ville d'Athènes ?
 
 **Réponse :** Acropole d'Athènes
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Acropole d’Athènes; Acropole; Acropole athénienne
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** L’ensemble demandé est l’Acropole; le Parthénon en est un monument particulier, réponse à préciser.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/404/ — Brief synthesis; lignes 49–55
 
 
 
@@ -652,45 +652,45 @@ Quel site de ruines a donné son nom au Zimbabwe moderne ?
 
 **Réponse :** Grand Zimbabwe
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Grand Zimbabwe; Great Zimbabwe
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Grand Zimbabwe/Great Zimbabwe. Refuser Khami, autre site archéologique zimbabwéen.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.greatzimbabwewhs.com/ — Présentation du site, A powerful symbol; lignes 30–33
 
 
 
 ## M02-R10-Q05 — DIVERS
 
-Comment appelle-t-on un bien reconnu par l'UNESCO pour sa valeur universelle exceptionnelle ?
+Quel nom porte la liste de l’UNESCO qui recense les biens culturels et naturels de valeur universelle exceptionnelle ?
 
-**Réponse :** Patrimoine mondial
+**Réponse :** Liste du patrimoine mondial
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Liste du patrimoine mondial; Liste du patrimoine mondial de l’UNESCO; Patrimoine mondial
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Liste du patrimoine mondial, ou Patrimoine mondial avec la liste implicitement comprise. Refuser patrimoine immatériel: liste différente.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/criteria/ — Introduction des critères; ligne 3
 
 
 
 ## M02-R11-Q01 — ÉCLAIR 1
 
-Quelle est la capitale de la Turquie ?
+Au 11 octobre 2026, quelle est la capitale de la Turquie ?
 
 **Réponse :** Ankara
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ankara; Angora
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ankara; Angora est le nom historique de la même ville, identifié par la source. Refuser Istanbul.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Table Capital Cities of Asia; ligne 70
 
 
 
@@ -700,13 +700,13 @@ Quel océan borde la côte est de l'Afrique ?
 
 **Réponse :** Océan Indien
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Océan Indien; Indien
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Indien. La mer Rouge est une mer particulière; refuser Atlantique qui borde la façade ouest.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/wd/124929 — Introduction et géomorphologie; lignes 19, 58–59, 89
 
 
 
@@ -716,29 +716,29 @@ Quel scientifique proposa les trois lois du mouvement planétaire au XVIIe sièc
 
 **Réponse :** Johannes Kepler
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Johannes Kepler; Jean Kepler; Kepler
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kepler. Refuser Copernic ou Newton: leurs apports diffèrent des trois lois demandées.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://science.nasa.gov/solar-system/orbits-and-keplers-laws/ — Kepler’s Laws; lignes 301–306
 
 
 
 ## M02-R11-Q04 — ÉCLAIR 1
 
-Quel pays a Helsinki pour capitale ?
+Au 11 octobre 2026, quel pays a Stockholm pour capitale ?
 
-**Réponse :** Finlande
+**Réponse :** Suède
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Suède; Sweden
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Suède et ses appellations équivalentes; ne pas répondre seulement par la ville déjà citée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_europe.htm — Table Capital Cities and the States of Europe, ligne 105.
 
 
 
@@ -748,13 +748,13 @@ Quel auteur français écrivit Le Petit Prince ?
 
 **Réponse :** Antoine de Saint-Exupéry
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Antoine de Saint-Exupéry; Saint-Exupéry; Saint Exupéry
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter le nom Saint-Exupéry. Refuser Mermoz, autre aviateur sans attribution de ce livre.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/junior/Saint-Exup%C3%A9ry/15839 — Notice, nationalité et œuvres; lignes 17–20
 
 
 
@@ -764,13 +764,13 @@ Quel métal a pour symbole chimique Cu ?
 
 **Réponse :** Cuivre
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Cuivre; Copper
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter cuivre; la traduction anglaise Copper nomme le même élément. Refuser cobalt Co ou calcium Ca.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://periodic-table.rsc.org/element/29/Copper — Fiche Copper, Basic information et isotopes; lignes 69–70, 164–166
 
 
 
@@ -796,13 +796,13 @@ Quel pays est traversé par le canal de Suez ?
 
 **Réponse :** Égypte
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Égypte; République arabe d’Égypte
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Égypte. Refuser Panama, traversé par un autre canal.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx — About Suez Canal; ligne 100
 
 
 
@@ -812,13 +812,13 @@ Quel muscle joue un rôle majeur dans la respiration en séparant thorax et abdo
 
 **Réponse :** Diaphragme
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Diaphragme; Muscle diaphragme
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter diaphragme. Refuser muscles intercostaux, qui ne séparent pas thorax et abdomen.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/medical/diaphragme/12512 — Définition et physiologie; lignes 23–27
 
 
 
@@ -828,29 +828,29 @@ Quel organe pompe le sang dans le corps humain ?
 
 **Réponse :** Cœur
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Cœur; Le cœur
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter cœur. Myocarde désigne son muscle: réponse partielle à préciser en cœur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/medical/appareil_circulatoire/11999 — Structure; lignes 30–31
 
 
 
 ## M02-R12-Q01 — CULTURE RÉGIONALE - RDC
 
-Quel président dirigea le Zaïre de 1965 à 1997 ?
+Quel président dirigea le Congo-Kinshasa de 1965 à 1997, pays appelé Zaïre pendant une partie de son mandat ?
 
 **Réponse :** Mobutu Sese Seko
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mobutu Sese Seko; Mobutu; Joseph-Désiré Mobutu
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mobutu, son nom complet ou son ancien nom Joseph-Désiré Mobutu. Congo-Kinshasa est utilisé pour couvrir la période entière sans antidater le nom Zaïre.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Joseph_D%C3%A9sir%C3%A9_puis_Sese_Seko_Mobutu/133504 — Biographie; lignes 43–45
 
 
 
@@ -860,29 +860,29 @@ Qui fut le premier président du Congo-Léopoldville indépendant, aujourd'hui R
 
 **Réponse :** Joseph Kasa-Vubu
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Joseph Kasa-Vubu; Kasa-Vubu; Kasavubu
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kasa-Vubu et graphies équivalentes; refuser Lumumba, premier Premier ministre et non président.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.presidence.cd/ancien-president-infos/2 — Biographie; ligne 64
 
 
 
 ## M02-R12-Q03 — CULTURE RÉGIONALE - RDC
 
-Quelle ville du Haut-Katanga est un grand centre minier du sud-est congolais ?
+Quelle ville de la RDC portait autrefois le nom d’Élisabethville ?
 
 **Réponse :** Lubumbashi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Lubumbashi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Le nom actuel demandé est Lubumbashi; Élisabethville est fourni dans l’énoncé et ne répond pas à la question. Kipushi et Likasi ne portent pas cet ancien nom.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/ville/Lubumbashi/130559 — Titre et présentation; lignes 41–45
 
 
 
@@ -892,13 +892,13 @@ Quelle réserve de la RDC porte le nom d'un mammifère forestier emblématique d
 
 **Réponse :** Réserve de faune à okapis
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Réserve de faune à okapis; Réserve de faune à okapi; Réserve des okapis; Réserve d’okapis
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les désignations équivalentes de la réserve; okapi seul identifie l’animal et appelle une précision. Ne pas la confondre avec un parc national.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/718/ — Titre français et description; lignes 4, 7–8, 51
 
 
 
@@ -908,13 +908,13 @@ Quelle université publique majeure se trouve sur le mont Amba à Kinshasa ?
 
 **Réponse :** Université de Kinshasa
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Université de Kinshasa; UNIKIN
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter UNIKIN ou son nom développé. Lovanium seul est son appellation antérieure: demander le nom actuel.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.unikin.ac.cd/presentation-de-lunikin — Situation géographique; ligne 78
 
 
 
@@ -924,45 +924,45 @@ Quel écrivain nigérian fut le premier Africain à recevoir le prix Nobel de li
 
 **Réponse :** Wole Soyinka
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Wole Soyinka; Soyinka; Akinwande Oluwole Soyinka
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Soyinka. Refuser Senghor, qui n’a pas reçu ce prix, ou Mahfouz, récompensé après lui.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nobelprize.org/prizes/literature/1986/soyinka/interview/ — Entretien 2005; lignes 73–78 et 146–150
 
 
 
 ## M02-R13-Q02 — LITTÉRATURE ET ART
 
-Quel artiste italien peignit La Joconde ?
+Quel artiste peignit La Joconde ?
 
 **Réponse :** Léonard de Vinci
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Léonard de Vinci; Leonardo da Vinci; De Vinci; Léonard
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Léonard de Vinci et Leonardo da Vinci; Léonard suffit dans ce contexte sans homonymie active. Refuser Michel-Ange.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.louvre.fr/decouvrir/les-parcours-de-visite/chefs-d-oeuvre-du-louvre/une-star-face-a-132-personnages — Légende et notice du tableau; lignes 35–39
 
 
 
 ## M02-R13-Q03 — LITTÉRATURE ET ART
 
-Quel écrivain russe est l'auteur de Crime et Châtiment ?
+Quel écrivain est l’auteur de Crime et Châtiment ?
 
 **Réponse :** Fiodor Dostoïevski
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Fiodor Dostoïevski; Fédor Dostoïevski; Dostoïevski; Dostoevsky; Dostoevskij
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les translittérations du nom Dostoïevski. Refuser Tolstoï.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb34744565w — Notice FRBNF34744565, auteur et titre; lignes 55–59
 
 
 
@@ -972,29 +972,29 @@ Quel musée parisien conserve La Joconde ?
 
 **Réponse :** Musée du Louvre
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Musée du Louvre; Louvre; Le Louvre
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Louvre. Refuser Orsay. Salle des États désigne sa salle: demander le musée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.louvre.fr/decouvrir/les-parcours-de-visite/chefs-d-oeuvre-du-louvre/une-star-face-a-132-personnages — Parcours Chefs-d’œuvre du Louvre; lignes 26–41
 
 
 
 ## M02-R13-Q05 — LITTÉRATURE ET ART
 
-Comment appelle-t-on le court poème japonais traditionnel de trois vers ?
+Quel genre de petit poème japonais, souvent présenté en trois vers, a acquis son autonomie au XIXe siècle avec Masaoka Shiki ?
 
 **Réponse :** Haïku
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Haïku; Haiku
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter haïku sans exiger le tréma. La référence à Masaoka Shiki distingue ce genre du senryū, également bref mais satirique. Ne pas imposer 17 syllabes aux adaptations françaises modernes.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/haikai_nm_Forme_po%C3%A9tique_japonaise/57238 — Définition et Du haïkaï au haïku; lignes 46–51
 
 
 
@@ -1004,13 +1004,13 @@ Quel traité signé le 25 mars 1957 a institué la Communauté économique europ
 
 **Réponse :** Traité de Rome
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Traité de Rome; Traité de Rome instituant la CEE; Traité instituant la Communauté économique européenne; Traité CEE
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Traité de Rome, singularisé par la mention CEE. Refuser traité Euratom, signé au même endroit et le même jour mais instituant une autre communauté.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.consilium.europa.eu/fr/policies/how-eu-treaties-shaped-the-council-of-the-eu-and-the-european-council/ — Les traités de Rome; lignes 113–121
 
 
 
@@ -1020,13 +1020,13 @@ Quel événement du 9 novembre 1989 symbolise la fin de la division de Berlin ?
 
 **Réponse :** Chute du mur de Berlin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Chute du mur de Berlin; Ouverture du mur de Berlin; Ouverture de la frontière à Berlin; Chute du mur
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter ouverture ou chute du mur de Berlin: chute est le nom symbolique de l’événement, pas la destruction intégrale ce jour-là. Refuser réunification allemande, datée de 1990.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-mauer-ist-offen--403858 — Chronologie 9 novembre 1989; lignes 109–117, 291–292
 
 
 
@@ -1052,13 +1052,13 @@ Quel dirigeant proclama la République populaire de Chine le 1er octobre 1949 ?
 
 **Réponse :** Mao Zedong
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mao Zedong; Mao Tsé-toung; Mao Tse-tung; Mao
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mao et ses translittérations. Refuser Sun Yat-sen ou Chiang Kai-shek, qui concernent la République de Chine antérieure.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://history.state.gov/historicaldocuments/frus1949v08/d619 — Document 619, transcription de la proclamation; lignes 7, 12–17, 22–34
 
 
 
@@ -1068,13 +1068,13 @@ En quelle année l'Inde accéda-t-elle à l'indépendance du Royaume-Uni ?
 
 **Réponse :** 1947
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1947; 15 août 1947
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter 1947; le jour et le mois peuvent être précisés. Refuser 1950, date de proclamation de la république.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/d%C3%A9colonisation/40278 — Le processus de décolonisation, Asie; lignes 62–69
 
 
 
@@ -1084,13 +1084,13 @@ Quel dirigeant mena le Ghana à l'indépendance en 1957 ?
 
 **Réponse :** Kwame Nkrumah
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kwame Nkrumah; Nkrumah
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Nkrumah; refuser Nyerere. L’énoncé vise le chef du mouvement, pas les autres militants de l’indépendance.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://mfa.gov.gh/index.php/about-ghana/ — Brief History; ligne 5
 
 
 
@@ -1100,13 +1100,13 @@ Quel dirigeant tanzanien fut associé à la politique de l'Ujamaa ?
 
 **Réponse :** Julius Nyerere
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Julius Nyerere; Julius Kambarage Nyerere; Nyerere; Mwalimu Nyerere
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Nyerere et son surnom Mwalimu avec identification explicite. Refuser Nkrumah ou Kenyatta.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/archives/grande-encyclopedie/page/9759 — Nyerere, suite; lignes 22–24
 
 
 
@@ -1116,13 +1116,13 @@ Quel dirigeant fut le premier président du Kenya indépendant ?
 
 **Réponse :** Jomo Kenyatta
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Jomo Kenyatta; Kenyatta
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Jomo Kenyatta; refuser Uhuru Kenyatta, son fils. La question ne confond pas la présidence de 1964 avec le gouvernement de 1963.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/pays/Kenya/127291 — Depuis l’indépendance, Jomo Kenyatta; lignes 171–173
 
 
 
@@ -1132,29 +1132,29 @@ Quel empereur éthiopien prononça un célèbre discours à la Société des Nat
 
 **Réponse :** Haïlé Sélassié
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Haïlé Sélassié; Hailé Sélassié Ier; Haile Selassie; Ras Tafari Makonnen; Tafari Makonnen
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Haïlé Sélassié Ier et son nom antérieur Tafari Makonnen. Refuser Ménélik II, mort avant 1936. La copie éditée du discours a été lue; l’original LOC inaccessible n’est pas déclaré consulté.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/1750/Unit7/Source-Collection-Internationalism — Document 7, auteur, date, destinataire et extrait; lignes 556–566
 
 
 
 ## M02-R16-Q01 — CANTONADE 2
 
-Quel dirigeant indien est associé à la lutte non violente contre la domination britannique ?
+Quel dirigeant indien de la non-violence est l’auteur de l’autobiographie Histoire de mes expériences avec la vérité ?
 
 **Réponse :** Mahatma Gandhi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mahatma Gandhi; Mohandas Karamchand Gandhi; Mohandas Gandhi; Gandhi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Gandhi ou son nom complet. Refuser Indira/Rajiv Gandhi. Le titre autobiographique distingue Gandhi des autres indépendantistes non violents; ne pas mentionner le pays africain, la marche, le parti ni la méthode avant les questions suivantes.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173476&lang=2&reg=3 — Introduction et Birth of Satyagraha; lignes 27–28, 43
 
 
 
@@ -1164,13 +1164,13 @@ Dans quel pays africain vécut-il et exerça-t-il comme avocat avant son retour 
 
 **Réponse :** Afrique du Sud
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Afrique du Sud; République d’Afrique du Sud; South Africa
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Afrique du Sud. Refuser Kenya ou Inde: le pays africain est demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173476&lang=2&reg=3 — Birth of Satyagraha et Railway Coach; lignes 37–43, 117
 
 
 
@@ -1180,13 +1180,13 @@ Quelle marche de 1930 mena-t-il contre le monopole britannique sur le sel ?
 
 **Réponse :** Marche du sel
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Marche du sel; Marche de Dandi; Dandi March; Salt March
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter marche du sel ou marche de Dandi. Refuser Quit India, autre campagne lancée en 1942.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173476&lang=2&reg=3 — Birth of Satyagraha; ligne 53
 
 
 
@@ -1196,13 +1196,13 @@ Quel grand parti du mouvement indépendantiste indien soutint-il ?
 
 **Réponse :** Congrès national indien
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Congrès national indien; Congrès indien; Indian National Congress; INC; Parti du Congrès
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Congrès ou Parti du Congrès dans ce contexte indien. Refuser Congrès national africain: organisation sud-africaine différente.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://inc.in/congress-sandesh/tribute/gandhiji-became-the-president-of-congress-in-1924-a-reflection-of-a-hundred-years-2024 — Article 5 décembre 2024; lignes 10–13
 
 
 
@@ -1212,13 +1212,13 @@ Quel terme sanskrit désigne sa méthode de résistance fondée sur la force de 
 
 **Réponse :** Satyagraha
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Satyagraha; Satyāgraha
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Satyagraha. Ahimsa désigne la non-violence, notion liée mais distincte de la méthode fondée sur la vérité demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.pib.gov.in/PressReleasePage.aspx?PRID=2173476&lang=2&reg=3 — Birth of Satyagraha; ligne 50
 
 
 
@@ -1228,29 +1228,29 @@ Quel fleuve traverse notamment Vienne, Budapest et Belgrade ?
 
 **Réponse :** Danube
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Danube; Le Danube; Donau
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Danube/Donau. Les trois villes distinguent le fleuve de la Save, qui ne traverse pas Vienne ni Budapest.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/college/le_Danube/10613 — Description du cours; ligne 49
 
 
 
 ## M02-R17-Q02 — RELAIS B
 
-Quel grand fleuve traverse les États-Unis du nord au sud jusqu'au golfe du Mexique ?
+Quel fleuve prend sa source dans le Minnesota, traverse les États-Unis du nord au sud et se jette dans le golfe du Mexique ?
 
 **Réponse :** Mississippi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mississippi; Mississipi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mississippi et graphies phonétiquement équivalentes. Refuser Missouri, affluent; la source au Minnesota et l’embouchure distinguent le fleuve du Rio Grande.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/junior/Mississippi/15632 — Description du fleuve; ligne 45
 
 
 
@@ -1260,13 +1260,13 @@ Quel fleuve forme les chutes Victoria sur une partie de son cours ?
 
 **Réponse :** Zambèze
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Zambèze; Zambezi; Zambeze
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les graphies Zambèze/Zambezi. Refuser Congo ou Nil.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/509/ — Description française; ligne 11
 
 
 
@@ -1276,29 +1276,29 @@ Quel est le plus long fleuve entièrement situé en Chine ?
 
 **Réponse :** Yangtsé
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Yangtsé; Yangzi Jiang; Yang-Tsé-Kiang; Yangtze; Chang Jiang; Fleuve Bleu
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les noms Yangtsé, Yangzi, Chang Jiang et Fleuve Bleu. Refuser Mékong, qui traverse plusieurs pays.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/riviere-lac/Yangzi_Jiang/150238 — Description du fleuve; lignes 19–23
 
 
 
 ## M02-R18-Q01 — MYTHOLOGIE ET RELIGION
 
-Dans la mythologie grecque, quelle déesse est associée à la sagesse ?
+Dans la mythologie grecque, quelle déesse de la sagesse a la chouette pour oiseau emblématique ?
 
 **Réponse :** Athéna
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Athéna; Athena; Pallas Athéna; Pallas
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Athéna et Pallas Athéna. Minerve est son équivalent romain: demander le nom grec. Métis est aussi liée à la sagesse, mais pas à l’emblème précisé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/college/Ath%C3%A9na/2888 — Présentation d’Athéna; lignes 17–19
 
 
 
@@ -1308,29 +1308,29 @@ Dans l'hindouisme, quelle divinité est souvent représentée avec un trident et
 
 **Réponse :** Shiva
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Shiva; Shiva Nataraja; Śiva; Siva
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Shiva et ses graphies. Refuser Poséidon, porteur d’un trident dans une autre mythologie; destruction-transformation renvoie ici au cycle cosmique hindou.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.metmuseum.org/art/collection/search/38127 — Notice iconographique; lignes 10–11; https://www.metmuseum.org/art/collection/search/39328 — Notice Nataraja et commentaire audio; lignes 10–11, 61–63
 
 
 
 ## M02-R18-Q03 — MYTHOLOGIE ET RELIGION
 
-Quelle ville est sainte pour le judaïsme, le christianisme et l'islam ?
+Quelle ville, sainte pour le judaïsme, le christianisme et l’islam, abrite le mur des Lamentations et l’église du Saint-Sépulcre ?
 
 **Réponse :** Jérusalem
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Jérusalem; Jerusalem; Al-Quds
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Jérusalem ou Al-Quds. Refuser Hébron, également sacrée pour les trois religions mais n’abritant pas les deux monuments précisés.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/148/ — Description du site; ligne 4
 
 
 
@@ -1340,29 +1340,29 @@ Comment appelle-t-on les cinq premiers livres de la Bible hébraïque dans la tr
 
 **Réponse :** Torah
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Torah; Tora; Thora; Pentateuque; Les cinq livres de Moïse; Houmach
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Torah et Pentateuque, qui désignent les mêmes cinq livres dans le sens demandé. Refuser Talmud ou Tanakh, ensembles différents; Loi de Moïse est acceptable si l’équipe vise explicitement ces cinq livres.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/oeuvre/la_Torah/147075 — Sens premier de Torah; ligne 22
 
 
 
 ## M02-R18-Q05 — MYTHOLOGIE ET RELIGION
 
-Quel terme désigne, dans plusieurs religions indiennes, la conséquence morale des actes ?
+Quel principe des religions indiennes relie les actes d’une personne à leurs effets sur sa vie et ses renaissances ?
 
 **Réponse :** Karma
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Karma; Karman
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter karma/karman. Refuser samsara seul: cycle des renaissances, plutôt que principe des effets des actes.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/karma/45365 — Définition karma/karman; ligne 31
 
 
 
@@ -1384,49 +1384,49 @@ Quel terme désigne, dans plusieurs religions indiennes, la conséquence morale 
 
 ## M02-R20-Q01 — ÉCLAIR 2
 
-Quelle est la capitale de la Nouvelle-Zélande ?
+Au 11 octobre 2026, quelle est la capitale de la Nouvelle-Zélande ?
 
 **Réponse :** Wellington
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Wellington; Te Whanganui-a-Tara
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Wellington; accepter son toponyme maori identifié dans la table. Refuser Auckland.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_australia.htm — Capitals of Oceania; ligne 93
 
 
 
 ## M02-R20-Q02 — ÉCLAIR 2
 
-Quel pays a Lima pour capitale ?
+Au 11 octobre 2026, quel pays a Vaduz pour capitale ?
 
-**Réponse :** Pérou
+**Réponse :** Liechtenstein
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Liechtenstein; Principauté du Liechtenstein
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Liechtenstein et ses appellations équivalentes; ne pas répondre seulement par la ville déjà citée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_europe.htm — Table Capital Cities and the States of Europe, ligne 108.
 
 
 
 ## M02-R20-Q03 — ÉCLAIR 2
 
-Quel artiste néerlandais a peint La Nuit étoilée ?
+Quel artiste a peint La Nuit étoilée de 1889, conservée au MoMA ?
 
 **Réponse :** Vincent van Gogh
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Vincent van Gogh; Van Gogh; Vincent Van Gogh
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Van Gogh. Le repère 1889/MoMA distingue ce tableau de La Nuit étoilée sur le Rhône de 1888, également de Van Gogh.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.moma.org/collection/works/79802 — Notice de l’œuvre; lignes 61–66
 
 
 
@@ -1436,29 +1436,29 @@ Quelle planète est la plus proche du Soleil ?
 
 **Réponse :** Mercure
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mercure; Mercury
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mercure. Refuser Vénus, planète plus chaude mais plus éloignée du Soleil.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://science.nasa.gov/mercury/facts/ — Mercury Facts; ligne 241
 
 
 
 ## M02-R20-Q05 — ÉCLAIR 2
 
-Quel pays européen a la forme d'une botte sur les cartes ?
+Quel pays européen possède une péninsule dont la silhouette est traditionnellement comparée à une botte ?
 
 **Réponse :** Italie
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Italie; République italienne; Italia
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Italie. L’énoncé parle de sa péninsule: les îles italiennes ne font pas partie de la silhouette de la botte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/Italie_g%C3%A9ographie_physique/185422 — Italie péninsulaire; ligne 63
 
 
 
@@ -1480,33 +1480,33 @@ Quel terme désigne le résultat d’une multiplication ?
 
 ## M02-R20-Q07 — ÉCLAIR 2
 
-Quelle substance donne sa couleur verte aux feuilles ?
+Quel pigment donne leur couleur verte aux feuilles ?
 
 **Réponse :** Chlorophylle
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Chlorophylle; Chlorophylle a; Chlorophylle b; Chlorophylles
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter chlorophylle ou chlorophylles; a et b sont des pigments verts documentés. Chloroplaste désigne l’organite contenant le pigment: demander le pigment.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/chlorophylle/33517 — Définition, localisation et extraction; lignes 19, 27, 56–59
 
 
 
 ## M02-R20-Q08 — ÉCLAIR 2
 
-Quel instrument indique les directions grâce à une aiguille aimantée ?
+Quel instrument indique le nord grâce à une aiguille aimantée libre de tourner ?
 
 **Réponse :** Boussole
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Boussole; Compas magnétique; Compas de navigation magnétique
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter boussole et compas magnétique. Refuser gyroscope/GPS, qui n’utilisent pas l’aiguille aimantée décrite.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/boussole/10730 — Définition 1; ligne 30
 
 
 
@@ -1516,26 +1516,26 @@ Quelle ville américaine est surnommée « Big Apple » ?
 
 **Réponse :** New York
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** New York; New York City; NYC
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter New York ou NYC. L’État de New York seul est insuffisant: demander la ville; refuser New Orleans, lieu de l’anecdote d’origine du surnom.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nyc.gov/html/om/html/97/sp082-97.html — Communiqué de la mairie 12 février 1997; lignes 15–17
 
 
 
 ## M02-R20-Q10 — ÉCLAIR 2
 
-Quel pays a Reykjavík pour capitale ?
+Au 11 octobre 2026, quel pays a Amsterdam pour capitale, tandis que son gouvernement siège à La Haye ?
 
-**Réponse :** Islande
+**Réponse :** Pays-Bas
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pays-Bas; Royaume des Pays-Bas; Netherlands
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Pays-Bas. Hollande est un usage courant mais désigne aussi une partie du pays : demander une précision sans donner d’indice. La Haye est le siège du gouvernement et non le pays demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_europe.htm — Table des capitales, entrée Netherlands, lignes 64–69.

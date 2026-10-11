@@ -1,0 +1,22 @@
+{
+  "match": 1,
+  "files": [
+    {
+      "file": "output/pdf/match-01-lecteur.pdf",
+      "sha256": "6f2144300fdabc2954aba123b0666773aeea54439fdf3f8a4d3d272d5798fcad",
+      "pages": 6,
+      "questions": 96
+    },
+    {
+      "file": "output/pdf/match-01-arbitrage.pdf",
+      "sha256": "7efb2ea46b94d88478d0b54b593ec9aaa9238fa958e963846defb1befc530d5a",
+      "pages": 22,
+      "questions": 96
+    }
+  ],
+  "questionnaire_sha256": "f57eecbb39ca57b7bebce269fd9344d9a9d4cc956fc07a59c49cacb3288cf948",
+  "visual_review": "AUCUN_DEFAUT_DE_MISE_EN_PAGE",
+  "method": "Toutes les pages rendues à 72 dpi et examinées en planches ; contrôle du contenu textuel et des 96 identifiants.",
+  "reviewed_at": "2026-10-11",
+  "edition_status": "CONTROLEE_REVUE_GLOBALE_EN_COURS"
+}

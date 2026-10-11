@@ -126,13 +126,14 @@ def candidates():
     for a in alerts:
         if a['pair'] in old:
             o=old[a['pair']]
-            if o['first']['question']==a['first']['question'] and o['second']['question']==a['second']['question']:
+            if all(o[side][field] == a[side][field]
+                   for side in ('first', 'second') for field in ('question', 'answer')):
                 a['decision']=o['decision']; a['justification']=o['justification']
                 if 'reviewed_at' in o: a['reviewed_at']=o['reviewed_at']
     current={a['pair']:a for a in alerts}
     changed=[o for pair,o in old.items() if pair not in current
-             or any(o[side]['question'] != current[pair][side]['question']
-                    for side in ('first','second'))]
+             or any(o[side][field] != current[pair][side][field]
+                    for side in ('first','second') for field in ('question', 'answer'))]
     if changed:
         archive=ROOT/'audit/certification/historique-candidats.jsonl'
         with archive.open('a',encoding='utf-8') as log:
@@ -184,6 +185,13 @@ def check(strict=False):
             add(prefix+' preuve localisée complète',all(q['primary_source'] and q['consulted_at'] and q['corroboration'] and
                 all(e.get('url') and e.get('locator') and e.get('support') and e.get('consulted_at') for e in q['evidence']) for q in qs))
             add(prefix+' variantes consignées',all(q['accepted_variants'] and q['decision'] for q in qs))
+            review_path=ROOT/f'audit/certification/relecture-match-{m:02d}.json'
+            review=json.loads(review_path.read_text()) if review_path.exists() else {}
+            add(prefix+' cantonades et relais relus',set(review.get('cantonades',{}))=={'R06','R16'} and set(review.get('relais',{}))=={'R15','R17'} and review.get('oral_reading')=='RELECTURE_INTELLECTUELLE_TERMINEE')
+            add(prefix+' quatre preuves identification',{e.get('points') for e in next(q for q in qs if q['section_number']==19)['evidence']}=={40,30,20,10} and bool(review.get('identification')))
+            pdf_path=ROOT/f'audit/certification/pdf-match-{m:02d}.json'
+            pdfqa=json.loads(pdf_path.read_text()) if pdf_path.exists() else {}
+            add(prefix+' PDF contrôlés et synchronisés',pdfqa.get('visual_review')=='AUCUN_DEFAUT_DE_MISE_EN_PAGE' and all((ROOT/f['file']).exists() and hashlib.sha256((ROOT/f['file']).read_bytes()).hexdigest()==f['sha256'] for f in pdfqa.get('files',[])) and len(pdfqa.get('files',[]))==2 and pdfqa.get('questionnaire_sha256')==reg['questionnaire_sha256'])
     add('960 identifiants distincts', len(all_ids)==960 and len(set(all_ids))==960)
     rows=corpus(); add('2880 questions comparées',len(rows)==2880)
     alerts=json.loads((ROOT/'audit/certification/doublons-candidats.json').read_text())['candidates']

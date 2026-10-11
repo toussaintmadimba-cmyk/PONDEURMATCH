@@ -32,7 +32,7 @@
       "evidence": [
         {
           "url": "https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/",
-          "locator": "turn0view0 L10–15",
+          "locator": "Page consultée L10–15",
           "support": "Communiqué daté du 6 octobre 2026 désignant John Dramani Mahama comme président.",
           "consulted_at": "2026-10-11"
         }
@@ -42,10 +42,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 22,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -75,7 +75,7 @@
       "evidence": [
         {
           "url": "https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/namibia",
-          "locator": "turn0view1 L26–34",
+          "locator": "Page consultée L26–34",
           "support": "Fiche mise à jour en septembre 2026; rubrique Capital city: Windhoek. Attention: autres dates de cette fiche erronées, non utilisées.",
           "consulted_at": "2026-10-11"
         }
@@ -85,10 +85,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 15,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 14,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -122,13 +122,13 @@
       "evidence": [
         {
           "url": "https://www.quadratin.com.mx/nacionales/en-enero-apertura-de-12-mil-consultorios-del-servicio-universal-de-salud/",
-          "locator": "turn27view0 L44–55",
+          "locator": "Page consultée L44–55",
           "support": "Le reportage du 6 octobre 2026, relayant un bulletin gouvernemental, nomme Claudia Sheinbaum Pardo présidente du Mexique.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://lavision.mx/la-presidenta-de-mexico-claudia-sheinbaum-encabezo-la-inauguracion-del-crit-colima/",
-          "locator": "turn18view5 L19",
+          "locator": "Page consultée L19",
           "support": "Un second événement daté du 6 octobre 2026 présente également Sheinbaum Pardo comme présidente.",
           "consulted_at": "2026-10-11"
         }
@@ -138,10 +138,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -171,7 +171,7 @@
       "evidence": [
         {
           "url": "https://www.cbn.gov.ng/Currency/",
-          "locator": "turn0view3 L2–5",
+          "locator": "Page consultée L2–5",
           "support": "La CBN est seule émettrice de la monnaie légale au Nigeria et émet les billets et pièces en nairas.",
           "consulted_at": "2026-10-11"
         }
@@ -181,10 +181,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 19,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 18,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -230,7 +230,7 @@
       "evidence": [
         {
           "url": "https://arxiv.org/abs/0911.1952",
-          "locator": "turn33view2 L3,12,76–78",
+          "locator": "Page consultée L3,12,76–78",
           "support": "L’étude de Helene et Yamashita analyse le record de Bolt à Berlin en 2009 et reproduit les 9,58 secondes du 100 m à partir des données IAAF.",
           "consulted_at": "2026-10-11"
         }
@@ -240,10 +240,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -275,7 +275,7 @@
       "evidence": [
         {
           "url": "https://www.rolandgarros.com/en-us/article/behold-the-clay-canvas-at-roland-garros-rg2022",
-          "locator": "turn0view5 L54,62,89",
+          "locator": "Page consultée L54,62,89",
           "support": "Le site du tournoi décrit la terre battue de Roland-Garros et son Grand Chelem parisien.",
           "consulted_at": "2026-10-11"
         }
@@ -285,10 +285,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 5,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -319,7 +319,7 @@
       "evidence": [
         {
           "url": "https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup",
-          "locator": "turn0view6 L182–195",
+          "locator": "Page consultée L182–195",
           "support": "Compte rendu du 28 octobre 2023: Afrique du Sud vainqueur de la finale masculine 12–11 contre Nouvelle-Zélande.",
           "consulted_at": "2026-10-11"
         }
@@ -329,10 +329,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 13,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -378,7 +378,7 @@
       "evidence": [
         {
           "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
-          "locator": "turn2view0 art. 4.2.2 p.12",
+          "locator": "Page consultée art. 4.2.2 p.12",
           "support": "Règles FIBA 2024: cinq membres de chaque équipe sur le terrain pendant le jeu. Cas des équipes diminuées par exclusions distinct.",
           "consulted_at": "2026-10-11"
         }
@@ -388,10 +388,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -437,7 +437,7 @@
       "evidence": [
         {
           "url": "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-v10a.pdf",
-          "locator": "turn3view0 art. 16.2.1 p.21",
+          "locator": "Page consultée art. 16.2.1 p.21",
           "support": "Panier tiré depuis la zone à trois points: trois points.",
           "consulted_at": "2026-10-11"
         }
@@ -447,10 +447,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 7,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -480,7 +480,7 @@
       "evidence": [
         {
           "url": "https://www.universalpicturesathome.com/press-release/oppenheimer-press-release",
-          "locator": "turn5view7 L21–25",
+          "locator": "Page consultée L21–25",
           "support": "Universal crédite Nolan à la réalisation d’Oppenheimer et mentionne Inception parmi ses films.",
           "consulted_at": "2026-10-11"
         }
@@ -490,10 +490,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -523,7 +523,7 @@
       "evidence": [
         {
           "url": "https://www.grammy.com/artists/adele/528/",
-          "locator": "turn6view2 L107–109 et turn3view2 L130",
+          "locator": "Page consultée L107–109 et Page consultée L130",
           "support": "Biographie: artiste née à Londres; Rolling in the Deep est le titre phare de son album 21; tableau des interprètes la nomme.",
           "consulted_at": "2026-10-11"
         }
@@ -533,10 +533,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -567,7 +567,7 @@
       "evidence": [
         {
           "url": "https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html",
-          "locator": "turn3view3 L6–15",
+          "locator": "Page consultée L6–15",
           "support": "Guide de la guitare classique: l’accordage porte sur les six cordes.",
           "consulted_at": "2026-10-11"
         }
@@ -577,10 +577,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -630,13 +630,13 @@
       "evidence": [
         {
           "url": "https://www.oscars.org/oscars/ceremonies/2020/B",
-          "locator": "turn28view2 L389–395",
+          "locator": "Page consultée L389–395",
           "support": "Le palmarès attribue la réalisation de Parasite à Bong Joon Ho.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://en.yna.co.kr/view/AEN20190418010351315",
-          "locator": "turn35view1 L191,208–214",
+          "locator": "Page consultée L191,208–214",
           "support": "Yonhap identifie en avril 2019 le réalisateur sud-coréen Bong Joon-ho et son film Parasite sélectionné à Cannes.",
           "consulted_at": "2026-10-11"
         }
@@ -646,10 +646,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -679,7 +679,7 @@
       "evidence": [
         {
           "url": "https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/",
-          "locator": "turn3view5 L46–55",
+          "locator": "Page consultée L46–55",
           "support": "Yamaha: clavier moderne standard de 88 touches depuis les années 1890; exceptions à 97 touches signalées.",
           "consulted_at": "2026-10-11"
         }
@@ -689,10 +689,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -722,7 +722,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210",
-          "locator": "turn3view6 L28–40",
+          "locator": "Page consultée L28–40",
           "support": "Décision est un nom féminin: action de décider ou choix d’une solution.",
           "consulted_at": "2026-10-11"
         }
@@ -732,10 +732,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -765,7 +765,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955",
-          "locator": "turn3view7 L31–47 et L75–79",
+          "locator": "Page consultée L31–47 et L75–79",
           "support": "Débuter: faire ses débuts, avoir son commencement; équivalent intransitif de commencer.",
           "consulted_at": "2026-10-11"
         }
@@ -775,10 +775,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -809,7 +809,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/homophone/40297",
-          "locator": "turn5view6 L21–39",
+          "locator": "Page consultée L21–39",
           "support": "Homophones: mots homonymes de même prononciation, illustrés par sot/saut/sceau/seau.",
           "consulted_at": "2026-10-11"
         }
@@ -819,10 +819,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -852,7 +852,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/prudence/64688",
-          "locator": "turn3view9 L25–31",
+          "locator": "Page consultée L25–31",
           "support": "Prudence: nom féminin, attitude attentive aux dommages et conséquences des actes.",
           "consulted_at": "2026-10-11"
         }
@@ -862,10 +862,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -896,7 +896,7 @@
       "evidence": [
         {
           "url": "https://www.nelsonmandela.org/biography",
-          "locator": "turn4view0 L99–116",
+          "locator": "Page consultée L99–116",
           "support": "Biographie: emprisonnement puis investiture à la présidence sud-africaine le 10 mai 1994.",
           "consulted_at": "2026-10-11"
         }
@@ -906,10 +906,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -940,7 +940,7 @@
       "evidence": [
         {
           "url": "https://www.nelsonmandela.org/biography",
-          "locator": "turn4view0 L103–106",
+          "locator": "Page consultée L103–106",
           "support": "Condamné en 1964, Mandela envoyé à Robben Island; transféré à Pollsmoor en mars 1982.",
           "consulted_at": "2026-10-11"
         }
@@ -950,10 +950,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1000,7 +1000,7 @@
       "evidence": [
         {
           "url": "https://www.gov.za/mandela100/biography",
-          "locator": "turn25view4 L63,98",
+          "locator": "Page consultée L63,98",
           "support": "La biographie gouvernementale relate la résistance de l’ANC à l’apartheid et l’élection de Mandela à sa présidence en 1991.",
           "consulted_at": "2026-10-11"
         }
@@ -1010,10 +1010,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1045,7 +1045,7 @@
       "evidence": [
         {
           "url": "https://www.nelsonmandela.org/biography",
-          "locator": "turn4view0 L113",
+          "locator": "Page consultée L113",
           "support": "Nobel de la paix 1993 conjointement remporté par Mandela et le président F. W. de Klerk.",
           "consulted_at": "2026-10-11"
         }
@@ -1055,10 +1055,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1089,7 +1089,7 @@
       "evidence": [
         {
           "url": "https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994",
-          "locator": "turn5view1 L32–35",
+          "locator": "Page consultée L32–35",
           "support": "Texte d’investiture daté du 10 mai 1994, lieu Union Buildings à Pretoria.",
           "consulted_at": "2026-10-11"
         }
@@ -1099,10 +1099,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1132,7 +1132,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/dehors/22967",
-          "locator": "turn5view2 L27–41",
+          "locator": "Page consultée L27–41",
           "support": "Dehors employé au sens de à l’extérieur est adverbe. Les emplois nominaux existent mais ne correspondent pas à la phrase proposée.",
           "consulted_at": "2026-10-11"
         }
@@ -1142,10 +1142,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1178,7 +1178,7 @@
       "evidence": [
         {
           "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct",
-          "locator": "turn5view3 L17–35",
+          "locator": "Page consultée L17–35",
           "support": "Définition du complément direct et synonymie CD/COD. Application: Marie écrit quoi ? une lettre, sans préposition.",
           "consulted_at": "2026-10-11"
         }
@@ -1188,10 +1188,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1222,7 +1222,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/conjugaison/francais/partir/6596",
-          "locator": "turn5view4 L61–68",
+          "locator": "Page consultée L61–68",
           "support": "Nous partirons appartient au futur de l’indicatif, forme simple.",
           "consulted_at": "2026-10-11"
         }
@@ -1232,10 +1232,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1281,7 +1281,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/college/pronom/32537",
-          "locator": "turn25view0 L15–21",
+          "locator": "Page consultée L15–21",
           "support": "Larousse définit le pronom comme représentant notamment un nom et exerçant les mêmes fonctions syntaxiques.",
           "consulted_at": "2026-10-11"
         }
@@ -1291,10 +1291,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1327,13 +1327,13 @@
       "evidence": [
         {
           "url": "https://www.nms.ac.uk/discover-catalogue/how-a-ceramic-object-fueled-a-medical-breakthrough",
-          "locator": "turn20view1 L42–49",
+          "locator": "Page consultée L42–49",
           "support": "Le musée attribue à Fleming la découverte de 1928 qui conduit à la pénicilline.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://www.scotmt.scot.nhs.uk/timeline/1928/",
-          "locator": "turn18view1 L24–27",
+          "locator": "Page consultée L24–27",
           "support": "La chronologie du NHS qualifie Fleming de médecin écossais et date sa découverte de 1928.",
           "consulted_at": "2026-10-11"
         }
@@ -1343,10 +1343,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1376,7 +1376,7 @@
       "evidence": [
         {
           "url": "https://www.bipm.org/fr/-/resolution-cgpm-11-12",
-          "locator": "turn7view1 L127",
+          "locator": "Page consultée L127",
           "support": "Tableau des unités dérivées: résistance électrique, ohm, symbole Ω.",
           "consulted_at": "2026-10-11"
         }
@@ -1386,10 +1386,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1422,7 +1422,7 @@
       "evidence": [
         {
           "url": "https://oumnh.ox.ac.uk/learn-marie-curie",
-          "locator": "turn20view0 L184–187",
+          "locator": "Page consultée L184–187",
           "support": "Oxford identifie Marie Curie comme première femme lauréate du Nobel.",
           "consulted_at": "2026-10-11"
         }
@@ -1432,10 +1432,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 5,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1465,7 +1465,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/divers/photosynth%C3%A8se/79404",
-          "locator": "turn7view3 L19–25",
+          "locator": "Page consultée L19–25",
           "support": "Fabrication de matière organique chez les végétaux grâce à l’énergie lumineuse.",
           "consulted_at": "2026-10-11"
         }
@@ -1475,10 +1475,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1508,7 +1508,7 @@
       "evidence": [
         {
           "url": "https://www.mpg.de/en/albert-einstein",
-          "locator": "turn8view0 L109–111",
+          "locator": "Page consultée L109–111",
           "support": "Institut Max Planck: théorie de gravitation publiée par Einstein en novembre 1915, relativité générale.",
           "consulted_at": "2026-10-11"
         }
@@ -1518,10 +1518,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 9,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1554,13 +1554,13 @@
       "evidence": [
         {
           "url": "https://internet.beethoven.de/pdf-sonderausstellung/Von-der-Nulltern-bis-zur-Zehnten-Brief-Guide.pdf",
-          "locator": "turn35view2 L147–150 p.2",
+          "locator": "Page consultée L147–150 p.2",
           "support": "Le Beethoven-Haus décrit Beethoven sourd et sa dédicace de la Neuvième Symphonie.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://www.larousse.fr/encyclopedie/personnage/Ludwig_van_Beethoven/108152",
-          "locator": "turn35view0 introduction et L42,58–59",
+          "locator": "Page consultée introduction et L42,58–59",
           "support": "Larousse qualifie Beethoven de compositeur allemand, décrit sa surdité et la Neuvième créée en 1824.",
           "consulted_at": "2026-10-11"
         }
@@ -1570,10 +1570,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1605,7 +1605,7 @@
       "evidence": [
         {
           "url": "https://www.guinnessworldrecords.com/world-records/highest-mountain",
-          "locator": "turn8view1 L59–73",
+          "locator": "Page consultée L59–73",
           "support": "Everest: sommet à 8848,86 mètres au-dessus de la mer, plus haute montagne selon ce critère.",
           "consulted_at": "2026-10-11"
         }
@@ -1615,10 +1615,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1665,7 +1665,7 @@
       "evidence": [
         {
           "url": "https://education.nationalgeographic.org/resource/nile-river/",
-          "locator": "turn8view2 L42–44",
+          "locator": "Page consultée L42–44",
           "support": "Le Nil coule vers le nord et rejoint la Méditerranée sur la côte égyptienne.",
           "consulted_at": "2026-10-11"
         }
@@ -1675,10 +1675,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 17,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1727,13 +1727,13 @@
       "evidence": [
         {
           "url": "https://www.museoreinasofia.es/colecciones/obra/guernica/",
-          "locator": "turn8view3 L21",
+          "locator": "Page consultée L21",
           "support": "La notice du musée attribue Guernica à Pablo Ruiz Picasso.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://www.museoreinasofia.es/colecciones/artista/picasso-pablo-pablo-ruiz-picasso/",
-          "locator": "turn31view2 L17–19",
+          "locator": "Page consultée L17–19",
           "support": "La notice de l’artiste situe sa naissance à Málaga, Espagne, en 1881.",
           "consulted_at": "2026-10-11"
         }
@@ -1743,10 +1743,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 13,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1779,13 +1779,13 @@
       "evidence": [
         {
           "url": "https://whc.unesco.org/en/list/91",
-          "locator": "turn28view5 L43–46",
+          "locator": "Page consultée L43–46",
           "support": "L’UNESCO cite le Colisée parmi les monuments du centre historique de Rome.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
-          "locator": "turn31view1 L100",
+          "locator": "Page consultée L100",
           "support": "Le tableau des capitales associe Rome à l’Italie.",
           "consulted_at": "2026-10-11"
         }
@@ -1795,10 +1795,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 12,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1829,7 +1829,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view5 L69",
+          "locator": "Page consultée L69",
           "support": "Table des capitales: Addis Ababa/Addis Abeba, Ethiopia.",
           "consulted_at": "2026-10-11"
         }
@@ -1839,10 +1839,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 12,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1888,7 +1888,7 @@
       "evidence": [
         {
           "url": "https://www.gouv.bj/article/1048/destination-benin---porto-novo--condense-histoire-culture-fete-adoucit-moeurs/",
-          "locator": "turn24view0 L45–47",
+          "locator": "Page consultée L45–47",
           "support": "Le gouvernement béninois confirme le statut de capitale de Porto-Novo après l’indépendance et son accueil d’institutions nationales.",
           "consulted_at": "2026-10-11"
         }
@@ -1898,10 +1898,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1931,7 +1931,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view6 L101",
+          "locator": "Page consultée L101",
           "support": "Table des capitales: Kigali, Rwanda.",
           "consulted_at": "2026-10-11"
         }
@@ -1941,10 +1941,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -1974,7 +1974,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view7 L113",
+          "locator": "Page consultée L113",
           "support": "Table des capitales: Maputo, Mozambique.",
           "consulted_at": "2026-10-11"
         }
@@ -1984,10 +1984,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2017,7 +2017,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view8 L96",
+          "locator": "Page consultée L96",
           "support": "Table des capitales: Gaborone, Botswana.",
           "consulted_at": "2026-10-11"
         }
@@ -2027,10 +2027,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2090,10 +2090,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2123,7 +2123,7 @@
       "evidence": [
         {
           "url": "https://www.rsc.org.uk/hamlet/",
-          "locator": "turn9view1 L23–25",
+          "locator": "Page consultée L23–25",
           "support": "Royal Shakespeare Company: Hamlet, William Shakespeare.",
           "consulted_at": "2026-10-11"
         }
@@ -2133,10 +2133,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2166,7 +2166,7 @@
       "evidence": [
         {
           "url": "https://www.japan.go.jp/japan/index.html",
-          "locator": "turn10view0 L136–138",
+          "locator": "Page consultée L136–138",
           "support": "Fiche officielle du Japon: capitale Tokyo.",
           "consulted_at": "2026-10-11"
         }
@@ -2176,10 +2176,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 16,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2209,7 +2209,7 @@
       "evidence": [
         {
           "url": "https://science.nasa.gov/jupiter/",
-          "locator": "turn10view1 L247–260",
+          "locator": "Page consultée L247–260",
           "support": "NASA: Jupiter, plus grande planète, assez volumineuse pour contenir environ mille Terres.",
           "consulted_at": "2026-10-11"
         }
@@ -2219,10 +2219,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2278,10 +2278,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2312,7 +2312,7 @@
       "evidence": [
         {
           "url": "https://periodic-table.rsc.org/element/26/iron",
-          "locator": "turn22view4 L69–71,169–173",
+          "locator": "Page consultée L69–71,169–173",
           "support": "La fiche de l’élément fer emploie Fe pour son isotope principal et ses quatre isotopes, confirmant le symbole Fe.",
           "consulted_at": "2026-10-11"
         }
@@ -2322,10 +2322,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 14,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2356,7 +2356,7 @@
       "evidence": [
         {
           "url": "https://www.nationalgeographic.org/national-geographic-map-policy",
-          "locator": "turn10view4 L219–225",
+          "locator": "Page consultée L219–225",
           "support": "Politique cartographique National Geographic: sept continents, Europe/Asie séparées, Amérique du Nord/du Sud séparées.",
           "consulted_at": "2026-10-11"
         }
@@ -2366,10 +2366,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2416,7 +2416,7 @@
       "evidence": [
         {
           "url": "https://www.opera-comique.com/fr/spectacles/la-flute-enchantee",
-          "locator": "turn28view3 L202–204,227–230",
+          "locator": "Page consultée L202–204,227–230",
           "support": "L’Opéra-Comique attribue la partition à Mozart et distingue le livret de Schikaneder.",
           "consulted_at": "2026-10-11"
         }
@@ -2426,10 +2426,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2460,7 +2460,7 @@
       "evidence": [
         {
           "url": "https://science.nasa.gov/solar-system/planets/",
-          "locator": "turn10view6 L239–255",
+          "locator": "Page consultée L239–255",
           "support": "NASA: huit planètes, Pluton classée parmi les planètes naines depuis 2006.",
           "consulted_at": "2026-10-11"
         }
@@ -2470,10 +2470,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2504,7 +2504,7 @@
       "evidence": [
         {
           "url": "https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/",
-          "locator": "turn10view7 L300–304",
+          "locator": "Page consultée L300–304",
           "support": "NASA: O₂ molécule d’oxygène respirée, distinguée de l’ozone O₃.",
           "consulted_at": "2026-10-11"
         }
@@ -2514,10 +2514,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2547,7 +2547,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view6 L102",
+          "locator": "Page consultée L102",
           "support": "Table des capitales: Kinshasa, Congo-Kinshasa.",
           "consulted_at": "2026-10-11"
         }
@@ -2557,10 +2557,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2592,7 +2592,7 @@
       "evidence": [
         {
           "url": "https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born",
-          "locator": "turn11view0 L48 et L64",
+          "locator": "Page consultée L48 et L64",
           "support": "SAHO: Lumumba, premier Premier ministre de la République du Congo indépendante en 1960.",
           "consulted_at": "2026-10-11"
         }
@@ -2602,10 +2602,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 17,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2636,7 +2636,7 @@
       "evidence": [
         {
           "url": "https://whc.unesco.org/fr/list/63",
-          "locator": "turn11view1 L8–10",
+          "locator": "Page consultée L8–10",
           "support": "Description officielle UNESCO: gorille de montagne abrité dans les Virunga.",
           "consulted_at": "2026-10-11"
         }
@@ -2646,10 +2646,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2681,7 +2681,7 @@
       "evidence": [
         {
           "url": "https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/",
-          "locator": "turn12view0 L239–243",
+          "locator": "Page consultée L239–243",
           "support": "NASA décrit Kinshasa et Brazzaville sur deux rives opposées du fleuve Congo.",
           "consulted_at": "2026-10-11"
         }
@@ -2691,10 +2691,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 4,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2756,13 +2756,13 @@
       "evidence": [
         {
           "url": "https://www.presidence.cd/uploads/files/Constitution%20de%20la%20RDC%20%202011.pdf",
-          "locator": "turn39view1 article 1, p.8 imprimée / p.8 PDF, L102",
+          "locator": "Page consultée article 1, p.8 imprimée / p.8 PDF, L102",
           "support": "L’article premier des textes coordonnés de la Constitution nomme Debout Congolais comme hymne.",
           "consulted_at": "2026-10-11"
         },
         {
           "url": "https://presidence.cd/detail-symbole/3",
-          "locator": "turn39view0 L54,62",
+          "locator": "Page consultée L54,62",
           "support": "La présidence présente également Debout Congolais comme hymne national.",
           "consulted_at": "2026-10-11"
         }
@@ -2772,10 +2772,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2805,7 +2805,7 @@
       "evidence": [
         {
           "url": "https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/",
-          "locator": "turn12view2 L224–233",
+          "locator": "Page consultée L224–233",
           "support": "Éditeur: Achebe né au Nigeria; Things Fall Apart est son premier roman.",
           "consulted_at": "2026-10-11"
         }
@@ -2815,10 +2815,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2864,7 +2864,7 @@
       "evidence": [
         {
           "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur",
-          "locator": "turn28view4 L36–45",
+          "locator": "Page consultée L36–45",
           "support": "Le musée attribue Le Penseur à Auguste Rodin et décrit la création de la sculpture dès 1880.",
           "consulted_at": "2026-10-11"
         }
@@ -2874,10 +2874,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2908,7 +2908,7 @@
       "evidence": [
         {
           "url": "https://www.comedie-francaise.fr/moliere",
-          "locator": "turn12view4 L41–42",
+          "locator": "Page consultée L41–42",
           "support": "Comédie-Française: Jean-Baptiste Poquelin prend le nom de Molière.",
           "consulted_at": "2026-10-11"
         }
@@ -2918,10 +2918,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2952,7 +2952,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/fresque/35200",
-          "locator": "turn12view5 L21–28",
+          "locator": "Page consultée L21–28",
           "support": "Fresque: pigments appliqués sur enduit frais et œuvre ainsi exécutée.",
           "consulted_at": "2026-10-11"
         }
@@ -2962,10 +2962,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -2995,7 +2995,7 @@
       "evidence": [
         {
           "url": "https://catalogue.bnf.fr/ark:/12148/cb31902899n",
-          "locator": "turn12view6 L55–61",
+          "locator": "Page consultée L55–61",
           "support": "Notice bibliographique: auteur Albert Camus, titre L’Étranger, roman publié en 1942.",
           "consulted_at": "2026-10-11"
         }
@@ -3005,10 +3005,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 5,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 6,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3038,7 +3038,7 @@
       "evidence": [
         {
           "url": "https://www.carnavalet.paris.fr/le-nouveau-parcours",
-          "locator": "turn14view0 L311–315",
+          "locator": "Page consultée L311–315",
           "support": "Musée Carnavalet: prise de la Bastille le 14 juillet 1789.",
           "consulted_at": "2026-10-11"
         }
@@ -3048,10 +3048,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 12,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3082,7 +3082,7 @@
       "evidence": [
         {
           "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/traite-versailles",
-          "locator": "turn14view1 L37–43",
+          "locator": "Page consultée L37–43",
           "support": "Château: traité de paix signé par l’Allemagne à Versailles le 28 juin 1919, représentants alliés nommés.",
           "consulted_at": "2026-10-11"
         }
@@ -3092,10 +3092,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 23,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3126,7 +3126,7 @@
       "evidence": [
         {
           "url": "https://research.un.org/en/unmembers/founders",
-          "locator": "turn24view1 L74–76",
+          "locator": "Page consultée L74–76",
           "support": "La bibliothèque de l’ONU indique la constitution par la Charte et son entrée en vigueur le 24 octobre 1945.",
           "consulted_at": "2026-10-11"
         }
@@ -3136,10 +3136,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 16,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3170,7 +3170,7 @@
       "evidence": [
         {
           "url": "https://www.bundesregierung.de/breg-fr/service/archives/archives/le-chancelier-de-l-unit%C3%A9-411066",
-          "locator": "turn25view1 L99–106,118",
+          "locator": "Page consultée L99–106,118",
           "support": "Le gouvernement allemand montre Kohl lors de la réunification du 3 octobre 1990 et situe son mandat de chancelier de 1982 à 1998.",
           "consulted_at": "2026-10-11"
         }
@@ -3180,10 +3180,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 5,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 6,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3215,7 +3215,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821",
-          "locator": "turn14view3 L21–24",
+          "locator": "Page consultée L21–24",
           "support": "Gorbatchev lance les réformes de restructuration perestroïka et de transparence glasnost.",
           "consulted_at": "2026-10-11"
         }
@@ -3225,10 +3225,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3259,7 +3259,7 @@
       "evidence": [
         {
           "url": "https://royalsociety.org/news/2014/astronaut-tim-peake-principia/",
-          "locator": "turn14view4 L205–214",
+          "locator": "Page consultée L205–214",
           "support": "Royal Society: Principia de Newton inclut trois lois du mouvement et gravitation universelle.",
           "consulted_at": "2026-10-11"
         }
@@ -3269,10 +3269,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3302,7 +3302,7 @@
       "evidence": [
         {
           "url": "https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html",
-          "locator": "turn14view5 L57–65 et L102–111",
+          "locator": "Page consultée L57–65 et L102–111",
           "support": "Museum: On the Origin of Species de Charles Darwin, première édition 1859.",
           "consulted_at": "2026-10-11"
         }
@@ -3312,10 +3312,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 10,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3347,7 +3347,7 @@
       "evidence": [
         {
           "url": "https://www.nasa.gov/general/415-years-ago-astronomer-galileo-discovers-jupiters-moons/",
-          "locator": "turn28view0 L253–254",
+          "locator": "Page consultée L253–254",
           "support": "La NASA décrit les observations télescopiques de l’Italien Galileo Galilei en janvier 1610, conduisant à identifier quatre lunes de Jupiter.",
           "consulted_at": "2026-10-11"
         }
@@ -3357,10 +3357,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 4,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3393,7 +3393,7 @@
       "evidence": [
         {
           "url": "https://computerhistory.org/blog/ada-lovelace-day/",
-          "locator": "turn20view3 L60,69–81",
+          "locator": "Page consultée L60,69–81",
           "support": "Le musée décrit la traduction et les notes de Lovelace sur la machine de Babbage en 1843, dont le tableau de calcul des nombres de Bernoulli.",
           "consulted_at": "2026-10-11"
         }
@@ -3403,10 +3403,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 9,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 10,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3437,7 +3437,7 @@
       "evidence": [
         {
           "url": "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor",
-          "locator": "turn14view8 L166–173 et turn16view0 L177",
+          "locator": "Page consultée L166–173 et Page consultée L177",
           "support": "Académie: poète né à Joal en 1906, élu président du Sénégal en 1960, démission le 31 décembre 1980.",
           "consulted_at": "2026-10-11"
         }
@@ -3447,10 +3447,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 15,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 16,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3480,7 +3480,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/litterature/n%C3%A9gritude/175565",
-          "locator": "turn14view9 L20–27",
+          "locator": "Page consultée L20–27",
           "support": "Négritude: courant développé notamment par Senghor, Césaire et Damas.",
           "consulted_at": "2026-10-11"
         }
@@ -3490,10 +3490,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3523,7 +3523,7 @@
       "evidence": [
         {
           "url": "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor",
-          "locator": "turn16view0 L177",
+          "locator": "Page consultée L177",
           "support": "Senghor président de la République du Sénégal de septembre 1960 à décembre 1980.",
           "consulted_at": "2026-10-11"
         }
@@ -3533,10 +3533,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 7,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3566,7 +3566,7 @@
       "evidence": [
         {
           "url": "https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor",
-          "locator": "turn16view1 L181",
+          "locator": "Page consultée L181",
           "support": "Élection à l’Académie française le 2 juin 1983.",
           "consulted_at": "2026-10-11"
         }
@@ -3576,10 +3576,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3611,7 +3611,7 @@
       "evidence": [
         {
           "url": "https://musee.sacem.fr/index.php/Detail/entities/727",
-          "locator": "turn32view1 L37",
+          "locator": "Page consultée L37",
           "support": "La SACEM situe Césaire en Martinique, le qualifie de poète et de fondateur majeur de la négritude avec Senghor.",
           "consulted_at": "2026-10-11"
         }
@@ -3621,10 +3621,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 1,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3654,7 +3654,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view5 L79",
+          "locator": "Page consultée L79",
           "support": "Table des capitales: Cairo, Egypt.",
           "consulted_at": "2026-10-11"
         }
@@ -3664,10 +3664,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 11,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 12,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3714,7 +3714,7 @@
       "evidence": [
         {
           "url": "https://www.meft.gov.na/national-parks/etosha-national-park/217/",
-          "locator": "turn33view0 L10",
+          "locator": "Page consultée L10",
           "support": "Le ministère namibien présente Etosha comme le parc phare du pays et sa première destination touristique.",
           "consulted_at": "2026-10-11"
         }
@@ -3724,10 +3724,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 5,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 6,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3757,7 +3757,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn8view6 L110",
+          "locator": "Page consultée L110",
           "support": "Table des capitales: Luanda, Angola.",
           "consulted_at": "2026-10-11"
         }
@@ -3767,10 +3767,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 4,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3802,7 +3802,7 @@
       "evidence": [
         {
           "url": "https://www.nationsonline.org/oneworld/capitals_africa.htm",
-          "locator": "turn31view0 L129",
+          "locator": "Page consultée L129",
           "support": "La liste des capitales africaines associe Rabat au Maroc.",
           "consulted_at": "2026-10-11"
         }
@@ -3812,10 +3812,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3845,7 +3845,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/divers/mythologie_grecque/185863",
-          "locator": "turn16view3 L68–74",
+          "locator": "Page consultée L68–74",
           "support": "Dieux réunis sur l’Olympe sous présidence de Zeus, dieu souverain.",
           "consulted_at": "2026-10-11"
         }
@@ -3855,10 +3855,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3904,7 +3904,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/divers/je%C3%BBne/63251",
-          "locator": "turn27view2 L20–23",
+          "locator": "Page consultée L20–23",
           "support": "Larousse définit le jeûne comme privation religieuse de nourriture et cite l’absence de toute nourriture pendant un temps déterminé.",
           "consulted_at": "2026-10-11"
         }
@@ -3914,10 +3914,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3949,7 +3949,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/ville/La_Mecque/132518",
-          "locator": "turn16view5 L34",
+          "locator": "Page consultée L34",
           "support": "La Mecque: Mosquée très sainte édifiée autour de la Kaaba.",
           "consulted_at": "2026-10-11"
         }
@@ -3959,10 +3959,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 8,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -3993,7 +3993,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/monoth%C3%A9isme/52437",
-          "locator": "turn27view3 L21–25",
+          "locator": "Page consultée L21–25",
           "support": "Larousse caractérise le monothéisme par l’existence d’un dieu unique.",
           "consulted_at": "2026-10-11"
         }
@@ -4003,10 +4003,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 3,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4037,7 +4037,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/personnage/Mo%C3%AFse/133575",
-          "locator": "turn16view7 L43–48",
+          "locator": "Page consultée L43–48",
           "support": "Récit biblique de l’Exode: peuple conduit par Moïse. La question est explicitement biblique, pas une assertion historique.",
           "consulted_at": "2026-10-11"
         }
@@ -4047,10 +4047,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 9,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 11,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4081,28 +4081,28 @@
       "evidence": [
         {
           "url": "https://www.presidencedufaso.bf/thomas-sankara/",
-          "locator": "turn6view0 L43",
+          "locator": "Page consultée L43",
           "support": "Nomination en septembre 1981 à l’Information, suivie de démission et dénonciation du régime.",
           "consulted_at": "2026-10-11",
           "points": 40
         },
         {
           "url": "https://www.presidencedufaso.bf/thomas-sankara/",
-          "locator": "turn6view0 L44–45",
+          "locator": "Page consultée L44–45",
           "support": "Premier ministre en janvier 1983, puis chef de l’État le 4 août 1983.",
           "consulted_at": "2026-10-11",
           "points": 30
         },
         {
           "url": "https://www.presidencedufaso.bf/thomas-sankara/",
-          "locator": "turn6view0 L45–46",
+          "locator": "Page consultée L45–46",
           "support": "Changement du nom du pays au premier anniversaire de la révolution du 4 août 1983, donc en 1984.",
           "consulted_at": "2026-10-11",
           "points": 20
         },
         {
           "url": "https://www.presidencedufaso.bf/thomas-sankara/",
-          "locator": "turn6view0 L40 et L48",
+          "locator": "Page consultée L40 et L48",
           "support": "Naissance à Yako en 1949; assassinat le 15 octobre 1987.",
           "consulted_at": "2026-10-11",
           "points": 10
@@ -4113,10 +4113,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 28,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 30,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4146,7 +4146,7 @@
       "evidence": [
         {
           "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada/territoire-climat.html",
-          "locator": "turn16view8 L69",
+          "locator": "Page consultée L69",
           "support": "Gouvernement du Canada: Ottawa capitale du Canada.",
           "consulted_at": "2026-10-11"
         }
@@ -4156,10 +4156,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4191,7 +4191,7 @@
       "evidence": [
         {
           "url": "https://www.fujisan-3776.jp/en/value/index.html",
-          "locator": "turn16view9 L38",
+          "locator": "Page consultée L38",
           "support": "Conseil du patrimoine Fujisan: volcan actif de 3776 m, plus haut sommet du Japon.",
           "consulted_at": "2026-10-11"
         }
@@ -4201,10 +4201,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4237,7 +4237,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/encyclopedie/personnage/Miguel_de_Cervant%C3%A8s/112410",
-          "locator": "turn32view0 L17–23,40,75",
+          "locator": "Page consultée L17–23,40,75",
           "support": "Larousse identifie Cervantès comme écrivain espagnol et créateur de Don Quichotte.",
           "consulted_at": "2026-10-11"
         }
@@ -4247,10 +4247,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 1,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4280,7 +4280,7 @@
       "evidence": [
         {
           "url": "https://www.bipm.org/fr/-/resolution-cgpm-11-12",
-          "locator": "turn7view1 L112",
+          "locator": "Page consultée L112",
           "support": "Tableau des unités dérivées: fréquence, hertz, symbole Hz.",
           "consulted_at": "2026-10-11"
         }
@@ -4290,10 +4290,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 6,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 7,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4340,7 +4340,7 @@
       "evidence": [
         {
           "url": "https://www.fao.org/newsroom/story/75-years-of-growing-nourishing-and-sustaining-our-world/en",
-          "locator": "turn30view2 L16,24–26,55",
+          "locator": "Page consultée L16,24–26,55",
           "support": "La FAO expose son mandat de lutte contre la faim, sa création à Québec en octobre 1945 et le transfert de son siège à Rome en 1951.",
           "consulted_at": "2026-10-11"
         }
@@ -4350,10 +4350,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 7,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 8,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4384,7 +4384,7 @@
       "evidence": [
         {
           "url": "https://whc.unesco.org/en/list/274",
-          "locator": "turn16view11 L122",
+          "locator": "Page consultée L122",
           "support": "Machu Picchu, fiche UNESCO, État partie Pérou.",
           "consulted_at": "2026-10-11"
         }
@@ -4394,10 +4394,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
-        "candidate_pairs_examined": 8,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "reviewed_at": "2026-10-11",
+        "candidate_pairs_examined": 7,
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4444,7 +4444,7 @@
       "evidence": [
         {
           "url": "https://catalogue.bnf.fr/ark:/12148/cb395878915",
-          "locator": "turn25view2 L54–68",
+          "locator": "Page consultée L54–68",
           "support": "La notice musicale BnF attribue à Frédéric Chopin les Nocturnes pour piano et énumère les trois pièces de l’opus 9.",
           "consulted_at": "2026-10-11"
         }
@@ -4454,10 +4454,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4487,7 +4487,7 @@
       "evidence": [
         {
           "url": "https://buenosaires.gob.ar/gcaba_historico/laciudad/ciudad",
-          "locator": "turn16view12 L8",
+          "locator": "Page consultée L8",
           "support": "Ville autonome de Buenos Aires, capitale argentine sur rive occidentale du Río de la Plata.",
           "consulted_at": "2026-10-11"
         }
@@ -4497,10 +4497,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 2,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4530,7 +4530,7 @@
       "evidence": [
         {
           "url": "https://www.larousse.fr/dictionnaires/francais/barom%C3%A8tre/8060",
-          "locator": "turn16view13 L25",
+          "locator": "Page consultée L25",
           "support": "Baromètre: instrument mesurant la pression atmosphérique.",
           "consulted_at": "2026-10-11"
         }
@@ -4540,10 +4540,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     },
     {
@@ -4589,7 +4589,7 @@
       "evidence": [
         {
           "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19494153/barre-de-fraction",
-          "locator": "turn22view2 L20–25",
+          "locator": "Page consultée L20–25",
           "support": "L’OQLF situe le dénominateur sous le numérateur dans la notation verticale, séparés par la barre horizontale.",
           "consulted_at": "2026-10-11"
         }
@@ -4599,10 +4599,10 @@
       ],
       "inherited_status": "DOCUMENTE_SOURCE_DIRECTE",
       "deduplication_review": {
-        "corpus_questions": 2880,
+        "reviewed_at": "2026-10-11",
         "candidate_pairs_examined": 0,
-        "method": "Examen sémantique individuel des rapprochements automatiques, lecture des relations factuelles et recherche transversale des faits remplacés. Registre fact_id également comparé.",
-        "reviewed_at": "2026-10-11"
+        "scope": "Corpus de 2880 Q/R; comparaison lexicale, inversions et exercices numériques; sujets des cantonades examinés avec leur contexte.",
+        "decision": "Aucun même fait non traité dans les paires examinées."
       }
     }
   ]

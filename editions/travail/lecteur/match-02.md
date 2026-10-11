@@ -10,15 +10,15 @@
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de la Zambie ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la Zambie ?
 
 **Q2.** Quelle monnaie nationale le Botswana a-t-il mise en circulation en 1976 ?
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quel sommet est le point culminant du Kenya ?
+**Q1.** Quelle montagne est le point culminant du Kenya ?
 
-**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal en Inde ?
+**Q2.** Au 11 octobre 2026, quelle monnaie a cours légal en Inde ?
 
 ## 3. SPORTS ET JEUX
 
@@ -30,19 +30,19 @@
 
 **Q4.** Au 11 octobre 2026, combien de minutes comporte une période normale de rugby à XV, hors temps perdu ?
 
-**Q5.** Quel sport se joue avec un volant ?
+**Q5.** Quel sport se joue avec des raquettes et un volant que les joueurs frappent par-dessus un filet ?
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quelle actrice interprète Rose dans le film Titanic de James Cameron ?
+**Q1.** Quelle actrice interprète Rose jeune dans Titanic, le film de James Cameron sorti en 1997 ?
 
-**Q2.** Quel compositeur italien a écrit Les Quatre Saisons ?
+**Q2.** Quel compositeur a écrit les quatre concertos pour violon intitulés Les Quatre Saisons ?
 
 **Q3.** Quelle chanteuse sud-africaine était surnommée « Mama Africa » ?
 
-**Q4.** Quel studio japonais a produit Mon voisin Totoro et Le Voyage de Chihiro ?
+**Q4.** Quel studio d’animation a produit Mon voisin Totoro et Le Voyage de Chihiro ?
 
-**Q5.** Quel instrument à vent inventé par Adolphe Sax porte le nom de son inventeur ?
+**Q5.** Quel instrument à anche simple doit son nom à son inventeur Adolphe Sax ?
 
 ## 5. LANGAGE A
 
@@ -88,13 +88,13 @@
 
 **Q3.** Quelle agence spatiale américaine a conduit le programme Apollo ?
 
-**Q4.** Quel télescope spatial lancé en 1990 porte le nom d'un astronome américain ?
+**Q4.** Quel télescope spatial lancé en 1990 porte le nom d’un astronome ?
 
 **Q5.** Quelle unité du SI mesure la différence de potentiel électrique ?
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
-**Q1.** Qui suis-je ? Philosophe grec, j'ai été le maître d'Alexandre le Grand.
+**Q1.** Qui suis-je ? Philosophe grec, j’ai fondé à Athènes l’école appelée Lycée.
 
 **Q2.** Où suis-je ? Grand lac africain bordé notamment par l'Ouganda, le Kenya et la Tanzanie.
 
@@ -102,7 +102,7 @@
 
 **Q4.** Où suis-je ? Mausolée de marbre blanc situé à Agra.
 
-**Q5.** Que suis-je ? Je suis une grande pierre dressée ou utilisée dans un monument préhistorique.
+**Q5.** Que suis-je ? Terme général pour un monument préhistorique formé d’un ou de plusieurs grands blocs de pierre.
 
 ## 10. DIVERS
 
@@ -116,17 +116,17 @@
 
 **Q4.** Quel site de ruines a donné son nom au Zimbabwe moderne ?
 
-**Q5.** Comment appelle-t-on un bien reconnu par l'UNESCO pour sa valeur universelle exceptionnelle ?
+**Q5.** Quel nom porte la liste de l’UNESCO qui recense les biens culturels et naturels de valeur universelle exceptionnelle ?
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle est la capitale de la Turquie ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la Turquie ?
 
 **Q2.** Quel océan borde la côte est de l'Afrique ?
 
 **Q3.** Quel scientifique proposa les trois lois du mouvement planétaire au XVIIe siècle ?
 
-**Q4.** Quel pays a Helsinki pour capitale ?
+**Q4.** Au 11 octobre 2026, quel pays a Stockholm pour capitale ?
 
 **Q5.** Quel auteur français écrivit Le Petit Prince ?
 
@@ -144,11 +144,11 @@
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Q1.** Quel président dirigea le Zaïre de 1965 à 1997 ?
+**Q1.** Quel président dirigea le Congo-Kinshasa de 1965 à 1997, pays appelé Zaïre pendant une partie de son mandat ?
 
 **Q2.** Qui fut le premier président du Congo-Léopoldville indépendant, aujourd'hui République démocratique du Congo ?
 
-**Q3.** Quelle ville du Haut-Katanga est un grand centre minier du sud-est congolais ?
+**Q3.** Quelle ville de la RDC portait autrefois le nom d’Élisabethville ?
 
 **Q4.** Quelle réserve de la RDC porte le nom d'un mammifère forestier emblématique du pays ?
 
@@ -158,13 +158,13 @@
 
 **Q1.** Quel écrivain nigérian fut le premier Africain à recevoir le prix Nobel de littérature ?
 
-**Q2.** Quel artiste italien peignit La Joconde ?
+**Q2.** Quel artiste peignit La Joconde ?
 
-**Q3.** Quel écrivain russe est l'auteur de Crime et Châtiment ?
+**Q3.** Quel écrivain est l’auteur de Crime et Châtiment ?
 
 **Q4.** Quel musée parisien conserve La Joconde ?
 
-**Q5.** Comment appelle-t-on le court poème japonais traditionnel de trois vers ?
+**Q5.** Quel genre de petit poème japonais, souvent présenté en trois vers, a acquis son autonomie au XIXe siècle avec Masaoka Shiki ?
 
 ## 14. MONDE CONTEMPORAIN
 
@@ -192,7 +192,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel dirigeant indien est associé à la lutte non violente contre la domination britannique ?
+**Q1.** Quel dirigeant indien de la non-violence est l’auteur de l’autobiographie Histoire de mes expériences avec la vérité ?
 
 **Q2.** Dans quel pays africain vécut-il et exerça-t-il comme avocat avant son retour en Inde ?
 
@@ -208,7 +208,7 @@
 
 **Q1.** Quel fleuve traverse notamment Vienne, Budapest et Belgrade ?
 
-**Q2.** Quel grand fleuve traverse les États-Unis du nord au sud jusqu'au golfe du Mexique ?
+**Q2.** Quel fleuve prend sa source dans le Minnesota, traverse les États-Unis du nord au sud et se jette dans le golfe du Mexique ?
 
 **Q3.** Quel fleuve forme les chutes Victoria sur une partie de son cours ?
 
@@ -216,15 +216,15 @@
 
 ## 18. MYTHOLOGIE ET RELIGION
 
-**Q1.** Dans la mythologie grecque, quelle déesse est associée à la sagesse ?
+**Q1.** Dans la mythologie grecque, quelle déesse de la sagesse a la chouette pour oiseau emblématique ?
 
 **Q2.** Dans l'hindouisme, quelle divinité est souvent représentée avec un trident et associée à la destruction-transformation ?
 
-**Q3.** Quelle ville est sainte pour le judaïsme, le christianisme et l'islam ?
+**Q3.** Quelle ville, sainte pour le judaïsme, le christianisme et l’islam, abrite le mur des Lamentations et l’église du Saint-Sépulcre ?
 
 **Q4.** Comment appelle-t-on les cinq premiers livres de la Bible hébraïque dans la tradition juive ?
 
-**Q5.** Quel terme désigne, dans plusieurs religions indiennes, la conséquence morale des actes ?
+**Q5.** Quel principe des religions indiennes relie les actes d’une personne à leurs effets sur sa vie et ses renaissances ?
 
 ## 19. IDENTIFICATION
 
@@ -232,22 +232,22 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle est la capitale de la Nouvelle-Zélande ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la Nouvelle-Zélande ?
 
-**Q2.** Quel pays a Lima pour capitale ?
+**Q2.** Au 11 octobre 2026, quel pays a Vaduz pour capitale ?
 
-**Q3.** Quel artiste néerlandais a peint La Nuit étoilée ?
+**Q3.** Quel artiste a peint La Nuit étoilée de 1889, conservée au MoMA ?
 
 **Q4.** Quelle planète est la plus proche du Soleil ?
 
-**Q5.** Quel pays européen a la forme d'une botte sur les cartes ?
+**Q5.** Quel pays européen possède une péninsule dont la silhouette est traditionnellement comparée à une botte ?
 
 **Q6.** Quel terme désigne le résultat d’une multiplication ?
 
-**Q7.** Quelle substance donne sa couleur verte aux feuilles ?
+**Q7.** Quel pigment donne leur couleur verte aux feuilles ?
 
-**Q8.** Quel instrument indique les directions grâce à une aiguille aimantée ?
+**Q8.** Quel instrument indique le nord grâce à une aiguille aimantée libre de tourner ?
 
 **Q9.** Quelle ville américaine est surnommée « Big Apple » ?
 
-**Q10.** Quel pays a Reykjavík pour capitale ?
+**Q10.** Au 11 octobre 2026, quel pays a Amsterdam pour capitale, tandis que son gouvernement siège à La Haye ?

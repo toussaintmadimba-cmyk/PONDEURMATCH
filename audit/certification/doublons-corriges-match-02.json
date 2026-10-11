@@ -1,0 +1,63 @@
+[
+  {
+    "first": "M02-R09-Q01",
+    "second": [
+      "M05-R09-Q01"
+    ],
+    "former_fact": "Aristote précepteur d’Alexandre",
+    "replacement": "Aristote fondateur du Lycée à Athènes",
+    "reason": "Relation maître-élève inversée déjà testée.",
+    "decision": "DOUBLON_CORRIGE"
+  },
+  {
+    "first": "M02-R11-Q04",
+    "second": [
+      "M08-R20-Q01"
+    ],
+    "former_fact": "Helsinki capitale de la Finlande",
+    "replacement": "Stockholm capitale de la Suède",
+    "reason": "Relation pays-capitale répétée.",
+    "decision": "DOUBLON_CORRIGE"
+  },
+  {
+    "first": "M02-R11-Q07",
+    "second": [
+      "M19-R11-Q09"
+    ],
+    "former_fact": "Angle droit de 90 degrés",
+    "replacement": "Rayon du cercle",
+    "reason": "Même propriété de perpendicularité.",
+    "decision": "DOUBLON_CORRIGE"
+  },
+  {
+    "first": "M02-R20-Q02",
+    "second": [
+      "M07-R09-Q05"
+    ],
+    "former_fact": "Lima capitale du Pérou",
+    "replacement": "Vaduz capitale du Liechtenstein",
+    "reason": "Relation capitale-pays répétée.",
+    "decision": "DOUBLON_CORRIGE"
+  },
+  {
+    "first": "M02-R20-Q06",
+    "second": [
+      "M08-R11-Q08",
+      "M09-R20-Q09"
+    ],
+    "former_fact": "Multiplication de deux nombres",
+    "replacement": "Définition du produit",
+    "reason": "Même exercice numérique avec nombres modifiés.",
+    "decision": "DOUBLON_CORRIGE"
+  },
+  {
+    "first": "M02-R20-Q10",
+    "second": [
+      "M10-R11-Q01"
+    ],
+    "former_fact": "Reykjavik capitale de l’Islande",
+    "replacement": "Amsterdam capitale des Pays-Bas",
+    "reason": "Relation pays-capitale répétée.",
+    "decision": "DOUBLON_CORRIGE"
+  }
+]
