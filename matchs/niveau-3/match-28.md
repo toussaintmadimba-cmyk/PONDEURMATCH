@@ -18,9 +18,9 @@
 
 **R.** Malé
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale d'Antigua-et-Barbuda dans les Caraïbes ?
+**Q2.** Au 11 octobre 2026, quelle ville est la capitale de Saint-Vincent-et-les-Grenadines ?
 
-**R.** Saint John's
+**R.** Kingstown
 
 ## 3. SPORTS ET JEUX
 
@@ -82,9 +82,9 @@
 
 **R.** Polyphonie
 
-**Q4.** Quel terme désigne une construction où les propositions sont liées par des subordonnées plutôt que simplement juxtaposées ?
+**Q4.** Quel terme désigne une construction syntaxique privilégiant la juxtaposition et la coordination plutôt que la subordination ?
 
-**R.** Hypotaxe
+**R.** Parataxe
 
 ## 6. CANTONADE 1
 
@@ -112,9 +112,9 @@
 
 **THÈME : CONSTRUCTIONS GRAMMATICALES**
 
-**Q1.** Quel terme de linguistique désigne le fait qu'un même mot possède plusieurs significations ?
+**Q1.** Quel terme linguistique désigne une relation de sens opposés entre deux mots ?
 
-**R.** Polysémie
+**R.** Antonymie
 
 **Q2.** Dans « Il se fait construire une maison », quelle construction exprime le fait de faire exécuter une action ?
 
@@ -176,9 +176,9 @@
 
 **THÈME : HYDROGRAPHIE — FLEUVES**
 
-**Q1.** Quel fleuve du Moyen-Orient prend naissance en Turquie et traverse l'Irak avant de rejoindre le Chatt al-Arab ?
+**Q1.** Quel fleuve parcourt une partie de l'Espagne et traverse Saragosse avant d'atteindre la Méditerranée ?
 
-**R.** Tigre
+**R.** Èbre
 
 **Q2.** Quel fleuve d'Inde naît dans le glacier Gangotri et traverse les plaines du nord du pays ?
 
@@ -188,9 +188,9 @@
 
 **R.** Cunene
 
-**Q4.** Quel grand fleuve de Russie traverse Kazan et se jette dans la mer Caspienne ?
+**Q4.** Quel fleuve d'Europe traverse Zagreb et rejoint le Danube à Belgrade ?
 
-**R.** Volga
+**R.** Save
 
 **Q5.** Quel bras du Gange traverse Kolkata avant de rejoindre le golfe du Bengale ?
 
