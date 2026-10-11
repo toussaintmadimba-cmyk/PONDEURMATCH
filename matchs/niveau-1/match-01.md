@@ -146,8 +146,8 @@
 **Q1.** Quelle est la capitale de l'Éthiopie ?
 **R.** Addis-Abeba
 
-**Q2.** Quelle est la capitale du Sénégal ?
-**R.** Dakar
+**Q2.** Quelle est la capitale de la Gambie ?
+**R.** Banjul
 
 **Q3.** Quelle est la capitale du Rwanda ?
 **R.** Kigali
