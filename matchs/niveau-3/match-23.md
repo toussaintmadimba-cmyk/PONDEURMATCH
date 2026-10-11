@@ -6,9 +6,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de l'Ouzbékistan, en Asie centrale ?
+**Q1.** Au 11 octobre 2026, quelle ville suisse abrite le siège de l'Union postale universelle ?
 
-**R.** Tachkent
+**R.** Berne
 
 **Q2.** Au 11 octobre 2026, quelle monnaie nationale du Malawi porte le même nom qu'une monnaie également utilisée en Zambie ?
 
@@ -16,13 +16,13 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale de la Géorgie, sur le fleuve Koura ?
+**Q1.** Au 11 octobre 2026, dans quelle ville française se trouve le siège du Secrétariat général d'INTERPOL ?
 
-**R.** Tbilissi
+**R.** Lyon
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale du Tadjikistan, en Asie centrale ?
+**Q2.** Au 11 octobre 2026, quelle ville canadienne abrite le siège de l'Organisation de l'aviation civile internationale ?
 
-**R.** Douchanbé
+**R.** Montréal
 
 ## 3. SPORTS ET JEUX
 
