@@ -23,7 +23,10 @@
         "https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Présidence officielle datée du 6 octobre 2026",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R01-Q02",
@@ -36,10 +39,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.nationsonline.org/oneworld/capitals_africa.htm"
+        "https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/namibia"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Union africaine : Windhoek capitale",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R02-Q01",
@@ -59,7 +65,8 @@
       "notes": "",
       "proper_name_answer": true,
       "reference_review_status": "SOURCE_CONTENU_CORROBORE",
-      "reviewed_at": "2026-10-11"
+      "reviewed_at": "2026-10-11",
+      "source_support_note": "Présidence du Mexique, 6 octobre 2026"
     },
     {
       "id": "M01-R02-Q02",
@@ -75,7 +82,10 @@
         "https://www.cbn.gov.ng/Currency/"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Banque centrale du Nigeria : naira",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R03-Q01",
@@ -93,7 +103,8 @@
       "notes": "",
       "proper_name_answer": true,
       "reference_review_status": "SOURCE_CONTENU_CORROBORE",
-      "reviewed_at": "2026-10-11"
+      "reviewed_at": "2026-10-11",
+      "source_support_note": "World Athletics : Bolt 9,58s et 19,19s"
     },
     {
       "id": "M01-R03-Q02",
@@ -106,10 +117,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.rolandgarros.com/en-us/article/2026-edition-roland-garros-opening-week"
+        "https://www.rolandgarros.com/en-us/article/behold-the-clay-canvas-at-roland-garros-rg2022"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Site officiel RG : terre battue Paris",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R03-Q03",
@@ -125,7 +139,10 @@
         "https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "World Rugby : finale 2023 Afrique du Sud",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R03-Q04",
@@ -138,10 +155,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://about.fiba.basketball/en/services/resource-hub/downloads"
+        "https://about.fiba.basketball/en/our-sport/basketball"
       ],
       "notes": "Règles FIBA du basketball classique (cinq contre cinq), pour ne pas confondre avec basket 3x3.",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "FIBA : 2 équipes de 5 au basket traditionnel",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R03-Q05",
@@ -170,11 +190,13 @@
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://www.universalpicturesathome.com/press-release/oppenheimer-press-release",
-        "https://www.universalpictures.fr/micro/oppenheimer"
+        "https://www.universalpicturesathome.com/press-release/oppenheimer-press-release"
       ],
       "notes": "Universal décrit Oppenheimer comme réalisé par Nolan et cite Inception dans la filmographie de Nolan.",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Universal : réalisateur Oppenheimer et Inception dans filmographie",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R04-Q02",
@@ -206,7 +228,10 @@
         "https://www.yamaha.com/en/musical_instrument_guide/classical_guitar/play/play002.html"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Yamaha : guitare classique 6 cordes",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R04-Q04",
@@ -222,7 +247,10 @@
         "https://www.oscars.org/oscars/ceremonies/2020/B"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Académie des Oscars : Parasite réalisé par Bong Joon-ho",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R04-Q05",
@@ -544,7 +572,8 @@
       "notes": "",
       "proper_name_answer": true,
       "reference_review_status": "SOURCE_CONTENU_CORROBORE",
-      "reviewed_at": "2026-10-11"
+      "reviewed_at": "2026-10-11",
+      "source_support_note": "Max Planck : relativité générale par Einstein"
     },
     {
       "id": "M01-R09-Q01",
@@ -658,11 +687,13 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://au.int/fr/node/15869",
-        "https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/comoros"
+        "https://au.int/fr/node/15869"
       ],
       "notes": "Remplacement du fait capitale Gambie/Banjul répété au Match 13 par capitale Comores/Moroni, confirmé par Union africaine.",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Union africaine : Moroni",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R10-Q03",
@@ -774,7 +805,10 @@
         "https://science.nasa.gov/jupiter/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NASA : Jupiter plus grande planète",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q05",
@@ -792,7 +826,8 @@
       "notes": "Équilibre thermodynamique précisé pour ne pas confondre eau surfondue et état stable.",
       "proper_name_answer": false,
       "reference_review_status": "SOURCE_CONTENU_CORROBORE",
-      "reviewed_at": "2026-10-11"
+      "reviewed_at": "2026-10-11",
+      "source_support_note": "Open University : état stable de l'eau, surfusion distinguée"
     },
     {
       "id": "M01-R11-Q06",
@@ -856,7 +891,10 @@
         "https://science.nasa.gov/solar-system/planets/"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NASA : 8 planètes",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R11-Q10",
@@ -874,7 +912,10 @@
         "https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/"
       ],
       "notes": "",
-      "proper_name_answer": false
+      "proper_name_answer": false,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "NASA : O2 dioxygène respirable",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R12-Q01",
@@ -1139,7 +1180,10 @@
         "https://royalsociety.org/news/2014/astronaut-tim-peake-principia/"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Royal Society : Principia, 3 lois, gravitation",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R15-Q02",
@@ -1171,11 +1215,13 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://catalogue.museogalileo.it/object/GalileosObjectiveLens.html",
-        "https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/"
+        "https://catalogue.museogalileo.it/object/GalileosObjectiveLens.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Museo Galileo : 4 satellites Jupiter en 1610",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R15-Q04",
@@ -1437,7 +1483,10 @@
         "https://www.presidencedufaso.bf/thomas-sankara/"
       ],
       "notes": "Quatre indices vérifiés contre la biographie officielle de la présidence du Faso; difficulté orale à tester",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Présidence Faso : épisodes précis 1981-1987",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q01",
@@ -1455,7 +1504,8 @@
       "notes": "",
       "proper_name_answer": true,
       "reference_review_status": "SOURCE_CONTENU_CORROBORE",
-      "reviewed_at": "2026-10-11"
+      "reviewed_at": "2026-10-11",
+      "source_support_note": "Gouvernement canadien : Ottawa"
     },
     {
       "id": "M01-R20-Q02",
@@ -1475,7 +1525,10 @@
         "https://www.fujisan-3776.jp/en/value/index.html"
       ],
       "notes": "",
-      "proper_name_answer": true
+      "proper_name_answer": true,
+      "reference_review_status": "SOURCE_CONTENU_CORROBORE",
+      "source_support_note": "Fujisan Council : point culminant 3776m",
+      "reviewed_at": "2026-10-11"
     },
     {
       "id": "M01-R20-Q03",
@@ -1632,5 +1685,8 @@
       }
     ],
     "notes": "Comparaison automatique de questions identiques et de réponses identiques ; examen de sens des chevauchements identifiés, sans garantir l'absence de doublons par paraphrase à réponses différentes."
-  }
+  },
+  "reviewed_count": 22,
+  "unreviewed_count": 74,
+  "coverage_definition": "Toute question a une URL, mais seuls les reviewed_count faits ont été recoupés explicitement via contenu de source pendant les contrôles; une URL ne vaut pas validation."
 }
