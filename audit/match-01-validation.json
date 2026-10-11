@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 54,
-    "A_VERIFIER_SOURCE": 42
+    "DOCUMENTE_SOURCE_DIRECTE": 58,
+    "A_VERIFIER_SOURCE": 38
   },
   "questions": [
     {
@@ -228,11 +228,13 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 1,
-      "question": "Quel nom obtient-on à partir du verbe « décider » ?",
+      "question": "Quel nom féminin de la famille de « décider » désigne un choix fait après réflexion ?",
       "answer": "Décision",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/d%C3%A9cision/22210"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -245,8 +247,10 @@
       "question": "Quel verbe de la même famille que « début » signifie commencer ?",
       "answer": "Débuter",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/d%C3%A9buter/21955"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -272,11 +276,13 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 4,
-      "question": "Quel est le nom formé à partir de l'adjectif « prudent » ?",
+      "question": "Quel nom féminin de la famille de « prudent » désigne la qualité de celui qui agit avec précaution ?",
       "answer": "Prudence",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/dictionnaires/francais/prudence/64688"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -318,7 +324,7 @@
       "section_number": 6,
       "section": "CANTONADE 1",
       "number": 3,
-      "question": "Quel parti politique opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?",
+      "question": "Quel parti politique sud-africain opposé à l'apartheid a-t-il présidé de 1991 à 1997 ?",
       "answer": "ANC",
       "accepted_variants": [
         "Congrès national africain",
@@ -1384,8 +1390,10 @@
         "Mont Fuji",
         "Fuji-san"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.fujisan-3776.jp/en/value/index.html"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
