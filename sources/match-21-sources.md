@@ -31,3 +31,8 @@ Cette fiche rattache des faits particulièrement sensibles ou spécialisés à d
 Les autres questions exigent également une source adaptée, notamment les précisions historiques, la terminologie grammaticale, le nom des sites archéologiques et les translittérations. Les titres et noms étrangers comportent des variantes acceptables à consigner après vérification.
 
 **Statut : rédigé ; premier contrôle documentaire ciblé ; non certifié pour compétition.**
+
+## Rectificatif QC — question de l'atoll de Tarawa
+- Le nom de l'atoll a été retiré de la question pour éviter de donner la réponse. Betio et Bairiki sont des localités de Tarawa.
+- Ministère des Pêches de Kiribati, travaux au quai de Bairiki à Tarawa : https://www.mfor.gov.ki/node/94
+- Australian War Memorial, Betio et Bairiki sur Tarawa : https://wm.awm.gov.au/read/tarawa
