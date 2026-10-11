@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle mathématicienne afro-américaine devint en 1949 la première superviseure noire de la NACA ?
+**Q1.** Quelle mathématicienne afro-américaine fut promue en 1949 superviseure d'un groupe de calculatrices humaines dans un centre de recherche aéronautique ?
 
 **R.** Dorothy Vaughan
 
