@@ -21,3 +21,38 @@
 
 ## Note
 La rubrique Monde contemporain couvre l'époque contemporaine et n'est pas une rubrique d'actualités.
+
+## Contrôle individuel complémentaire — 11 octobre 2026
+
+Les références ci-dessous ont été consultées pour les associations Q/R indiquées. Les autres questions restent explicitement au statut `A_VERIFIER_SOURCE` dans `audit/match-01-validation.json`. Une source d'une question ne valide pas automatiquement les autres.
+
+| Question | Réponse retenue | Source contrôlée |
+|---|---|---|
+| M01-R01-Q01 | John Dramani Mahama | [Référence](https://presidency.gov.gh/ghana-is-open-for-business-says-mahama-as-he-courts-indian-pharma-vaccine-investments/) |
+| M01-R02-Q01 | Claudia Sheinbaum Pardo | [Référence](https://www.gob.mx/presidencia/articulos/version-estenografica-conferencia-de-prensa-de-la-presidenta-claudia-sheinbaum-pardo-del-02-de-octubre-de-2026) |
+| M01-R02-Q02 | Naira | [Référence](https://www.cbn.gov.ng/Currency/) |
+| M01-R03-Q01 | Usain Bolt | [Référence](https://worldathletics.org/athletes/jamaica/usain-bolt-14201847) |
+| M01-R03-Q03 | Afrique du Sud | [Référence](https://www.world.rugby/news/888593/nzl-11-12-rsa-south-africa-win-tense-final-to-claim-fourth-rugby-world-cup) |
+| M01-R06-Q01 | Nelson Mandela | [Référence](https://www.nelsonmandela.org/biography) |
+| M01-R06-Q02 | Robben Island | [Référence](https://www.nobelprize.org/prizes/peace/1993/mandela/facts/) |
+| M01-R06-Q03 | ANC | [Référence](https://www.nelsonmandela.org/biography) ; [Référence](https://sahistory.org.za/article/nelson-mandela-presidency-1994-1999) |
+| M01-R06-Q04 | Frederik Willem de Klerk | [Référence](https://www.nobelprize.org/prizes/peace/1993/summary/) |
+| M01-R06-Q05 | Pretoria | [Référence](https://www.gov.za/news/speeches/president-nelson-mandela-1994-presidential-inauguration-10-may-1994) |
+| M01-R08-Q01 | Alexander Fleming | [Référence](https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/) |
+| M01-R08-Q03 | Marie Curie | [Référence](https://www.nobelprize.org/stories/women-who-changed-science/marie-curie) |
+| M01-R12-Q02 | Patrice Émery Lumumba | [Référence](https://sahistory.org.za/dated-event/patrice-emery-lumumba-first-prime-minister-independent-congo-born) |
+| M01-R12-Q03 | Parc national des Virunga | [Référence](https://whc.unesco.org/fr/list/63) |
+| M01-R12-Q05 | Inga | [Référence](https://www.worldbank.org/en/news/factsheet/2024/10/09/questions-and-answers-on-world-bank-support-for-the-democratic-republic-of-congos-afe-drc-grand-inga-development-program) |
+| M01-R14-Q02 | Traité de Versailles | [Référence](https://history.state.gov/historicaldocuments/frus1919Parisv11/d272) |
+| M01-R14-Q03 | 1945 | [Référence](https://www.un.org/fr/about-us/history-of-the-un) |
+| M01-R14-Q04 | Helmut Kohl | [Référence](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/botschaft-des-bundeskanzlers-an-alle-regierungen-der-welt-zum-tag-der-deutschen-einheit-787720) |
+| M01-R16-Q01 | Léopold Sédar Senghor | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
+| M01-R16-Q03 | Sénégal | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
+| M01-R16-Q04 | Académie française | [Référence](https://www.academie-francaise.fr/les-immortels/leopold-sedar-senghor?election=02-06-&fauteuil=16) |
+| M01-R19-Q01 | Thomas Sankara | [Référence](https://www.presidencedufaso.bf/thomas-sankara/) |
+| M01-R20-Q04 | Hertz | [Référence](https://www.bipm.org/fr/measurement-units/) |
+| M01-R20-Q06 | Pérou | [Référence](https://whc.unesco.org/en/list/274) |
+
+**Corrections de cette passe :** énoncé des continents dépourvu de réponse intégrée, thème de Langage A harmonisé, mandat ANC de Mandela précisé, formule chimique O₂ corrigée, formulation historiquement explicite pour le premier Premier ministre du Congo indépendant, quatre indices d'identification de Thomas Sankara rédigés séparément et documentés.
+
+**Limite :** les sources de ce relevé documentent 24 questions sur 96. Une revue complète de toutes les 96 associations, une recherche de doublons sémantiques sur les 30 matchs et un test d'arbitrage oral restent nécessaires avant de pouvoir certifier le match.
