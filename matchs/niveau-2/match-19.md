@@ -332,7 +332,7 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quel écrivain et artiste libano-américain écrivit Le Prophète en 1923 ?
+**Q1.** Quel écrivain et artiste libano-américain créa le personnage d'Almustafa, qui donne des enseignements sur l'amour, la liberté et la vie ?
 
 **R.** Khalil Gibran
 
