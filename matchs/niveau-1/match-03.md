@@ -16,8 +16,8 @@
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quelle monnaie a cours légal au Botswana ?
-**R.** Pula
+**Q1.** Au 6 octobre 2026, quelle monnaie nationale a cours légal au Burundi ?
+**R.** Franc burundais
 
 **Q2.** Au 6 octobre 2026, quelle est la capitale du Kazakhstan ?
 **R.** Astana
