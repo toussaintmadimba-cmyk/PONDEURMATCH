@@ -14,9 +14,9 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle ville abrite la Cour pénale internationale aux Pays-Bas ?
+**Q1.** Au 11 octobre 2026, quelle ville italienne accueille le Centre international de physique théorique Abdus Salam ?
 
-**R.** La Haye
+**R.** Trieste
 
 **Q2.** Au 11 octobre 2026, quelle ville abrite le secrétariat général de l'Organisation mondiale du tourisme des Nations unies ?
 
@@ -36,7 +36,7 @@
 
 **R.** Gong Lijiao
 
-**Q4.** Au volley-ball, combien de touches un camp possède-t-il normalement pour renvoyer le ballon, contre compris selon les règles ?
+**Q4.** Au volley-ball, combien de touches une équipe peut-elle normalement effectuer pour renvoyer le ballon, sans compter le contre ?
 
 **R.** 3
 
@@ -78,9 +78,9 @@
 
 **R.** Synecdoque
 
-**Q3.** Quel procédé décrit un objet inanimé comme s'il avait des sentiments humains ?
+**Q3.** Quel procédé poétique répète une consonne dans plusieurs mots rapprochés ?
 
-**R.** Personnification
+**R.** Allitération
 
 **Q4.** Comment appelle-t-on un texte qui critique par imitation caricaturale le style d'un auteur ?
 
@@ -130,7 +130,7 @@
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Q1.** Quel mathématicien anglais posa les fondations de la théorie des ensembles flous en 1965 ?
+**Q1.** Quel mathématicien et ingénieur né à Bakou proposa la théorie des ensembles flous en 1965 ?
 
 **R.** Lotfi Zadeh
 
@@ -138,9 +138,9 @@
 
 **R.** Karen Uhlenbeck
 
-**Q3.** Quel astrophysicien canadien fut l'un des pionniers de l'étude des lentilles gravitationnelles ?
+**Q3.** Quel astrophysicien indien développa avec Fred Hoyle une théorie de la gravitation alternative à celle d'Einstein ?
 
-**R.** Peter Schneider
+**R.** Jayant Narlikar
 
 **Q4.** Quel terme décrit l'augmentation de l'énergie libre requise pour former une interface entre deux phases ?
 
@@ -206,9 +206,9 @@
 
 **R.** Marcel Proust
 
-**Q3.** Quel poète bengali est connu pour le recueil Gitanjali, traduit en anglais en 1912 ?
+**Q3.** Quel poète indien écrivit le recueil de poèmes madhushala publié en 1935 ?
 
-**R.** Rabindranath Tagore
+**R.** Harivansh Rai Bachchan
 
 **Q4.** Quelle romancière américaine publia Ne tirez pas sur l'oiseau moqueur en 1960 ?
 
@@ -406,7 +406,7 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle romancière japonaise publia La Déchéance d'un homme, récit de 1948, sous le nom de plume d'un écrivain masculin ?
+**Q1.** Quel écrivain japonais publia La Déchéance d'un homme en 1948 ?
 
 **R.** Osamu Dazai
 
