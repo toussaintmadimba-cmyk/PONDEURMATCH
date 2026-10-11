@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 58,
-    "A_VERIFIER_SOURCE": 38
+    "DOCUMENTE_SOURCE_DIRECTE": 67,
+    "A_VERIFIER_SOURCE": 29
   },
   "questions": [
     {
@@ -131,8 +131,10 @@
       "question": "Combien de joueurs une équipe de basketball aligne-t-elle simultanément sur le terrain ?",
       "answer": "5",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2026-v1-1.pdf"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -145,8 +147,10 @@
       "question": "Combien de points rapporte un tir réussi derrière la ligne des trois points au basketball ?",
       "answer": "3",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2026-v1-1.pdf"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -529,8 +533,10 @@
       "question": "Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symphonie.",
       "answer": "Ludwig van Beethoven",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.beethoven.de/en/g/mit-beethovens-ohr-gehoert"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -543,8 +549,10 @@
       "question": "Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.",
       "answer": "Everest",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.guinnessworldrecords.com/world-records/highest-mountain"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -557,8 +565,10 @@
       "question": "Que suis-je ? Je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.",
       "answer": "Nil",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://education.nationalgeographic.org/resource/nile-river/"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -590,8 +600,10 @@
       "question": "Où suis-je ? Capitale italienne, j'abrite le Colisée.",
       "answer": "Rome",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.turismoroma.it/fr/node/1155"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -700,8 +712,10 @@
       "question": "Quel auteur anglais a écrit Hamlet ?",
       "answer": "William Shakespeare",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.rsc.org.uk/hamlet/"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -786,8 +800,10 @@
       "question": "Quel compositeur autrichien a écrit La Flûte enchantée ?",
       "answer": "Wolfgang Amadeus Mozart",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.opera-comique.com/fr/spectacles/la-flute-enchantee"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1055,8 +1071,10 @@
       "question": "Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?",
       "answer": "Mikhaïl Gorbatchev",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/encyclopedie/personnage/Mikha%C3%AFl_Sergue%C3%AFevitch_Gorbatchev/121821"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
