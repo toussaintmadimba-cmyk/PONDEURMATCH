@@ -394,15 +394,15 @@
 
 **Q1.** Qui suis-je ?
 
-**40 points —** Après près de trois décennies de travaux en radiophysique à Berlin, j'ai dû quitter l'Allemagne nazie en 1938 pour poursuivre mes recherches en Suède.
+**40 points —** J'ai conçu un instrument de calcul graphique permettant d'accélérer la résolution de problèmes sur les lignes de transport d'électricité.
 
-**30 points —** Avec un jeune physicien de ma famille, j'ai expliqué pourquoi un noyau d'uranium pouvait se diviser en libérant une grande quantité d'énergie.
+**30 points —** Après des travaux de calcul chez AT&T et General Electric, j'ai obtenu en 1919 un diplôme d'ingénierie électrique au MIT.
 
-**20 points —** Mon neveu Otto Frisch et moi avons publié en 1939 une explication théorique de la fission nucléaire, après les expériences de Hahn et Strassmann.
+**20 points —** Mon calculateur graphique, destiné aux ingénieurs des réseaux électriques, a donné lieu à un brevet dans les années 1920.
 
-**10 points —** Physicienne d'origine autrichienne née en 1878, je n'ai pas partagé le prix Nobel 1944 attribué à Otto Hahn.
+**10 points —** Ingénieure américaine née en 1883, je compte parmi les pionnières de l'ingénierie électrique et porte le nom de famille Clarke.
 
-**R.** Lise Meitner
+**R.** Edith Clarke
 
 ## 20. ÉCLAIR 2
 
