@@ -172,8 +172,8 @@
 **Q4.** Quelle mer sépare l’Italie de la péninsule balkanique ?
 **R.** Mer Adriatique
 
-**Q5.** Quel scientifique établit les lois du mouvement des planètes à partir des observations de Tycho Brahe ?
-**R.** Johannes Kepler
+**Q5.** Quel astronome danois estima en 1676 que la lumière avait une vitesse finie grâce aux éclipses d'Io ?
+**R.** Ole Rømer
 
 **Q6.** Quelle ville égyptienne se trouve près des pyramides de Gizeh et abrite le Grand Musée égyptien ?
 **R.** Gizeh
