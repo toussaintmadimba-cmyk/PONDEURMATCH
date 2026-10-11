@@ -18,9 +18,9 @@
 
 **R.** Malé
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale de la Mongolie ?
+**Q2.** Au 11 octobre 2026, quelle ville est la capitale d'Antigua-et-Barbuda dans les Caraïbes ?
 
-**R.** Oulan-Bator
+**R.** Saint John's
 
 ## 3. SPORTS ET JEUX
 
@@ -70,21 +70,21 @@
 
 **THÈME : FIGURES ET CONTRASTES**
 
-**Q1.** Quelle figure exprime une idée en niant son contraire, comme « ce n'est pas mauvais » ?
+**Q1.** Quelle figure de style représente une idée abstraite au moyen d'un personnage, d'un récit ou d'une image symbolique ?
 
-**R.** Litote
+**R.** Allégorie
 
-**Q2.** Quelle figure associe deux mots de sens opposé en une seule expression, comme « silence assourdissant » ?
+**Q2.** Quelle figure associe une idée surprenante à une apparente contradiction logique ?
 
-**R.** Oxymore
+**R.** Paradoxe
 
-**Q3.** Quel procédé rapproche des termes de sonorité voisine sans identité de sens ?
+**Q3.** Quel procédé consiste à alterner dans un texte plusieurs voix distinctes qui se répondent ?
 
-**R.** Paronomase
+**R.** Polyphonie
 
-**Q4.** Quelle figure répète les mêmes termes en ordre inversé, selon une structure ABBA ?
+**Q4.** Quelle figure commence et finit par la même expression ?
 
-**R.** Chiasme
+**R.** Épanadiplose
 
 ## 6. CANTONADE 1
 
@@ -112,17 +112,17 @@
 
 **THÈME : CONSTRUCTIONS GRAMMATICALES**
 
-**Q1.** Dans « Ce livre, je l'ai terminé », quel nom désigne la reprise d'un objet détaché par un pronom ?
+**Q1.** Quel terme sémiotique désigne la récurrence de traits de sens communs dans un même texte ?
 
-**R.** Dislocation
+**R.** Isotopie
 
 **Q2.** Dans « Il se fait construire une maison », quelle construction exprime le fait de faire exécuter une action ?
 
 **R.** Causative
 
-**Q3.** Dans « La décision prise, nous repartîmes », comment s'appelle le groupe initial détaché ?
+**Q3.** Dans « une mer calme », quelle fonction grammaticale remplit « calme » ?
 
-**R.** Proposition participiale
+**R.** Épithète liée
 
 **Q4.** Dans « Il pleut », comment qualifie-t-on le verbe sans sujet référentiel concret ?
 
@@ -146,9 +146,9 @@
 
 **R.** Génétique des populations
 
-**Q5.** Quel processus transforme l'azote atmosphérique en composés assimilables par des organismes ?
+**Q5.** Quel processus biologique transforme des nitrates en azote moléculaire dans certains milieux ?
 
-**R.** Fixation de l'azote
+**R.** Dénitrification
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
@@ -188,19 +188,19 @@
 
 **R.** Cunene
 
-**Q4.** Quel fleuve d'Europe centrale traverse Vienne, Bratislava et Budapest avant d'atteindre la mer Noire ?
+**Q4.** Quel grand fleuve de Russie traverse Kazan et se jette dans la mer Caspienne ?
 
-**R.** Danube
+**R.** Volga
 
-**Q5.** Quel fleuve est la principale voie d'eau du Bangladesh, appelée Jamuna dans une partie de son cours ?
+**Q5.** Quel bras du Gange traverse Kolkata avant de rejoindre le golfe du Bengale ?
 
-**R.** Brahmapoutre
+**R.** Hooghly
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quel écrivain russe publia Crime et Châtiment en 1866 ?
+**Q1.** Quel romancier russe publia Pères et Fils en 1862 ?
 
-**R.** Fiodor Dostoïevski
+**R.** Ivan Tourgueniev
 
 **Q2.** Quelle autrice britannique publia Jane Eyre en 1847 ?
 
@@ -210,9 +210,9 @@
 
 **R.** Eugène Delacroix
 
-**Q4.** Quel historien tunisien du XIVe siècle écrivit la Muqaddima, introduction à son histoire universelle ?
+**Q4.** Quel philosophe andalou du XIIe siècle écrivit Le Régime du solitaire ?
 
-**R.** Ibn Khaldoun
+**R.** Ibn Bajja
 
 **Q5.** Quel mathématicien norvégien donna son nom à des fonctions elliptiques importantes ?
 
@@ -264,13 +264,13 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain sénégalais publia L'Aventure ambiguë, roman philosophique paru en 1961 ?
+**Q1.** Quel écrivain malien publia Le Lieutenant de Kouta en 1979 ?
 
-**R.** Cheikh Hamidou Kane
+**R.** Massa Makan Diabaté
 
-**Q2.** Quel écrivain malien publia Amkoullel, l'enfant peul, récit autobiographique de jeunesse ?
+**Q2.** Quel écrivain nigérien publia Sarraounia, roman historique paru en 1980 ?
 
-**R.** Amadou Hampâté Bâ
+**R.** Abdoulaye Mamani
 
 **Q3.** Quel romancier marocain écrivit Les Boucs en 1955 ?
 
@@ -280,9 +280,9 @@
 
 **R.** Chika Unigwe
 
-**Q5.** Comment appelle-t-on un récit à la première personne où l'auteur, le narrateur et le personnage principal portent la même identité ?
+**Q5.** Quel type de roman construit son récit à travers une suite de correspondances entre personnages ?
 
-**R.** Autobiographie
+**R.** Roman épistolaire
 
 ## 14. MONDE CONTEMPORAIN
 
@@ -290,9 +290,9 @@
 
 **R.** Slavery Abolition Act
 
-**Q2.** Quelle révolte de 1857 opposa des soldats indiens à la Compagnie britannique des Indes orientales ?
+**Q2.** Quel soulèvement de 1906 opposa une partie des Zoulous à l'administration coloniale britannique au Natal ?
 
-**R.** Révolte des Cipayes
+**R.** Rébellion de Bambatha
 
 **Q3.** Quel pacte de 1919 institua une organisation internationale destinée au maintien de la paix après la Grande Guerre ?
 
@@ -352,9 +352,9 @@
 
 **THÈME : VILLES HISTORIQUES**
 
-**Q1.** Quelle ancienne cité perse fondée par Darius Ier fut un centre cérémoniel des Achéménides ?
+**Q1.** Quel site achéménide d'Iran abrite notamment le tombeau de Cyrus le Grand ?
 
-**R.** Persépolis
+**R.** Pasargades
 
 **Q2.** Quelle ancienne capitale impériale japonaise abrite des temples tels que le Kinkaku-ji ?
 
@@ -364,9 +364,9 @@
 
 **R.** Marib
 
-**Q4.** Quelle ville du Mali, fondée vers le XIe siècle, devint un centre commercial et savant des empires ouest-africains ?
+**Q4.** Quel site de l'actuelle Mauritanie est associé à une ancienne capitale de l'empire médiéval du Ghana ?
 
-**R.** Tombouctou
+**R.** Koumbi Saleh
 
 ## 18. MYTHOLOGIE ET RELIGION
 
@@ -374,9 +374,9 @@
 
 **R.** Rê
 
-**Q2.** Quelle déesse grecque des carrefours est souvent représentée avec trois visages ?
+**Q2.** Quelle déesse grecque de la discorde aurait lancé la pomme qui déclencha le jugement de Pâris ?
 
-**R.** Hécate
+**R.** Éris
 
 **Q3.** Quel dieu nordique brandit le marteau Mjöllnir contre les géants ?
 
@@ -406,9 +406,9 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle peintre mexicaine réalisa de nombreux autoportraits mêlant symboles corporels et identitaires ?
+**Q1.** Quel artiste mexicain conçut la grande mosaïque de la bibliothèque centrale de l'UNAM ?
 
-**R.** Frida Kahlo
+**R.** Juan O'Gorman
 
 **Q2.** Quel philosophe allemand publia Le Principe responsabilité en 1979 ?
 
@@ -418,21 +418,21 @@
 
 **R.** Stevie Wonder
 
-**Q4.** Quel scientifique britannique publia L'Origine des espèces en 1859 ?
+**Q4.** Quel biologiste allemand proposa la théorie du plasma germinatif au XIXe siècle ?
 
-**R.** Charles Darwin
+**R.** August Weismann
 
-**Q5.** Quel poète français écrivit Les Fleurs du mal ?
+**Q5.** Quel écrivain francophone né à Montevideo écrivit Les Chants de Maldoror ?
 
-**R.** Charles Baudelaire
+**R.** Isidore Ducasse
 
 **Q6.** Quel écrivain américain publia Moby-Dick en 1851 ?
 
 **R.** Herman Melville
 
-**Q7.** Comment qualifie-t-on une réaction chimique qui libère de la chaleur ?
+**Q7.** Quel qualificatif décrit une réaction dont la variation d'énergie libre de Gibbs est négative ?
 
-**R.** Exothermique
+**R.** Exergonique
 
 **Q8.** Quel instrument mesure l'intensité du courant électrique en ampères ?
 
