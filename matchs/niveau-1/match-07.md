@@ -99,8 +99,8 @@
 **Q2.** Quelle classe grammaticale appartient au mot « sous » dans « sous la table » ?
 **R.** Préposition
 
-**Q3.** Quelle classe grammaticale appartient au mot « mais » ?
-**R.** Conjonction
+**Q3.** Quelle classe grammaticale appartient au mot « hélas » ?
+**R.** Interjection
 
 **Q4.** Quelle classe grammaticale appartient au mot « très » ?
 **R.** Adverbe
