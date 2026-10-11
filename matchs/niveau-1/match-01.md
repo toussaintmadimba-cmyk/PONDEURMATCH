@@ -172,7 +172,7 @@
 **Q4.** Quelle est la plus grande planète du Système solaire ?
 **R.** Jupiter
 
-**Q5.** Quel est l'état physique de l'eau à -10 °C sous pression atmosphérique normale ?
+**Q5.** À −10 °C et sous pression atmosphérique normale, dans quel état se trouve généralement l'eau pure à l'équilibre thermodynamique ?
 **R.** Solide
 
 **Q6.** Quel est le symbole chimique du fer ?
@@ -253,7 +253,7 @@
 **Q2.** Quel naturaliste anglais publia De l'origine des espèces ?
 **R.** Charles Darwin
 
-**Q3.** Quel savant italien défendit l'observation télescopique du ciel au début du XVIIe siècle ?
+**Q3.** Quel savant italien observa quatre satellites de Jupiter en 1610 grâce à une lunette astronomique ?
 **R.** Galilée
 
 **Q4.** Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?
