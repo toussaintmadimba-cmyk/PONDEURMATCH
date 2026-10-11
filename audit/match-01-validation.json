@@ -1161,7 +1161,8 @@
       ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://science.nasa.gov/jupiter/?intent=121"
+        "https://science.nasa.gov/solar-system/galileos-observations-of-the-moon-jupiter-venus-and-the-sun/",
+        "https://catalogue.museogalileo.it/multimedia/GalileosAstronomyBis.html"
       ],
       "notes": "",
       "proper_name_answer": true
@@ -1596,5 +1597,8 @@
     }
   ],
   "proper_name_count": 67,
-  "proper_name_ratio": 0.6979
+  "proper_name_ratio": 0.6979,
+  "documentation_coverage": 96,
+  "all_sources_claim_checked": false,
+  "documentation_notice": "96/96 questions ont des URL rattachées, mais cela ne prouve ni vérification humaine des 96 correspondances ni arbitrage final. L'étiquette DOCUMENTE_SOURCE_DIRECTE indique uniquement un lien dans le registre; ne doit pas être assimilée à VALIDÉ."
 }
