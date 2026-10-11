@@ -236,7 +236,7 @@
 
 **R.** Photosphère
 
-**Q10.** Comment appelle-t-on la limite vers laquelle tend une suite de nombres qui se rapproche indéfiniment d'une valeur ?
+**Q10.** Comment nomme-t-on en analyse la valeur vers laquelle les termes d'une suite convergente se rapprochent lorsque leur rang augmente ?
 
 **R.** Limite
 
@@ -416,7 +416,7 @@
 
 **R.** Claude Lévi-Strauss
 
-**Q3.** Quel auteur abolitionniste publia en 1789 The Interesting Narrative of the Life of Olaudah Equiano ?
+**Q3.** Quel abolitionniste, ayant racheté sa liberté, publia à Londres en 1789 un célèbre récit autobiographique dénonçant l'esclavage ?
 
 **R.** Olaudah Equiano
 
