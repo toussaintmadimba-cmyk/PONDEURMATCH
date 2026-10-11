@@ -66,7 +66,7 @@
 
 **R.** Bois
 
-**Q5.** Comment appelle-t-on le livret contenant le texte chanté d'un opéra ?
+**Q5.** Comment appelle-t-on le texte littéraire destiné à être chanté ou récité dans un opéra ?
 
 **R.** Livret
 
