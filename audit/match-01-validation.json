@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 24,
-    "A_VERIFIER_SOURCE": 72
+    "DOCUMENTE_SOURCE_DIRECTE": 26,
+    "A_VERIFIER_SOURCE": 70
   },
   "questions": [
     {
@@ -92,8 +92,10 @@
       "question": "Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?",
       "answer": "Roland-Garros",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.rolandgarros.com/en-us/article/2026-edition-roland-garros-opening-week"
+      ],
       "notes": ""
     },
     {
@@ -185,8 +187,10 @@
       "question": "Quel réalisateur sud-coréen a réalisé Parasite ?",
       "answer": "Bong Joon-ho",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.oscars.org/oscars/ceremonies/2020/B"
+      ],
       "notes": ""
     },
     {
