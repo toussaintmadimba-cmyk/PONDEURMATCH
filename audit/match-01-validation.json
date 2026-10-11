@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 82,
-    "A_VERIFIER_SOURCE": 14
+    "DOCUMENTE_SOURCE_DIRECTE": 85,
+    "A_VERIFIER_SOURCE": 11
   },
   "questions": [
     {
@@ -415,8 +415,10 @@
         "Complément d'objet direct",
         "COD"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17563504/complement-direct"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -431,8 +433,10 @@
       "accepted_variants": [
         "Futur simple de l'indicatif"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.larousse.fr/conjugaison/francais/partir/6596"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -528,8 +532,10 @@
         "Albert Einstein",
         "Einstein"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.mpg.de/nobel-prize"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
