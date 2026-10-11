@@ -44,8 +44,8 @@
 **Q1.** Quel acteur américain incarne Forrest Gump dans le film du même nom ?
 **R.** Tom Hanks
 
-**Q2.** Quelle chanteuse béninoise a notamment interprété Agolo ?
-**R.** Angélique Kidjo
+**Q2.** Quel chanteur malien a publié en 2002 l'album Moffou, qui comprend la chanson Yamore ?
+**R.** Salif Keïta
 
 **Q3.** Quel réalisateur mexicain a réalisé Roma ?
 **R.** Alfonso Cuarón
@@ -133,8 +133,8 @@
 **Q3.** Que suis-je ? Mer intérieure d'Asie centrale située entre le Kazakhstan et l'Ouzbékistan.
 **R.** Mer d'Aral
 
-**Q4.** Où suis-je ? Capitale du Portugal, je suis bâtie sur les rives du Tage.
-**R.** Lisbonne
+**Q4.** Où suis-je ? Ville du nord du Portugal située à l'embouchure du Douro, célèbre pour ses ponts ?
+**R.** Porto
 
 **Q5.** Que suis-je ? Chaîne montagneuse séparant en partie la France et l'Italie.
 **R.** Alpes
@@ -264,8 +264,8 @@
 **Q1.** Quel explorateur et missionnaire écossais est associé à l'exploration de l'Afrique australe et aux chutes Victoria ?
 **R.** David Livingstone
 
-**Q2.** Quel fleuve forme les chutes Victoria qu'il visita en 1855 ?
-**R.** Zambèze
+**Q2.** Quel vaste désert d'Afrique australe traversa-t-il au cours de ses expéditions au XIXe siècle ?
+**R.** Kalahari
 
 **Q3.** Quel lac d'Afrique orientale explora-t-il en partie au cours de ses voyages ?
 **R.** Lac Malawi
