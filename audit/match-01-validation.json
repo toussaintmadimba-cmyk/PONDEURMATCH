@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 27,
-    "A_VERIFIER_SOURCE": 69
+    "DOCUMENTE_SOURCE_DIRECTE": 33,
+    "A_VERIFIER_SOURCE": 63
   },
   "questions": [
     {
@@ -651,8 +651,10 @@
       "question": "Quelle est la plus grande planète du Système solaire ?",
       "answer": "Jupiter",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://science.nasa.gov/solar-system/planets/"
+      ],
       "notes": ""
     },
     {
@@ -716,8 +718,10 @@
       "question": "Combien de planètes compte le Système solaire ?",
       "answer": "8",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://science.nasa.gov/solar-system/planets/"
+      ],
       "notes": ""
     },
     {
@@ -960,8 +964,10 @@
       "question": "Quel savant anglais formula les lois classiques du mouvement et de la gravitation universelle ?",
       "answer": "Isaac Newton",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://royalsociety.org/news/2014/astronaut-tim-peake-principia/"
+      ],
       "notes": ""
     },
     {
@@ -973,8 +979,10 @@
       "question": "Quel naturaliste anglais publia De l'origine des espèces ?",
       "answer": "Charles Darwin",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.nhm.ac.uk/discover/museum-highlights-charles-darwin.html"
+      ],
       "notes": ""
     },
     {
@@ -989,8 +997,10 @@
         "Galileo Galilei",
         "Galilée"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://science.nasa.gov/jupiter/?intent=121"
+      ],
       "notes": ""
     },
     {
@@ -1002,8 +1012,10 @@
       "question": "Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?",
       "answer": "Ada Lovelace",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://computerhistory.org/blog/ada-lovelace-day/"
+      ],
       "notes": ""
     },
     {
