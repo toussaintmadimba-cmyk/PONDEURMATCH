@@ -40,9 +40,9 @@
 
 **R.** Wilma Rudolph
 
-**Q4.** Dans quel sport le terme « ippon » peut-il signifier une victoire immédiate ?
+**Q4.** Quel sport de glisse se pratique tête en avant sur une luge individuelle dans une piste de glace ?
 
-**R.** Judo
+**R.** Skeleton
 
 **Q5.** Quelle technique de nage associe un mouvement simultané des deux bras et des jambes en ondulation ?
 
