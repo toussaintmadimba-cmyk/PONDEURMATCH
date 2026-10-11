@@ -20,9 +20,9 @@
 
 **R.** Arusha
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale de la Moldavie, située entre la Roumanie et l'Ukraine ?
+**Q2.** Au 11 octobre 2026, quelle ville suisse abrite le siège de la Banque des règlements internationaux ?
 
-**R.** Chișinău
+**R.** Bâle
 
 ## 3. SPORTS ET JEUX
 
