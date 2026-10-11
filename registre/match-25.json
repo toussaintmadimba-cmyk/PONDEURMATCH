@@ -1,0 +1,198 @@
+{
+  "match": "25",
+  "level": 3,
+  "question_count": 96,
+  "proper_name_answers": 68,
+  "proper_name_ratio": 0.7083,
+  "fact_key_method": "fingerprint of normalized question + normalized answer (lexical, not semantic)",
+  "facts": [
+    "torshavn-au-11-octobre-2026-quelle-ville-est-la-capitale-des-iles-f",
+    "roupie-nepalaise-au-11-octobre-2026-quelle-monnaie-nationale-est-utilisee-a",
+    "apia-au-11-octobre-2026-quelle-ville-est-la-capitale-de-l-etat-",
+    "saint-pierre-port-au-11-octobre-2026-quelle-ville-est-le-chef-lieu-de-guerne",
+    "derartu-tulu-quelle-athlete-ethiopienne-fut-la-premiere-femme-noire-afr",
+    "said-aouita-quel-coureur-marocain-remporta-le-5-000-m-masculin-aux-jeu",
+    "yelena-isinbayeva-quelle-perchiste-russe-remporta-deux-titres-olympiques-con",
+    "3-combien-de-phases-de-saut-compose-traditionnellement-le-tr",
+    "7-au-water-polo-combien-de-joueurs-d-une-meme-equipe-sont-no",
+    "nabil-ayouch-quel-realisateur-marocain-signa-le-film-much-loved-present",
+    "ladj-ly-quel-realisateur-francais-recut-le-prix-du-jury-a-cannes-e",
+    "dee-rees-quelle-cineaste-americaine-realisa-mudbound-drame-historiq",
+    "raccord-de-regard-quel-procede-de-montage-associe-un-plan-montrant-ce-que-re",
+    "etalonnage-comment-appelle-t-on-le-reglage-artistique-final-des-coule",
+    "epanadiplose-quelle-figure-reprend-le-meme-mot-au-debut-et-a-la-fin-d-u",
+    "hypotypose-quelle-figure-de-description-represente-une-scene-de-manie",
+    "prosopopee-quelle-figure-prete-la-parole-a-un-etre-absent-mort-ou-ina",
+    "ethopee-quel-type-de-portrait-litteraire-decrit-principalement-les",
+    "hildegarde-de-bingen-quelle-abbesse-du-xiie-siecle-ecrivit-des-textes-visionnai",
+    "rupertsberg-quel-monastere-cette-abbesse-fonda-t-elle-vers-1150-sur-un",
+    "scivias-quel-titre-latin-porte-son-important-ouvrage-sur-ses-visio",
+    "lingua-ignota-quel-nom-donna-t-elle-a-la-langue-inventee-dont-elle-consi",
+    "2012-en-quelle-annee-fut-elle-proclamee-docteure-de-l-eglise-ca",
+    "infinitif-passe-dans-apres-avoir-revise-il-se-presenta-quel-temps-de-l-inf",
+    "futur-anterieur-dans-demain-il-aura-acheve-son-travail-quel-temps-est-aura",
+    "attribut-du-cod-dans-je-trouve-cette-explication-convaincante-quelle-fonct",
+    "complement-d-agent-dans-la-recolte-fut-detruite-par-la-grele-quelle-fonction-",
+    "katharine-burr-blodgett-quelle-chimiste-americaine-developpa-au-xxe-siecle-une-tec",
+    "stephanie-kwolek-quelle-chimiste-americaine-concut-en-1965-une-fibre-synthe",
+    "marie-maynard-daly-quelle-chimiste-afro-americaine-devint-en-1947-la-premiere",
+    "piezoelectricite-quel-phenomene-fait-apparaitre-une-tension-electrique-dans",
+    "isotopie-quel-terme-designe-l-existence-d-atomes-d-un-meme-element-",
+    "gorges-d-olduvai-ou-suis-je-en-tanzanie-je-suis-une-gorge-devenue-celebre-p",
+    "ban-chiang-ou-suis-je-en-thailande-je-suis-un-site-archeologique-clas",
+    "tamgaly-ou-suis-je-au-kazakhstan-je-suis-un-site-de-petroglyphes-i",
+    "chavin-de-huantar-ou-suis-je-au-perou-je-suis-un-centre-ceremoniel-des-andes",
+    "jeju-ou-suis-je-en-coree-du-sud-je-suis-une-ile-volcanique-abri",
+    "inge-lehmann-quelle-sismologue-danoise-proposa-en-1936-l-existence-d-un",
+    "nettie-stevens-quelle-geneticienne-americaine-etudia-vers-1905-le-role-de",
+    "olga-taussky-todd-quelle-mathematicienne-nee-dans-l-empire-austro-hongrois-f",
+    "margaret-burbidge-quelle-astrophysicienne-d-origine-britannique-participa-a-",
+    "lynn-margulis-quelle-biologiste-americaine-developpa-l-explication-endos",
+    "nicolas-gogol-quel-ecrivain-russe-du-xixe-siecle-ecrivit-les-ames-mortes",
+    "carson-mccullers-quelle-romanciere-americaine-publia-en-1940-le-cœur-est-un",
+    "leila-sebbar-quelle-romanciere-franco-algerienne-publia-la-seine-etait-",
+    "machado-de-assis-quel-romancier-bresilien-publia-dom-casmurro-en-1899-œuvre",
+    "wifredo-lam-quel-peintre-cubain-realisa-en-1943-la-jungle-grande-peint",
+    "germaine-acogny-quelle-danseuse-et-choregraphe-senegalaise-fonda-a-toubab-",
+    "giacomo-leopardi-quel-poete-italien-du-xixe-siecle-est-notamment-l-auteur-d",
+    "biogeographie-quel-terme-designe-l-etude-de-la-repartition-geographique-",
+    "spectrometrie-de-masse-quelle-technique-analyse-des-ions-selon-leur-rapport-masse",
+    "anagramme-quel-mot-designe-un-nouveau-mot-obtenu-en-reorganisant-les",
+    "ray-lema-quel-musicien-congolais-dirigea-le-ballet-national-du-zair",
+    "tshibumba-kanda-matulu-quel-peintre-congolais-realisa-une-longue-serie-illustree-",
+    "mwenze-kibwanga-quel-peintre-de-l-ecole-de-lubumbashi-realisa-notamment-le",
+    "pilipili-mulongoy-quel-peintre-congolais-associe-a-lubumbashi-est-connu-sous",
+    "alfred-liyolo-quel-sculpteur-congolais-forme-aux-beaux-arts-de-kinshasa-",
+    "maaza-mengiste-quelle-romanciere-ethiopienne-ecrivit-le-roi-fantome-roman",
+    "yvonne-adhiambo-owuor-quelle-ecrivaine-kenyane-publia-dust-en-2014-roman-sur-une",
+    "binyavanga-wainaina-quel-auteur-kenyan-publia-en-2011-les-memoires-one-day-i-w",
+    "nii-ayikwei-parkes-quel-romancier-ghaneen-ecrivit-tail-of-the-blue-bird-melan",
+    "analepse-quel-terme-narratologique-designe-un-retour-en-arriere-au-",
+    "traite-de-shimonoseki-quel-traite-signe-en-1895-mit-fin-a-la-premiere-guerre-sin",
+    "accords-de-camp-david-quels-accords-de-1978-entre-l-egypte-et-israel-furent-nego",
+    "revolution-des-tulipes-quelle-revolution-de-2005-renversa-le-president-askar-akai",
+    "1998-en-quelle-annee-le-statut-de-rome-instituant-la-cour-penal",
+    "1975-en-quelle-annee-l-angola-proclama-t-il-son-independance-du",
+    "friedrich-bessel-quel-astronome-allemand-realisa-en-1838-une-des-premieres-",
+    "asaph-hall-quel-astronome-americain-decouvrit-les-deux-satellites-nat",
+    "edward-emerson-barnard-quel-astronome-americain-decouvrit-en-1916-une-etoile-au-m",
+    "michel-mayor-quel-astronome-suisse-partagea-le-nobel-de-physique-2019-p",
+    "gerty-cori-quelle-biochimiste-nee-a-prague-recut-le-prix-nobel-de-med",
+    "carl-cori-quel-physiologiste-et-biochimiste-egalement-prix-nobel-eta",
+    "cycle-de-cori-quel-nom-porte-le-cycle-metabolique-reliant-notamment-la-p",
+    "universite-washington-de-saint-louis-dans-quelle-universite-americaine-de-saint-louis-conduisit",
+    "1947-en-quelle-annee-partagea-t-elle-le-prix-nobel-de-medecine-",
+    "tifinagh-quel-systeme-graphique-ancien-des-touaregs-a-inspire-l-ecr",
+    "nsibidi-quel-systeme-de-signes-traditionnel-du-sud-est-du-nigeria-",
+    "gueze-quel-systeme-d-ecriture-ethiopien-issu-de-la-langue-classi",
+    "mandombe-quel-systeme-d-ecriture-invente-au-xxe-siecle-par-david-wa",
+    "pachamama-quelle-figure-nourriciere-des-traditions-andines-est-assoc",
+    "viracocha-quelle-divinite-creatrice-des-traditions-incas-est-associe",
+    "mawu-lisa-quelle-divinite-double-des-traditions-fon-parfois-decrite-",
+    "nyx-quelle-divinite-grecque-personnifie-la-nuit-et-apparait-pa",
+    "monolatrie-comment-appelle-t-on-le-culte-privilegie-d-un-seul-dieu-sa",
+    "alice-guy-blache-qui-suis-je-40-points-j-ai-experimente-des-les-debuts-du-c",
+    "paulo-freire-quel-pedagogue-bresilien-publia-pedagogie-des-opprimes-œuv",
+    "forough-farrokhzad-quelle-poetesse-iranienne-publia-en-1964-le-recueil-une-au",
+    "wangechi-mutu-quelle-artiste-contemporaine-kenyane-nee-a-nairobi-realise",
+    "sofonisba-anguissola-quelle-portraitiste-italienne-du-xvie-siecle-servit-a-la-c",
+    "james-lovelock-quel-scientifique-britannique-proposa-l-hypothese-gaia-sur",
+    "giovanni-boccace-quel-ecrivain-florentin-de-la-renaissance-publia-le-decame",
+    "elasticite-prix-quel-nom-donne-t-on-a-la-sensibilite-de-la-demande-aux-var",
+    "distillation-quel-processus-industriel-separe-des-liquides-selon-la-dif",
+    "modelisation-comment-appelle-t-on-la-representation-mathematique-d-un-p",
+    "polymorphisme-comment-appelle-t-on-la-coexistence-de-plusieurs-variantes"
+  ],
+  "sections": [
+    {
+      "index": 1,
+      "question_count": 2
+    },
+    {
+      "index": 2,
+      "question_count": 2
+    },
+    {
+      "index": 3,
+      "question_count": 5
+    },
+    {
+      "index": 4,
+      "question_count": 5
+    },
+    {
+      "index": 5,
+      "question_count": 4
+    },
+    {
+      "index": 6,
+      "question_count": 5
+    },
+    {
+      "index": 7,
+      "question_count": 4
+    },
+    {
+      "index": 8,
+      "question_count": 5
+    },
+    {
+      "index": 9,
+      "question_count": 5
+    },
+    {
+      "index": 10,
+      "question_count": 5
+    },
+    {
+      "index": 11,
+      "question_count": 10
+    },
+    {
+      "index": 12,
+      "question_count": 5
+    },
+    {
+      "index": 13,
+      "question_count": 5
+    },
+    {
+      "index": 14,
+      "question_count": 5
+    },
+    {
+      "index": 15,
+      "question_count": 4
+    },
+    {
+      "index": 16,
+      "question_count": 5
+    },
+    {
+      "index": 17,
+      "question_count": 4
+    },
+    {
+      "index": 18,
+      "question_count": 5
+    },
+    {
+      "index": 19,
+      "question_count": 1
+    },
+    {
+      "index": 20,
+      "question_count": 10
+    }
+  ],
+  "identification": {
+    "answer": "Alice Guy-Blaché",
+    "points": [
+      40,
+      30,
+      20,
+      10
+    ]
+  },
+  "qa_review_status": "structure_passed; targeted_source_review_pending; NOT competition-certified"
+}
