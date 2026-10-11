@@ -180,9 +180,9 @@
 
 **THÈME : SITES HISTORIQUES DU MONDE**
 
-**Q1.** Quelle cité nabatéenne de Jordanie se rejoint notamment par le défilé du Siq ?
+**Q1.** Quel ensemble de temples hindous de Java, construit au IXe siècle, est dédié notamment à Shiva ?
 
-**R.** Pétra
+**R.** Prambanan
 
 **Q2.** Quelle ville royale khmère abrite le temple du Bayon, aux tours ornées de visages ?
 
@@ -202,9 +202,9 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle mathématicienne américaine réalisa des calculs fondamentaux pour les premières missions habitées de la NASA ?
+**Q1.** Quelle informaticienne du MIT dirigea une partie essentielle du développement logiciel des missions lunaires Apollo ?
 
-**R.** Katherine Johnson
+**R.** Margaret Hamilton
 
 **Q2.** Quel peintre italien de la Renaissance réalisa La Flagellation du Christ, conservée à Urbino ?
 
