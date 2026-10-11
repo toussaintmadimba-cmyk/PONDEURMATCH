@@ -206,7 +206,7 @@
 
 **R.** Ludwig Wittgenstein
 
-**Q2.** Quel lac salé du nord-ouest de l'Iran est aussi appelé lac d'Ourmia ?
+**Q2.** Quel vaste lac salé du nord-ouest de l'Iran, classé réserve de biosphère en 1976, a subi un important assèchement ?
 
 **R.** Lac d'Ourmia
 
