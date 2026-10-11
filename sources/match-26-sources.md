@@ -18,3 +18,8 @@
 96 Q/R et 20 rubriques vérifiées dans le questionnaire. Registre synchronisé.
 
 Ces références sont sélectives ; **elles ne certifient pas les 96 réponses**, ni leur unicité sémantique face aux 29 autres matchs.
+
+
+## Rectificatif du contrôle transversal
+- Remplacement par : Quel physicien américain découvrit le positron en 1932 grâce à des expériences sur les rayons cosmiques ? **Réponse :** Carl David Anderson
+- Source : American Physical Society — https://www.aps.org/apsnews/2004/08/discovery-positron-1932
