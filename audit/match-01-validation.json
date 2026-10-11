@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 85,
-    "A_VERIFIER_SOURCE": 11
+    "DOCUMENTE_SOURCE_DIRECTE": 87,
+    "A_VERIFIER_SOURCE": 9
   },
   "questions": [
     {
@@ -743,8 +743,10 @@
       "question": "Quelle est la capitale du Japon ?",
       "answer": "Tokyo",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.japan.go.jp/japan/index.html"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -773,8 +775,10 @@
       "question": "Quel est l'état physique de l'eau à -10 °C sous pression atmosphérique normale ?",
       "answer": "Solide",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.weather.gov/bgm/helpMeteorologicalCalculator"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
