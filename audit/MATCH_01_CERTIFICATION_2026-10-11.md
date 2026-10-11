@@ -2,7 +2,7 @@
 
 ## Décision
 
-**STATUT : CONTRÔLE EN COURS — NON CERTIFIÉ POUR COMPÉTITION.**
+**STATUT : 96/96 QUESTIONS DOCUMENTÉES — CONTRÔLES ÉDITORIAUX TERMINÉS ; SIMULATION ORALE EN PRÉSENCE D'ÉQUIPES NON EFFECTUÉE.**
 
 Les corrections éditoriales et plusieurs vérifications factuelles sont réalisées sur la branche `qc/match-01-2026-10-11`. La branche `main` n'a pas été modifiée par cette passe.
 
