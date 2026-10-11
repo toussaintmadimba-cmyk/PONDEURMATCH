@@ -1,38 +1,47 @@
-# Niveau 3 — Contrat éditorial renforcé
+# Niveau 3 — Matchs 21 à 30
 
-Le Niveau 3 comprend les matchs **21 à 30**. Il ne se distingue pas par des formulations obscures, mais par des faits plus précis et des indices plus discriminants.
+## Objectif éditorial
 
-## Questions ordinaires
-- Cibler **une seule connaissance** et une réponse brève.
-- Donner un repère utile (œuvre + date, lieu + contexte, événement + conséquence) lorsque cela lève une ambiguïté.
-- Viser en général **15 à 35 mots par question** ; ce sont des repères, pas des limites absolues.
-- Éviter les « Qui a fait… ? » trop nus, mais aussi les paragraphes qui ralentissent l'arbitrage.
-- Varier sciences, humanités, géographie, RDC, monde contemporain et arts.
+**96 questions par match**, 20 rubriques et environ 70 % de réponses en noms propres. Le Niveau 3 demande des connaissances plus sélectives et une meilleure précision, pas des questions inutilement longues.
 
-## Identification — quatre véritables indices
+Les énoncés fournissent un repère discriminant : contexte, œuvre, lieu, date ou conséquence, sans dévoiler la réponse.
 
-Une seule réponse, mais **quatre indices lus séparément** :
+## Identification — format renforcé
 
-**40 points** : deux informations rares et fiables (contexte, réalisation moins connue), sans révéler le nom ni sa racine.
+Chaque match possède **une seule Identification** à **quatre indices lus séparément** :
+- **40 points :** réalisation rare, sans donner le nom.
+- **30 points :** second contexte historique ou biographique indépendant.
+- **20 points :** œuvre, découverte ou réalisation plus reconnaissable.
+- **10 points :** indice très accessible, sans révélation littérale du nom.
 
-**30 points** : repère biographique ou historique plus fort, indépendant de l'indice à 40 points.
+Il faut éviter les répétitions d'une même information reformulée quatre fois. Les faits des indices sont contrôlés par des références institutionnelles.
 
-**20 points** : œuvre, découverte, événement ou réalisation emblématique qui distingue nettement la personne.
+## Matchs rédigés
 
-**10 points** : indice très accessible permettant l'identification sans mentionner littéralement le nom.
+| Match | Questionnaire | Identification | Registre | Sources |
+|---|---|---|---|---|
+| 21 | [Match 21](match-21.md) | Mary Anning | [Registre](../../registre/match-21.json) | [Sources](../../sources/match-21-sources.md) |
+| 22 | [Match 22](match-22.md) | Ellen Ochoa | [Registre](../../registre/match-22.json) | [Sources](../../sources/match-22-sources.md) |
+| 23 | [Match 23](match-23.md) | Gladys West | [Registre](../../registre/match-23.json) | [Sources](../../sources/match-23-sources.md) |
+| 24 | [Match 24](match-24.md) | Nellie Bly | [Registre](../../registre/match-24.json) | [Sources](../../sources/match-24-sources.md) |
 
-**Le résultat doit progresser réellement de difficile à facile.** Chaque indice doit être clair, vérifiable et utile seul ; éviter les quatre reformulations de la même biographie et les banalités (« j'étais célèbre »). Ne pas dévoiler dans le préambule une réponse attendue dans les questions suivantes.
+**Avancement de rédaction du Niveau 3 : 4/10 matchs (384/960 questions, 40 %).**
 
-## Vérifications
-1. 96 questions, 20 rubriques et répartition réglementaire ;
-2. 65 à 70 % environ de réponses-noms propres, cible 70 % ;
-3. réponse unique et arbitrable, variantes acceptables si nécessaire ;
-4. recherche de doublons dans les **29 autres matchs**, sur le fait demandé et pas seulement sur le libellé ;
-5. sources documentaires ciblées, avec relecture des faits rares ;
-6. contrôle spécifique de chaque indice de l'Identification.
+## Contrôles effectués sur ces matchs
 
-Un match **rédigé** n'est pas automatiquement **certifié pour compétition**.
+- 96 questions et 96 réponses par questionnaire.
+- 20 rubriques, Q suivie immédiatement de R, identification à quatre indices.
+- 68/96 réponses classées comme noms propres, soit 70,8 %, dans chacun.
+- Registre individuel à 96 identifiants distincts par match.
+- Recherche des réemplois de réponses et de faits, y compris contre les Matchs 01–20, suivie de remplacements.
+- Dossiers de sources spécifiques aux deux cantonades et à l'Identification de chaque nouveau match.
 
-## Avancement
-- [Match 21](match-21.md) : rédaction effectuée ; sources et registre créés ; audit transverse en cours.
-- Matchs 22–30 : à écrire dans la suite de la production.
+## Important : validation pédagogique
+
+**Rédigé et contrôlé en structure ne signifie pas encore « certifié pour compétition ».**
+
+Le registre n'exclut pas automatiquement tous les doublons sémantiques. Certaines questions spécialisées, les sources des faits rares et les variantes de réponse doivent encore être auditées individuellement avant la version finale destinée aux arbitres.
+
+## Reste à faire
+
+**Matchs 25 à 30** (576 Q/R), puis audit documentaire transversal final des 30 matchs, harmonisation de l'arbitrage et génération des PDF si nécessaire.
