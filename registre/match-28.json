@@ -22,13 +22,13 @@
     "allegorie-quelle-figure-de-style-represente-une-idee-abstraite-au-mo",
     "paradoxe-quelle-figure-associe-une-idee-surprenante-a-une-apparente",
     "polyphonie-quel-procede-consiste-a-alterner-dans-un-texte-plusieurs-v",
-    "epanadiplose-quelle-figure-commence-et-finit-par-la-meme-expression",
+    "hypotaxe-quel-terme-designe-une-construction-ou-les-propositions-so",
     "sophie-scholl-quelle-resistante-allemande-etudiante-a-munich-participa-a",
     "la-rose-blanche-quel-nom-portait-le-groupe-clandestin-d-etudiants-auquel-e",
     "hans-scholl-quel-frere-aine-de-cette-etudiante-militait-avec-elle-et-f",
     "munich-dans-quelle-ville-bavaroise-furent-ils-arretes-a-l-univers",
     "1943-en-quelle-annee-fut-elle-executee-par-le-regime-nazi",
-    "isotopie-quel-terme-semiotique-designe-la-recurrence-de-traits-de-s",
+    "polysemie-quel-terme-de-linguistique-designe-le-fait-qu-un-meme-mot-",
     "causative-dans-il-se-fait-construire-une-maison-quelle-construction-",
     "epithete-liee-dans-une-mer-calme-quelle-fonction-grammaticale-remplit-ca",
     "impersonnel-dans-il-pleut-comment-qualifie-t-on-le-verbe-sans-sujet-re",
@@ -79,7 +79,7 @@
     "condorcet-quel-philosophe-francais-du-xviiie-siecle-defendit-une-ide",
     "esquisse-d-un-tableau-historique-des-progres-de--quel-ouvrage-posthume-porte-un-titre-mentionnant-les-progr",
     "sophie-de-grouchy-quelle-traductrice-et-salonniere-fut-son-epouse-et-diffusa",
-    "france-quel-pays-europeen-fut-le-theatre-de-son-engagement-politi",
+    "bourg-la-reine-dans-quelle-commune-proche-de-paris-mourut-il-en-mars-1794",
     "1794-en-quelle-annee-mourut-il-apres-son-arrestation-pendant-la",
     "pasargades-quel-site-achemenide-d-iran-abrite-notamment-le-tombeau-de",
     "kyoto-quelle-ancienne-capitale-imperiale-japonaise-abrite-des-te",
@@ -103,5 +103,5 @@
     "immobilite-quel-terme-designe-l-etat-de-repos-d-un-corps-par-rapport-"
   ],
   "identification": "Bayard Rustin",
-  "quality_status": "structural_check_passed; full_semantic_and_fact_audit_pending"
+  "quality_status": "structure_validated_factual_audit_pending"
 }
