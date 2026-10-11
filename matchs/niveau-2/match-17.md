@@ -18,9 +18,9 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle est la capitale de la Guinée ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de Trinité-et-Tobago ?
 
-**R.** Conakry
+**R.** Port-d'Espagne
 
 **Q2.** Au 11 octobre 2026, quelle est la capitale du Bahreïn ?
 
