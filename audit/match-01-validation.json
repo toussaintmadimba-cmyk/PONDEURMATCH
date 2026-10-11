@@ -129,14 +129,14 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 4,
-      "question": "Combien de joueurs une équipe de basketball aligne-t-elle simultanément sur le terrain ?",
+      "question": "Dans un match classique de basketball à cinq contre cinq, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?",
       "answer": "5",
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://about.fiba.basketball/en/services/resource-hub/downloads"
       ],
-      "notes": "",
+      "notes": "Règles FIBA du basketball classique (cinq contre cinq), pour ne pas confondre avec basket 3x3.",
       "proper_name_answer": false
     },
     {
@@ -145,14 +145,14 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 5,
-      "question": "Combien de points rapporte un tir réussi derrière la ligne des trois points au basketball ?",
+      "question": "Au basketball, combien de points rapporte un tir réussi au-delà de l'arc extérieur de tir ?",
       "answer": "3",
       "accepted_variants": [],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
         "https://www.ffbb.com/reglement-de-jeu"
       ],
-      "notes": "",
+      "notes": "Ancien énoncé révélait « trois points » ; reformulé pour supprimer la tautologie.",
       "proper_name_answer": false
     },
     {
