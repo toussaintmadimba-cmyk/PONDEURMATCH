@@ -149,7 +149,7 @@
 **Q2.** Quel grand prix littéraire français est décerné chaque année par l’Académie Goncourt ?
 **R.** Prix Goncourt
 
-**Q3.** Quel prix littéraire britannique de premier plan est aujourd’hui connu sous le nom de Booker Prize ?
+**Q3.** Quel prix littéraire créé en 1969 récompense chaque année un roman écrit en anglais et publié au Royaume-Uni ou en Irlande ?
 **R.** Booker Prize
 
 **Q4.** Quelle récompense suprême du Festival de Cannes porte le nom d’une feuille de palmier ?
