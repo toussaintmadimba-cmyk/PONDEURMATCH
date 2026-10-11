@@ -92,7 +92,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle souveraine d'Afrique centrale du XVIIe siècle dirigea Ndongo et Matamba et résista à l'expansion portugaise ?
+**Q1.** Quelle souveraine d'Afrique centrale du XVIIe siècle gouverna deux royaumes et mena une longue résistance aux conquêtes européennes ?
 
 **R.** Nzinga Mbande
 
