@@ -314,7 +314,7 @@
 
 **R.** Robert Noyce
 
-**Q2.** Quel physicien britannique participa à l'invention du circuit intégré à la fin des années 1950 chez Texas Instruments ?
+**Q2.** Quel ingénieur américain réalisa en 1958 chez Texas Instruments une première démonstration de circuit intégré ?
 
 **R.** Jack Kilby
 
