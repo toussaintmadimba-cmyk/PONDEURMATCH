@@ -343,6 +343,6 @@
 **Q9.** Quel est le résultat de 9 × 9 ?
 **R.** 81
 
-**Q10.** Comment appelle-t-on la formation de bulles de vapeur dans un liquide chauffé à sa température d'ébullition ?
+**Q10.** Comment appelle-t-on le passage d'un liquide à l'état gazeux avec formation de bulles de vapeur dans toute sa masse ?
 **R.** Ébullition
 
