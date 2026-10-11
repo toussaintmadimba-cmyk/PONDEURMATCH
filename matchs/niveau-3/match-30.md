@@ -4,9 +4,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle est la capitale de l'Islande, située sur la côte sud-ouest de l'île ?
+**Q1.** Au 11 octobre 2026, quelle ville allemande accueille le Centre européen des opérations spatiales de l'ESA ?
 
-**R.** Reykjavík
+**R.** Darmstadt
 
 **Q2.** Au 11 octobre 2026, quelle monnaie est utilisée en Pologne ?
 
@@ -14,13 +14,13 @@
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
-**Q1.** Au 11 octobre 2026, quelle est la capitale du Cambodge ?
+**Q1.** Au 11 octobre 2026, quelle ville allemande abrite le siège de l'Agence européenne de la sécurité aérienne (AESA) ?
 
-**R.** Phnom Penh
+**R.** Cologne
 
-**Q2.** Au 11 octobre 2026, quelle ville est la capitale du Gabon, sur l'estuaire du Komo ?
+**Q2.** Au 11 octobre 2026, quelle ville espagnole abrite l'Office de l'Union européenne pour la propriété intellectuelle (EUIPO) ?
 
-**R.** Libreville
+**R.** Alicante
 
 ## 3. SPORTS ET JEUX
 
@@ -100,9 +100,9 @@
 
 **R.** Sorbonne
 
-**Q4.** Dans quelle capitale fédérale américaine dirigea-t-elle une école destinée à des élèves noirs ?
+**Q4.** Quel lycée secondaire de Washington, destiné aux élèves afro-américains, dirigea-t-elle au début du XXe siècle ?
 
-**R.** Washington
+**R.** M Street High School
 
 **Q5.** En quelle année mourut-elle, après avoir vécu plus de cent ans ?
 
@@ -120,9 +120,9 @@
 
 **R.** Pronom personnel
 
-**Q3.** Dans « Sans qu'il le sache », quel temps du subjonctif est employé dans « sache » ?
+**Q3.** Dans « Pour qu'il vînt », à quelle personne et à quel nombre le verbe « vînt » est-il conjugué ?
 
-**R.** Subjonctif présent
+**R.** Troisième personne du singulier
 
 **Q4.** Quel terme désigne la disparition d'un son ou d'une syllabe au début d'un mot ?
 
@@ -134,9 +134,9 @@
 
 **R.** Elizabeth Blackburn
 
-**Q2.** Quel chercheur américain reçut le Nobel de chimie 1993 pour le développement de la PCR ?
+**Q2.** Quel chimiste suisse partagea le prix Nobel de chimie 2017 pour le développement de la cryomicroscopie électronique ?
 
-**R.** Kary Mullis
+**R.** Jacques Dubochet
 
 **Q3.** Quel biochimiste indo-américain partagea le Nobel de médecine 1968 pour le déchiffrement du code génétique ?
 
@@ -160,9 +160,9 @@
 
 **R.** Grand Canyon
 
-**Q3.** Que suis-je ? Je suis la plus grande île de Méditerranée, située au sud de l'Italie continentale.
+**Q3.** Que suis-je ? Plus grande île de l'archipel éolien au nord de la Sicile, mon nom désigne aussi une ville portuaire.
 
-**R.** Sicile
+**R.** Lipari
 
 **Q4.** Où suis-je ? Je suis le volcan actif qui domine l'île de la Grande Comore, dans l'océan Indien.
 
@@ -180,9 +180,9 @@
 
 **R.** Galerie des Offices
 
-**Q2.** Quel musée de Madrid conserve Les Ménines de Diego Velázquez ?
+**Q2.** Quel musée florentin abrite l'original du David sculpté par Michel-Ange ?
 
-**R.** Musée du Prado
+**R.** Galerie de l'Académie de Florence
 
 **Q3.** Quel musée de New York conserve Les Demoiselles d'Avignon de Picasso ?
 
@@ -202,29 +202,29 @@
 
 **R.** Abou al-Faraj al-Isfahani
 
-**Q2.** Quelle autrice américaine publia L'Œil le plus bleu, son premier roman, en 1970 ?
+**Q2.** Quel écrivain américain reçut le prix Pulitzer 2007 pour son roman La Route ?
 
-**R.** Toni Morrison
+**R.** Cormac McCarthy
 
-**Q3.** Quel écrivain sud-africain écrivit Life and Times of Michael K, prix Booker 1983 ?
+**Q3.** Quel romancier britannique d'origine indienne remporta le Booker Prize 1981 avec Les Enfants de minuit ?
 
-**R.** J. M. Coetzee
+**R.** Salman Rushdie
 
-**Q4.** Quel peintre hollandais réalisa La Laitière au XVIIe siècle ?
+**Q4.** Quel peintre français du XVIIe siècle réalisa Le Tricheur à l'as de carreau ?
 
-**R.** Johannes Vermeer
+**R.** Georges de La Tour
 
-**Q5.** Quel écrivain français publia La Condition humaine en 1933 ?
+**Q5.** Quel écrivain francophone né à Corfou publia Belle du Seigneur en 1968 ?
 
-**R.** André Malraux
+**R.** Albert Cohen
 
-**Q6.** Quel dramaturge anglais écrivit La Tempête au début du XVIIe siècle ?
+**Q6.** Quel dramaturge élisabéthain est l'auteur de La Tragédie espagnole, pièce influente du théâtre de vengeance ?
 
-**R.** William Shakespeare
+**R.** Thomas Kyd
 
-**Q7.** Quel sculpteur français réalisa Le Penseur, d'abord conçu dans La Porte de l'Enfer ?
+**Q7.** Quel sculpteur italien du XVIIe siècle réalisa la Fontaine des Quatre-Fleuves sur la Piazza Navona à Rome ?
 
-**R.** Auguste Rodin
+**R.** Le Bernin
 
 **Q8.** Comment appelle-t-on une réaction chimique absorbant de la chaleur du milieu ?
 
@@ -294,9 +294,9 @@
 
 **R.** Traité de Saint-Germain-en-Laye
 
-**Q3.** Quel événement de 1989 marqua l'ouverture de la frontière entre les deux parties de Berlin ?
+**Q3.** Quel traité signé par Reagan et Gorbatchev en 1987 éliminait certaines catégories de missiles nucléaires ?
 
-**R.** Chute du mur de Berlin
+**R.** Traité FNI
 
 **Q4.** En quelle année le Mozambique devint-il indépendant du Portugal ?
 
@@ -310,13 +310,13 @@
 
 **THÈME : INVENTIONS ET INNOVATION**
 
-**Q1.** Quel ingénieur écossais perfectionna au XVIIIe siècle une machine à vapeur munie d'un condenseur séparé ?
+**Q1.** Quel ingénieur britannique conçut la locomotive Rocket, présentée lors des essais de Rainhill en 1829 ?
 
-**R.** James Watt
+**R.** Robert Stephenson
 
-**Q2.** Quel inventeur américain améliora le phonographe à la fin du XIXe siècle ?
+**Q2.** Quel inventeur obtint en 1876 un brevet américain important pour l'invention du téléphone ?
 
-**R.** Thomas Edison
+**R.** Alexander Graham Bell
 
 **Q3.** Quel inventeur allemand est associé au premier moteur à combustion interne à quatre temps commercialisé à la fin du XIXe siècle ?
 
@@ -406,9 +406,9 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quel peintre italien réalisa la fresque La Création d'Adam au plafond de la chapelle Sixtine ?
+**Q1.** Quel peintre italien de la Renaissance laissa inachevée à sa mort en 1520 la toile La Transfiguration ?
 
-**R.** Michel-Ange
+**R.** Raphaël
 
 **Q2.** Quel philosophe anglais écrivit Léviathan en 1651 ?
 
@@ -426,13 +426,13 @@
 
 **R.** George Gershwin
 
-**Q6.** Quel écrivain français écrivit Le Rouge et le Noir en 1830 ?
+**Q6.** Quel romancier français publia Le Grand Meaulnes en 1913 ?
 
-**R.** Stendhal
+**R.** Alain-Fournier
 
-**Q7.** Quelle particule porte une charge électrique négative dans l'atome ?
+**Q7.** Quelle antiparticule de l'électron possède une charge électrique positive ?
 
-**R.** Électron
+**R.** Positron
 
 **Q8.** Comment nomme-t-on l'ensemble des réactions de dégradation des molécules libérant de l'énergie ?
 
