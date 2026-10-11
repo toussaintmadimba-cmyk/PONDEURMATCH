@@ -322,7 +322,7 @@
 **Q2.** Quel écrivain américain est l'auteur des Aventures de Tom Sawyer ?
 **R.** Mark Twain
 
-**Q3.** Quelle ville italienne abrite les célèbres Arènes de Vérone datant de l'époque romaine ?
+**Q3.** Quelle ville italienne possède un amphithéâtre romain célèbre pour ses spectacles d'opéra en plein air ?
 **R.** Vérone
 
 **Q4.** Quel physicien formula l'équation E = mc² ?
