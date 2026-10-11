@@ -33,10 +33,10 @@
 **Q3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
 **R.** Afrique du Sud
 
-**Q4.** Combien de joueurs une équipe de basketball aligne-t-elle simultanément sur le terrain ?
+**Q4.** Dans un match classique de basketball à cinq contre cinq, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
 **R.** 5
 
-**Q5.** Combien de points rapporte un tir réussi derrière la ligne des trois points au basketball ?
+**Q5.** Au basketball, combien de points rapporte un tir réussi au-delà de l'arc extérieur de tir ?
 **R.** 3
 
 ## 4. CINÉMA ET MUSIQUE
