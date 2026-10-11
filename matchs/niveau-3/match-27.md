@@ -328,25 +328,25 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle aviatrice américaine fut la première femme à traverser seule l'Atlantique par avion en 1932 ?
+**Q1.** Quelle aviatrice américaine, empêchée d'intégrer les écoles de pilotage de son pays, devint en 1921 une pionnière de l'aviation féminine noire ?
 
-**R.** Amelia Earhart
+**R.** Bessie Coleman
 
-**Q2.** Dans quelle ville du Kansas naquit-elle en 1897 ?
+**Q2.** Dans quel pays européen obtint-elle son brevet de pilote ?
 
-**R.** Atchison
+**R.** France
 
-**Q3.** Quel modèle de monoplan Lockheed utilisa-t-elle pour son vol transatlantique en solitaire ?
+**Q3.** Dans quelle commune de la Somme suivit-elle les cours de l'école d'aviation des frères Caudron ?
 
-**R.** Vega 5B
+**R.** Le Crotoy
 
-**Q4.** Quel navigateur l'accompagnait lors de son dernier voyage aérien en 1937 ?
+**Q4.** Dans quelle grande ville américaine avait-elle travaillé avant de partir apprendre à piloter ?
 
-**R.** Fred Noonan
+**R.** Chicago
 
-**Q5.** En quelle année disparut-elle au-dessus du Pacifique ?
+**Q5.** En quelle année mourut-elle dans un accident d'avion aux États-Unis ?
 
-**R.** 1937
+**R.** 1926
 
 ## 17. RELAIS B
 
