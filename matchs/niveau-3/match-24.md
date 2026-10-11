@@ -90,7 +90,7 @@
 
 ## 6. CANTONADE 1
 
-**Q1.** Quelle traductrice et intellectuelle antillaise anima dans l'entre-deux-guerres un salon littéraire favorisant les échanges entre penseurs noirs des deux rives de l'Atlantique ?
+**Q1.** Quelle traductrice antillaise, l'une des premières étudiantes noires de la Sorbonne, anima un salon réunissant les intellectuels des diasporas africaines ?
 
 **R.** Paulette Nardal
 
