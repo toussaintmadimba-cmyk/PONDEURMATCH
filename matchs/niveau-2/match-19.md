@@ -226,13 +226,13 @@
 
 **R.** Doris Lessing
 
-**Q7.** Quel mathématicien français donna son nom à une machine à calculer mécanique développée au XVIIe siècle ?
+**Q7.** Quel mathématicien français publia en 1812 la Théorie analytique des probabilités ?
 
-**R.** Blaise Pascal
+**R.** Pierre-Simon Laplace
 
-**Q8.** Comment appelle-t-on un nombre entier positif dont seuls 1 et lui-même sont diviseurs ?
+**Q8.** Quel est le résultat de 11 multiplié par 13 ?
 
-**R.** Nombre premier
+**R.** 143
 
 **Q9.** Quel est le degré de l'angle formé par deux droites perpendiculaires ?
 
