@@ -4,9 +4,9 @@
 
 ## 1. MANCHETTE A — ÉQUIPE A
 
-**Q1.** Au 11 octobre 2026, quelle ville est la capitale du Pakistan, dont la construction débuta dans les années 1960 ?
+**Q1.** Au 11 octobre 2026, quelle ville autrichienne abrite le siège de l'Organisation des pays exportateurs de pétrole (OPEP) ?
 
-**R.** Islamabad
+**R.** Vienne
 
 **Q2.** Au 11 octobre 2026, quelle monnaie est utilisée en Tanzanie ?
 
@@ -68,23 +68,23 @@
 
 ## 5. LANGAGE A
 
-**THÈME : IMAGES ET SUBSTITUTIONS**
+**THÈME : MODES DE RAISONNEMENT**
 
-**Q1.** Quelle figure désigne un objet par sa matière, comme « le fer » pour une épée ?
+**Q1.** Quel raisonnement part d'une règle générale pour conclure sur un cas particulier ?
 
-**R.** Métonymie
+**R.** Déduction
 
-**Q2.** Quelle figure désigne une partie pour le tout, comme « des voiles » pour des bateaux ?
+**Q2.** Quel raisonnement construit une généralisation à partir de plusieurs observations ?
 
-**R.** Synecdoque
+**R.** Induction
 
-**Q3.** Quel procédé poétique répète une consonne dans plusieurs mots rapprochés ?
+**Q3.** Quel raisonnement transfère une conclusion d'une situation à une autre jugée semblable ?
 
-**R.** Allitération
+**R.** Analogie
 
-**Q4.** Comment appelle-t-on un texte qui critique par imitation caricaturale le style d'un auteur ?
+**Q4.** Quel procédé argumentatif consiste à montrer qu'une thèse adverse est fausse ?
 
-**R.** Parodie
+**R.** Réfutation
 
 ## 6. CANTONADE 1
 
@@ -120,13 +120,13 @@
 
 **R.** Subjonctif
 
-**Q3.** Dans « Nous avions quitté la ville », quel temps est « avions quitté » ?
+**Q3.** Dans « le meilleur de tous », quel degré de comparaison exprime « le meilleur » ?
 
-**R.** Plus-que-parfait
+**R.** Superlatif relatif
 
-**Q4.** Dans « En arrivant, il salua », quel mode non personnel est employé pour « en arrivant » ?
+**Q4.** Dans « Ayant achevé son devoir, il sortit », quelle forme verbale est « ayant achevé » ?
 
-**R.** Gérondif
+**R.** Participe composé
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -164,7 +164,7 @@
 
 **R.** Titicaca
 
-**Q4.** Où suis-je ? Je suis la cité ancienne de la vallée de l'Indus située dans l'actuel Pakistan, proche de Harappa.
+**Q4.** Où suis-je ? Je suis une cité antique de la civilisation de l'Indus, située dans l'actuelle province pakistanaise du Pendjab.
 
 **R.** Harappa
 
@@ -242,9 +242,9 @@
 
 ## 12. CULTURE RÉGIONALE — RDC
 
-**Q1.** Quel établissement universitaire public de Lubumbashi est souvent désigné par le sigle UNILU ?
+**Q1.** Quel établissement universitaire public de Goma est désigné par le sigle UNIGOM ?
 
-**R.** Université de Lubumbashi
+**R.** Université de Goma
 
 **Q2.** Quel établissement de formation artistique de Kinshasa est connu sous le nom d'ABA ?
 
@@ -258,9 +258,9 @@
 
 **R.** Institut supérieur des techniques appliquées
 
-**Q5.** Quelle université de Kinshasa, dite UNIKIN, fut l'ancienne université Lovanium ?
+**Q5.** Quelle université publique de Bukavu porte les initiales UOB ?
 
-**R.** Université de Kinshasa
+**R.** Université officielle de Bukavu
 
 ## 13. LITTÉRATURE ET ART
 
@@ -328,25 +328,25 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle astronome allemande puis britannique découvrit plusieurs comètes et travailla aux côtés de son frère astronome ?
+**Q1.** Quelle astronome américaine contribua à classer les spectres de centaines de milliers d'étoiles au sein de l'observatoire de Harvard ?
 
-**R.** Caroline Herschel
+**R.** Annie Jump Cannon
 
-**Q2.** Quel astronome britannique, célèbre pour la découverte d'Uranus, était son frère ?
+**Q2.** Quel système de classes stellaires, ordonnées notamment O, B, A, F, G, K et M, contribua-t-elle à perfectionner ?
 
-**R.** William Herschel
+**R.** Classification spectrale de Harvard
 
-**Q3.** Dans quelle ville allemande naquit-elle en 1750, alors au sein de l'électorat de Hanovre ?
+**Q3.** Dans quel État américain se trouve Cambridge, où elle exerça l'essentiel de sa carrière scientifique ?
 
-**R.** Hanovre
+**R.** Massachusetts
 
-**Q4.** Dans quelle ville anglaise les deux membres de la famille menèrent-ils des observations astronomiques au XVIIIe siècle ?
+**Q4.** Quel grand catalogue de spectres stellaires, dont les premiers volumes parurent en 1918, contient ses travaux ?
 
-**R.** Bath
+**R.** Henry Draper Catalogue
 
-**Q5.** En quelle année mourut-elle, presque centenaire ?
+**Q5.** En quelle année mourut-elle, après plusieurs décennies de classification stellaire ?
 
-**R.** 1848
+**R.** 1941
 
 ## 17. RELAIS B
 
@@ -370,9 +370,9 @@
 
 ## 18. MYTHOLOGIE ET RELIGION
 
-**Q1.** Quel dieu grec du vin et de l'extase est associé au théâtre antique ?
+**Q1.** Quel dieu grec, fils d'Aphrodite dans de nombreuses traditions, personnifie le désir amoureux ?
 
-**R.** Dionysos
+**R.** Éros
 
 **Q2.** Quel personnage de la mythologie grecque dut soutenir la voûte céleste après la défaite des Titans ?
 
@@ -386,9 +386,9 @@
 
 **R.** Ganesh
 
-**Q5.** Quel terme religieux désigne la croyance dans un dieu unique ?
+**Q5.** Quelle doctrine considère que la divinité et l'univers forment une seule réalité ?
 
-**R.** Monothéisme
+**R.** Panthéisme
 
 ## 19. IDENTIFICATION
 
@@ -422,13 +422,13 @@
 
 **R.** Jacques Derrida
 
-**Q5.** Quel peintre espagnol est associé au mouvement surréaliste et aux montres molles ?
+**Q5.** Quel peintre espagnol peignit Le Trois Mai 1808, tableau dénonçant les exécutions à Madrid ?
 
-**R.** Salvador Dalí
+**R.** Francisco de Goya
 
-**Q6.** Quel écrivain tchèque écrivit La Métamorphose en 1915 ?
+**Q6.** Quel écrivain autrichien publia en 1932 le roman La Marche de Radetzky ?
 
-**R.** Franz Kafka
+**R.** Joseph Roth
 
 **Q7.** Quelle grandeur physique se mesure en pascals ?
 
