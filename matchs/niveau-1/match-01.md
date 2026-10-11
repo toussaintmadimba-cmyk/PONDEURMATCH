@@ -33,7 +33,7 @@
 **Q3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
 **R.** Afrique du Sud
 
-**Q4.** Dans un match classique de basketball à cinq contre cinq, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
+**Q4.** Selon le règlement FIBA du basketball traditionnel, combien de joueurs de chaque équipe évoluent simultanément sur le terrain ?
 **R.** 5
 
 **Q5.** Au basketball, combien de points rapporte un tir réussi au-delà de l'arc extérieur de tir ?
