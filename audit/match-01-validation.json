@@ -6,8 +6,8 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 87,
-    "A_VERIFIER_SOURCE": 9
+    "DOCUMENTE_SOURCE_DIRECTE": 91,
+    "A_VERIFIER_SOURCE": 5
   },
   "questions": [
     {
@@ -791,8 +791,10 @@
       "question": "Quel est le symbole chimique du fer ?",
       "answer": "Fe",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://periodic-table.rsc.org/element/26/iron"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -805,8 +807,10 @@
       "question": "Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?",
       "answer": "7",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://education.nationalgeographic.org/resource/Continent/5th-grade/"
+      ],
       "notes": "Question tautologique reformulée; le modèle est identifié sans annoncer 7",
       "proper_name_answer": false
     },
@@ -853,8 +857,10 @@
       "accepted_variants": [
         "Oxygène (nom usuel du gaz O₂)"
       ],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://science.nasa.gov/earth/explore/nasa-knows-the-ozone-hole/"
+      ],
       "notes": "",
       "proper_name_answer": false
     },
@@ -921,8 +927,10 @@
       "question": "Quel fleuve sépare notamment Kinshasa de Brazzaville ?",
       "answer": "Fleuve Congo",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://science.nasa.gov/earth/earth-observatory/kinshasa-and-brazzaville-4329/"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
