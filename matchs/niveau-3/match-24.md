@@ -10,9 +10,9 @@
 
 **R.** Dili
 
-**Q2.** Au 11 octobre 2026, quelle monnaie malgache a remplacé officiellement le franc malgache ?
+**Q2.** Au 11 octobre 2026, quelle monnaie nationale porte le nom de somoni au Tadjikistan ?
 
-**R.** Ariary
+**R.** Somoni
 
 ## 2. MANCHETTE B — ÉQUIPE B
 
@@ -20,9 +20,9 @@
 
 **R.** Arusha
 
-**Q2.** Au 11 octobre 2026, quelle ville située en Arménie est la capitale de ce pays du Caucase ?
+**Q2.** Au 11 octobre 2026, quelle ville est la capitale de la Moldavie, située entre la Roumanie et l'Ukraine ?
 
-**R.** Erevan
+**R.** Chișinău
 
 ## 3. SPORTS ET JEUX
 
@@ -122,13 +122,13 @@
 
 **R.** Coordination
 
-**Q3.** Comment nomme-t-on la phrase dont le sens est affirmé sans négation ni interrogation ?
+**Q3.** Dans « Je viendrai demain, dit-elle, si tu veux », quel nom porte la proposition « dit-elle » ?
 
-**R.** Déclarative
+**R.** Proposition incise
 
-**Q4.** Quelle catégorie de phrase sert à exprimer une demande ou une injonction, même sans point d'exclamation ?
+**Q4.** Comment appelle-t-on un mot qui forme à lui seul une phrase, comme « Bravo ! » ?
 
-**R.** Injonctive
+**R.** Mot-phrase
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -136,9 +136,9 @@
 
 **R.** Ingrid Daubechies
 
-**Q2.** Quelle chimiste britannique reçut le Nobel de chimie 1964 pour ses déterminations de structures moléculaires par rayons X ?
+**Q2.** Quel biochimiste né en Argentine partagea le prix Nobel de médecine 1984 pour la production d'anticorps monoclonaux ?
 
-**R.** Dorothy Hodgkin
+**R.** César Milstein
 
 **Q3.** Quel mathématicien australien reçut la médaille Fields en 2006 pour ses contributions en analyse et théorie des nombres ?
 
@@ -266,9 +266,9 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain congolais de Brazzaville publia Le Pleurer-rire, satire du pouvoir, en 1982 ?
+**Q1.** Quel écrivain et musicien camerounais écrivit Le Fils d'Agatha Moudio, prix littéraire d'Afrique noire 1968 ?
 
-**R.** Henri Lopes
+**R.** Francis Bebey
 
 **Q2.** Quelle romancière camerounaise publia C'est le soleil qui m'a brûlée en 1987 ?
 
@@ -334,13 +334,13 @@
 
 **R.** Claudette Colvin
 
-**Q2.** Dans quelle ville du sud des États-Unis eut lieu cette arrestation, à l'origine d'une longue mobilisation contre la ségrégation dans les autobus ?
+**Q2.** Quel lycée ségrégué fréquentait-elle lorsqu'elle rentrait de cours le jour de son arrestation ?
 
-**R.** Montgomery
+**R.** Booker T. Washington High School
 
-**Q3.** Dans quel État américain se trouve cette ville, alors marquée par les lois de ségrégation raciale ?
+**Q3.** Quel avocat afro-américain participa à sa défense et déposa ensuite un recours contre la ségrégation des autobus ?
 
-**R.** Alabama
+**R.** Fred Gray
 
 **Q4.** Quel procès fédéral contre la ségrégation des autobus la compta parmi les plaignantes et témoins importants ?
 
