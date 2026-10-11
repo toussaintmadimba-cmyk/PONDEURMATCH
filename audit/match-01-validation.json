@@ -645,15 +645,17 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 2,
-      "question": "Quelle est la capitale de la Gambie ?",
-      "answer": "Banjul",
-      "accepted_variants": [],
+      "question": "Quelle est la capitale de l'Union des Comores ?",
+      "answer": "Moroni",
+      "accepted_variants": [
+        "Moroni"
+      ],
       "status": "DOCUMENTE_SOURCE_DIRECTE",
       "sources": [
-        "https://data.un.org/fr/iso/gm.html",
-        "https://gambia.gov.gm/about/"
+        "https://au.int/fr/node/15869",
+        "https://auunmission.au.int/en/newsroom/en/newsroom/docroot/index.php/en/member-states/comoros"
       ],
-      "notes": "Question de remplacement : ancien couple Sénégal/Dakar doublonnait par inversion une question du Match 08. Gambie/Banjul vérifié par les Nations unies et le gouvernement gambien.",
+      "notes": "Remplacement du fait capitale Gambie/Banjul répété au Match 13 par capitale Comores/Moroni, confirmé par Union africaine.",
       "proper_name_answer": true
     },
     {
@@ -1605,5 +1607,17 @@
     "Correction de la source 11-10 : la NASA confirme que O₂ est le dioxygène respiré, tandis que O₃ est l'ozone.",
     "Source Newton 15-1 : malgré son titre consacré à Tim Peake, la page de la Royal Society décrit explicitement les trois lois du mouvement et la gravitation universelle de Newton.",
     "Une URL associée à chaque question ne garantit pas encore que chaque affirmation a été lue et recoupée."
-  ]
+  ],
+  "semantic_review": {
+    "status": "PARTIAL",
+    "compared_with": "Matchs 02 à 30",
+    "detected_true_duplicates": [
+      {
+        "other_match": 13,
+        "before": "Gambie — Banjul",
+        "replacement": "Comores — Moroni"
+      }
+    ],
+    "notes": "Comparaison automatique de questions identiques et de réponses identiques ; examen de sens des chevauchements identifiés, sans garantir l'absence de doublons par paraphrase à réponses différentes."
+  }
 }
