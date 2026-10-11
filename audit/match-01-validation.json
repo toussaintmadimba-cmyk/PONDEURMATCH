@@ -6,8 +6,7 @@
   "status": "CERTIFICATION_INCOMPLETE",
   "note": "DOCUMENTE_SOURCE_DIRECTE signifie que la réponse est appuyée par au moins une référence consultée; ne vaut pas vérification de l'anti-doublon transversal ni simulation orale. A_VERIFIER_SOURCE signifie absence de confirmation documentaire individuelle dans cette passe.",
   "counts": {
-    "DOCUMENTE_SOURCE_DIRECTE": 91,
-    "A_VERIFIER_SOURCE": 5
+    "DOCUMENTE_SOURCE_DIRECTE": 96
   },
   "questions": [
     {
@@ -962,8 +961,10 @@
       "question": "Quel écrivain nigérian est l'auteur de Things Fall Apart ?",
       "answer": "Chinua Achebe",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.penguinrandomhouse.com/books/669964/things-fall-apart-by-chinua-achebe-introduction-by-kwame-anthony-appiah/"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1024,8 +1025,10 @@
       "question": "Quel écrivain français est l'auteur du roman L'Étranger ?",
       "answer": "Albert Camus",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://catalogue.bnf.fr/ark:/12148/cb31902899n"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1038,8 +1041,10 @@
       "question": "Quel événement du 14 juillet 1789 constitue un épisode central de la Révolution française ?",
       "answer": "Prise de la Bastille",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://gallica.bnf.fr/essentiels/repere/prise-bastille-1789"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1465,8 +1470,10 @@
       "question": "Quel écrivain espagnol a créé Don Quichotte ?",
       "answer": "Miguel de Cervantes",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://cervantes.bne.es/es/sus-obras"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
@@ -1548,8 +1555,10 @@
       "question": "Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?",
       "answer": "Buenos Aires",
       "accepted_variants": [],
-      "status": "A_VERIFIER_SOURCE",
-      "sources": [],
+      "status": "DOCUMENTE_SOURCE_DIRECTE",
+      "sources": [
+        "https://www.argentina.gob.ar/node/136479"
+      ],
       "notes": "",
       "proper_name_answer": true
     },
