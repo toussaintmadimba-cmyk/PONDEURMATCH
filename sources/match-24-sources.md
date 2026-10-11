@@ -30,3 +30,7 @@
 Monde contemporain, certaines biographies africaines, les dates d'œuvres spécialisées et les variantes de translittération. Recherche de quasi-doublons à renouveler après rédaction des Matchs 25 à 30.
 
 **Statut : questionnaire rédigé, contrôle documentaire ciblé, pas encore déclaré « prêt pour compétition ».**
+
+## Rectificatif QC — monnaie du Tadjikistan
+- La question ne nomme plus la monnaie demandée. Réponse : **somoni**.
+- Banque nationale du Tadjikistan, nom attribué en hommage à Ismoil Somoni, monnaie introduite en 2000 : https://www.nbt.tj/en/banknotes_coins/
