@@ -1,3 +1,13 @@
+# Mode actuel : dix étapes avec accord entre étapes
+
+Instruction du 18 octobre : voir SUIVI_10_ETAPES.md. Étape 1 (match 04) EN COURS : 48/96 faits documentés, tous les 96 types de réponse classés, 68 noms propres. Les vérifications factuelles restantes, la déduplication finale, la relecture d’ensemble, les PDF et le rapport M04 restent ouverts. **Ne pas lancer le match 05 avant validation complète de l’étape 1 et accord explicite de l’utilisateur.**
+
+Les quatre indices Biko sont documentés; son lieu de naissance litigieux et son prénom donné en dernier indice ont été retirés. Les dates de la cantonade Earhart ne dévoilent plus l’année de disparition de Q5. Remplacements provisoires pour répétition : racine carrée vers nombre pair; pentagone vers bissectrice; Rê vers Hathor. Contrôle complet de ces remplacements contre les 2 880 Q/R encore à achever.
+
+Accès local rétabli. Dernière intégrité exécutée : 193/193. Les trois matchs précédents restent intacts. Reprendre les fiches M04 dont factual_status diffère de FAIT_VERIFIE; ne pas recommencer les 48 preuves déjà consignées.
+
+---
+
 # Journal de reprise — 18 octobre 2026
 
 288/960 faits individuellement vérifiés : matchs 01, 02 et 03. Chacun possède 96 preuves localisées, variantes, décisions d’arbitrage et contrôles sémantiques. Collection NON CERTIFIÉE; audit final ouvert.

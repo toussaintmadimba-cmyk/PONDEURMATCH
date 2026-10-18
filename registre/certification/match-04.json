@@ -2,7 +2,7 @@
   "match": 4,
   "level": 1,
   "question_count": 96,
-  "questionnaire_sha256": "5664ff704b577be67ce99ddb73cac6cd45db22621dd7324c7d2f60a6eb6d47e8",
+  "questionnaire_sha256": "3bce794c1217dc348342b3a7c15752eb77be576c08be264f96accc8a7b3666db",
   "questions": [
     {
       "id": "M04-R01-Q01",
@@ -10,23 +10,47 @@
       "section_number": 1,
       "section": "MANCHETTE A - ÉQUIPE A",
       "number": 1,
-      "question": "Au 6 octobre 2026, quelle est la capitale de la Tanzanie ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de la Tanzanie ?",
       "answer": "Dodoma",
       "fact_id": "tanzania-capital",
       "tested_fact": "tanzania-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Dodoma"
+      ],
+      "primary_source": "https://pap.au.int/fr/node/189",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Tanzanie à la capitale Dodoma.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle est la capitale de la Tanzanie ?",
+            "answer": "Dodoma",
+            "fact_id": "tanzania-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de la Tanzanie ?",
+            "answer": "Dodoma",
+            "fact_id": "tanzania-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Dodoma et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://pap.au.int/fr/node/189",
+          "locator": "Tableau des États membres, ligne Tanzanie, ligne 79.",
+          "support": "Le tableau associe explicitement Tanzanie à la capitale Dodoma.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -36,23 +60,48 @@
       "section_number": 1,
       "section": "MANCHETTE A - ÉQUIPE A",
       "number": 2,
-      "question": "Au 6 octobre 2026, quelle monnaie a cours légal en Zambie ?",
+      "question": "Au 18 octobre 2026, quelle est la monnaie nationale de la Zambie ?",
       "answer": "Kwacha zambien",
       "fact_id": "zambia-kwacha-currency",
       "tested_fact": "zambia-kwacha-currency",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kwacha zambien",
+        "Kwacha"
+      ],
+      "primary_source": "https://www.zambiatourism.com/travel-info/money/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La monnaie officielle est nommée Zambian Kwacha. Le code ZMK de cette page est ancien: il n’est pas repris comme preuve du code actuel.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle monnaie a cours légal en Zambie ?",
+            "answer": "Kwacha zambien",
+            "fact_id": "zambia-kwacha-currency"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la monnaie nationale de la Zambie ?",
+            "answer": "Kwacha zambien",
+            "fact_id": "zambia-kwacha-currency"
+          },
+          "reason": "Limiter la question au nom national corroboré plutôt qu’à une qualification juridique détaillée; date alignée sur la consultation.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter kwacha zambien ou kwacha, le pays étant explicitement donné. Ne pas déduire un code monétaire actuel du code ancien publié sur la page touristique.",
+      "evidence": [
+        {
+          "url": "https://www.zambiatourism.com/travel-info/money/",
+          "locator": "Money and Banks, Currency, ligne 180.",
+          "support": "La monnaie officielle est nommée Zambian Kwacha. Le code ZMK de cette page est ancien: il n’est pas repris comme preuve du code actuel.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -62,23 +111,50 @@
       "section_number": 2,
       "section": "MANCHETTE B - ÉQUIPE B",
       "number": 1,
-      "question": "Au 6 octobre 2026, quelle est la capitale de la Mongolie ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de la Mongolie ?",
       "answer": "Oulan-Bator",
       "fact_id": "mongolia-capital",
       "tested_fact": "mongolia-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Oulan-Bator",
+        "Oulan Bator",
+        "Ulaanbaatar",
+        "Ulan Bator"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Mongolie à la capitale Oulan-Bator.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle est la capitale de la Mongolie ?",
+            "answer": "Oulan-Bator",
+            "fact_id": "mongolia-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de la Mongolie ?",
+            "answer": "Oulan-Bator",
+            "fact_id": "mongolia-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Oulan-Bator et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Capital Cities and States of Asia, ligne Ulaanbaatar, ligne 115.",
+          "support": "Le tableau associe explicitement Mongolie à la capitale Oulan-Bator.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -88,23 +164,50 @@
       "section_number": 2,
       "section": "MANCHETTE B - ÉQUIPE B",
       "number": 2,
-      "question": "Au 6 octobre 2026, quel sommet constitue le point culminant du Maroc ?",
+      "question": "Quel sommet du Haut Atlas est le point culminant du Maroc ?",
       "answer": "Toubkal",
       "fact_id": "morocco-highest-toubkal",
       "tested_fact": "morocco-highest-toubkal",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Toubkal",
+        "Djbel Toubkal",
+        "Jbel Toubkal",
+        "Mont Toubkal"
+      ],
+      "primary_source": "https://www.visitmorocco.com/fr/decouvrir-le-maroc/geographie-du-maroc",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le Haut Atlas marocain abrite le Djbel Toubkal, plus haut sommet de l’Afrique du Nord à 4 167 mètres.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quel sommet constitue le point culminant du Maroc ?",
+            "answer": "Toubkal",
+            "fact_id": "morocco-highest-toubkal"
+          },
+          "after": {
+            "question": "Quel sommet du Haut Atlas est le point culminant du Maroc ?",
+            "answer": "Toubkal",
+            "fact_id": "morocco-highest-toubkal"
+          },
+          "reason": "Retirer une date superflue pour une donnée topographique stable.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Toubkal; Haut Atlas seul est le massif, pas le sommet demandé.",
+      "evidence": [
+        {
+          "url": "https://www.visitmorocco.com/fr/decouvrir-le-maroc/geographie-du-maroc",
+          "locator": "Haut Atlas, lignes 454–458.",
+          "support": "Le Haut Atlas marocain abrite le Djbel Toubkal, plus haut sommet de l’Afrique du Nord à 4 167 mètres.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -114,23 +217,48 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 1,
-      "question": "Quelle joueuse américaine a remporté 23 titres du Grand Chelem en simple à l'ère Open ?",
+      "question": "Quelle joueuse américaine comptait 23 titres du Grand Chelem en simple à l’issue de l’US Open 2022 ?",
       "answer": "Serena Williams",
       "fact_id": "serena-23-singles-majors",
       "tested_fact": "serena-23-singles-majors",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Serena Williams",
+        "Serena"
+      ],
+      "primary_source": "https://www.wtatennis.com/news/4487583/legend-bio-serena-williams",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Après l’US Open 2022, Serena Williams compte 23 titres du Grand Chelem en simple; la notice la qualifie d’Américaine.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle joueuse américaine a remporté 23 titres du Grand Chelem en simple à l'ère Open ?",
+            "answer": "Serena Williams",
+            "fact_id": "serena-23-singles-majors"
+          },
+          "after": {
+            "question": "Quelle joueuse américaine comptait 23 titres du Grand Chelem en simple à l’issue de l’US Open 2022 ?",
+            "answer": "Serena Williams",
+            "fact_id": "serena-23-singles-majors"
+          },
+          "reason": "Transformer un palmarès susceptible d’évoluer en bilan historique explicitement documenté.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Serena Williams ou Serena. Williams seule demande de préciser le prénom pour distinguer Venus; le nombre est fixé au bilan de 2022.",
+      "evidence": [
+        {
+          "url": "https://www.wtatennis.com/news/4487583/legend-bio-serena-williams",
+          "locator": "Legend Bio: Serena Williams, premier paragraphe ligne 13, nationalité ligne 16.",
+          "support": "Après l’US Open 2022, Serena Williams compte 23 titres du Grand Chelem en simple; la notice la qualifie d’Américaine.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -140,23 +268,49 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 2,
-      "question": "Quel club espagnol joue ses matchs à domicile au stade Santiago-Bernabéu ?",
+      "question": "Quel club inaugura en 1947 le stade qui porte depuis 1955 le nom de Santiago-Bernabéu ?",
       "answer": "Real Madrid",
       "fact_id": "real-madrid-bernabeu",
       "tested_fact": "real-madrid-bernabeu",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Real Madrid",
+        "Real Madrid CF",
+        "Real Madrid Club de Fútbol"
+      ],
+      "primary_source": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/75th-anniversary-of-santiago-bernabeu-inauguration",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le Real Madrid inaugure le stade le 14 décembre 1947 contre Belenenses; le stade est nommé Santiago Bernabéu depuis 1955.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel club espagnol joue ses matchs à domicile au stade Santiago-Bernabéu ?",
+            "answer": "Real Madrid",
+            "fact_id": "real-madrid-bernabeu"
+          },
+          "after": {
+            "question": "Quel club inaugura en 1947 le stade qui porte depuis 1955 le nom de Santiago-Bernabéu ?",
+            "answer": "Real Madrid",
+            "fact_id": "real-madrid-bernabeu"
+          },
+          "reason": "Remplacer l’usage actuel non daté par deux événements historiques documentés.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Real Madrid; Belenenses était le club invité pour le match inaugural, non le club propriétaire ayant inauguré son stade.",
+      "evidence": [
+        {
+          "url": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/75th-anniversary-of-santiago-bernabeu-inauguration",
+          "locator": "Article anniversaire, paragraphes inauguration et dénomination, lignes 10 et 14.",
+          "support": "Le Real Madrid inaugure le stade le 14 décembre 1947 contre Belenenses; le stade est nommé Santiago Bernabéu depuis 1955.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -170,19 +324,30 @@
       "answer": "Allemagne",
       "fact_id": "germany-world-cup-2014",
       "tested_fact": "germany-world-cup-2014",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Allemagne",
+        "Germany",
+        "Sélection allemande"
+      ],
+      "primary_source": "https://www.uefa.com/european-qualifiers/news/0252-0d041909b876-94c8ce6b802f-1000--gotze-goal-wins-germany-the-world-cup/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’Allemagne remporte sa quatrième Coupe du monde en battant l’Argentine 1–0 après prolongation en finale.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Allemagne ou sélection allemande. Argentine désigne le finaliste battu.",
+      "evidence": [
+        {
+          "url": "https://www.uefa.com/european-qualifiers/news/0252-0d041909b876-94c8ce6b802f-1000--gotze-goal-wins-germany-the-world-cup/",
+          "locator": "Article du 13 juillet 2014, titre et lignes 9–15.",
+          "support": "L’Allemagne remporte sa quatrième Coupe du monde en battant l’Argentine 1–0 après prolongation en finale.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -192,23 +357,49 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 4,
-      "question": "Quel sport collectif oppose deux équipes de sept joueurs sur le terrain et se joue principalement à la main ?",
+      "question": "Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
       "answer": "Handball",
       "fact_id": "handball-seven-players",
       "tested_fact": "handball-seven-players",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Handball",
+        "Handball en salle",
+        "Handball à sept"
+      ],
+      "primary_source": "https://www.ihf.info/sites/default/files/2025-07/09A%20-%20Rules%20of%20the%20Game_Indoor%20Handball_E.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le règlement de handball en salle limite à sept le nombre de joueurs d’une équipe simultanément présents sur le terrain.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel sport collectif oppose deux équipes de sept joueurs sur le terrain et se joue principalement à la main ?",
+            "answer": "Handball",
+            "fact_id": "handball-seven-players"
+          },
+          "after": {
+            "question": "Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
+            "answer": "Handball",
+            "fact_id": "handball-seven-players"
+          },
+          "reason": "Dater le règlement et distinguer un maximum réglementaire d’un effectif toujours égal à sept.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter handball. Le maximum de sept distingue le jeu en salle des autres formes; une équipe peut jouer à moins de sept après exclusion.",
+      "evidence": [
+        {
+          "url": "https://www.ihf.info/sites/default/files/2025-07/09A%20-%20Rules%20of%20the%20Game_Indoor%20Handball_E.pdf",
+          "locator": "Rules of the Game for Indoor Handball, 1 July 2025, règle 4:1, page imprimée 12, lignes 257–265.",
+          "support": "Le règlement de handball en salle limite à sept le nombre de joueurs d’une équipe simultanément présents sur le terrain.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -222,19 +413,28 @@
       "answer": "Tennis",
       "fact_id": "davis-cup-sport",
       "tested_fact": "davis-cup-sport",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Tennis"
+      ],
+      "primary_source": "https://www.daviscup.com/en/about/format",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le site officiel désigne la Coupe Davis comme une compétition de tennis; la phase finale se joue à la fin de la saison de tennis.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter tennis. Tennis de table est un sport différent.",
+      "evidence": [
+        {
+          "url": "https://www.daviscup.com/en/about/format",
+          "locator": "Titre de la page Davis Cup – The World Cup of Tennis et section Davis Cup Finals, ligne 34.",
+          "support": "Le site officiel désigne la Coupe Davis comme une compétition de tennis; la phase finale se joue à la fin de la saison de tennis.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -244,23 +444,56 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 1,
-      "question": "Quel réalisateur américain a réalisé Les Dents de la mer et E.T. l'extra-terrestre ?",
+      "question": "Quel réalisateur a signé Les Dents de la mer et E.T. l’extra-terrestre ?",
       "answer": "Steven Spielberg",
       "fact_id": "spielberg-jaws-et",
       "tested_fact": "spielberg-jaws-et",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Steven Spielberg",
+        "Spielberg"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb42789426k",
+      "secondary_sources": [
+        "https://catalogue.bnf.fr/ark:/12148/cb444622093"
+      ],
+      "corroboration": "Steven Spielberg est indiqué comme réalisateur des Dents de la mer. La sous-notice indique Steven Spielberg comme réalisateur d’E.T. l’extra-terrestre.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel réalisateur américain a réalisé Les Dents de la mer et E.T. l'extra-terrestre ?",
+            "answer": "Steven Spielberg",
+            "fact_id": "spielberg-jaws-et"
+          },
+          "after": {
+            "question": "Quel réalisateur a signé Les Dents de la mer et E.T. l’extra-terrestre ?",
+            "answer": "Steven Spielberg",
+            "fact_id": "spielberg-jaws-et"
+          },
+          "reason": "Concentrer la question sur les deux attributions directement confirmées dans les notices.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Spielberg, prénom facultatif. Le réalisateur des deux films est demandé, non leur compositeur John Williams.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb42789426k",
+          "locator": "Titre(s), ligne 57; production originale de 1975, ligne 66.",
+          "support": "Steven Spielberg est indiqué comme réalisateur des Dents de la mer.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb444622093",
+          "locator": "Sous-notice E T : l’extra-terrestre, lignes 86–91.",
+          "support": "La sous-notice indique Steven Spielberg comme réalisateur d’E.T. l’extra-terrestre.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -274,19 +507,31 @@
       "answer": "Cesária Évora",
       "fact_id": "cesaria-evora-barefoot-diva",
       "tested_fact": "cesaria-evora-barefoot-diva",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Cesária Évora",
+        "Cesaria Evora",
+        "Évora",
+        "Evora"
+      ],
+      "primary_source": "https://philharmoniedeparis.fr/fr/activite/concert/16823-la-diva-aux-pieds-nus",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La Philharmonie désigne Cesaria Evora comme la star capverdienne surnommée la Diva aux pieds nus.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Cesária Évora ou son nom Évora; les accents ne sont pas exigés à l’oral.",
+      "evidence": [
+        {
+          "url": "https://philharmoniedeparis.fr/fr/activite/concert/16823-la-diva-aux-pieds-nus",
+          "locator": "Hommage à Cesaria Evora, paragraphes de présentation, lignes 42–45.",
+          "support": "La Philharmonie désigne Cesaria Evora comme la star capverdienne surnommée la Diva aux pieds nus.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -296,23 +541,49 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 3,
-      "question": "Quel chanteur jamaïcain est associé au groupe The Wailers et au reggae ?",
+      "question": "Quel chanteur est l’auteur de Redemption Song ?",
       "answer": "Bob Marley",
-      "fact_id": "bob-marley-wailers",
-      "tested_fact": "bob-marley-wailers",
-      "accepted_variants": [],
-      "primary_source": null,
+      "fact_id": "bob-marley-auteur-redemption-song",
+      "tested_fact": "bob-marley-auteur-redemption-song",
+      "accepted_variants": [
+        "Bob Marley",
+        "Robert Nesta Marley",
+        "Marley"
+      ],
+      "primary_source": "https://shop.bobmarley.com/pages/blog",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le site officiel de Bob Marley attribue Redemption Song à Bob Marley et décrit l’écriture de cette chanson.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel chanteur jamaïcain est associé au groupe The Wailers et au reggae ?",
+            "answer": "Bob Marley",
+            "fact_id": "bob-marley-wailers"
+          },
+          "after": {
+            "question": "Quel chanteur est l’auteur de Redemption Song ?",
+            "answer": "Bob Marley",
+            "fact_id": "bob-marley-auteur-redemption-song"
+          },
+          "reason": "Le seul chanteur associé aux Wailers et au reggae admettait légitimement plusieurs réponses; attribution d’une œuvre précise.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Bob Marley ou Marley. Peter Tosh et Bunny Wailer furent aussi membres des Wailers; ils ne sont pas les auteurs de cette chanson.",
+      "evidence": [
+        {
+          "url": "https://shop.bobmarley.com/pages/blog",
+          "locator": "The Story Behind the Mesmerizing Redemption Song Video, lignes 27–45.",
+          "support": "Le site officiel de Bob Marley attribue Redemption Song à Bob Marley et décrit l’écriture de cette chanson.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -335,7 +606,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -361,7 +632,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -374,23 +645,47 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 1,
-      "question": "Complétez : « Le bateau navigue sur la ... » avec l'homophone correct.",
+      "question": "Épelez l’homophone de « mère » qui désigne l’ensemble des eaux océaniques.",
       "answer": "Mer",
       "fact_id": "homophone-mer",
       "tested_fact": "homophone-mer",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Mer"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/mer/50562",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Mer désigne l’ensemble des eaux océaniques et a mère parmi ses homonymes.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Complétez : « Le bateau navigue sur la ... » avec l'homophone correct.",
+            "answer": "Mer",
+            "fact_id": "homophone-mer"
+          },
+          "after": {
+            "question": "Épelez l’homophone de « mère » qui désigne l’ensemble des eaux océaniques.",
+            "answer": "Mer",
+            "fact_id": "homophone-mer"
+          },
+          "reason": "La consigne d’épellation et la référence homophonique rendent le mot manquant univoque à l’oral.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger m, e, r, sans accent. La prononciation seule ne distingue pas mer de mère ou maire.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/mer/50562",
+          "locator": "Définition 1, ligne 36, et Homonymes, lignes 139–140.",
+          "support": "Mer désigne l’ensemble des eaux océaniques et a mère parmi ses homonymes.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -400,23 +695,47 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 2,
-      "question": "Complétez : « La ... de l'enfant arrive à l'école » avec l'homophone correct.",
+      "question": "Épelez l’homophone de « mer » qui désigne la maman d’un enfant.",
       "answer": "Mère",
       "fact_id": "homophone-mere",
       "tested_fact": "homophone-mere",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Mère"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/m%C3%A8re/50611",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Mère désigne la femme qui a mis au monde ou adopté un enfant; mer figure parmi ses homonymes.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Complétez : « La ... de l'enfant arrive à l'école » avec l'homophone correct.",
+            "answer": "Mère",
+            "fact_id": "homophone-mere"
+          },
+          "after": {
+            "question": "Épelez l’homophone de « mer » qui désigne la maman d’un enfant.",
+            "answer": "Mère",
+            "fact_id": "homophone-mere"
+          },
+          "reason": "Rendre l’exercice réalisable et arbitrable à l’oral en exigeant l’épellation du mot ciblé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger m, è avec accent grave, r, e. La prononciation seule ne distingue pas les homophones.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/m%C3%A8re/50611",
+          "locator": "Définition 1, ligne 36, et Homonymes, lignes 158–161.",
+          "support": "Mère désigne la femme qui a mis au monde ou adopté un enfant; mer figure parmi ses homonymes.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -426,23 +745,47 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 3,
-      "question": "Complétez : « Le ... dirige la commune » avec l'homophone correct.",
+      "question": "Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.",
       "answer": "Maire",
       "fact_id": "homophone-maire",
       "tested_fact": "homophone-maire",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Maire"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/maire/48713",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Maire désigne le premier magistrat municipal, organe exécutif de la commune; mer et mère sont ses homonymes.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Complétez : « Le ... dirige la commune » avec l'homophone correct.",
+            "answer": "Maire",
+            "fact_id": "homophone-maire"
+          },
+          "after": {
+            "question": "Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.",
+            "answer": "Maire",
+            "fact_id": "homophone-maire"
+          },
+          "reason": "Épellation obligatoire pour distinguer maire, mer et mère lors d’une lecture orale.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger m, a, i, r, e. La prononciation seule ne prouve pas l’orthographe.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/maire/48713",
+          "locator": "Définition, ligne 36, et Homonymes, lignes 53–54.",
+          "support": "Maire désigne le premier magistrat municipal, organe exécutif de la commune; mer et mère sont ses homonymes.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -452,23 +795,47 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 4,
-      "question": "Complétez : « Il ... son sac sur la table » avec le verbe correct.",
+      "question": "Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
       "answer": "Met",
       "fact_id": "homophone-met",
       "tested_fact": "homophone-met",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Met"
+      ],
+      "primary_source": "https://www.larousse.fr/conjugaison/francais/mettre/6126",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La troisième personne du singulier au présent s’écrit il, elle met.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Complétez : « Il ... son sac sur la table » avec le verbe correct.",
+            "answer": "Met",
+            "fact_id": "homophone-met"
+          },
+          "after": {
+            "question": "Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
+            "answer": "Met",
+            "fact_id": "homophone-met"
+          },
+          "reason": "Le verbe mettre est imposé pour exclure pose, dépose ou d’autres verbes sémantiquement possibles; épellation exigée.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger m, e, t. Mets correspond à je ou tu; mais est une conjonction et mes un déterminant. Prononciation seule insuffisante.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/conjugaison/francais/mettre/6126",
+          "locator": "Indicatif présent, ligne 38.",
+          "support": "La troisième personne du singulier au présent s’écrit il, elle met.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -482,19 +849,30 @@
       "answer": "Kofi Annan",
       "fact_id": "kofi-annan-identification",
       "tested_fact": "kofi-annan-identification",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kofi Annan",
+        "Kofi Atta Annan",
+        "Annan"
+      ],
+      "primary_source": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Kofi Annan, né en 1938 à Kumasi au Ghana, reçoit conjointement avec l’ONU le Nobel de la paix en 2001.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Kofi Annan ou Annan. Les dates et la carrière diplomatique discriminent ce lauréat.",
+      "evidence": [
+        {
+          "url": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
+          "locator": "Introduction et Personal Life, lignes 307 et 330.",
+          "support": "Kofi Annan, né en 1938 à Kumasi au Ghana, reçoit conjointement avec l’ONU le Nobel de la paix en 2001.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -504,23 +882,47 @@
       "section_number": 6,
       "section": "CANTONADE 1",
       "number": 2,
-      "question": "Dans quel pays africain est-il né ?",
+      "question": "Dans quel pays actuel se trouve sa ville natale ?",
       "answer": "Ghana",
       "fact_id": "kofi-annan-country",
       "tested_fact": "kofi-annan-country",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ghana"
+      ],
+      "primary_source": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La fondation situe son lieu de naissance, Kumasi, dans l’actuel Ghana.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Dans quel pays africain est-il né ?",
+            "answer": "Ghana",
+            "fact_id": "kofi-annan-country"
+          },
+          "after": {
+            "question": "Dans quel pays actuel se trouve sa ville natale ?",
+            "answer": "Ghana",
+            "fact_id": "kofi-annan-country"
+          },
+          "reason": "Précision du pays actuel: le territoire portait le nom colonial Côte-de-l’Or en 1938.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Ghana; Côte-de-l’Or est le nom colonial historique du territoire, mais la question demande le pays actuel.",
+      "evidence": [
+        {
+          "url": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
+          "locator": "Personal Life, ligne 330.",
+          "support": "La fondation situe son lieu de naissance, Kumasi, dans l’actuel Ghana.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -530,23 +932,51 @@
       "section_number": 6,
       "section": "CANTONADE 1",
       "number": 3,
-      "question": "Quelle organisation internationale dirigea-t-il pendant deux mandats ?",
+      "question": "De quelle organisation internationale fut-il secrétaire général de 1997 à 2006 ?",
       "answer": "ONU",
       "fact_id": "kofi-annan-un",
       "tested_fact": "kofi-annan-un",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "ONU",
+        "Organisation des Nations unies",
+        "Nations unies",
+        "United Nations",
+        "UN"
+      ],
+      "primary_source": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Kofi Annan est secrétaire général des Nations unies de janvier 1997 à décembre 2006.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle organisation internationale dirigea-t-il pendant deux mandats ?",
+            "answer": "ONU",
+            "fact_id": "kofi-annan-un"
+          },
+          "after": {
+            "question": "De quelle organisation internationale fut-il secrétaire général de 1997 à 2006 ?",
+            "answer": "ONU",
+            "fact_id": "kofi-annan-un"
+          },
+          "reason": "Fonction et période exactement corroborées, sans inférer le nombre de mandats du seul intervalle.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter ONU ou Nations unies. OMS correspond à un emploi antérieur, pas à l’organisation dont il fut secrétaire général.",
+      "evidence": [
+        {
+          "url": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
+          "locator": "UN Secretary-General, ligne 319.",
+          "support": "Kofi Annan est secrétaire général des Nations unies de janvier 1997 à décembre 2006.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -560,19 +990,28 @@
       "answer": "2001",
       "fact_id": "kofi-annan-nobel-year",
       "tested_fact": "kofi-annan-nobel-year",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "2001"
+      ],
+      "primary_source": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le Nobel de la paix est attribué conjointement à Kofi Annan et à l’ONU en 2001.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter 2001. L’année du début de son premier mandat, 1997, est un autre fait.",
+      "evidence": [
+        {
+          "url": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
+          "locator": "Introduction, ligne 307.",
+          "support": "Le Nobel de la paix est attribué conjointement à Kofi Annan et à l’ONU en 2001.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -586,19 +1025,29 @@
       "answer": "Kumasi",
       "fact_id": "kofi-annan-kumasi",
       "tested_fact": "kofi-annan-kumasi",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kumasi",
+        "Koumasi"
+      ],
+      "primary_source": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La biographie précise une naissance à Kumasi le 8 avril 1938.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Kumasi ou sa graphie française Koumasi; Accra n’est pas sa ville de naissance.",
+      "evidence": [
+        {
+          "url": "https://www.kofiannanfoundation.org/kofi-annan/biography/",
+          "locator": "Personal Life, ligne 330.",
+          "support": "La biographie précise une naissance à Kumasi le 8 avril 1938.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -612,19 +1061,29 @@
       "answer": "Comparaison",
       "fact_id": "figure-comparison",
       "tested_fact": "figure-comparison",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Comparaison",
+        "Comparaison explicite"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357154/comparaison",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La comparaison établit explicitement une ressemblance et utilise un outil tel que comme.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter comparaison; la présence d’un outil explicite la distingue de la métaphore.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357154/comparaison",
+          "locator": "Définition et notes, lignes 20–23.",
+          "support": "La comparaison établit explicitement une ressemblance et utilise un outil tel que comme.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -634,23 +1093,47 @@
       "section_number": 7,
       "section": "LANGAGE B",
       "number": 2,
-      "question": "Quelle figure de style assimile directement deux éléments sans outil comparatif ?",
+      "question": "Quelle figure de style rapproche deux réalités par ressemblance, sans outil comparatif ?",
       "answer": "Métaphore",
       "fact_id": "figure-metaphor",
       "tested_fact": "figure-metaphor",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Métaphore"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357153/metaphore",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La métaphore établit une ressemblance entre deux réalités sans outil de comparaison.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle figure de style assimile directement deux éléments sans outil comparatif ?",
+            "answer": "Métaphore",
+            "fact_id": "figure-metaphor"
+          },
+          "after": {
+            "question": "Quelle figure de style rapproche deux réalités par ressemblance, sans outil comparatif ?",
+            "answer": "Métaphore",
+            "fact_id": "figure-metaphor"
+          },
+          "reason": "Expliciter la ressemblance constitutive de la métaphore pour la distinguer d’autres substitutions.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter métaphore. La comparaison explicite emploie un outil; la métonymie repose sur un autre type de rapport.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357153/metaphore",
+          "locator": "Définition, ligne 20.",
+          "support": "La métaphore établit une ressemblance entre deux réalités sans outil de comparaison.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -664,19 +1147,28 @@
       "answer": "Personnification",
       "fact_id": "figure-personification",
       "tested_fact": "figure-personification",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Personnification"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/45372/personnification",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La personnification prête des sentiments, des traits ou des comportements humains à une chose inanimée, une abstraction ou un animal.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter personnification. Une allégorie peut prendre une forme personnifiée, mais désigne un procédé symbolique plus large; demander le procédé d’attribution de traits humains.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/45372/personnification",
+          "locator": "Définition, ligne 20.",
+          "support": "La personnification prête des sentiments, des traits ou des comportements humains à une chose inanimée, une abstraction ou un animal.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -690,19 +1182,28 @@
       "answer": "Litote",
       "fact_id": "figure-litote",
       "tested_fact": "figure-litote",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Litote"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357219/litote",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La litote atténue l’expression pour suggérer davantage; la double négation avec un mot de sens contraire en est une forme habituelle.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter litote. L’euphémisme vise d’abord à adoucir une réalité pénible, tandis que la question demande l’atténuation qui renforce ce qui est suggéré.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357219/litote",
+          "locator": "Définition et notes, lignes 19–22.",
+          "support": "La litote atténue l’expression pour suggérer davantage; la double négation avec un mot de sens contraire en est une forme habituelle.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -712,23 +1213,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 1,
-      "question": "Quel scientifique allemand proposa au début du XXe siècle la théorie de la dérive des continents ?",
+      "question": "Quel scientifique proposa en 1912 la théorie de la dérive des continents ?",
       "answer": "Alfred Wegener",
       "fact_id": "wegener-continental-drift",
       "tested_fact": "wegener-continental-drift",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Alfred Wegener",
+        "Wegener"
+      ],
+      "primary_source": "https://www.usgs.gov/educational-resources/wegeners-puzzling-continental-drift-evidence",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Alfred Wegener présente les preuves de la dérive des continents et utilise ce terme en 1912.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel scientifique allemand proposa au début du XXe siècle la théorie de la dérive des continents ?",
+            "answer": "Alfred Wegener",
+            "fact_id": "wegener-continental-drift"
+          },
+          "after": {
+            "question": "Quel scientifique proposa en 1912 la théorie de la dérive des continents ?",
+            "answer": "Alfred Wegener",
+            "fact_id": "wegener-continental-drift"
+          },
+          "reason": "Date historique précise et attribution directement corroborées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Wegener, prénom facultatif. La question porte sur la dérive des continents de 1912, non sur les développements ultérieurs de la tectonique des plaques.",
+      "evidence": [
+        {
+          "url": "https://www.usgs.gov/educational-resources/wegeners-puzzling-continental-drift-evidence",
+          "locator": "Introduction, lignes 21–23; contexte pédagogique, ligne 49.",
+          "support": "Alfred Wegener présente les preuves de la dérive des continents et utilise ce terme en 1912.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -738,23 +1264,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 2,
-      "question": "Quel physicien anglais est associé à la découverte de l'induction électromagnétique en 1831 ?",
+      "question": "Quel physicien découvrit l’induction électromagnétique en 1831 ?",
       "answer": "Michael Faraday",
       "fact_id": "faraday-electromagnetic-induction",
       "tested_fact": "faraday-electromagnetic-induction",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Michael Faraday",
+        "Faraday"
+      ],
+      "primary_source": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-generator",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La Royal Institution attribue à Michael Faraday la découverte de l’induction électromagnétique en août 1831.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel physicien anglais est associé à la découverte de l'induction électromagnétique en 1831 ?",
+            "answer": "Michael Faraday",
+            "fact_id": "faraday-electromagnetic-induction"
+          },
+          "after": {
+            "question": "Quel physicien découvrit l’induction électromagnétique en 1831 ?",
+            "answer": "Michael Faraday",
+            "fact_id": "faraday-electromagnetic-induction"
+          },
+          "reason": "Limiter l’énoncé au fait prouvé par la notice de l’institution où la découverte fut réalisée.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Faraday. Ne pas confondre cette découverte avec les lois de l’électrolyse, autre contribution du même savant.",
+      "evidence": [
+        {
+          "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-generator",
+          "locator": "Description de l’appareil, lignes 35–38.",
+          "support": "La Royal Institution attribue à Michael Faraday la découverte de l’induction électromagnétique en août 1831.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -777,7 +1328,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -794,19 +1345,31 @@
       "answer": "m/s²",
       "fact_id": "si-acceleration-unit",
       "tested_fact": "si-acceleration-unit",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "m/s²",
+        "mètre par seconde carrée",
+        "Mètres par seconde carrée",
+        "m·s⁻²"
+      ],
+      "primary_source": "https://www.nist.gov/pml/owm/metric-si/si-units",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le NIST donne l’accélération en mètre par seconde carrée, m/s², parmi les unités dérivées.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter mètre par seconde carrée ou une écriture équivalente de m/s². Mètre par seconde sans carré exprime une vitesse, non une accélération.",
+      "evidence": [
+        {
+          "url": "https://www.nist.gov/pml/owm/metric-si/si-units",
+          "locator": "Base and Derived Units, paragraphe sur les unités dérivées sans nom spécial, ligne 232.",
+          "support": "Le NIST donne l’accélération en mètre par seconde carrée, m/s², parmi les unités dérivées.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -820,19 +1383,29 @@
       "answer": "Diamant",
       "fact_id": "diamond-mohs-10",
       "tested_fact": "diamond-mohs-10",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Diamant",
+        "Le diamant"
+      ],
+      "primary_source": "https://4cs.gia.edu/en-us/blog/mohs-scale/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le diamant occupe le rang 10, le plus élevé de l’échelle de Mohs, échelle de résistance à la rayure.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter diamant. La dureté de Mohs concerne la rayure, non la résistance à tous les chocs; ne pas qualifier le diamant d’incassable.",
+      "evidence": [
+        {
+          "url": "https://4cs.gia.edu/en-us/blog/mohs-scale/",
+          "locator": "Mohs Scale – Gem and Mineral Hardness, lignes 134–137.",
+          "support": "Le diamant occupe le rang 10, le plus élevé de l’échelle de Mohs, échelle de résistance à la rayure.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -855,7 +1428,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -881,7 +1454,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -907,7 +1480,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -933,7 +1506,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -959,7 +1532,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -985,7 +1558,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1011,7 +1584,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1037,7 +1610,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1063,7 +1636,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1089,7 +1662,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1102,23 +1675,48 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 1,
-      "question": "Quelle est la capitale du Cameroun ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Cameroun ?",
       "answer": "Yaoundé",
       "fact_id": "cameroon-capital",
       "tested_fact": "cameroon-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Yaoundé",
+        "Yaounde"
+      ],
+      "primary_source": "https://pap.au.int/fr/node/189",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Cameroun à la capitale Yaoundé.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Cameroun ?",
+            "answer": "Yaoundé",
+            "fact_id": "cameroon-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Cameroun ?",
+            "answer": "Yaoundé",
+            "fact_id": "cameroon-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Yaoundé et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://pap.au.int/fr/node/189",
+          "locator": "Tableau des États membres, ligne Cameroun, ligne 37.",
+          "support": "Le tableau associe explicitement Cameroun à la capitale Yaoundé.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1141,7 +1739,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1167,7 +1765,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1180,23 +1778,49 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 4,
-      "question": "Quel pays a Bangkok pour capitale ?",
+      "question": "Au 18 octobre 2026, quel pays a Bangkok pour capitale ?",
       "answer": "Thaïlande",
       "fact_id": "bangkok-country",
       "tested_fact": "bangkok-country",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Thaïlande",
+        "Thailande",
+        "Thailand"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Bangkok figure comme capitale de la Thaïlande.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel pays a Bangkok pour capitale ?",
+            "answer": "Thaïlande",
+            "fact_id": "bangkok-country"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel pays a Bangkok pour capitale ?",
+            "answer": "Thaïlande",
+            "fact_id": "bangkok-country"
+          },
+          "reason": "Date du fait géopolitique précisée.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Thaïlande; Bangkok est la ville donnée, non le pays demandé.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Bangkok–Thailand, ligne 76.",
+          "support": "Bangkok figure comme capitale de la Thaïlande.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1219,7 +1843,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1245,7 +1869,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1271,7 +1895,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1284,23 +1908,49 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 8,
-      "question": "Quelle est la racine carrée de 81 ?",
-      "answer": "9",
-      "fact_id": "sqrt-81",
-      "tested_fact": "sqrt-81",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Comment qualifie-t-on un nombre entier naturel divisible par deux ?",
+      "answer": "Pair",
+      "fact_id": "arithmetique-entier-naturel-pair-divisible-deux",
+      "tested_fact": "arithmetique-entier-naturel-pair-divisible-deux",
+      "accepted_variants": [
+        "Pair",
+        "Nombre pair",
+        "Entier pair"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/pair/57280",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Pair se dit d’un entier naturel divisible par deux.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la racine carrée de 81 ?",
+            "answer": "9",
+            "fact_id": "sqrt-81"
+          },
+          "after": {
+            "question": "Comment qualifie-t-on un nombre entier naturel divisible par deux ?",
+            "answer": "Pair",
+            "fact_id": "arithmetique-entier-naturel-pair-divisible-deux"
+          },
+          "reason": "Remplacer l’exercice de racine carrée, répété avec d’autres nombres aux matchs 11 et 20, par une définition absente du corpus.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter pair ou nombre pair; zéro est également pair. Premier ne répond pas à la propriété demandée.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/pair/57280",
+          "locator": "Définition 1, ligne 33.",
+          "support": "Pair se dit d’un entier naturel divisible par deux.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1323,7 +1973,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1349,7 +1999,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1375,7 +2025,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1401,7 +2051,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1427,7 +2077,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1453,7 +2103,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1479,7 +2129,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1492,23 +2142,49 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 1,
-      "question": "Quel écrivain français est l'auteur du roman Germinal ?",
+      "question": "Quel écrivain est l’auteur du roman Germinal ?",
       "answer": "Émile Zola",
       "fact_id": "zola-germinal",
       "tested_fact": "zola-germinal",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Émile Zola",
+        "Emile Zola",
+        "Zola"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb31690683k",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice associe explicitement Germinal à Émile Zola.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain français est l'auteur du roman Germinal ?",
+            "answer": "Émile Zola",
+            "fact_id": "zola-germinal"
+          },
+          "after": {
+            "question": "Quel écrivain est l’auteur du roman Germinal ?",
+            "answer": "Émile Zola",
+            "fact_id": "zola-germinal"
+          },
+          "reason": "Concentrer l’énoncé sur l’attribution exacte de l’œuvre; correction de la tournure de Les Soleils.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Émile Zola et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb31690683k",
+          "locator": "Auteur et titre, lignes 57–61.",
+          "support": "La notice associe explicitement Germinal à Émile Zola.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1518,23 +2194,48 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 2,
-      "question": "Quel peintre néerlandais a réalisé La Ronde de nuit ?",
+      "question": "Quel peintre a réalisé La Ronde de nuit ?",
       "answer": "Rembrandt",
       "fact_id": "rembrandt-night-watch",
       "tested_fact": "rembrandt-night-watch",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Rembrandt",
+        "Rembrandt van Rijn"
+      ],
+      "primary_source": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice associe explicitement La Ronde de nuit à Rembrandt. Night Watch est le titre anglais du tableau appelé La Ronde de nuit en français.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel peintre néerlandais a réalisé La Ronde de nuit ?",
+            "answer": "Rembrandt",
+            "fact_id": "rembrandt-night-watch"
+          },
+          "after": {
+            "question": "Quel peintre a réalisé La Ronde de nuit ?",
+            "answer": "Rembrandt",
+            "fact_id": "rembrandt-night-watch"
+          },
+          "reason": "Concentrer l’énoncé sur l’attribution exacte de l’œuvre; correction de la tournure de Les Soleils.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Rembrandt et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
+          "locator": "Présentation et légende Night Watch, lignes 8 et 17.",
+          "support": "La notice associe explicitement La Ronde de nuit à Rembrandt. Night Watch est le titre anglais du tableau appelé La Ronde de nuit en français.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1544,23 +2245,48 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 3,
-      "question": "Quelle écrivaine sénégalaise est l'auteure d'Une si longue lettre ?",
+      "question": "Quelle écrivaine est l’auteure d’Une si longue lettre ?",
       "answer": "Mariama Bâ",
       "fact_id": "mariama-ba-long-letter",
       "tested_fact": "mariama-ba-long-letter",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Mariama Bâ",
+        "Mariama Ba"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb473155629",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice associe explicitement Une si longue lettre à Mariama Bâ.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle écrivaine sénégalaise est l'auteure d'Une si longue lettre ?",
+            "answer": "Mariama Bâ",
+            "fact_id": "mariama-ba-long-letter"
+          },
+          "after": {
+            "question": "Quelle écrivaine est l’auteure d’Une si longue lettre ?",
+            "answer": "Mariama Bâ",
+            "fact_id": "mariama-ba-long-letter"
+          },
+          "reason": "Concentrer l’énoncé sur l’attribution exacte de l’œuvre; correction de la tournure de Les Soleils.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Mariama Bâ et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb473155629",
+          "locator": "Auteur et titre, lignes 57–59.",
+          "support": "La notice associe explicitement Une si longue lettre à Mariama Bâ.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1570,23 +2296,48 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 4,
-      "question": "Quel écrivain ivoirien est l'auteur de Les Soleils des indépendances ?",
+      "question": "Quel écrivain est l’auteur du roman Les Soleils des indépendances ?",
       "answer": "Ahmadou Kourouma",
       "fact_id": "kourouma-soleils-independances",
       "tested_fact": "kourouma-soleils-independances",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ahmadou Kourouma",
+        "Kourouma"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb35103128m",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice associe explicitement Les Soleils des indépendances à Ahmadou Kourouma.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain ivoirien est l'auteur de Les Soleils des indépendances ?",
+            "answer": "Ahmadou Kourouma",
+            "fact_id": "kourouma-soleils-independances"
+          },
+          "after": {
+            "question": "Quel écrivain est l’auteur du roman Les Soleils des indépendances ?",
+            "answer": "Ahmadou Kourouma",
+            "fact_id": "kourouma-soleils-independances"
+          },
+          "reason": "Concentrer l’énoncé sur l’attribution exacte de l’œuvre; correction de la tournure de Les Soleils.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Ahmadou Kourouma et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb35103128m",
+          "locator": "Auteur et titre, lignes 55–59.",
+          "support": "La notice associe explicitement Les Soleils des indépendances à Ahmadou Kourouma.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1609,7 +2360,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1635,7 +2386,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1661,7 +2412,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1687,7 +2438,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1713,7 +2464,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1739,7 +2490,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1765,7 +2516,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1791,7 +2542,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1817,7 +2568,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1843,7 +2594,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1856,23 +2607,49 @@
       "section_number": 16,
       "section": "CANTONADE 2",
       "number": 1,
-      "question": "Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?",
+      "question": "Quelle aviatrice américaine, née en 1897 à Atchison au Kansas, fut une pionnière du vol féminin ?",
       "answer": "Amelia Earhart",
       "fact_id": "amelia-earhart-identification",
       "tested_fact": "amelia-earhart-identification",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Amelia Earhart",
+        "Amelia Mary Earhart",
+        "Earhart"
+      ],
+      "primary_source": "https://collections.lib.purdue.edu/aearhart/biography.php",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Amelia Mary Earhart naît le 24 juillet 1897 à Atchison, au Kansas.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?",
+            "answer": "Amelia Earhart",
+            "fact_id": "amelia-earhart-identification"
+          },
+          "after": {
+            "question": "Quelle aviatrice américaine, née en 1897 à Atchison au Kansas, fut une pionnière du vol féminin ?",
+            "answer": "Amelia Earhart",
+            "fact_id": "amelia-earhart-identification"
+          },
+          "reason": "La seule aviatrice disparue lors d’une expédition ne constituait pas un discriminant unique; ajouter des éléments biographiques sans divulguer les réponses suivantes.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Amelia Earhart ou Earhart. Le lieu et l’année de naissance discriminent l’aviatrice sans révéler l’océan, l’avion, l’île ou l’année demandés ensuite.",
+      "evidence": [
+        {
+          "url": "https://collections.lib.purdue.edu/aearhart/biography.php",
+          "locator": "Amelia Earhart biography, premier paragraphe, ligne 10.",
+          "support": "Amelia Mary Earhart naît le 24 juillet 1897 à Atchison, au Kansas.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1886,19 +2663,30 @@
       "answer": "Océan Atlantique",
       "fact_id": "earhart-solo-atlantic",
       "tested_fact": "earhart-solo-atlantic",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Océan Atlantique",
+        "Atlantique",
+        "Atlantique Nord"
+      ],
+      "primary_source": "https://collections.lib.purdue.edu/aearhart/biography.php",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "En mai 1932, elle devient la première femme à traverser seule l’Atlantique en avion.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Atlantique ou Atlantique Nord. Le vol en solitaire entre Hawaï et le continent américain eut lieu en 1935, non en 1932.",
+      "evidence": [
+        {
+          "url": "https://collections.lib.purdue.edu/aearhart/biography.php",
+          "locator": "Paragraphe du vol de mai 1932, ligne 23.",
+          "support": "En mai 1932, elle devient la première femme à traverser seule l’Atlantique en avion.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1908,23 +2696,51 @@
       "section_number": 16,
       "section": "CANTONADE 2",
       "number": 3,
-      "question": "Quel modèle d'avion bimoteur utilisait-elle lors de sa tentative de tour du monde en 1937 ?",
+      "question": "Quel modèle d’avion utilisait-elle lors de sa dernière tentative de tour du monde ?",
       "answer": "Lockheed Electra 10E",
       "fact_id": "earhart-lockheed-electra",
       "tested_fact": "earhart-lockheed-electra",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Lockheed Electra 10E",
+        "Lockheed 10-E Electra",
+        "Electra 10E",
+        "Lockheed Electra",
+        "Electra"
+      ],
+      "primary_source": "https://stories.purdue.edu/amelia-earhart-aviator-legend-boilermaker/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Elle achète en 1936 un Lockheed Electra 10E pour ses vols de longue distance; l’article relie cet appareil à sa tentative de tour du monde.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel modèle d'avion bimoteur utilisait-elle lors de sa tentative de tour du monde en 1937 ?",
+            "answer": "Lockheed Electra 10E",
+            "fact_id": "earhart-lockheed-electra"
+          },
+          "after": {
+            "question": "Quel modèle d’avion utilisait-elle lors de sa dernière tentative de tour du monde ?",
+            "answer": "Lockheed Electra 10E",
+            "fact_id": "earhart-lockheed-electra"
+          },
+          "reason": "Supprimer l’année qui dévoilait la réponse de Q5; rendre le niveau de précision attendu explicite.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Lockheed Electra ou Electra; la précision 10E est souhaitable mais le modèle Electra suffit au Niveau 1. Lockheed seul est le constructeur et demande une précision.",
+      "evidence": [
+        {
+          "url": "https://stories.purdue.edu/amelia-earhart-aviator-legend-boilermaker/",
+          "locator": "Notice de Purdue, paragraphe sur l’achat de l’avion, ligne 75 et photographie de mars 1937, ligne 77.",
+          "support": "Elle achète en 1936 un Lockheed Electra 10E pour ses vols de longue distance; l’article relie cet appareil à sa tentative de tour du monde.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1934,23 +2750,63 @@
       "section_number": 16,
       "section": "CANTONADE 2",
       "number": 4,
-      "question": "Près de quelle petite île du Pacifique son avion disparut-il ?",
+      "question": "Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio lors de son dernier vol ?",
       "answer": "Howland",
       "fact_id": "earhart-howland-island",
       "tested_fact": "earhart-howland-island",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Howland",
+        "Île Howland",
+        "Howland Island"
+      ],
+      "primary_source": "https://collections.lib.purdue.edu/aearhart/biography.php",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Earhart et Fred Noonan quittent Lae pour Howland Island et perdent le contact radio le 2 juillet 1937.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Près de quelle petite île du Pacifique son avion disparut-il ?",
+            "answer": "Howland",
+            "fact_id": "earhart-howland-island"
+          },
+          "after": {
+            "question": "Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio le 2 juillet 1937 ?",
+            "answer": "Howland",
+            "fact_id": "earhart-howland-island"
+          },
+          "reason": "La destination est établie; le lieu exact de disparition ou de crash demeure inconnu et ne doit pas être affirmé.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio le 2 juillet 1937 ?",
+            "answer": "Howland",
+            "fact_id": "earhart-howland-island"
+          },
+          "after": {
+            "question": "Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio lors de son dernier vol ?",
+            "answer": "Howland",
+            "fact_id": "earhart-howland-island"
+          },
+          "reason": "Retirer l’année donnée dans Q4, qui révélait directement la réponse de Q5.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Howland. Nikumaroro est lié à une hypothèse sur son sort, non à la destination documentée du vol.",
+      "evidence": [
+        {
+          "url": "https://collections.lib.purdue.edu/aearhart/biography.php",
+          "locator": "Dernier vol, ligne 30.",
+          "support": "Earhart et Fred Noonan quittent Lae pour Howland Island et perdent le contact radio le 2 juillet 1937.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1964,19 +2820,28 @@
       "answer": "1937",
       "fact_id": "earhart-disappeared-1937",
       "tested_fact": "earhart-disappeared-1937",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "1937"
+      ],
+      "primary_source": "https://collections.lib.purdue.edu/aearhart/biography.php",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La disparition date de juillet 1937; 1939 est seulement l’année de la déclaration légale de décès.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter 1937. Refuser 1939: la déclaration légale de décès est un événement postérieur.",
+      "evidence": [
+        {
+          "url": "https://collections.lib.purdue.edu/aearhart/biography.php",
+          "locator": "Perte du contact radio le 2 juillet 1937 et déclaration légale de décès en 1939, lignes 30–31.",
+          "support": "La disparition date de juillet 1937; 1939 est seulement l’année de la déclaration légale de décès.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1986,23 +2851,48 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 1,
-      "question": "Quelle est la capitale du Népal ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Népal ?",
       "answer": "Katmandou",
       "fact_id": "nepal-capital",
       "tested_fact": "nepal-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Katmandou",
+        "Kathmandu"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Népal à la capitale Katmandou.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Népal ?",
+            "answer": "Katmandou",
+            "fact_id": "nepal-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Népal ?",
+            "answer": "Katmandou",
+            "fact_id": "nepal-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Katmandou et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Kathmandu, ligne 92.",
+          "support": "Le tableau associe explicitement Népal à la capitale Katmandou.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2012,23 +2902,47 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 2,
-      "question": "Quelle est la capitale du Laos ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Laos ?",
       "answer": "Vientiane",
       "fact_id": "laos-capital",
       "tested_fact": "laos-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Vientiane"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Laos à la capitale Vientiane.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Laos ?",
+            "answer": "Vientiane",
+            "fact_id": "laos-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Laos ?",
+            "answer": "Vientiane",
+            "fact_id": "laos-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Vientiane et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Vientiane, ligne 116.",
+          "support": "Le tableau associe explicitement Laos à la capitale Vientiane.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2038,23 +2952,47 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 3,
-      "question": "Quelle est la capitale du Cambodge ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Cambodge ?",
       "answer": "Phnom Penh",
       "fact_id": "cambodia-capital",
       "tested_fact": "cambodia-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Phnom Penh"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Cambodge à la capitale Phnom Penh.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Cambodge ?",
+            "answer": "Phnom Penh",
+            "fact_id": "cambodia-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Cambodge ?",
+            "answer": "Phnom Penh",
+            "fact_id": "cambodia-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Phnom Penh et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Phnom Penh, ligne 103.",
+          "support": "Le tableau associe explicitement Cambodge à la capitale Phnom Penh.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2064,23 +3002,48 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 4,
-      "question": "Quelle est la capitale des Philippines ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale des Philippines ?",
       "answer": "Manille",
       "fact_id": "philippines-capital",
       "tested_fact": "philippines-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Manille",
+        "Manila"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le tableau associe explicitement Philippines à la capitale Manille.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale des Philippines ?",
+            "answer": "Manille",
+            "fact_id": "philippines-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale des Philippines ?",
+            "answer": "Manille",
+            "fact_id": "philippines-capital"
+          },
+          "reason": "Date de référence alignée sur la consultation et graphies locales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Manille et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Manila, ligne 98.",
+          "support": "Le tableau associe explicitement Philippines à la capitale Manille.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2103,7 +3066,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2116,23 +3079,48 @@
       "section_number": 18,
       "section": "MYTHOLOGIE ET RELIGION",
       "number": 2,
-      "question": "Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?",
-      "answer": "Rê",
-      "fact_id": "ra-sun-god",
-      "tested_fact": "ra-sun-god",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?",
+      "answer": "Hathor",
+      "fact_id": "hathor-musique-amour-forme-vache-cornes",
+      "tested_fact": "hathor-musique-amour-forme-vache-cornes",
+      "accepted_variants": [
+        "Hathor",
+        "Hator"
+      ],
+      "primary_source": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Hathor est parfois représentée comme une vache ou avec cornes et oreilles de vache; elle est associée à la joie, à la musique et à l’amour.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?",
+            "answer": "Rê",
+            "fact_id": "ra-sun-god"
+          },
+          "after": {
+            "question": "Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?",
+            "answer": "Hathor",
+            "fact_id": "hathor-musique-amour-forme-vache-cornes"
+          },
+          "reason": "Remplacer l’identification peu discriminante du dieu solaire Rê, déjà demandé au match 28, par une autre divinité absente du corpus.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Hathor ou Hator. Isis peut aussi porter une couronne à cornes dans certaines représentations, mais la combinaison musique, amour et forme de vache vise ici Hathor.",
+      "evidence": [
+        {
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf",
+          "locator": "Glossaire, page imprimée 129, entrée Hathor, lignes 2687–2689.",
+          "support": "Hathor est parfois représentée comme une vache ou avec cornes et oreilles de vache; elle est associée à la joie, à la musique et à l’amour.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2155,7 +3143,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2181,7 +3169,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2207,7 +3195,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2220,23 +3208,76 @@
       "section_number": 19,
       "section": "IDENTIFICATION",
       "number": 1,
-      "question": "40 points : Je suis né en 1946 à Ginsberg, en Afrique du Sud. 30 points : J'ai contribué au mouvement de la Conscience noire. 20 points : Je suis mort en détention policière en 1977. 10 points : Mon prénom est Steve. Qui suis-je ?",
+      "question": "40 points : En 1966, j’ai entrepris des études de médecine à l’université du Natal. 30 points : Je suis une figure majeure du mouvement sud-africain de la Conscience noire. 20 points : Je suis mort en détention policière à Pretoria en 1977. 10 points : Mes écrits sont réunis dans I Write What I Like. Qui suis-je ?",
       "answer": "Steve Biko",
       "fact_id": "steve-biko-identification",
       "tested_fact": "steve-biko-identification",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Steve Biko",
+        "Stephen Bantu Biko",
+        "Bantu Stephen Biko",
+        "Biko"
+      ],
+      "primary_source": "https://www.cambridge.org/core/books/abs/we-write-what-we-like/timeline-of-steve-bikos-life/EBBC4AC6E840DDD8CA49CABAE58F8C19",
+      "secondary_sources": [
+        "https://sahistory.org.za/people/stephen-bantu-biko",
+        "https://sahistory.org.za/people/stephen-bantu-biko",
+        "https://press.uchicago.edu/ucp/books/book/chicago/I/bo3632310.html/"
+      ],
+      "corroboration": "Biko commence ses études de médecine à l’université du Natal, section Non-European de Wentworth à Durban, en 1966. Biko est une figure majeure du mouvement de la Conscience noire et participe à son développement. Biko meurt le 12 septembre 1977 en détention policière, à Pretoria. I Write What I Like est un recueil des écrits de Steve Biko; le titre et l’auteur sont explicitement associés par l’éditeur universitaire.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "40 points : Je suis né en 1946 à Ginsberg, en Afrique du Sud. 30 points : J'ai contribué au mouvement de la Conscience noire. 20 points : Je suis mort en détention policière en 1977. 10 points : Mon prénom est Steve. Qui suis-je ?",
+            "answer": "Steve Biko",
+            "fact_id": "steve-biko-identification"
+          },
+          "after": {
+            "question": "40 points : En 1966, j’ai entrepris des études de médecine à l’université du Natal. 30 points : Je suis une figure majeure du mouvement sud-africain de la Conscience noire. 20 points : Je suis mort en détention policière à Pretoria en 1977. 10 points : Mes écrits sont réunis dans I Write What I Like. Qui suis-je ?",
+            "answer": "Steve Biko",
+            "fact_id": "steve-biko-identification"
+          },
+          "reason": "Remplacer le lieu de naissance incertain et l’indice qui donnait Steve. Les sources consultées divergent entre Tarkastad, Tylden et King William’s Town; la naissance à Ginsberg ne peut être certifiée. Études de 1966 recoupées dans la biographie SAHO.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Steve Biko ou Biko. Les quatre indices sont documentés séparément; le dernier donne un ouvrage discriminant sans révéler littéralement son prénom.",
+      "evidence": [
+        {
+          "points": 40,
+          "url": "https://www.cambridge.org/core/books/abs/we-write-what-we-like/timeline-of-steve-bikos-life/EBBC4AC6E840DDD8CA49CABAE58F8C19",
+          "locator": "Timeline of Steve Biko’s life, année 1966, lignes 492–494.",
+          "support": "Biko commence ses études de médecine à l’université du Natal, section Non-European de Wentworth à Durban, en 1966.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "points": 30,
+          "url": "https://sahistory.org.za/people/stephen-bantu-biko",
+          "locator": "Introduction, lignes 64–71.",
+          "support": "Biko est une figure majeure du mouvement de la Conscience noire et participe à son développement.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "points": 20,
+          "url": "https://sahistory.org.za/people/stephen-bantu-biko",
+          "locator": "Biographie, décès en cellule ligne 305 et synthèse ligne 468.",
+          "support": "Biko meurt le 12 septembre 1977 en détention policière, à Pretoria.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "points": 10,
+          "url": "https://press.uchicago.edu/ucp/books/book/chicago/I/bo3632310.html/",
+          "locator": "Titre, auteur et présentation du recueil, lignes 65–90.",
+          "support": "I Write What I Like est un recueil des écrits de Steve Biko; le titre et l’auteur sont explicitement associés par l’éditeur universitaire.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2259,7 +3300,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2285,7 +3326,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2311,7 +3352,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2337,7 +3378,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2363,7 +3404,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2389,7 +3430,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2415,7 +3456,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2441,7 +3482,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2454,23 +3495,49 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 9,
-      "question": "Comment appelle-t-on un polygone à cinq côtés ?",
-      "answer": "Pentagone",
-      "fact_id": "pentagon-five-sides",
-      "tested_fact": "pentagon-five-sides",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?",
+      "answer": "Bissectrice",
+      "fact_id": "geometrie-bissectrice-angle-deux-angles-egaux",
+      "tested_fact": "geometrie-bissectrice-angle-deux-angles-egaux",
+      "accepted_variants": [
+        "Bissectrice",
+        "La bissectrice",
+        "Bissectrice de l’angle"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/college/bissecteur/4649",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La bissectrice est la demi-droite issue du sommet d’un angle qui le divise en deux angles égaux.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Comment appelle-t-on un polygone à cinq côtés ?",
+            "answer": "Pentagone",
+            "fact_id": "pentagon-five-sides"
+          },
+          "after": {
+            "question": "Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?",
+            "answer": "Bissectrice",
+            "fact_id": "geometrie-bissectrice-angle-deux-angles-egaux"
+          },
+          "reason": "Remplacer le dénombrement des côtés d’un pentagone, même famille d’exercices polygonaux avec nombres modifiés dans plusieurs matchs.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter bissectrice. La médiatrice partage un segment perpendiculairement et ne répond pas à l’angle demandé.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/college/bissecteur/4649",
+          "locator": "Bissectrice, définition, ligne 28.",
+          "support": "La bissectrice est la demi-droite issue du sommet d’un angle qui le divise en deux angles égaux.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2493,7 +3560,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],

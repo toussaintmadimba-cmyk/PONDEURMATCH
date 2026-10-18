@@ -8,32 +8,32 @@
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de la Tanzanie ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de la Tanzanie ?
 **R.** Dodoma
 
-**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal en Zambie ?
+**Q2.** Au 18 octobre 2026, quelle est la monnaie nationale de la Zambie ?
 **R.** Kwacha zambien
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de la Mongolie ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de la Mongolie ?
 **R.** Oulan-Bator
 
-**Q2.** Au 6 octobre 2026, quel sommet constitue le point culminant du Maroc ?
+**Q2.** Quel sommet du Haut Atlas est le point culminant du Maroc ?
 **R.** Toubkal
 
 ## 3. SPORTS ET JEUX
 
-**Q1.** Quelle joueuse américaine a remporté 23 titres du Grand Chelem en simple à l'ère Open ?
+**Q1.** Quelle joueuse américaine comptait 23 titres du Grand Chelem en simple à l’issue de l’US Open 2022 ?
 **R.** Serena Williams
 
-**Q2.** Quel club espagnol joue ses matchs à domicile au stade Santiago-Bernabéu ?
+**Q2.** Quel club inaugura en 1947 le stade qui porte depuis 1955 le nom de Santiago-Bernabéu ?
 **R.** Real Madrid
 
 **Q3.** Quelle sélection a remporté la Coupe du monde masculine de football 2014 ?
 **R.** Allemagne
 
-**Q4.** Quel sport collectif oppose deux équipes de sept joueurs sur le terrain et se joue principalement à la main ?
+**Q4.** Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
 **R.** Handball
 
 **Q5.** Dans quel sport se dispute la Coupe Davis ?
@@ -41,13 +41,13 @@
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quel réalisateur américain a réalisé Les Dents de la mer et E.T. l'extra-terrestre ?
+**Q1.** Quel réalisateur a signé Les Dents de la mer et E.T. l’extra-terrestre ?
 **R.** Steven Spielberg
 
 **Q2.** Quelle chanteuse capverdienne était surnommée la « Diva aux pieds nus » ?
 **R.** Cesária Évora
 
-**Q3.** Quel chanteur jamaïcain est associé au groupe The Wailers et au reggae ?
+**Q3.** Quel chanteur est l’auteur de Redemption Song ?
 **R.** Bob Marley
 
 **Q4.** Quel type de voix féminine est généralement le plus aigu en musique classique ?
@@ -60,16 +60,16 @@
 
 **THÈME : HOMOPHONES COURANTS**
 
-**Q1.** Complétez : « Le bateau navigue sur la ... » avec l'homophone correct.
+**Q1.** Épelez l’homophone de « mère » qui désigne l’ensemble des eaux océaniques.
 **R.** Mer
 
-**Q2.** Complétez : « La ... de l'enfant arrive à l'école » avec l'homophone correct.
+**Q2.** Épelez l’homophone de « mer » qui désigne la maman d’un enfant.
 **R.** Mère
 
-**Q3.** Complétez : « Le ... dirige la commune » avec l'homophone correct.
+**Q3.** Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.
 **R.** Maire
 
-**Q4.** Complétez : « Il ... son sac sur la table » avec le verbe correct.
+**Q4.** Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
 **R.** Met
 
 ## 6. CANTONADE 1
@@ -77,10 +77,10 @@
 **Q1.** Quel diplomate africain né en 1938, défenseur du multilatéralisme, fut distingué par le prix Nobel de la paix ?
 **R.** Kofi Annan
 
-**Q2.** Dans quel pays africain est-il né ?
+**Q2.** Dans quel pays actuel se trouve sa ville natale ?
 **R.** Ghana
 
-**Q3.** Quelle organisation internationale dirigea-t-il pendant deux mandats ?
+**Q3.** De quelle organisation internationale fut-il secrétaire général de 1997 à 2006 ?
 **R.** ONU
 
 **Q4.** En quelle année reçut-il le prix Nobel de la paix avec l'ONU ?
@@ -96,7 +96,7 @@
 **Q1.** Quelle figure de style rapproche explicitement deux éléments à l'aide d'un outil comme « comme » ?
 **R.** Comparaison
 
-**Q2.** Quelle figure de style assimile directement deux éléments sans outil comparatif ?
+**Q2.** Quelle figure de style rapproche deux réalités par ressemblance, sans outil comparatif ?
 **R.** Métaphore
 
 **Q3.** Quelle figure de style attribue des caractéristiques humaines à un objet ou à un animal ?
@@ -107,10 +107,10 @@
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Q1.** Quel scientifique allemand proposa au début du XXe siècle la théorie de la dérive des continents ?
+**Q1.** Quel scientifique proposa en 1912 la théorie de la dérive des continents ?
 **R.** Alfred Wegener
 
-**Q2.** Quel physicien anglais est associé à la découverte de l'induction électromagnétique en 1831 ?
+**Q2.** Quel physicien découvrit l’induction électromagnétique en 1831 ?
 **R.** Michael Faraday
 
 **Q3.** Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?
@@ -160,7 +160,7 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle est la capitale du Cameroun ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale du Cameroun ?
 **R.** Yaoundé
 
 **Q2.** Quel écrivain anglais est l'auteur d'Oliver Twist ?
@@ -169,7 +169,7 @@
 **Q3.** Quel est le plus haut sommet d'Amérique du Sud ?
 **R.** Aconcagua
 
-**Q4.** Quel pays a Bangkok pour capitale ?
+**Q4.** Au 18 octobre 2026, quel pays a Bangkok pour capitale ?
 **R.** Thaïlande
 
 **Q5.** Quel peintre français est associé à la série des Nymphéas ?
@@ -181,8 +181,8 @@
 **Q7.** Quel pays a Athènes pour capitale ?
 **R.** Grèce
 
-**Q8.** Quelle est la racine carrée de 81 ?
-**R.** 9
+**Q8.** Comment qualifie-t-on un nombre entier naturel divisible par deux ?
+**R.** Pair
 
 **Q9.** Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?
 **R.** Dioxyde de carbone
@@ -211,16 +211,16 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain français est l'auteur du roman Germinal ?
+**Q1.** Quel écrivain est l’auteur du roman Germinal ?
 **R.** Émile Zola
 
-**Q2.** Quel peintre néerlandais a réalisé La Ronde de nuit ?
+**Q2.** Quel peintre a réalisé La Ronde de nuit ?
 **R.** Rembrandt
 
-**Q3.** Quelle écrivaine sénégalaise est l'auteure d'Une si longue lettre ?
+**Q3.** Quelle écrivaine est l’auteure d’Une si longue lettre ?
 **R.** Mariama Bâ
 
-**Q4.** Quel écrivain ivoirien est l'auteur de Les Soleils des indépendances ?
+**Q4.** Quel écrivain est l’auteur du roman Les Soleils des indépendances ?
 **R.** Ahmadou Kourouma
 
 **Q5.** Combien de vers compte traditionnellement un sonnet ?
@@ -261,16 +261,16 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?
+**Q1.** Quelle aviatrice américaine, née en 1897 à Atchison au Kansas, fut une pionnière du vol féminin ?
 **R.** Amelia Earhart
 
 **Q2.** Quel océan traversa-t-elle seule en avion en 1932 ?
 **R.** Océan Atlantique
 
-**Q3.** Quel modèle d'avion bimoteur utilisait-elle lors de sa tentative de tour du monde en 1937 ?
+**Q3.** Quel modèle d’avion utilisait-elle lors de sa dernière tentative de tour du monde ?
 **R.** Lockheed Electra 10E
 
-**Q4.** Près de quelle petite île du Pacifique son avion disparut-il ?
+**Q4.** Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio lors de son dernier vol ?
 **R.** Howland
 
 **Q5.** En quelle année disparut-elle ?
@@ -280,16 +280,16 @@
 
 **THÈME : CAPITALES D'ASIE**
 
-**Q1.** Quelle est la capitale du Népal ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale du Népal ?
 **R.** Katmandou
 
-**Q2.** Quelle est la capitale du Laos ?
+**Q2.** Au 18 octobre 2026, quelle est la capitale du Laos ?
 **R.** Vientiane
 
-**Q3.** Quelle est la capitale du Cambodge ?
+**Q3.** Au 18 octobre 2026, quelle est la capitale du Cambodge ?
 **R.** Phnom Penh
 
-**Q4.** Quelle est la capitale des Philippines ?
+**Q4.** Au 18 octobre 2026, quelle est la capitale des Philippines ?
 **R.** Manille
 
 ## 18. MYTHOLOGIE ET RELIGION
@@ -297,8 +297,8 @@
 **Q1.** Dans la mythologie grecque, quel héros accomplit les douze travaux ?
 **R.** Héraclès
 
-**Q2.** Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?
-**R.** Rê
+**Q2.** Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?
+**R.** Hathor
 
 **Q3.** Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?
 **R.** Bodh-Gaya
@@ -311,7 +311,7 @@
 
 ## 19. IDENTIFICATION
 
-**Q1.** 40 points : Je suis né en 1946 à Ginsberg, en Afrique du Sud. 30 points : J'ai contribué au mouvement de la Conscience noire. 20 points : Je suis mort en détention policière en 1977. 10 points : Mon prénom est Steve. Qui suis-je ?
+**Q1.** 40 points : En 1966, j’ai entrepris des études de médecine à l’université du Natal. 30 points : Je suis une figure majeure du mouvement sud-africain de la Conscience noire. 20 points : Je suis mort en détention policière à Pretoria en 1977. 10 points : Mes écrits sont réunis dans I Write What I Like. Qui suis-je ?
 **R.** Steve Biko
 
 ## 20. ÉCLAIR 2
@@ -340,8 +340,8 @@
 **Q8.** Quelle est la formule chimique de l'eau ?
 **R.** H₂O
 
-**Q9.** Comment appelle-t-on un polygone à cinq côtés ?
-**R.** Pentagone
+**Q9.** Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?
+**R.** Bissectrice
 
 **Q10.** Quel organe produit notamment l'insuline ?
 **R.** Pancréas

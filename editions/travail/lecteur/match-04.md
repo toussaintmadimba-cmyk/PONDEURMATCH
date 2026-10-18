@@ -10,35 +10,35 @@
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de la Tanzanie ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de la Tanzanie ?
 
-**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal en Zambie ?
+**Q2.** Au 18 octobre 2026, quelle est la monnaie nationale de la Zambie ?
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de la Mongolie ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de la Mongolie ?
 
-**Q2.** Au 6 octobre 2026, quel sommet constitue le point culminant du Maroc ?
+**Q2.** Quel sommet du Haut Atlas est le point culminant du Maroc ?
 
 ## 3. SPORTS ET JEUX
 
-**Q1.** Quelle joueuse américaine a remporté 23 titres du Grand Chelem en simple à l'ère Open ?
+**Q1.** Quelle joueuse américaine comptait 23 titres du Grand Chelem en simple à l’issue de l’US Open 2022 ?
 
-**Q2.** Quel club espagnol joue ses matchs à domicile au stade Santiago-Bernabéu ?
+**Q2.** Quel club inaugura en 1947 le stade qui porte depuis 1955 le nom de Santiago-Bernabéu ?
 
 **Q3.** Quelle sélection a remporté la Coupe du monde masculine de football 2014 ?
 
-**Q4.** Quel sport collectif oppose deux équipes de sept joueurs sur le terrain et se joue principalement à la main ?
+**Q4.** Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
 
 **Q5.** Dans quel sport se dispute la Coupe Davis ?
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quel réalisateur américain a réalisé Les Dents de la mer et E.T. l'extra-terrestre ?
+**Q1.** Quel réalisateur a signé Les Dents de la mer et E.T. l’extra-terrestre ?
 
 **Q2.** Quelle chanteuse capverdienne était surnommée la « Diva aux pieds nus » ?
 
-**Q3.** Quel chanteur jamaïcain est associé au groupe The Wailers et au reggae ?
+**Q3.** Quel chanteur est l’auteur de Redemption Song ?
 
 **Q4.** Quel type de voix féminine est généralement le plus aigu en musique classique ?
 
@@ -48,21 +48,21 @@
 
 **THÈME : HOMOPHONES COURANTS**
 
-**Q1.** Complétez : « Le bateau navigue sur la ... » avec l'homophone correct.
+**Q1.** Épelez l’homophone de « mère » qui désigne l’ensemble des eaux océaniques.
 
-**Q2.** Complétez : « La ... de l'enfant arrive à l'école » avec l'homophone correct.
+**Q2.** Épelez l’homophone de « mer » qui désigne la maman d’un enfant.
 
-**Q3.** Complétez : « Le ... dirige la commune » avec l'homophone correct.
+**Q3.** Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.
 
-**Q4.** Complétez : « Il ... son sac sur la table » avec le verbe correct.
+**Q4.** Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
 
 ## 6. CANTONADE 1
 
 **Q1.** Quel diplomate africain né en 1938, défenseur du multilatéralisme, fut distingué par le prix Nobel de la paix ?
 
-**Q2.** Dans quel pays africain est-il né ?
+**Q2.** Dans quel pays actuel se trouve sa ville natale ?
 
-**Q3.** Quelle organisation internationale dirigea-t-il pendant deux mandats ?
+**Q3.** De quelle organisation internationale fut-il secrétaire général de 1997 à 2006 ?
 
 **Q4.** En quelle année reçut-il le prix Nobel de la paix avec l'ONU ?
 
@@ -74,7 +74,7 @@
 
 **Q1.** Quelle figure de style rapproche explicitement deux éléments à l'aide d'un outil comme « comme » ?
 
-**Q2.** Quelle figure de style assimile directement deux éléments sans outil comparatif ?
+**Q2.** Quelle figure de style rapproche deux réalités par ressemblance, sans outil comparatif ?
 
 **Q3.** Quelle figure de style attribue des caractéristiques humaines à un objet ou à un animal ?
 
@@ -82,9 +82,9 @@
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Q1.** Quel scientifique allemand proposa au début du XXe siècle la théorie de la dérive des continents ?
+**Q1.** Quel scientifique proposa en 1912 la théorie de la dérive des continents ?
 
-**Q2.** Quel physicien anglais est associé à la découverte de l'induction électromagnétique en 1831 ?
+**Q2.** Quel physicien découvrit l’induction électromagnétique en 1831 ?
 
 **Q3.** Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?
 
@@ -120,13 +120,13 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle est la capitale du Cameroun ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale du Cameroun ?
 
 **Q2.** Quel écrivain anglais est l'auteur d'Oliver Twist ?
 
 **Q3.** Quel est le plus haut sommet d'Amérique du Sud ?
 
-**Q4.** Quel pays a Bangkok pour capitale ?
+**Q4.** Au 18 octobre 2026, quel pays a Bangkok pour capitale ?
 
 **Q5.** Quel peintre français est associé à la série des Nymphéas ?
 
@@ -134,7 +134,7 @@
 
 **Q7.** Quel pays a Athènes pour capitale ?
 
-**Q8.** Quelle est la racine carrée de 81 ?
+**Q8.** Comment qualifie-t-on un nombre entier naturel divisible par deux ?
 
 **Q9.** Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?
 
@@ -156,13 +156,13 @@
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain français est l'auteur du roman Germinal ?
+**Q1.** Quel écrivain est l’auteur du roman Germinal ?
 
-**Q2.** Quel peintre néerlandais a réalisé La Ronde de nuit ?
+**Q2.** Quel peintre a réalisé La Ronde de nuit ?
 
-**Q3.** Quelle écrivaine sénégalaise est l'auteure d'Une si longue lettre ?
+**Q3.** Quelle écrivaine est l’auteure d’Une si longue lettre ?
 
-**Q4.** Quel écrivain ivoirien est l'auteur de Les Soleils des indépendances ?
+**Q4.** Quel écrivain est l’auteur du roman Les Soleils des indépendances ?
 
 **Q5.** Combien de vers compte traditionnellement un sonnet ?
 
@@ -192,13 +192,13 @@
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?
+**Q1.** Quelle aviatrice américaine, née en 1897 à Atchison au Kansas, fut une pionnière du vol féminin ?
 
 **Q2.** Quel océan traversa-t-elle seule en avion en 1932 ?
 
-**Q3.** Quel modèle d'avion bimoteur utilisait-elle lors de sa tentative de tour du monde en 1937 ?
+**Q3.** Quel modèle d’avion utilisait-elle lors de sa dernière tentative de tour du monde ?
 
-**Q4.** Près de quelle petite île du Pacifique son avion disparut-il ?
+**Q4.** Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio lors de son dernier vol ?
 
 **Q5.** En quelle année disparut-elle ?
 
@@ -206,19 +206,19 @@
 
 **THÈME : CAPITALES D'ASIE**
 
-**Q1.** Quelle est la capitale du Népal ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale du Népal ?
 
-**Q2.** Quelle est la capitale du Laos ?
+**Q2.** Au 18 octobre 2026, quelle est la capitale du Laos ?
 
-**Q3.** Quelle est la capitale du Cambodge ?
+**Q3.** Au 18 octobre 2026, quelle est la capitale du Cambodge ?
 
-**Q4.** Quelle est la capitale des Philippines ?
+**Q4.** Au 18 octobre 2026, quelle est la capitale des Philippines ?
 
 ## 18. MYTHOLOGIE ET RELIGION
 
 **Q1.** Dans la mythologie grecque, quel héros accomplit les douze travaux ?
 
-**Q2.** Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?
+**Q2.** Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?
 
 **Q3.** Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?
 
@@ -228,7 +228,7 @@
 
 ## 19. IDENTIFICATION
 
-**Q1.** 40 points : Je suis né en 1946 à Ginsberg, en Afrique du Sud. 30 points : J'ai contribué au mouvement de la Conscience noire. 20 points : Je suis mort en détention policière en 1977. 10 points : Mon prénom est Steve. Qui suis-je ?
+**Q1.** 40 points : En 1966, j’ai entrepris des études de médecine à l’université du Natal. 30 points : Je suis une figure majeure du mouvement sud-africain de la Conscience noire. 20 points : Je suis mort en détention policière à Pretoria en 1977. 10 points : Mes écrits sont réunis dans I Write What I Like. Qui suis-je ?
 
 ## 20. ÉCLAIR 2
 
@@ -248,6 +248,6 @@
 
 **Q8.** Quelle est la formule chimique de l'eau ?
 
-**Q9.** Comment appelle-t-on un polygone à cinq côtés ?
+**Q9.** Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?
 
 **Q10.** Quel organe produit notamment l'insuline ?

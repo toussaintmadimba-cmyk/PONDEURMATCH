@@ -8,97 +8,97 @@
 
 ## M04-R01-Q01 — MANCHETTE A - ÉQUIPE A
 
-Au 6 octobre 2026, quelle est la capitale de la Tanzanie ?
+Au 18 octobre 2026, quelle est la capitale de la Tanzanie ?
 
 **Réponse :** Dodoma
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Dodoma
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Dodoma et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://pap.au.int/fr/node/189 — Tableau des États membres, ligne Tanzanie, ligne 79.
 
 
 
 ## M04-R01-Q02 — MANCHETTE A - ÉQUIPE A
 
-Au 6 octobre 2026, quelle monnaie a cours légal en Zambie ?
+Au 18 octobre 2026, quelle est la monnaie nationale de la Zambie ?
 
 **Réponse :** Kwacha zambien
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kwacha zambien; Kwacha
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter kwacha zambien ou kwacha, le pays étant explicitement donné. Ne pas déduire un code monétaire actuel du code ancien publié sur la page touristique.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.zambiatourism.com/travel-info/money/ — Money and Banks, Currency, ligne 180.
 
 
 
 ## M04-R02-Q01 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quelle est la capitale de la Mongolie ?
+Au 18 octobre 2026, quelle est la capitale de la Mongolie ?
 
 **Réponse :** Oulan-Bator
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Oulan-Bator; Oulan Bator; Ulaanbaatar; Ulan Bator
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Oulan-Bator et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Capital Cities and States of Asia, ligne Ulaanbaatar, ligne 115.
 
 
 
 ## M04-R02-Q02 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quel sommet constitue le point culminant du Maroc ?
+Quel sommet du Haut Atlas est le point culminant du Maroc ?
 
 **Réponse :** Toubkal
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Toubkal; Djbel Toubkal; Jbel Toubkal; Mont Toubkal
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Toubkal; Haut Atlas seul est le massif, pas le sommet demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.visitmorocco.com/fr/decouvrir-le-maroc/geographie-du-maroc — Haut Atlas, lignes 454–458.
 
 
 
 ## M04-R03-Q01 — SPORTS ET JEUX
 
-Quelle joueuse américaine a remporté 23 titres du Grand Chelem en simple à l'ère Open ?
+Quelle joueuse américaine comptait 23 titres du Grand Chelem en simple à l’issue de l’US Open 2022 ?
 
 **Réponse :** Serena Williams
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Serena Williams; Serena
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Serena Williams ou Serena. Williams seule demande de préciser le prénom pour distinguer Venus; le nombre est fixé au bilan de 2022.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.wtatennis.com/news/4487583/legend-bio-serena-williams — Legend Bio: Serena Williams, premier paragraphe ligne 13, nationalité ligne 16.
 
 
 
 ## M04-R03-Q02 — SPORTS ET JEUX
 
-Quel club espagnol joue ses matchs à domicile au stade Santiago-Bernabéu ?
+Quel club inaugura en 1947 le stade qui porte depuis 1955 le nom de Santiago-Bernabéu ?
 
 **Réponse :** Real Madrid
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Real Madrid; Real Madrid CF; Real Madrid Club de Fútbol
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Real Madrid; Belenenses était le club invité pour le match inaugural, non le club propriétaire ayant inauguré son stade.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.realmadrid.com/en-US/news/football/first-team/latest-news/75th-anniversary-of-santiago-bernabeu-inauguration — Article anniversaire, paragraphes inauguration et dénomination, lignes 10 et 14.
 
 
 
@@ -108,29 +108,29 @@ Quelle sélection a remporté la Coupe du monde masculine de football 2014 ?
 
 **Réponse :** Allemagne
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Allemagne; Germany; Sélection allemande
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Allemagne ou sélection allemande. Argentine désigne le finaliste battu.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.uefa.com/european-qualifiers/news/0252-0d041909b876-94c8ce6b802f-1000--gotze-goal-wins-germany-the-world-cup/ — Article du 13 juillet 2014, titre et lignes 9–15.
 
 
 
 ## M04-R03-Q04 — SPORTS ET JEUX
 
-Quel sport collectif oppose deux équipes de sept joueurs sur le terrain et se joue principalement à la main ?
+Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
 
 **Réponse :** Handball
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Handball; Handball en salle; Handball à sept
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter handball. Le maximum de sept distingue le jeu en salle des autres formes; une équipe peut jouer à moins de sept après exclusion.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.ihf.info/sites/default/files/2025-07/09A%20-%20Rules%20of%20the%20Game_Indoor%20Handball_E.pdf — Rules of the Game for Indoor Handball, 1 July 2025, règle 4:1, page imprimée 12, lignes 257–265.
 
 
 
@@ -140,29 +140,29 @@ Dans quel sport se dispute la Coupe Davis ?
 
 **Réponse :** Tennis
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Tennis
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter tennis. Tennis de table est un sport différent.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.daviscup.com/en/about/format — Titre de la page Davis Cup – The World Cup of Tennis et section Davis Cup Finals, ligne 34.
 
 
 
 ## M04-R04-Q01 — CINÉMA ET MUSIQUE
 
-Quel réalisateur américain a réalisé Les Dents de la mer et E.T. l'extra-terrestre ?
+Quel réalisateur a signé Les Dents de la mer et E.T. l’extra-terrestre ?
 
 **Réponse :** Steven Spielberg
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Steven Spielberg; Spielberg
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Spielberg, prénom facultatif. Le réalisateur des deux films est demandé, non leur compositeur John Williams.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb42789426k — Titre(s), ligne 57; production originale de 1975, ligne 66.; https://catalogue.bnf.fr/ark:/12148/cb444622093 — Sous-notice E T : l’extra-terrestre, lignes 86–91.
 
 
 
@@ -172,29 +172,29 @@ Quelle chanteuse capverdienne était surnommée la « Diva aux pieds nus » ?
 
 **Réponse :** Cesária Évora
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Cesária Évora; Cesaria Evora; Évora; Evora
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Cesária Évora ou son nom Évora; les accents ne sont pas exigés à l’oral.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://philharmoniedeparis.fr/fr/activite/concert/16823-la-diva-aux-pieds-nus — Hommage à Cesaria Evora, paragraphes de présentation, lignes 42–45.
 
 
 
 ## M04-R04-Q03 — CINÉMA ET MUSIQUE
 
-Quel chanteur jamaïcain est associé au groupe The Wailers et au reggae ?
+Quel chanteur est l’auteur de Redemption Song ?
 
 **Réponse :** Bob Marley
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bob Marley; Robert Nesta Marley; Marley
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Bob Marley ou Marley. Peter Tosh et Bunny Wailer furent aussi membres des Wailers; ils ne sont pas les auteurs de cette chanson.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://shop.bobmarley.com/pages/blog — The Story Behind the Mesmerizing Redemption Song Video, lignes 27–45.
 
 
 
@@ -232,65 +232,65 @@ Quel instrument de la famille des cuivres possède généralement trois pistons 
 
 ## M04-R05-Q01 — LANGAGE A
 
-Complétez : « Le bateau navigue sur la ... » avec l'homophone correct.
+Épelez l’homophone de « mère » qui désigne l’ensemble des eaux océaniques.
 
 **Réponse :** Mer
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mer
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger m, e, r, sans accent. La prononciation seule ne distingue pas mer de mère ou maire.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/mer/50562 — Définition 1, ligne 36, et Homonymes, lignes 139–140.
 
 
 
 ## M04-R05-Q02 — LANGAGE A
 
-Complétez : « La ... de l'enfant arrive à l'école » avec l'homophone correct.
+Épelez l’homophone de « mer » qui désigne la maman d’un enfant.
 
 **Réponse :** Mère
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mère
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger m, è avec accent grave, r, e. La prononciation seule ne distingue pas les homophones.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/m%C3%A8re/50611 — Définition 1, ligne 36, et Homonymes, lignes 158–161.
 
 
 
 ## M04-R05-Q03 — LANGAGE A
 
-Complétez : « Le ... dirige la commune » avec l'homophone correct.
+Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.
 
 **Réponse :** Maire
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Maire
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger m, a, i, r, e. La prononciation seule ne prouve pas l’orthographe.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/maire/48713 — Définition, ligne 36, et Homonymes, lignes 53–54.
 
 
 
 ## M04-R05-Q04 — LANGAGE A
 
-Complétez : « Il ... son sac sur la table » avec le verbe correct.
+Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
 
 **Réponse :** Met
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Met
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger m, e, t. Mets correspond à je ou tu; mais est une conjonction et mes un déterminant. Prononciation seule insuffisante.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/conjugaison/francais/mettre/6126 — Indicatif présent, ligne 38.
 
 
 
@@ -300,45 +300,45 @@ Quel diplomate africain né en 1938, défenseur du multilatéralisme, fut distin
 
 **Réponse :** Kofi Annan
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kofi Annan; Kofi Atta Annan; Annan
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kofi Annan ou Annan. Les dates et la carrière diplomatique discriminent ce lauréat.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.kofiannanfoundation.org/kofi-annan/biography/ — Introduction et Personal Life, lignes 307 et 330.
 
 
 
 ## M04-R06-Q02 — CANTONADE 1
 
-Dans quel pays africain est-il né ?
+Dans quel pays actuel se trouve sa ville natale ?
 
 **Réponse :** Ghana
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ghana
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ghana; Côte-de-l’Or est le nom colonial historique du territoire, mais la question demande le pays actuel.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.kofiannanfoundation.org/kofi-annan/biography/ — Personal Life, ligne 330.
 
 
 
 ## M04-R06-Q03 — CANTONADE 1
 
-Quelle organisation internationale dirigea-t-il pendant deux mandats ?
+De quelle organisation internationale fut-il secrétaire général de 1997 à 2006 ?
 
 **Réponse :** ONU
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** ONU; Organisation des Nations unies; Nations unies; United Nations; UN
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter ONU ou Nations unies. OMS correspond à un emploi antérieur, pas à l’organisation dont il fut secrétaire général.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.kofiannanfoundation.org/kofi-annan/biography/ — UN Secretary-General, ligne 319.
 
 
 
@@ -348,13 +348,13 @@ En quelle année reçut-il le prix Nobel de la paix avec l'ONU ?
 
 **Réponse :** 2001
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 2001
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter 2001. L’année du début de son premier mandat, 1997, est un autre fait.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.kofiannanfoundation.org/kofi-annan/biography/ — Introduction, ligne 307.
 
 
 
@@ -364,13 +364,13 @@ Dans quelle ville ghanéenne est-il né ?
 
 **Réponse :** Kumasi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kumasi; Koumasi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kumasi ou sa graphie française Koumasi; Accra n’est pas sa ville de naissance.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.kofiannanfoundation.org/kofi-annan/biography/ — Personal Life, ligne 330.
 
 
 
@@ -380,29 +380,29 @@ Quelle figure de style rapproche explicitement deux éléments à l'aide d'un ou
 
 **Réponse :** Comparaison
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Comparaison; Comparaison explicite
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter comparaison; la présence d’un outil explicite la distingue de la métaphore.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357154/comparaison — Définition et notes, lignes 20–23.
 
 
 
 ## M04-R07-Q02 — LANGAGE B
 
-Quelle figure de style assimile directement deux éléments sans outil comparatif ?
+Quelle figure de style rapproche deux réalités par ressemblance, sans outil comparatif ?
 
 **Réponse :** Métaphore
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Métaphore
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter métaphore. La comparaison explicite emploie un outil; la métonymie repose sur un autre type de rapport.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357153/metaphore — Définition, ligne 20.
 
 
 
@@ -412,13 +412,13 @@ Quelle figure de style attribue des caractéristiques humaines à un objet ou à
 
 **Réponse :** Personnification
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Personnification
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter personnification. Une allégorie peut prendre une forme personnifiée, mais désigne un procédé symbolique plus large; demander le procédé d’attribution de traits humains.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/45372/personnification — Définition, ligne 20.
 
 
 
@@ -428,45 +428,45 @@ Quelle figure de style consiste à dire moins pour suggérer davantage, comme da
 
 **Réponse :** Litote
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Litote
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter litote. L’euphémisme vise d’abord à adoucir une réalité pénible, tandis que la question demande l’atténuation qui renforce ce qui est suggéré.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8357219/litote — Définition et notes, lignes 19–22.
 
 
 
 ## M04-R08-Q01 — SCIENCE ET TECHNIQUE
 
-Quel scientifique allemand proposa au début du XXe siècle la théorie de la dérive des continents ?
+Quel scientifique proposa en 1912 la théorie de la dérive des continents ?
 
 **Réponse :** Alfred Wegener
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Alfred Wegener; Wegener
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Wegener, prénom facultatif. La question porte sur la dérive des continents de 1912, non sur les développements ultérieurs de la tectonique des plaques.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.usgs.gov/educational-resources/wegeners-puzzling-continental-drift-evidence — Introduction, lignes 21–23; contexte pédagogique, ligne 49.
 
 
 
 ## M04-R08-Q02 — SCIENCE ET TECHNIQUE
 
-Quel physicien anglais est associé à la découverte de l'induction électromagnétique en 1831 ?
+Quel physicien découvrit l’induction électromagnétique en 1831 ?
 
 **Réponse :** Michael Faraday
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Michael Faraday; Faraday
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Faraday. Ne pas confondre cette découverte avec les lois de l’électrolyse, autre contribution du même savant.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.rigb.org/explore-science/explore/collection/michael-faradays-generator — Description de l’appareil, lignes 35–38.
 
 
 
@@ -492,13 +492,13 @@ Quelle unité dérivée exprime l'accélération dans le Système international 
 
 **Réponse :** m/s²
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** m/s²; mètre par seconde carrée; Mètres par seconde carrée; m·s⁻²
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter mètre par seconde carrée ou une écriture équivalente de m/s². Mètre par seconde sans carré exprime une vitesse, non une accélération.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nist.gov/pml/owm/metric-si/si-units — Base and Derived Units, paragraphe sur les unités dérivées sans nom spécial, ligne 232.
 
 
 
@@ -508,13 +508,13 @@ Quel est le minéral naturel de référence ayant la dureté 10 sur l'échelle d
 
 **Réponse :** Diamant
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Diamant; Le diamant
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter diamant. La dureté de Mohs concerne la rayure, non la résistance à tous les chocs; ne pas qualifier le diamant d’incassable.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://4cs.gia.edu/en-us/blog/mohs-scale/ — Mohs Scale – Gem and Mineral Hardness, lignes 134–137.
 
 
 
@@ -680,17 +680,17 @@ Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?
 
 ## M04-R11-Q01 — ÉCLAIR 1
 
-Quelle est la capitale du Cameroun ?
+Au 18 octobre 2026, quelle est la capitale du Cameroun ?
 
 **Réponse :** Yaoundé
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Yaoundé; Yaounde
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Yaoundé et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://pap.au.int/fr/node/189 — Tableau des États membres, ligne Cameroun, ligne 37.
 
 
 
@@ -728,17 +728,17 @@ Quel est le plus haut sommet d'Amérique du Sud ?
 
 ## M04-R11-Q04 — ÉCLAIR 1
 
-Quel pays a Bangkok pour capitale ?
+Au 18 octobre 2026, quel pays a Bangkok pour capitale ?
 
 **Réponse :** Thaïlande
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Thaïlande; Thailande; Thailand
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Thaïlande; Bangkok est la ville donnée, non le pays demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales, Bangkok–Thailand, ligne 76.
 
 
 
@@ -792,17 +792,17 @@ Quel pays a Athènes pour capitale ?
 
 ## M04-R11-Q08 — ÉCLAIR 1
 
-Quelle est la racine carrée de 81 ?
+Comment qualifie-t-on un nombre entier naturel divisible par deux ?
 
-**Réponse :** 9
+**Réponse :** Pair
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pair; Nombre pair; Entier pair
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter pair ou nombre pair; zéro est également pair. Premier ne répond pas à la propriété demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/pair/57280 — Définition 1, ligne 33.
 
 
 
@@ -920,65 +920,65 @@ Quel musicien congolais est connu sous le surnom de « Grand Kallé » ?
 
 ## M04-R13-Q01 — LITTÉRATURE ET ART
 
-Quel écrivain français est l'auteur du roman Germinal ?
+Quel écrivain est l’auteur du roman Germinal ?
 
 **Réponse :** Émile Zola
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Émile Zola; Emile Zola; Zola
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Émile Zola et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb31690683k — Auteur et titre, lignes 57–61.
 
 
 
 ## M04-R13-Q02 — LITTÉRATURE ET ART
 
-Quel peintre néerlandais a réalisé La Ronde de nuit ?
+Quel peintre a réalisé La Ronde de nuit ?
 
 **Réponse :** Rembrandt
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Rembrandt; Rembrandt van Rijn
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Rembrandt et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch — Présentation et légende Night Watch, lignes 8 et 17.
 
 
 
 ## M04-R13-Q03 — LITTÉRATURE ET ART
 
-Quelle écrivaine sénégalaise est l'auteure d'Une si longue lettre ?
+Quelle écrivaine est l’auteure d’Une si longue lettre ?
 
 **Réponse :** Mariama Bâ
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mariama Bâ; Mariama Ba
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mariama Bâ et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb473155629 — Auteur et titre, lignes 57–59.
 
 
 
 ## M04-R13-Q04 — LITTÉRATURE ET ART
 
-Quel écrivain ivoirien est l'auteur de Les Soleils des indépendances ?
+Quel écrivain est l’auteur du roman Les Soleils des indépendances ?
 
 **Réponse :** Ahmadou Kourouma
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ahmadou Kourouma; Kourouma
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ahmadou Kourouma et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb35103128m — Auteur et titre, lignes 55–59.
 
 
 
@@ -1144,17 +1144,17 @@ Quel écrivain guinéen est l'auteur de L'Enfant noir ?
 
 ## M04-R16-Q01 — CANTONADE 2
 
-Quelle aviatrice américaine, pionnière du vol en solitaire, disparut lors d'une expédition aérienne de longue distance ?
+Quelle aviatrice américaine, née en 1897 à Atchison au Kansas, fut une pionnière du vol féminin ?
 
 **Réponse :** Amelia Earhart
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Amelia Earhart; Amelia Mary Earhart; Earhart
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Amelia Earhart ou Earhart. Le lieu et l’année de naissance discriminent l’aviatrice sans révéler l’océan, l’avion, l’île ou l’année demandés ensuite.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://collections.lib.purdue.edu/aearhart/biography.php — Amelia Earhart biography, premier paragraphe, ligne 10.
 
 
 
@@ -1164,45 +1164,45 @@ Quel océan traversa-t-elle seule en avion en 1932 ?
 
 **Réponse :** Océan Atlantique
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Océan Atlantique; Atlantique; Atlantique Nord
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Atlantique ou Atlantique Nord. Le vol en solitaire entre Hawaï et le continent américain eut lieu en 1935, non en 1932.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://collections.lib.purdue.edu/aearhart/biography.php — Paragraphe du vol de mai 1932, ligne 23.
 
 
 
 ## M04-R16-Q03 — CANTONADE 2
 
-Quel modèle d'avion bimoteur utilisait-elle lors de sa tentative de tour du monde en 1937 ?
+Quel modèle d’avion utilisait-elle lors de sa dernière tentative de tour du monde ?
 
 **Réponse :** Lockheed Electra 10E
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Lockheed Electra 10E; Lockheed 10-E Electra; Electra 10E; Lockheed Electra; Electra
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Lockheed Electra ou Electra; la précision 10E est souhaitable mais le modèle Electra suffit au Niveau 1. Lockheed seul est le constructeur et demande une précision.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://stories.purdue.edu/amelia-earhart-aviator-legend-boilermaker/ — Notice de Purdue, paragraphe sur l’achat de l’avion, ligne 75 et photographie de mars 1937, ligne 77.
 
 
 
 ## M04-R16-Q04 — CANTONADE 2
 
-Près de quelle petite île du Pacifique son avion disparut-il ?
+Vers quelle petite île du Pacifique se dirigeait-elle lorsqu’elle perdit le contact radio lors de son dernier vol ?
 
 **Réponse :** Howland
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Howland; Île Howland; Howland Island
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Howland. Nikumaroro est lié à une hypothèse sur son sort, non à la destination documentée du vol.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://collections.lib.purdue.edu/aearhart/biography.php — Dernier vol, ligne 30.
 
 
 
@@ -1212,77 +1212,77 @@ En quelle année disparut-elle ?
 
 **Réponse :** 1937
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1937
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter 1937. Refuser 1939: la déclaration légale de décès est un événement postérieur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://collections.lib.purdue.edu/aearhart/biography.php — Perte du contact radio le 2 juillet 1937 et déclaration légale de décès en 1939, lignes 30–31.
 
 
 
 ## M04-R17-Q01 — RELAIS B
 
-Quelle est la capitale du Népal ?
+Au 18 octobre 2026, quelle est la capitale du Népal ?
 
 **Réponse :** Katmandou
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Katmandou; Kathmandu
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Katmandou et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales, Kathmandu, ligne 92.
 
 
 
 ## M04-R17-Q02 — RELAIS B
 
-Quelle est la capitale du Laos ?
+Au 18 octobre 2026, quelle est la capitale du Laos ?
 
 **Réponse :** Vientiane
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Vientiane
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Vientiane et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales, Vientiane, ligne 116.
 
 
 
 ## M04-R17-Q03 — RELAIS B
 
-Quelle est la capitale du Cambodge ?
+Au 18 octobre 2026, quelle est la capitale du Cambodge ?
 
 **Réponse :** Phnom Penh
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Phnom Penh
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Phnom Penh et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales, Phnom Penh, ligne 103.
 
 
 
 ## M04-R17-Q04 — RELAIS B
 
-Quelle est la capitale des Philippines ?
+Au 18 octobre 2026, quelle est la capitale des Philippines ?
 
 **Réponse :** Manille
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Manille; Manila
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Manille et les graphies équivalentes indiquées; un autre centre économique ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales, Manila, ligne 98.
 
 
 
@@ -1304,17 +1304,17 @@ Dans la mythologie grecque, quel héros accomplit les douze travaux ?
 
 ## M04-R18-Q02 — MYTHOLOGIE ET RELIGION
 
-Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?
+Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?
 
-**Réponse :** Rê
+**Réponse :** Hathor
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Hathor; Hator
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Hathor ou Hator. Isis peut aussi porter une couronne à cornes dans certaines représentations, mais la combinaison musique, amour et forme de vache vise ici Hathor.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf — Glossaire, page imprimée 129, entrée Hathor, lignes 2687–2689.
 
 
 
@@ -1368,17 +1368,17 @@ Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une
 
 ## M04-R19-Q01 — IDENTIFICATION
 
-40 points : Je suis né en 1946 à Ginsberg, en Afrique du Sud. 30 points : J'ai contribué au mouvement de la Conscience noire. 20 points : Je suis mort en détention policière en 1977. 10 points : Mon prénom est Steve. Qui suis-je ?
+40 points : En 1966, j’ai entrepris des études de médecine à l’université du Natal. 30 points : Je suis une figure majeure du mouvement sud-africain de la Conscience noire. 20 points : Je suis mort en détention policière à Pretoria en 1977. 10 points : Mes écrits sont réunis dans I Write What I Like. Qui suis-je ?
 
 **Réponse :** Steve Biko
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Steve Biko; Stephen Bantu Biko; Bantu Stephen Biko; Biko
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Steve Biko ou Biko. Les quatre indices sont documentés séparément; le dernier donne un ouvrage discriminant sans révéler littéralement son prénom.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.cambridge.org/core/books/abs/we-write-what-we-like/timeline-of-steve-bikos-life/EBBC4AC6E840DDD8CA49CABAE58F8C19 — Timeline of Steve Biko’s life, année 1966, lignes 492–494.; https://sahistory.org.za/people/stephen-bantu-biko — Introduction, lignes 64–71.; https://sahistory.org.za/people/stephen-bantu-biko — Biographie, décès en cellule ligne 305 et synthèse ligne 468.; https://press.uchicago.edu/ucp/books/book/chicago/I/bo3632310.html/ — Titre, auteur et présentation du recueil, lignes 65–90.
 
 
 
@@ -1512,17 +1512,17 @@ Quelle est la formule chimique de l'eau ?
 
 ## M04-R20-Q09 — ÉCLAIR 2
 
-Comment appelle-t-on un polygone à cinq côtés ?
+Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?
 
-**Réponse :** Pentagone
+**Réponse :** Bissectrice
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bissectrice; La bissectrice; Bissectrice de l’angle
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter bissectrice. La médiatrice partage un segment perpendiculairement et ne répond pas à l’angle demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/college/bissecteur/4649 — Bissectrice, définition, ligne 28.
 
 
 
