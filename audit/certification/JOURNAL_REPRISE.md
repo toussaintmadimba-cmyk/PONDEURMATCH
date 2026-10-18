@@ -1,3 +1,19 @@
+# Point de reprise actif — étape 1 terminée, accord attendu
+
+18 octobre 2026 : match 04 contrôlé à 96/96, 20 rubriques conservées, Langage A/B inclus. 68 noms propres. Sept remplacements pour répétition; 481 paires candidates actuelles concernant M04 relues contre 2 880 Q/R. Deux cantonades, deux relais, quatre indices Biko vérifiés; rapport MATCH_04.md et registres synchronisés. Deux PDF : lecteur 6 pages, arbitrage 22 pages; 28 pages rendues et inspectées.
+
+**ARRÊT DEMANDÉ PAR L’UTILISATEUR : attendre son accord explicite avant l’étape 2 / match 05. Ne pas commencer M05 sans cet accord.** Voir SUIVI_10_ETAPES.md. Après accord, point exact : M05-R01-Q01.
+
+Acquis : matchs 01–04, 384/960 fiches et huit PDF contrôlés. Restant : matchs 05–10, 576 fiches, puis audit transversal, éditions officielles de collection et contrôles finaux. Aucun statut PRÊT POUR COMPÉTITION; collection NON CERTIFIÉE.
+
+Derniers tests réels : 18 octobre 2026, 18:12:29 UTC; intégrité 193/193, certification 225/274. Zéro échec propre à M01–M04; 49 échecs ouverts (M05–M10 et clôture globale des alertes). Les sorties et dates figurent dans tests-integrite.json, tests-certification.json et executions.jsonl.
+
+Enregistrement sur qc/niveau-1-certification; PR #1 en brouillon, aucune fusion vers main. Niveaux 2/3 inchangés. Espaces insécables ajoutées au générateur PDF pour éviter la ponctuation française isolée; aucune régénération des autres matchs avant l’étape 9. Répétition physique non réalisée.
+
+---
+
+# Historique antérieur — points de reprise remplacés
+
 # Mode actuel : dix étapes avec accord entre étapes
 
 Instruction du 18 octobre : voir SUIVI_10_ETAPES.md. Étape 1 (match 04) EN COURS : 48/96 faits documentés, tous les 96 types de réponse classés, 68 noms propres. Les vérifications factuelles restantes, la déduplication finale, la relecture d’ensemble, les PDF et le rapport M04 restent ouverts. **Ne pas lancer le match 05 avant validation complète de l’étape 1 et accord explicite de l’utilisateur.**

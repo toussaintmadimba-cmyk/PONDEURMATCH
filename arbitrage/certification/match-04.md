@@ -120,7 +120,7 @@ Quelle sélection a remporté la Coupe du monde masculine de football 2014 ?
 
 ## M04-R03-Q04 — SPORTS ET JEUX
 
-Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
+Selon les règles IHF de juillet 2025, quel sport collectif en salle se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
 
 **Réponse :** Handball
 
@@ -204,29 +204,29 @@ Quel type de voix féminine est généralement le plus aigu en musique classique
 
 **Réponse :** Soprano
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Soprano; Voix de soprano
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter soprano. Soprano colorature est une précision compatible, mais le grand type vocal suffit.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.opera-comique.com/sites/default/files/2021-11/2014_dossier_p%C3%A9da_chauve_souris.pdf — Dossier La Chauve-Souris, page imprimée 8, groupes de voix, ligne 71.
 
 
 
 ## M04-R04-Q05 — CINÉMA ET MUSIQUE
 
-Quel instrument de la famille des cuivres possède généralement trois pistons et une embouchure en forme de coupe ?
+Comment appelle-t-on la pièce d’une trompette sur laquelle le musicien pose ses lèvres ?
 
-**Réponse :** Trompette
+**Réponse :** Embouchure
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Embouchure; L’embouchure
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter embouchure. Pavillon désigne l’extrémité évasée de sortie; piston désigne le mécanisme modifiant la longueur du tube.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://pad.philharmoniedeparis.fr/0798695-histoire-jazz-trompette-embouchure.aspx — La trompette dans le jazz, Un instrument à vent et Au contact des lèvres, lignes 191–192 et 206.
 
 
 
@@ -280,7 +280,7 @@ Quel instrument de la famille des cuivres possède généralement trois pistons 
 
 ## M04-R05-Q04 — LANGAGE A
 
-Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
+Avec le verbe mettre au présent de l’indicatif, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
 
 **Réponse :** Met
 
@@ -472,17 +472,17 @@ Quel physicien découvrit l’induction électromagnétique en 1831 ?
 
 ## M04-R08-Q03 — SCIENCE ET TECHNIQUE
 
-Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?
+Quel inventeur conçut au XIXe siècle la machine analytique ?
 
 **Réponse :** Charles Babbage
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Charles Babbage; Babbage
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Babbage. Ada Lovelace a publié des travaux sur la machine, mais n’est pas son concepteur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.computerhistory.org/babbage/history/ — The Analytical Engine, lignes 96–99.
 
 
 
@@ -520,33 +520,33 @@ Quel est le minéral naturel de référence ayant la dureté 10 sur l'échelle d
 
 ## M04-R09-Q01 — QUI, QUE, OÙ SUIS-JE ?
 
-Qui suis-je ? Romancière britannique, j'ai créé Hercule Poirot et Miss Marple.
+Qui suis-je ? Romancière, j’ai créé Hercule Poirot et Miss Marple.
 
 **Réponse :** Agatha Christie
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Agatha Christie; Christie; Agatha Mary Clarissa Christie
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Agatha Christie ou Christie. Les deux personnages doivent conduire à la même créatrice.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.agathachristie.com/about-christie — Biographie officielle, création de Poirot ligne 139 et de Miss Marple ligne 167.
 
 
 
 ## M04-R09-Q02 — QUI, QUE, OÙ SUIS-JE ?
 
-Où suis-je ? Je suis un volcan italien dominant la baie de Naples et connu pour l'éruption de l'an 79.
+Qui suis-je ? Volcan équatorien au cône symétrique, je culmine à environ 5 897 mètres au sud-est de Quito.
 
-**Réponse :** Vésuve
+**Réponse :** Cotopaxi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Cotopaxi; Volcan Cotopaxi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Cotopaxi. Chimborazo est un autre volcan équatorien, culminant plus haut et ne correspondant pas à l’altitude indiquée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.igepn.edu.ec/cotopaxi — IG-EPN, fiche Cotopaxi, tableau hauteur ligne 108 et description du cône et de la position ligne 115
 
 
 
@@ -556,13 +556,13 @@ Que suis-je ? Je relie l'océan Atlantique à la mer Méditerranée entre l'Espa
 
 **Réponse :** Détroit de Gibraltar
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Détroit de Gibraltar; Gibraltar; Strait of Gibraltar
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter détroit de Gibraltar. Gibraltar seul suffit dans cette devinette explicitement consacrée au passage maritime.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.esa.int/ESA_Multimedia/Images/2021/03/Strait_of_Gibraltar — Description géographique, ligne 22.
 
 
 
@@ -572,109 +572,109 @@ Où suis-je ? Je suis un ensemble de grandes chutes situé à la frontière des 
 
 **Réponse :** Chutes du Niagara
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Chutes du Niagara; Niagara; Niagara Falls
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter le nom collectif Niagara; une seule chute (Horseshoe, Bridal Veil ou American Falls) ne désigne pas tout l’ensemble demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.discoverniagara.org/natural-phenomenon — Natural Phenomenon, paragraphe sur les trois chutes, lignes 20–23
 
 
 
 ## M04-R09-Q05 — QUI, QUE, OÙ SUIS-JE ?
 
-Où suis-je ? Capitale de la Chine, j'abrite la Cité interdite.
+Où suis-je ? Au 18 octobre 2026, capitale de la Chine, j’abrite la Cité interdite.
 
 **Réponse :** Pékin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pékin; Beijing; Peking
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Pékin et Beijing, appellations de la même ville; ne pas confondre avec Nankin, ancienne capitale.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales asiatiques, ligne China–Beijing (Peking), ligne 77; https://whc.unesco.org/en/list/439/ — Palais impériaux des dynasties Ming et Qing, description, lignes 4–9
 
 
 
 ## M04-R10-Q01 — DIVERS
 
-Quelle institution spécialisée de l'ONU est chargée notamment de l'éducation, de la science et de la culture ?
+Au 18 octobre 2026, quelle institution spécialisée de l’ONU est chargée notamment de l’éducation, de la science et de la culture ?
 
 **Réponse :** UNESCO
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** UNESCO; Organisation des Nations unies pour l’éducation, la science et la culture
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter UNESCO ou son nom développé. Le sigle et le nom complet sont équivalents.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.unesco.org/en/about-us — Présentation, ligne 40.
 
 
 
 ## M04-R10-Q02 — DIVERS
 
-Quelle organisation internationale spécialisée dirige et coordonne la santé publique mondiale au sein du système des Nations Unies ?
+Au 18 octobre 2026, quelle organisation de l’ONU dirige et coordonne l’action internationale en santé ?
 
 **Réponse :** OMS
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** OMS; Organisation mondiale de la santé; WHO; World Health Organization
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter OMS ou son nom développé. Le sigle et le nom complet sont équivalents.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.who.int/about — Présentation de la mission et agence onusienne, lignes 85–95.
 
 
 
 ## M04-R10-Q03 — DIVERS
 
-Quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?
+Au 18 octobre 2026, quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?
 
 **Réponse :** FMI
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** FMI; Fonds monétaire international; IMF; International Monetary Fund
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter le sigle ou le nom développé. Refuser Banque mondiale: son siège est également à Washington mais la mission monétaire distingue le FMI.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance — IMF at a Glance, présentation, lignes 20–22; https://www.imf.org/en/about/speakers — Speakers, ligne 15
 
 
 
 ## M04-R10-Q04 — DIVERS
 
-Quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?
+Au 18 octobre 2026, quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?
 
 **Réponse :** Union africaine
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Union africaine; UA; African Union; AU
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter UA ou Union africaine; OUA désigne l’organisation antérieure, pas l’institution à la date demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://au.int/en/overview — About the African Union, présentation ligne 251 et pied de page African Union Headquarters, lignes 413–415
 
 
 
 ## M04-R10-Q05 — DIVERS
 
-Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?
+Au 18 octobre 2026, quel fonds des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?
 
-**Réponse :** Cour internationale de Justice
+**Réponse :** UNICEF
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** UNICEF; Fonds des Nations unies pour l’enfance; United Nations Children’s Fund
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter UNICEF ou Fonds des Nations unies pour l’enfance. Le Comité des droits de l’enfant est un organe conventionnel distinct; la consigne demande le fonds. UNESCO n’est pas ce fonds.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.unicef.org/fr/qui-nous-sommes — Qui nous sommes, Nous protégeons les droits des enfants, lignes 15–18; https://www.unicef.org/who-we-are — Who we are, We protect children’s rights and safeguard their futures, lignes 15–18
 
 
 
@@ -696,17 +696,17 @@ Au 18 octobre 2026, quelle est la capitale du Cameroun ?
 
 ## M04-R11-Q02 — ÉCLAIR 1
 
-Quel écrivain anglais est l'auteur d'Oliver Twist ?
+Quel écrivain est l’auteur du roman Oliver Twist ?
 
 **Réponse :** Charles Dickens
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Charles Dickens; Dickens
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Dickens seul; un traducteur ou le réalisateur d’une adaptation n’est pas l’auteur du roman.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb465487403 — Notice FRBNF46548740, champs Auteur(s) et Titre(s), lignes 57–59
 
 
 
@@ -716,13 +716,13 @@ Quel est le plus haut sommet d'Amérique du Sud ?
 
 **Réponse :** Aconcagua
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Aconcagua; Mont Aconcagua
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Aconcagua; les Andes désignent le massif, non le sommet.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.argentina.gob.ar/noticias/aconcagua-2023-hacia-la-cumbre-del-cerro-mas-alto-de-america — Titre et introduction, lignes 13–24.
 
 
 
@@ -744,17 +744,17 @@ Au 18 octobre 2026, quel pays a Bangkok pour capitale ?
 
 ## M04-R11-Q05 — ÉCLAIR 1
 
-Quel peintre français est associé à la série des Nymphéas ?
+Quel peintre est l’auteur de la série des Nymphéas ?
 
 **Réponse :** Claude Monet
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Claude Monet; Monet
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Monet seul. Manet est un autre peintre: la proximité phonétique ne rend pas les noms interchangeables.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.musee-orangerie.fr/fr/node/255 — Les Nymphéas de Claude Monet, titre et paragraphes 1–2, lignes 17–25
 
 
 
@@ -764,29 +764,29 @@ Quel océan est le plus vaste de la planète ?
 
 **Réponse :** Océan Pacifique
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Océan Pacifique; Pacifique
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Pacifique ou océan Pacifique.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://oceanservice.noaa.gov/facts/biggestocean.html — Titre et présentation, lignes 5 et 10.
 
 
 
 ## M04-R11-Q07 — ÉCLAIR 1
 
-Quel pays a Athènes pour capitale ?
+Au 18 octobre 2026, quel pays a Dacca, aussi appelée Dhaka, pour capitale ?
 
-**Réponse :** Grèce
+**Réponse :** Bangladesh
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bangladesh; Bangla Desh
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Bangladesh. Dacca/Dhaka désigne la capitale donnée dans l’énoncé, pas le pays demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_asia.htm — Tableau des capitales asiatiques, ligne Dhaka–Bangladesh, ligne 83
 
 
 
@@ -808,81 +808,81 @@ Comment qualifie-t-on un nombre entier naturel divisible par deux ?
 
 ## M04-R11-Q09 — ÉCLAIR 1
 
-Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?
+Quel gaz fournit le carbone utilisé par les plantes pour la photosynthèse ?
 
 **Réponse :** Dioxyde de carbone
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Dioxyde de carbone; CO₂; CO2; Gaz carbonique
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter le nom, la formule ou gaz carbonique. Refuser dioxygène: il est un produit de la photosynthèse, et non la source du carbone.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis — Biology 2e, §8.1 Main Structures and Summary of Photosynthesis, lignes 41–45
 
 
 
 ## M04-R11-Q10 — ÉCLAIR 1
 
-Quel type de cellules sanguines participe principalement à la défense immunitaire ?
+Quel est le nom générique des cellules sanguines qui jouent un rôle majeur dans la défense immunitaire ?
 
 **Réponse :** Leucocytes
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Leucocytes; Globules blancs; Leucocyte; Globule blanc
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter leucocytes/globules blancs. Pour lymphocytes ou neutrophiles, demander le nom générique requis: ces réponses nomment seulement un sous-groupe.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood — Biology 2e, §40.2 White Blood Cells, lignes 54–57
 
 
 
 ## M04-R12-Q01 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Bunia pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bunia pour chef-lieu ?
 
 **Réponse :** Ituri
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ituri; Province de l’Ituri
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ituri; Bunia est la ville indiquée dans la question, pas la province recherchée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.droitcongolais.info/EN/files/128.03.15-Loi-du-25-mars-2015_Limites-de-province.pdf — Loi organique n°15/006 du 25 mars 2015, article 9, page 19 du PDF, lignes 791–793
 
 
 
 ## M04-R12-Q02 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Matadi pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Matadi pour chef-lieu ?
 
 **Réponse :** Kongo Central
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kongo Central; Kongo-Central; Province du Kongo Central
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kongo Central avec ou sans trait d’union. Bas-Congo est l’ancienne dénomination, pas celle de la loi expressément demandée.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html — Loi organique n°15/006 du 25 mars 2015, article 13, lignes 1075–1076
 
 
 
 ## M04-R12-Q03 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Bukavu pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bukavu pour chef-lieu ?
 
 **Réponse :** Sud-Kivu
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Sud-Kivu; Sud Kivu; Province du Sud-Kivu
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Sud-Kivu. Nord-Kivu est une autre province, dont le chef-lieu légal est Goma.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html — Loi organique n°15/006 du 25 mars 2015, article 24, lignes 2120–2121
 
 
 
@@ -892,13 +892,13 @@ Quel grand lac d'Afrique de l'Est borde notamment l'est de la RDC, la Tanzanie, 
 
 **Réponse :** Lac Tanganyika
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Lac Tanganyika; Tanganyika; Tanganyka
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Tanganyika ou lac Tanganyika; Malawi et Victoria ne sont pas partagés par les quatre pays indiqués.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.fao.org/inland-fisheries/topics/detail/en/c/1147818/ — Rapport FAO/AfDB F-14, résumé, paragraphe 2, ligne 24.
 
 
 
@@ -908,13 +908,13 @@ Quel musicien congolais est connu sous le surnom de « Grand Kallé » ?
 
 **Réponse :** Joseph Kabasele
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Joseph Kabasele; Joseph Athanase Kabasele; Kabasele; Kabasellé
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Joseph Kabasele, Joseph Athanase Kabasele ou Kabasele. Grand Kallé seul répète le surnom donné et ne fournit pas le nom demandé. Ne pas confondre avec Pépé Kallé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://independance.africamuseum.be/sites/independance.africamuseum.be/files/files/booklet_independance_en.pdf — AfricaMuseum, livret de l’exposition Indépendance!, page 9 du PDF, légende Joseph Athanase Kabasele (Grand Kalle), lignes 157–161
 
 
 
@@ -942,7 +942,7 @@ Quel peintre a réalisé La Ronde de nuit ?
 
 **Variantes :** Rembrandt; Rembrandt van Rijn
 
-**Décision :** Accepter Rembrandt et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
+**Décision :** Accepter Rembrandt ou Rembrandt van Rijn. Il s’agit de l’auteur de La Ronde de nuit, et non d’un personnage représenté sur le tableau.
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
@@ -956,9 +956,9 @@ Quelle écrivaine est l’auteure d’Une si longue lettre ?
 
 **Réponse :** Mariama Bâ
 
-**Variantes :** Mariama Bâ; Mariama Ba
+**Variantes :** Mariama Bâ; Mariama Ba; Bâ; Ba
 
-**Décision :** Accepter Mariama Bâ et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.
+**Décision :** Accepter Mariama Bâ, sa graphie sans accent ou Bâ seul dans le contexte de ce roman. Ne pas confondre avec Amadou Hampâté Bâ.
 
 **Arbitrage :** ARBITRAGE_VALIDE
 
@@ -984,33 +984,33 @@ Quel écrivain est l’auteur du roman Les Soleils des indépendances ?
 
 ## M04-R13-Q05 — LITTÉRATURE ET ART
 
-Combien de vers compte traditionnellement un sonnet ?
+Comment appelle-t-on un groupe de vers formant un ensemble dans un poème ?
 
-**Réponse :** 14
+**Réponse :** Strophe
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Strophe; Une strophe
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter strophe. Quatrain ou tercet sont des strophes de longueur déterminée: demander le nom générique. Un paragraphe désigne généralement un ensemble de phrases en prose.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/junior/strophe/18528 — Larousse Junior, Strophe, définition, ligne 45
 
 
 
 ## M04-R14-Q01 — MONDE CONTEMPORAIN
 
-Quelle crise internationale de 1956 fut déclenchée par la nationalisation d'un canal stratégique par l'Égypte ?
+Quelle crise internationale de 1956 suivit la nationalisation par l’Égypte de la compagnie exploitant un canal stratégique ?
 
 **Réponse :** Crise de Suez
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Crise de Suez; Crise du canal de Suez; Guerre de Suez
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter crise de Suez ou guerre de Suez. Suez seul est recevable dans ce contexte. La nationalisation porte précisément sur la compagnie du canal.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://history.state.gov/milestones/1953-1960/suez — The Suez Crisis, 1956, titre et premier paragraphe, lignes 6–8.
 
 
 
@@ -1020,45 +1020,45 @@ Quel dirigeant soviétique était au pouvoir lors de la crise des missiles de Cu
 
 **Réponse :** Nikita Khrouchtchev
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Nikita Khrouchtchev; Khrouchtchev; Nikita Khrushchev; Khrushchev
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Khrouchtchev et ses translittérations usuelles. Fidel Castro dirige Cuba; Kennedy dirige les États-Unis.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://history.state.gov/milestones/1961-1968/cuban-missile-crisis — The Cuban Missile Crisis, October 1962, ligne 12.
 
 
 
 ## M04-R14-Q03 — MONDE CONTEMPORAIN
 
-Quelle conférence tenue en 1884-1885 fixa des règles de colonisation et de commerce en Afrique entre puissances européennes ?
+Quelle conférence de 1884–1885 fixa notamment des règles de commerce dans le bassin du Congo et d’occupation coloniale du littoral africain ?
 
 **Réponse :** Conférence de Berlin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Conférence de Berlin; Berlin; Conférence coloniale de Berlin
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Berlin seul lorsque le contexte de conférence est clair. Ne pas présenter la conférence comme ayant dessiné toutes les frontières de l’Afrique.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/conf%C3%A9rence_de_Berlin/108516 — Conférence de Berlin, titre, introduction et Vers le partage colonial de l’Afrique, lignes 15–26
 
 
 
 ## M04-R14-Q04 — MONDE CONTEMPORAIN
 
-En quelle année prit fin la Première Guerre mondiale ?
+En quelle année eut lieu l’armistice du 11 novembre de la Première Guerre mondiale ?
 
 **Réponse :** 1918
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1918; Mille neuf cent dix-huit
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger 1918 pour l’armistice. Le traité de paix de Versailles est de 1919 et ne répond pas à ce libellé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://rdf.archives-nationales.culture.gouv.fr/garance/entities/agent/009898/ — Notice d’organisme, Historique, ligne 155
 
 
 
@@ -1068,13 +1068,13 @@ En quelle année l'Union soviétique fut-elle officiellement dissoute ?
 
 **Réponse :** 1991
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1991; Mille neuf cent quatre-vingt-onze
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger l’année 1991; 1989 concerne d’autres événements, notamment la chute du mur de Berlin.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://history.state.gov/milestones/1989-1992/collapse-soviet-union — Office of the Historian, The Collapse of the Soviet Union, paragraphes finaux, lignes 29–31
 
 
 
@@ -1084,13 +1084,13 @@ Quel écrivain kényan est l'auteur de Pétales de sang ?
 
 **Réponse :** Ngũgĩ wa Thiong'o
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ngũgĩ wa Thiong’o; Ngugi wa Thiong’o; Ngugi wa Thiongo; Ngugi
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ngũgĩ wa Thiong’o et ses graphies sans signes diacritiques; Ngugi seul est recevable dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.bnf.fr/fr/hommage-ngugi-wa-thiongo-1938-2025 — Présentation de l’auteur né au Kenya ligne 20 et œuvres ligne 29.
 
 
 
@@ -1100,13 +1100,13 @@ Quelle écrivaine nigériane est l'auteure de L'Hibiscus pourpre ?
 
 **Réponse :** Chimamanda Ngozi Adichie
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Chimamanda Ngozi Adichie; Chimamanda Adichie; Ngozi Adichie; Adichie
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Adichie seul ou son nom développé. Chimamanda seul permet une demande de précision, car le relais attend une identité d’auteur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb476946406 — Notice FRBNF47694640, champs Auteur et Titre, lignes 57–61; https://catalogue.bnf.fr/ark:/12148/cb145655352 — Notice d’autorité FRBNF14565535, Pays et Source(s), lignes 53–72
 
 
 
@@ -1116,13 +1116,13 @@ Quel écrivain camerounais a publié Le Pauvre Christ de Bomba ?
 
 **Réponse :** Mongo Beti
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mongo Beti; Mongo Béti; Alexandre Biyidi Awala; Béti; Beti
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mongo Beti, ses graphies accentuées ou son nom civil Alexandre Biyidi Awala. La question ne porte pas sur l’année de publication.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Alexandre_Biyidi_Awala_dit_Mongo_Beti/108722 — Nationalité et liste des œuvres, lignes 17–19.; https://catalogue.bnf.fr/ark:/12148/cb42529235d — Sommaire de l’ouvrage critique, ligne 61.
 
 
 
@@ -1132,13 +1132,13 @@ Quel écrivain guinéen est l'auteur de L'Enfant noir ?
 
 **Réponse :** Camara Laye
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Camara Laye; Laye Camara; Laye
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Camara Laye ou Laye Camara. Pour Camara seul, demander de préciser le nom complet, très répandu; Laye est recevable dans ce contexte.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/personnage/Camara_Laye/129117 — Nationalité et œuvres, lignes 17–23.
 
 
 
@@ -1292,13 +1292,13 @@ Dans la mythologie grecque, quel héros accomplit les douze travaux ?
 
 **Réponse :** Héraclès
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Héraclès; Heracles; Hercule; Hercules
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Héraclès et Hercule, même héros sous son nom romain; le libellé grec ne justifie pas le refus de cette variante équivalente.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/encyclopedie/divers/H%C3%A9racl%C3%A8s/123664 — Article Héraclès, équivalence romaine ligne 23 et Les douze travaux, lignes 40–42
 
 
 
@@ -1320,49 +1320,49 @@ Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est
 
 ## M04-R18-Q03 — MYTHOLOGIE ET RELIGION
 
-Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?
+Selon la tradition bouddhiste, dans quelle ville indienne le Bouddha a-t-il atteint l’Éveil ?
 
 **Réponse :** Bodh-Gaya
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bodh-Gaya; Bodh Gaya; Bodhgaya
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter les graphies Bodh Gaya/Bodhgaya. Gaya seul est insuffisant: demander la localité complète; Lumbini est le lieu traditionnel de naissance.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://whc.unesco.org/en/list/1056/ — Ensemble du temple de la Mahabodhi à Bodhgaya, présentation, lignes 2–5 et 54
 
 
 
 ## M04-R18-Q04 — MYTHOLOGIE ET RELIGION
 
-Quelle montagne de la tradition biblique est associée à la remise des Dix Commandements à Moïse ?
+Selon le livre de l’Exode, sur quelle montagne Moïse reçoit-il les Dix Commandements ?
 
 **Réponse :** Mont Sinaï
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mont Sinaï; Sinaï; Sinai; Horeb; Mont Horeb
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Sinaï et Horeb, appellations bibliques de la montagne du don de la Loi. Exode 34 emploie Sinaï, Deutéronome 5 Horeb; ne pas exiger une identification archéologique contemporaine.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.aelf.org/bible/Ex/34 — Exode 34, versets 2, 4 et 28–29, lignes 156, 159 et 198–199; https://www.aelf.org/bible/Dt/5 — Deutéronome 5, verset 2 puis Décalogue, lignes 144–157
 
 
 
 ## M04-R18-Q05 — MYTHOLOGIE ET RELIGION
 
-Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une nouvelle existence ?
+Comment appelle-t-on la croyance selon laquelle, après la mort, l’âme peut passer dans un autre corps ?
 
 **Réponse :** Réincarnation
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Réincarnation; Métempsycose; Métempsychose; Transmigration; Transmigration des âmes
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter réincarnation, métempsycose et transmigration, synonymes documentés. Samsara désigne le cycle des renaissances: demander le nom du passage ou de la croyance, plutôt que le cycle. Présenter ce contenu comme une croyance.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.larousse.fr/dictionnaires/francais/r%C3%A9incarnation/67757 — Définition 1 et synonymes, lignes 25–30
 
 
 
@@ -1384,33 +1384,33 @@ Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une
 
 ## M04-R20-Q01 — ÉCLAIR 2
 
-Quelle est la capitale de l'Autriche ?
+Au 18 octobre 2026, quelle est la capitale de l’Autriche ?
 
 **Réponse :** Vienne
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Vienne; Vienna; Wien
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Vienne, Vienna ou Wien. Ne pas confondre l’Autriche et l’Australie.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.nationsonline.org/oneworld/capitals_europe.htm — Tableau des capitales, Vienna–Austria, ligne 111.
 
 
 
 ## M04-R20-Q02 — ÉCLAIR 2
 
-Quel physicien et chimiste irlandais a donné son nom à une loi reliant pression et volume d'un gaz ?
+Quel savant né en Irlande en 1627 a donné son nom à une loi reliant pression et volume d’un gaz à température constante ?
 
 **Réponse :** Robert Boyle
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Robert Boyle; Boyle
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Boyle seul. Mariotte est également associé à cette loi mais ne satisfait pas l’indice de naissance en Irlande en 1627. La température constante est indispensable à la relation.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://mathshistory.st-andrews.ac.uk//Biographies/Boyle/ — MacTutor, Robert Boyle, Quick Info, lignes 8–18; https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/boyles-law/ — NASA Glenn, Boyle’s Law, introduction, lignes 6–9
 
 
 
@@ -1420,61 +1420,61 @@ Quel continent est le plus froid de la planète ?
 
 **Réponse :** Antarctique
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Antarctique; L’Antarctique
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Antarctique. L’Arctique est une région principalement océanique, non le continent demandé.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.bas.ac.uk/data/our-data/publication/antarctic-lakes/ — Antarctic Lakes, résumé, ligne 7.
 
 
 
 ## M04-R20-Q04 — ÉCLAIR 2
 
-Quel écrivain américain est l'auteur de Le Vieil Homme et la Mer ?
+Quel écrivain est l’auteur du roman Le Vieil Homme et la Mer ?
 
 **Réponse :** Ernest Hemingway
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ernest Hemingway; Hemingway; Ernest Miller Hemingway
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Hemingway seul. Jean Dutourd est un traducteur de l’œuvre et non son auteur.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://catalogue.bnf.fr/ark:/12148/cb34838000v — Notice FRBNF34838000, champs Auteur, Titre conventionnel et Titre, lignes 55–61
 
 
 
 ## M04-R20-Q05 — ÉCLAIR 2
 
-Quelle ville américaine est célèbre pour le pont du Golden Gate ?
+Quelle ville de Californie se trouve à l’extrémité sud du pont du Golden Gate ?
 
 **Réponse :** San Francisco
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** San Francisco
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger San Francisco. Sausalito et le comté de Marin se trouvent au nord; Los Angeles est une autre ville de Californie.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.goldengate.org/faq/ — Golden Gate Bridge Highway and Transportation District, FAQ, paiement vers le sud ligne 34 et localisation ligne 805
 
 
 
 ## M04-R20-Q06 — ÉCLAIR 2
 
-Quel grand fleuve du nord de l'Inde est considéré comme sacré dans l'hindouisme ?
+Quel fleuve indien longe le ghat de Har ki Pauri, à Haridwar ?
 
 **Réponse :** Gange
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Gange; Ganga; Ganges
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Gange, Ganga ou Ganges. Yamuna est aussi un fleuve sacré mais ne borde pas le ghat de Har ki Pauri à Haridwar.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://haridwar.nic.in/tourist-place/har-ki-pauri/ — District Haridwar, Har ki Pauri, présentation, ligne 110
 
 
 
@@ -1484,13 +1484,13 @@ Combien de bits composent un octet ?
 
 **Réponse :** 8
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 8; Huit; Huit bits
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter huit, avec ou sans bits. Un bit est un chiffre binaire; ne pas confondre huit bits avec huit octets.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet — OQLF, Octet, Définition, lignes 17–19; https://csrc.nist.gov/glossary/term/byte — NIST CSRC, Byte, définition issue de FIPS 180-4, lignes 113–116
 
 
 
@@ -1500,13 +1500,13 @@ Quelle est la formule chimique de l'eau ?
 
 **Réponse :** H₂O
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** H₂O; H2O; H deux O; H–O–H; HOH
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter H deux O à l’oral et les écritures H2O/H₂O ou la formule structurale équivalente H–O–H. Refuser H₂O₂: c’est le peroxyde d’hydrogène.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://openstax.org/books/chemistry/pages/4-1-writing-and-balancing-chemical-equations — Chemistry, §4.1, exemple de formation de l’eau, ligne 30
 
 
 
@@ -1532,10 +1532,10 @@ Quel organe produit notamment l'insuline ?
 
 **Réponse :** Pancréas
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pancréas; Pancreas
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter pancréas. Cellules bêta ou îlots de Langerhans désignent des cellules ou structures de cet organe: demander l’organe expressément requis.
 
-**Arbitrage :** NON_EXAMINE
+**Arbitrage :** ARBITRAGE_VALIDE
 
-**Preuves :** Contrôle documentaire ouvert.
+**Preuves :** https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes — NIDDK, What Is Diabetes?, introduction, ligne 146

@@ -2,7 +2,7 @@
   "match": 4,
   "level": 1,
   "question_count": 96,
-  "questionnaire_sha256": "3bce794c1217dc348342b3a7c15752eb77be576c08be264f96accc8a7b3666db",
+  "questionnaire_sha256": "a2fe5880eae510e29f6867eea95c7005461e54fd242072ac18aaefc15817063b",
   "questions": [
     {
       "id": "M04-R01-Q01",
@@ -23,8 +23,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -74,8 +74,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -127,8 +127,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -180,8 +180,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -231,8 +231,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -283,8 +283,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -335,8 +335,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
       "decision": "Accepter Allemagne ou sélection allemande. Argentine désigne le finaliste battu.",
@@ -357,7 +357,7 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 4,
-      "question": "Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
+      "question": "Selon les règles IHF de juillet 2025, quel sport collectif en salle se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
       "answer": "Handball",
       "fact_id": "handball-seven-players",
       "tested_fact": "handball-seven-players",
@@ -372,8 +372,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -388,6 +388,20 @@
             "fact_id": "handball-seven-players"
           },
           "reason": "Dater le règlement et distinguer un maximum réglementaire d’un effectif toujours égal à sept.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
+            "answer": "Handball",
+            "fact_id": "handball-seven-players"
+          },
+          "after": {
+            "question": "Selon les règles IHF de juillet 2025, quel sport collectif en salle se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?",
+            "answer": "Handball",
+            "fact_id": "handball-seven-players"
+          },
+          "reason": "Préciser le jeu en salle pour distinguer les variantes et les autres sports à sept.",
           "reviewed_at": "2026-10-18"
         }
       ],
@@ -422,8 +436,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter tennis. Tennis de table est un sport différent.",
@@ -460,8 +474,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -519,8 +533,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
       "decision": "Accepter Cesária Évora ou son nom Évora; les accents ne sont pas exigés à l’oral.",
@@ -556,8 +570,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -597,19 +611,29 @@
       "answer": "Soprano",
       "fact_id": "soprano-highest-female-voice",
       "tested_fact": "soprano-highest-female-voice",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Soprano",
+        "Voix de soprano"
+      ],
+      "primary_source": "https://www.opera-comique.com/sites/default/files/2021-11/2014_dossier_p%C3%A9da_chauve_souris.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Les trois grands groupes féminins sont soprano, le plus aigu, mezzo-soprano et contralto, le plus grave.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter soprano. Soprano colorature est une précision compatible, mais le grand type vocal suffit.",
+      "evidence": [
+        {
+          "url": "https://www.opera-comique.com/sites/default/files/2021-11/2014_dossier_p%C3%A9da_chauve_souris.pdf",
+          "locator": "Dossier La Chauve-Souris, page imprimée 8, groupes de voix, ligne 71.",
+          "support": "Les trois grands groupes féminins sont soprano, le plus aigu, mezzo-soprano et contralto, le plus grave.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -619,23 +643,48 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 5,
-      "question": "Quel instrument de la famille des cuivres possède généralement trois pistons et une embouchure en forme de coupe ?",
-      "answer": "Trompette",
-      "fact_id": "trumpet-three-valves",
-      "tested_fact": "trumpet-three-valves",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Comment appelle-t-on la pièce d’une trompette sur laquelle le musicien pose ses lèvres ?",
+      "answer": "Embouchure",
+      "fact_id": "trompette-embouchure-contact-levres",
+      "tested_fact": "trompette-embouchure-contact-levres",
+      "accepted_variants": [
+        "Embouchure",
+        "L’embouchure"
+      ],
+      "primary_source": "https://pad.philharmoniedeparis.fr/0798695-histoire-jazz-trompette-embouchure.aspx",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’embouchure forme avec les lèvres l’excitateur de l’instrument; la production de la note dépend du placement de l’embouchure contre les lèvres.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel instrument de la famille des cuivres possède généralement trois pistons et une embouchure en forme de coupe ?",
+            "answer": "Trompette",
+            "fact_id": "trumpet-three-valves"
+          },
+          "after": {
+            "question": "Comment appelle-t-on la pièce d’une trompette sur laquelle le musicien pose ses lèvres ?",
+            "answer": "Embouchure",
+            "fact_id": "trompette-embouchure-contact-levres"
+          },
+          "reason": "La description initiale à trois pistons et embouchure en coupe pouvait aussi conduire au cornet ou à d’autres cuivres. Remplacer par la fonction d’une pièce clairement définie.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter embouchure. Pavillon désigne l’extrémité évasée de sortie; piston désigne le mécanisme modifiant la longueur du tube.",
+      "evidence": [
+        {
+          "url": "https://pad.philharmoniedeparis.fr/0798695-histoire-jazz-trompette-embouchure.aspx",
+          "locator": "La trompette dans le jazz, Un instrument à vent et Au contact des lèvres, lignes 191–192 et 206.",
+          "support": "L’embouchure forme avec les lèvres l’excitateur de l’instrument; la production de la note dépend du placement de l’embouchure contre les lèvres.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -658,8 +707,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -708,8 +757,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -758,8 +807,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -795,7 +844,7 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 4,
-      "question": "Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
+      "question": "Avec le verbe mettre au présent de l’indicatif, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
       "answer": "Met",
       "fact_id": "homophone-met",
       "tested_fact": "homophone-met",
@@ -808,8 +857,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -824,6 +873,20 @@
             "fact_id": "homophone-met"
           },
           "reason": "Le verbe mettre est imposé pour exclure pose, dépose ou d’autres verbes sémantiquement possibles; épellation exigée.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
+            "answer": "Met",
+            "fact_id": "homophone-met"
+          },
+          "after": {
+            "question": "Avec le verbe mettre au présent de l’indicatif, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »",
+            "answer": "Met",
+            "fact_id": "homophone-met"
+          },
+          "reason": "La consigne précédente admettait aussi mit, mettait, mettra ou mettrait; imposer le présent de l’indicatif pour rendre met univoque.",
           "reviewed_at": "2026-10-18"
         }
       ],
@@ -860,8 +923,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
       "decision": "Accepter Kofi Annan ou Annan. Les dates et la carrière diplomatique discriminent ce lauréat.",
@@ -895,8 +958,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -949,8 +1012,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -999,8 +1062,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter 2001. L’année du début de son premier mandat, 1997, est un autre fait.",
@@ -1035,8 +1098,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
       "decision": "Accepter Kumasi ou sa graphie française Koumasi; Accra n’est pas sa ville de naissance.",
@@ -1071,8 +1134,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter comparaison; la présence d’un outil explicite la distingue de la métaphore.",
@@ -1106,8 +1169,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -1156,8 +1219,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter personnification. Une allégorie peut prendre une forme personnifiée, mais désigne un procédé symbolique plus large; demander le procédé d’attribution de traits humains.",
@@ -1191,8 +1254,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter litote. L’euphémisme vise d’abord à adoucir une réalité pénible, tandis que la question demande l’atténuation qui renforce ce qui est suggéré.",
@@ -1227,8 +1290,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -1278,8 +1341,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -1315,23 +1378,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 3,
-      "question": "Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?",
+      "question": "Quel inventeur conçut au XIXe siècle la machine analytique ?",
       "answer": "Charles Babbage",
       "fact_id": "babbage-analytical-engine",
       "tested_fact": "babbage-analytical-engine",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Charles Babbage",
+        "Babbage"
+      ],
+      "primary_source": "https://www.computerhistory.org/babbage/history/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Charles Babbage conçoit en 1834 une nouvelle machine programmable générale, appelée ensuite Analytical Engine.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?",
+            "answer": "Charles Babbage",
+            "fact_id": "babbage-analytical-engine"
+          },
+          "after": {
+            "question": "Quel inventeur conçut au XIXe siècle la machine analytique ?",
+            "answer": "Charles Babbage",
+            "fact_id": "babbage-analytical-engine"
+          },
+          "reason": "Limiter la question à la conception historique attestée par le musée.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Babbage. Ada Lovelace a publié des travaux sur la machine, mais n’est pas son concepteur.",
+      "evidence": [
+        {
+          "url": "https://www.computerhistory.org/babbage/history/",
+          "locator": "The Analytical Engine, lignes 96–99.",
+          "support": "Charles Babbage conçoit en 1834 une nouvelle machine programmable générale, appelée ensuite Analytical Engine.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1357,8 +1445,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter mètre par seconde carrée ou une écriture équivalente de m/s². Mètre par seconde sans carré exprime une vitesse, non une accélération.",
@@ -1393,8 +1481,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter diamant. La dureté de Mohs concerne la rayure, non la résistance à tous les chocs; ne pas qualifier le diamant d’incassable.",
@@ -1415,23 +1503,49 @@
       "section_number": 9,
       "section": "QUI, QUE, OÙ SUIS-JE ?",
       "number": 1,
-      "question": "Qui suis-je ? Romancière britannique, j'ai créé Hercule Poirot et Miss Marple.",
+      "question": "Qui suis-je ? Romancière, j’ai créé Hercule Poirot et Miss Marple.",
       "answer": "Agatha Christie",
       "fact_id": "agatha-christie-poirot-marple",
       "tested_fact": "agatha-christie-poirot-marple",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Agatha Christie",
+        "Christie",
+        "Agatha Mary Clarissa Christie"
+      ],
+      "primary_source": "https://www.agathachristie.com/about-christie",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Agatha Christie imagine le détective Hercule Poirot et crée Miss Jane Marple à la fin de 1927.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Qui suis-je ? Romancière britannique, j'ai créé Hercule Poirot et Miss Marple.",
+            "answer": "Agatha Christie",
+            "fact_id": "agatha-christie-poirot-marple"
+          },
+          "after": {
+            "question": "Qui suis-je ? Romancière, j’ai créé Hercule Poirot et Miss Marple.",
+            "answer": "Agatha Christie",
+            "fact_id": "agatha-christie-poirot-marple"
+          },
+          "reason": "Concentrer la devinette sur les créations effectivement documentées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Agatha Christie ou Christie. Les deux personnages doivent conduire à la même créatrice.",
+      "evidence": [
+        {
+          "url": "https://www.agathachristie.com/about-christie",
+          "locator": "Biographie officielle, création de Poirot ligne 139 et de Miss Marple ligne 167.",
+          "support": "Agatha Christie imagine le détective Hercule Poirot et crée Miss Jane Marple à la fin de 1927.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1441,23 +1555,62 @@
       "section_number": 9,
       "section": "QUI, QUE, OÙ SUIS-JE ?",
       "number": 2,
-      "question": "Où suis-je ? Je suis un volcan italien dominant la baie de Naples et connu pour l'éruption de l'an 79.",
-      "answer": "Vésuve",
-      "fact_id": "vesuvius-bay-naples",
-      "tested_fact": "vesuvius-bay-naples",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Qui suis-je ? Volcan équatorien au cône symétrique, je culmine à environ 5 897 mètres au sud-est de Quito.",
+      "answer": "Cotopaxi",
+      "fact_id": "cotopaxi-volcan-equateur-5897-metres-sud-est-quito",
+      "tested_fact": "cotopaxi-volcan-equateur-5897-metres-sud-est-quito",
+      "accepted_variants": [
+        "Cotopaxi",
+        "Volcan Cotopaxi"
+      ],
+      "primary_source": "https://www.igepn.edu.ec/cotopaxi",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’institut géophysique équatorien donne 5 897 m pour le Cotopaxi, un cône symétrique situé à 45 km au sud-est de Quito.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Où suis-je ? Je suis un volcan italien dominant la baie de Naples et connu pour l'éruption de l'an 79.",
+            "answer": "Vésuve",
+            "fact_id": "vesuvius-bay-naples"
+          },
+          "after": {
+            "question": "Où suis-je ? Volcan italien situé près de Naples, je suis connu pour l’éruption qui ensevelit Pompéi en l’an 79.",
+            "answer": "Vésuve",
+            "fact_id": "vesuvius-bay-naples"
+          },
+          "reason": "Ajouter le site enseveli comme discriminant et employer la localisation précisément attestée.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Où suis-je ? Volcan italien situé près de Naples, je suis connu pour l’éruption qui ensevelit Pompéi en l’an 79.",
+            "answer": "Vésuve",
+            "fact_id": "vesuvius-bay-naples"
+          },
+          "after": {
+            "question": "Qui suis-je ? Volcan équatorien au cône symétrique, je culmine à environ 5 897 mètres au sud-est de Quito.",
+            "answer": "Cotopaxi",
+            "fact_id": "cotopaxi-volcan-equateur-5897-metres-sud-est-quito"
+          },
+          "reason": "Supprimer le doublon inverse avec M12-R11-Q06: même éruption Vésuve–Pompéi de 79.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Cotopaxi. Chimborazo est un autre volcan équatorien, culminant plus haut et ne correspondant pas à l’altitude indiquée.",
+      "evidence": [
+        {
+          "url": "https://www.igepn.edu.ec/cotopaxi",
+          "locator": "IG-EPN, fiche Cotopaxi, tableau hauteur ligne 108 et description du cône et de la position ligne 115",
+          "support": "L’institut géophysique équatorien donne 5 897 m pour le Cotopaxi, un cône symétrique situé à 45 km au sud-est de Quito.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1471,19 +1624,30 @@
       "answer": "Détroit de Gibraltar",
       "fact_id": "gibraltar-strait-location",
       "tested_fact": "gibraltar-strait-location",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Détroit de Gibraltar",
+        "Gibraltar",
+        "Strait of Gibraltar"
+      ],
+      "primary_source": "https://www.esa.int/ESA_Multimedia/Images/2021/03/Strait_of_Gibraltar",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le détroit de Gibraltar relie la Méditerranée à l’Atlantique et sépare l’Espagne de l’Afrique du Nord, entre les points Marroquí en Espagne et Cires au Maroc.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter détroit de Gibraltar. Gibraltar seul suffit dans cette devinette explicitement consacrée au passage maritime.",
+      "evidence": [
+        {
+          "url": "https://www.esa.int/ESA_Multimedia/Images/2021/03/Strait_of_Gibraltar",
+          "locator": "Description géographique, ligne 22.",
+          "support": "Le détroit de Gibraltar relie la Méditerranée à l’Atlantique et sépare l’Espagne de l’Afrique du Nord, entre les points Marroquí en Espagne et Cires au Maroc.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1497,19 +1661,30 @@
       "answer": "Chutes du Niagara",
       "fact_id": "niagara-border-us-canada",
       "tested_fact": "niagara-border-us-canada",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Chutes du Niagara",
+        "Niagara",
+        "Niagara Falls"
+      ],
+      "primary_source": "https://www.discoverniagara.org/natural-phenomenon",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le Niagara Falls National Heritage Area décrit les trois chutes du Niagara sur la frontière États-Unis–Canada.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter le nom collectif Niagara; une seule chute (Horseshoe, Bridal Veil ou American Falls) ne désigne pas tout l’ensemble demandé.",
+      "evidence": [
+        {
+          "url": "https://www.discoverniagara.org/natural-phenomenon",
+          "locator": "Natural Phenomenon, paragraphe sur les trois chutes, lignes 20–23",
+          "support": "Le Niagara Falls National Heritage Area décrit les trois chutes du Niagara sur la frontière États-Unis–Canada.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1519,23 +1694,57 @@
       "section_number": 9,
       "section": "QUI, QUE, OÙ SUIS-JE ?",
       "number": 5,
-      "question": "Où suis-je ? Capitale de la Chine, j'abrite la Cité interdite.",
+      "question": "Où suis-je ? Au 18 octobre 2026, capitale de la Chine, j’abrite la Cité interdite.",
       "answer": "Pékin",
       "fact_id": "beijing-forbidden-city",
       "tested_fact": "beijing-forbidden-city",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Pékin",
+        "Beijing",
+        "Peking"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+      "secondary_sources": [
+        "https://whc.unesco.org/en/list/439/"
+      ],
+      "corroboration": "La Chine a pour capitale Beijing, aussi appelée Pékin. L’UNESCO situe la Cité interdite, palais impérial, à Beijing.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Où suis-je ? Capitale de la Chine, j'abrite la Cité interdite.",
+            "answer": "Pékin",
+            "fact_id": "beijing-forbidden-city"
+          },
+          "after": {
+            "question": "Où suis-je ? Au 18 octobre 2026, capitale de la Chine, j’abrite la Cité interdite.",
+            "answer": "Pékin",
+            "fact_id": "beijing-forbidden-city"
+          },
+          "reason": "Dater la fonction de capitale et corroborer séparément le monument.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Pékin et Beijing, appellations de la même ville; ne pas confondre avec Nankin, ancienne capitale.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales asiatiques, ligne China–Beijing (Peking), ligne 77",
+          "support": "La Chine a pour capitale Beijing, aussi appelée Pékin.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/439/",
+          "locator": "Palais impériaux des dynasties Ming et Qing, description, lignes 4–9",
+          "support": "L’UNESCO situe la Cité interdite, palais impérial, à Beijing.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1545,23 +1754,48 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 1,
-      "question": "Quelle institution spécialisée de l'ONU est chargée notamment de l'éducation, de la science et de la culture ?",
+      "question": "Au 18 octobre 2026, quelle institution spécialisée de l’ONU est chargée notamment de l’éducation, de la science et de la culture ?",
       "answer": "UNESCO",
       "fact_id": "unesco-education-science-culture",
       "tested_fact": "unesco-education-science-culture",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "UNESCO",
+        "Organisation des Nations unies pour l’éducation, la science et la culture"
+      ],
+      "primary_source": "https://www.unesco.org/en/about-us",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’UNESCO est l’organisation spécialisée pour l’éducation, la science et la culture.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle institution spécialisée de l'ONU est chargée notamment de l'éducation, de la science et de la culture ?",
+            "answer": "UNESCO",
+            "fact_id": "unesco-education-science-culture"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle institution spécialisée de l’ONU est chargée notamment de l’éducation, de la science et de la culture ?",
+            "answer": "UNESCO",
+            "fact_id": "unesco-education-science-culture"
+          },
+          "reason": "Date de référence explicite pour la mission institutionnelle actuelle.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter UNESCO ou son nom développé. Le sigle et le nom complet sont équivalents.",
+      "evidence": [
+        {
+          "url": "https://www.unesco.org/en/about-us",
+          "locator": "Présentation, ligne 40.",
+          "support": "L’UNESCO est l’organisation spécialisée pour l’éducation, la science et la culture.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1571,23 +1805,50 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 2,
-      "question": "Quelle organisation internationale spécialisée dirige et coordonne la santé publique mondiale au sein du système des Nations Unies ?",
+      "question": "Au 18 octobre 2026, quelle organisation de l’ONU dirige et coordonne l’action internationale en santé ?",
       "answer": "OMS",
       "fact_id": "who-global-health",
       "tested_fact": "who-global-health",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "OMS",
+        "Organisation mondiale de la santé",
+        "WHO",
+        "World Health Organization"
+      ],
+      "primary_source": "https://www.who.int/about",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’OMS est l’agence de l’ONU dédiée à la santé; elle dirige et coordonne les réponses sanitaires mondiales.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle organisation internationale spécialisée dirige et coordonne la santé publique mondiale au sein du système des Nations Unies ?",
+            "answer": "OMS",
+            "fact_id": "who-global-health"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle organisation de l’ONU dirige et coordonne l’action internationale en santé ?",
+            "answer": "OMS",
+            "fact_id": "who-global-health"
+          },
+          "reason": "Date de référence explicite pour la mission institutionnelle actuelle.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter OMS ou son nom développé. Le sigle et le nom complet sont équivalents.",
+      "evidence": [
+        {
+          "url": "https://www.who.int/about",
+          "locator": "Présentation de la mission et agence onusienne, lignes 85–95.",
+          "support": "L’OMS est l’agence de l’ONU dédiée à la santé; elle dirige et coordonne les réponses sanitaires mondiales.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1597,23 +1858,58 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 3,
-      "question": "Quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?",
+      "question": "Au 18 octobre 2026, quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?",
       "answer": "FMI",
       "fact_id": "imf-monetary-stability",
       "tested_fact": "imf-monetary-stability",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "FMI",
+        "Fonds monétaire international",
+        "IMF",
+        "International Monetary Fund"
+      ],
+      "primary_source": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance",
+      "secondary_sources": [
+        "https://www.imf.org/en/about/speakers"
+      ],
+      "corroboration": "Le FMI poursuit la coopération monétaire et la stabilité financière internationales. La page institutionnelle situe les locaux du siège du FMI à Washington D.C.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?",
+            "answer": "FMI",
+            "fact_id": "imf-monetary-stability"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?",
+            "answer": "FMI",
+            "fact_id": "imf-monetary-stability"
+          },
+          "reason": "Dater le siège et documenter séparément mission et localisation.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter le sigle ou le nom développé. Refuser Banque mondiale: son siège est également à Washington mais la mission monétaire distingue le FMI.",
+      "evidence": [
+        {
+          "url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance",
+          "locator": "IMF at a Glance, présentation, lignes 20–22",
+          "support": "Le FMI poursuit la coopération monétaire et la stabilité financière internationales.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://www.imf.org/en/about/speakers",
+          "locator": "Speakers, ligne 15",
+          "support": "La page institutionnelle situe les locaux du siège du FMI à Washington D.C.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1623,23 +1919,50 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 4,
-      "question": "Quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?",
+      "question": "Au 18 octobre 2026, quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?",
       "answer": "Union africaine",
       "fact_id": "african-union-addis",
       "tested_fact": "african-union-addis",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Union africaine",
+        "UA",
+        "African Union",
+        "AU"
+      ],
+      "primary_source": "https://au.int/en/overview",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’UA se présente comme une organisation continentale de 55 États et indique son siège à Addis-Abeba en Éthiopie.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?",
+            "answer": "Union africaine",
+            "fact_id": "african-union-addis"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?",
+            "answer": "Union africaine",
+            "fact_id": "african-union-addis"
+          },
+          "reason": "Dater l’institution et son siège.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter UA ou Union africaine; OUA désigne l’organisation antérieure, pas l’institution à la date demandée.",
+      "evidence": [
+        {
+          "url": "https://au.int/en/overview",
+          "locator": "About the African Union, présentation ligne 251 et pied de page African Union Headquarters, lignes 413–415",
+          "support": "L’UA se présente comme une organisation continentale de 55 États et indique son siège à Addis-Abeba en Éthiopie.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1649,23 +1972,85 @@
       "section_number": 10,
       "section": "DIVERS",
       "number": 5,
-      "question": "Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?",
-      "answer": "Cour internationale de Justice",
-      "fact_id": "icj-peace-palace-hague",
-      "tested_fact": "icj-peace-palace-hague",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "question": "Au 18 octobre 2026, quel fonds des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?",
+      "answer": "UNICEF",
+      "fact_id": "unicef-onu-droits-bien-etre-enfants",
+      "tested_fact": "unicef-onu-droits-bien-etre-enfants",
+      "accepted_variants": [
+        "UNICEF",
+        "Fonds des Nations unies pour l’enfance",
+        "United Nations Children’s Fund"
+      ],
+      "primary_source": "https://www.unicef.org/fr/qui-nous-sommes",
+      "secondary_sources": [
+        "https://www.unicef.org/who-we-are"
+      ],
+      "corroboration": "L’UNICEF se présente comme le Fonds des Nations unies pour l’enfance, dédié aux droits des enfants et à leurs besoins en santé, nutrition et éducation. L’UNICEF se définit comme l’organisme des Nations unies consacré aux enfants et à la protection de leurs droits, notamment en santé, nutrition et éducation.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?",
+            "answer": "Cour internationale de Justice",
+            "fact_id": "icj-peace-palace-hague"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle juridiction principale de l’ONU siège au Palais de la Paix à La Haye ?",
+            "answer": "Cour internationale de Justice",
+            "fact_id": "icj-peace-palace-hague"
+          },
+          "reason": "Dater la situation institutionnelle et distinguer la CIJ de la CPI.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Au 18 octobre 2026, quelle juridiction principale de l’ONU siège au Palais de la Paix à La Haye ?",
+            "answer": "Cour internationale de Justice",
+            "fact_id": "icj-peace-palace-hague"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel organisme des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?",
+            "answer": "UNICEF",
+            "fact_id": "unicef-onu-droits-bien-etre-enfants"
+          },
+          "reason": "Supprimer la relation inversée avec M08-R11-Q06: la CIJ et son siège à La Haye.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Au 18 octobre 2026, quel organisme des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?",
+            "answer": "UNICEF",
+            "fact_id": "unicef-onu-droits-bien-etre-enfants"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel fonds des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?",
+            "answer": "UNICEF",
+            "fact_id": "unicef-onu-droits-bien-etre-enfants"
+          },
+          "reason": "Préciser fonds, nom institutionnel français, pour distinguer le Comité des droits de l’enfant et les autres organismes.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter UNICEF ou Fonds des Nations unies pour l’enfance. Le Comité des droits de l’enfant est un organe conventionnel distinct; la consigne demande le fonds. UNESCO n’est pas ce fonds.",
+      "evidence": [
+        {
+          "url": "https://www.unicef.org/fr/qui-nous-sommes",
+          "locator": "Qui nous sommes, Nous protégeons les droits des enfants, lignes 15–18",
+          "support": "L’UNICEF se présente comme le Fonds des Nations unies pour l’enfance, dédié aux droits des enfants et à leurs besoins en santé, nutrition et éducation.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://www.unicef.org/who-we-are",
+          "locator": "Who we are, We protect children’s rights and safeguard their futures, lignes 15–18",
+          "support": "L’UNICEF se définit comme l’organisme des Nations unies consacré aux enfants et à la protection de leurs droits, notamment en santé, nutrition et éducation.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1689,8 +2074,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -1726,23 +2111,48 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 2,
-      "question": "Quel écrivain anglais est l'auteur d'Oliver Twist ?",
+      "question": "Quel écrivain est l’auteur du roman Oliver Twist ?",
       "answer": "Charles Dickens",
       "fact_id": "dickens-oliver-twist",
       "tested_fact": "dickens-oliver-twist",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Charles Dickens",
+        "Dickens"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb465487403",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Oliver Twist à Charles Dickens.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain anglais est l'auteur d'Oliver Twist ?",
+            "answer": "Charles Dickens",
+            "fact_id": "dickens-oliver-twist"
+          },
+          "after": {
+            "question": "Quel écrivain est l’auteur du roman Oliver Twist ?",
+            "answer": "Charles Dickens",
+            "fact_id": "dickens-oliver-twist"
+          },
+          "reason": "Formuler l’attribution littéraire directement, sans ajouter une nationalité que la notice de livre ne documente pas.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Dickens seul; un traducteur ou le réalisateur d’une adaptation n’est pas l’auteur du roman.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb465487403",
+          "locator": "Notice FRBNF46548740, champs Auteur(s) et Titre(s), lignes 57–59",
+          "support": "La BnF attribue Oliver Twist à Charles Dickens.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1756,19 +2166,29 @@
       "answer": "Aconcagua",
       "fact_id": "aconcagua-highest-south-america",
       "tested_fact": "aconcagua-highest-south-america",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Aconcagua",
+        "Mont Aconcagua"
+      ],
+      "primary_source": "https://www.argentina.gob.ar/noticias/aconcagua-2023-hacia-la-cumbre-del-cerro-mas-alto-de-america",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le gouvernement argentin présente l’Aconcagua comme le plus haut sommet de l’Amérique.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Aconcagua; les Andes désignent le massif, non le sommet.",
+      "evidence": [
+        {
+          "url": "https://www.argentina.gob.ar/noticias/aconcagua-2023-hacia-la-cumbre-del-cerro-mas-alto-de-america",
+          "locator": "Titre et introduction, lignes 13–24.",
+          "support": "Le gouvernement argentin présente l’Aconcagua comme le plus haut sommet de l’Amérique.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1793,8 +2213,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -1830,23 +2250,48 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 5,
-      "question": "Quel peintre français est associé à la série des Nymphéas ?",
+      "question": "Quel peintre est l’auteur de la série des Nymphéas ?",
       "answer": "Claude Monet",
       "fact_id": "monet-water-lilies",
       "tested_fact": "monet-water-lilies",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Claude Monet",
+        "Monet"
+      ],
+      "primary_source": "https://www.musee-orangerie.fr/fr/node/255",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le musée de l’Orangerie présente le cycle des Nymphéas comme l’œuvre de Claude Monet.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel peintre français est associé à la série des Nymphéas ?",
+            "answer": "Claude Monet",
+            "fact_id": "monet-water-lilies"
+          },
+          "after": {
+            "question": "Quel peintre est l’auteur de la série des Nymphéas ?",
+            "answer": "Claude Monet",
+            "fact_id": "monet-water-lilies"
+          },
+          "reason": "Rendre l’attribution explicite et limiter les assertions à la preuve muséale.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Monet seul. Manet est un autre peintre: la proximité phonétique ne rend pas les noms interchangeables.",
+      "evidence": [
+        {
+          "url": "https://www.musee-orangerie.fr/fr/node/255",
+          "locator": "Les Nymphéas de Claude Monet, titre et paragraphes 1–2, lignes 17–25",
+          "support": "Le musée de l’Orangerie présente le cycle des Nymphéas comme l’œuvre de Claude Monet.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1860,19 +2305,29 @@
       "answer": "Océan Pacifique",
       "fact_id": "pacific-largest-ocean",
       "tested_fact": "pacific-largest-ocean",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Océan Pacifique",
+        "Pacifique"
+      ],
+      "primary_source": "https://oceanservice.noaa.gov/facts/biggestocean.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La NOAA présente le Pacifique comme le plus vaste bassin océanique de la planète.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Pacifique ou océan Pacifique.",
+      "evidence": [
+        {
+          "url": "https://oceanservice.noaa.gov/facts/biggestocean.html",
+          "locator": "Titre et présentation, lignes 5 et 10.",
+          "support": "La NOAA présente le Pacifique comme le plus vaste bassin océanique de la planète.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1882,23 +2337,62 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 7,
-      "question": "Quel pays a Athènes pour capitale ?",
-      "answer": "Grèce",
-      "fact_id": "athens-country",
-      "tested_fact": "athens-country",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Au 18 octobre 2026, quel pays a Dacca, aussi appelée Dhaka, pour capitale ?",
+      "answer": "Bangladesh",
+      "fact_id": "bangladesh-capitale-dacca-dhaka",
+      "tested_fact": "bangladesh-capitale-dacca-dhaka",
+      "accepted_variants": [
+        "Bangladesh",
+        "Bangla Desh"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le tableau attribue Dhaka comme capitale du Bangladesh.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel pays a Athènes pour capitale ?",
+            "answer": "Grèce",
+            "fact_id": "athens-country"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel pays a Athènes pour capitale ?",
+            "answer": "Grèce",
+            "fact_id": "athens-country"
+          },
+          "reason": "Date de référence ajoutée pour la relation géopolitique.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Au 18 octobre 2026, quel pays a Athènes pour capitale ?",
+            "answer": "Grèce",
+            "fact_id": "athens-country"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel pays a Dacca, aussi appelée Dhaka, pour capitale ?",
+            "answer": "Bangladesh",
+            "fact_id": "bangladesh-capitale-dacca-dhaka"
+          },
+          "reason": "Supprimer la relation capitale inversée avec M10-R09-Q02: Athènes–Grèce.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Bangladesh. Dacca/Dhaka désigne la capitale donnée dans l’énoncé, pas le pays demandé.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales asiatiques, ligne Dhaka–Bangladesh, ligne 83",
+          "support": "Le tableau attribue Dhaka comme capitale du Bangladesh.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1923,8 +2417,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -1960,23 +2454,50 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 9,
-      "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+      "question": "Quel gaz fournit le carbone utilisé par les plantes pour la photosynthèse ?",
       "answer": "Dioxyde de carbone",
       "fact_id": "plants-absorb-co2",
       "tested_fact": "plants-absorb-co2",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Dioxyde de carbone",
+        "CO₂",
+        "CO2",
+        "Gaz carbonique"
+      ],
+      "primary_source": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le dioxyde de carbone et l’eau sont les réactifs utilisés pour former les glucides lors de la photosynthèse.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?",
+            "answer": "Dioxyde de carbone",
+            "fact_id": "plants-absorb-co2"
+          },
+          "after": {
+            "question": "Quel gaz fournit le carbone utilisé par les plantes pour la photosynthèse ?",
+            "answer": "Dioxyde de carbone",
+            "fact_id": "plants-absorb-co2"
+          },
+          "reason": "Éviter principalement, ambigu avec les échanges respiratoires; cibler la source du carbone.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter le nom, la formule ou gaz carbonique. Refuser dioxygène: il est un produit de la photosynthèse, et non la source du carbone.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis",
+          "locator": "Biology 2e, §8.1 Main Structures and Summary of Photosynthesis, lignes 41–45",
+          "support": "Le dioxyde de carbone et l’eau sont les réactifs utilisés pour former les glucides lors de la photosynthèse.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1986,23 +2507,50 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 10,
-      "question": "Quel type de cellules sanguines participe principalement à la défense immunitaire ?",
+      "question": "Quel est le nom générique des cellules sanguines qui jouent un rôle majeur dans la défense immunitaire ?",
       "answer": "Leucocytes",
       "fact_id": "leukocytes-immunity",
       "tested_fact": "leukocytes-immunity",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Leucocytes",
+        "Globules blancs",
+        "Leucocyte",
+        "Globule blanc"
+      ],
+      "primary_source": "https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Les globules blancs, ou leucocytes, sont des cellules de la défense immunitaire; les lymphocytes sont une de leurs catégories.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel type de cellules sanguines participe principalement à la défense immunitaire ?",
+            "answer": "Leucocytes",
+            "fact_id": "leukocytes-immunity"
+          },
+          "after": {
+            "question": "Quel est le nom générique des cellules sanguines qui jouent un rôle majeur dans la défense immunitaire ?",
+            "answer": "Leucocytes",
+            "fact_id": "leukocytes-immunity"
+          },
+          "reason": "Préciser le niveau de généralité afin de ne pas refuser arbitrairement une catégorie réellement immunitaire.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter leucocytes/globules blancs. Pour lymphocytes ou neutrophiles, demander le nom générique requis: ces réponses nomment seulement un sous-groupe.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood",
+          "locator": "Biology 2e, §40.2 White Blood Cells, lignes 54–57",
+          "support": "Les globules blancs, ou leucocytes, sont des cellules de la défense immunitaire; les lymphocytes sont une de leurs catégories.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2012,23 +2560,48 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 1,
-      "question": "Quelle province de la RDC a Bunia pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bunia pour chef-lieu ?",
       "answer": "Ituri",
       "fact_id": "ituri-capital-bunia",
       "tested_fact": "ituri-capital-bunia",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ituri",
+        "Province de l’Ituri"
+      ],
+      "primary_source": "https://www.droitcongolais.info/EN/files/128.03.15-Loi-du-25-mars-2015_Limites-de-province.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’article 9 dispose que le chef-lieu de la province de l’Ituri est Bunia.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Bunia pour chef-lieu ?",
+            "answer": "Ituri",
+            "fact_id": "ituri-capital-bunia"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bunia pour chef-lieu ?",
+            "answer": "Ituri",
+            "fact_id": "ituri-capital-bunia"
+          },
+          "reason": "Ancrer le chef-lieu dans le texte légal, sans extrapoler la situation politique ou militaire actuelle.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Ituri; Bunia est la ville indiquée dans la question, pas la province recherchée.",
+      "evidence": [
+        {
+          "url": "https://www.droitcongolais.info/EN/files/128.03.15-Loi-du-25-mars-2015_Limites-de-province.pdf",
+          "locator": "Loi organique n°15/006 du 25 mars 2015, article 9, page 19 du PDF, lignes 791–793",
+          "support": "L’article 9 dispose que le chef-lieu de la province de l’Ituri est Bunia.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2038,23 +2611,49 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 2,
-      "question": "Quelle province de la RDC a Matadi pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Matadi pour chef-lieu ?",
       "answer": "Kongo Central",
       "fact_id": "kongo-central-capital-matadi",
       "tested_fact": "kongo-central-capital-matadi",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kongo Central",
+        "Kongo-Central",
+        "Province du Kongo Central"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’article 13 identifie Matadi comme chef-lieu du Kongo Central.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Matadi pour chef-lieu ?",
+            "answer": "Kongo Central",
+            "fact_id": "kongo-central-capital-matadi"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Matadi pour chef-lieu ?",
+            "answer": "Kongo Central",
+            "fact_id": "kongo-central-capital-matadi"
+          },
+          "reason": "Dater le fondement légal et préciser l’appellation attendue.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Kongo Central avec ou sans trait d’union. Bas-Congo est l’ancienne dénomination, pas celle de la loi expressément demandée.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006 du 25 mars 2015, article 13, lignes 1075–1076",
+          "support": "L’article 13 identifie Matadi comme chef-lieu du Kongo Central.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2064,23 +2663,49 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 3,
-      "question": "Quelle province de la RDC a Bukavu pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bukavu pour chef-lieu ?",
       "answer": "Sud-Kivu",
       "fact_id": "south-kivu-capital-bukavu",
       "tested_fact": "south-kivu-capital-bukavu",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Sud-Kivu",
+        "Sud Kivu",
+        "Province du Sud-Kivu"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’article 24 désigne Bukavu comme chef-lieu du Sud-Kivu.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Bukavu pour chef-lieu ?",
+            "answer": "Sud-Kivu",
+            "fact_id": "south-kivu-capital-bukavu"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bukavu pour chef-lieu ?",
+            "answer": "Sud-Kivu",
+            "fact_id": "south-kivu-capital-bukavu"
+          },
+          "reason": "Dater le fondement légal; ne pas transformer une réponse administrative en affirmation de contrôle territorial actuel.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Sud-Kivu. Nord-Kivu est une autre province, dont le chef-lieu légal est Goma.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006 du 25 mars 2015, article 24, lignes 2120–2121",
+          "support": "L’article 24 désigne Bukavu comme chef-lieu du Sud-Kivu.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2094,19 +2719,30 @@
       "answer": "Lac Tanganyika",
       "fact_id": "lake-tanganyika-drc-border",
       "tested_fact": "lake-tanganyika-drc-border",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Lac Tanganyika",
+        "Tanganyika",
+        "Tanganyka"
+      ],
+      "primary_source": "https://www.fao.org/inland-fisheries/topics/detail/en/c/1147818/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le lac Tanganyika est partagé par le Burundi, la RDC, la Tanzanie et la Zambie.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Tanganyika ou lac Tanganyika; Malawi et Victoria ne sont pas partagés par les quatre pays indiqués.",
+      "evidence": [
+        {
+          "url": "https://www.fao.org/inland-fisheries/topics/detail/en/c/1147818/",
+          "locator": "Rapport FAO/AfDB F-14, résumé, paragraphe 2, ligne 24.",
+          "support": "Le lac Tanganyika est partagé par le Burundi, la RDC, la Tanzanie et la Zambie.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2120,19 +2756,31 @@
       "answer": "Joseph Kabasele",
       "fact_id": "grand-kalle-joseph-kabasele",
       "tested_fact": "grand-kalle-joseph-kabasele",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Joseph Kabasele",
+        "Joseph Athanase Kabasele",
+        "Kabasele",
+        "Kabasellé"
+      ],
+      "primary_source": "https://independance.africamuseum.be/sites/independance.africamuseum.be/files/files/booklet_independance_en.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le musée associe explicitement le surnom Grand Kalle à Joseph Athanase Kabasele, dans sa présentation d’African Jazz et de l’indépendance congolaise.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Joseph Kabasele, Joseph Athanase Kabasele ou Kabasele. Grand Kallé seul répète le surnom donné et ne fournit pas le nom demandé. Ne pas confondre avec Pépé Kallé.",
+      "evidence": [
+        {
+          "url": "https://independance.africamuseum.be/sites/independance.africamuseum.be/files/files/booklet_independance_en.pdf",
+          "locator": "AfricaMuseum, livret de l’exposition Indépendance!, page 9 du PDF, légende Joseph Athanase Kabasele (Grand Kalle), lignes 157–161",
+          "support": "Le musée associe explicitement le surnom Grand Kalle à Joseph Athanase Kabasele, dans sa présentation d’African Jazz et de l’indépendance congolaise.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2157,8 +2805,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2208,8 +2856,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2227,7 +2875,7 @@
           "reviewed_at": "2026-10-18"
         }
       ],
-      "decision": "Accepter Rembrandt et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "decision": "Accepter Rembrandt ou Rembrandt van Rijn. Il s’agit de l’auteur de La Ronde de nuit, et non d’un personnage représenté sur le tableau.",
       "evidence": [
         {
           "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/10-things-about-rembrandt-s-night-watch",
@@ -2251,7 +2899,9 @@
       "tested_fact": "mariama-ba-long-letter",
       "accepted_variants": [
         "Mariama Bâ",
-        "Mariama Ba"
+        "Mariama Ba",
+        "Bâ",
+        "Ba"
       ],
       "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb473155629",
       "secondary_sources": [],
@@ -2259,8 +2909,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2278,7 +2928,7 @@
           "reviewed_at": "2026-10-18"
         }
       ],
-      "decision": "Accepter Mariama Bâ et les graphies indiquées; le nom de famille suffit lorsqu’il est univoque dans ce contexte.",
+      "decision": "Accepter Mariama Bâ, sa graphie sans accent ou Bâ seul dans le contexte de ce roman. Ne pas confondre avec Amadou Hampâté Bâ.",
       "evidence": [
         {
           "url": "https://catalogue.bnf.fr/ark:/12148/cb473155629",
@@ -2310,8 +2960,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2347,23 +2997,48 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 5,
-      "question": "Combien de vers compte traditionnellement un sonnet ?",
-      "answer": "14",
-      "fact_id": "sonnet-fourteen-lines",
-      "tested_fact": "sonnet-fourteen-lines",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Comment appelle-t-on un groupe de vers formant un ensemble dans un poème ?",
+      "answer": "Strophe",
+      "fact_id": "poesie-strophe-groupe-vers",
+      "tested_fact": "poesie-strophe-groupe-vers",
+      "accepted_variants": [
+        "Strophe",
+        "Une strophe"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/junior/strophe/18528",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Une strophe est un ensemble de vers à l’intérieur d’un poème.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Combien de vers compte traditionnellement un sonnet ?",
+            "answer": "14",
+            "fact_id": "sonnet-fourteen-lines"
+          },
+          "after": {
+            "question": "Comment appelle-t-on un groupe de vers formant un ensemble dans un poème ?",
+            "answer": "Strophe",
+            "fact_id": "poesie-strophe-groupe-vers"
+          },
+          "reason": "Supprimer le doublon inverse avec M10-R13-Q05, sonnet et quatorze vers; M07-R13-Q05 reprend aussi une structure de sonnet.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter strophe. Quatrain ou tercet sont des strophes de longueur déterminée: demander le nom générique. Un paragraphe désigne généralement un ensemble de phrases en prose.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/junior/strophe/18528",
+          "locator": "Larousse Junior, Strophe, définition, ligne 45",
+          "support": "Une strophe est un ensemble de vers à l’intérieur d’un poème.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2373,23 +3048,49 @@
       "section_number": 14,
       "section": "MONDE CONTEMPORAIN",
       "number": 1,
-      "question": "Quelle crise internationale de 1956 fut déclenchée par la nationalisation d'un canal stratégique par l'Égypte ?",
+      "question": "Quelle crise internationale de 1956 suivit la nationalisation par l’Égypte de la compagnie exploitant un canal stratégique ?",
       "answer": "Crise de Suez",
       "fact_id": "suez-crisis-1956",
       "tested_fact": "suez-crisis-1956",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Crise de Suez",
+        "Crise du canal de Suez",
+        "Guerre de Suez"
+      ],
+      "primary_source": "https://history.state.gov/milestones/1953-1960/suez",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Nasser annonce la nationalisation de la compagnie du canal de Suez le 26 juillet 1956, provoquant la crise internationale décrite.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle crise internationale de 1956 fut déclenchée par la nationalisation d'un canal stratégique par l'Égypte ?",
+            "answer": "Crise de Suez",
+            "fact_id": "suez-crisis-1956"
+          },
+          "after": {
+            "question": "Quelle crise internationale de 1956 suivit la nationalisation par l’Égypte de la compagnie exploitant un canal stratégique ?",
+            "answer": "Crise de Suez",
+            "fact_id": "suez-crisis-1956"
+          },
+          "reason": "Distinguer la nationalisation de la compagnie exploitante de l’infrastructure géographique et accepter Suez dans le contexte de crise.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter crise de Suez ou guerre de Suez. Suez seul est recevable dans ce contexte. La nationalisation porte précisément sur la compagnie du canal.",
+      "evidence": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/suez",
+          "locator": "The Suez Crisis, 1956, titre et premier paragraphe, lignes 6–8.",
+          "support": "Nasser annonce la nationalisation de la compagnie du canal de Suez le 26 juillet 1956, provoquant la crise internationale décrite.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2403,19 +3104,31 @@
       "answer": "Nikita Khrouchtchev",
       "fact_id": "khrushchev-cuban-missile-crisis",
       "tested_fact": "khrushchev-cuban-missile-crisis",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Nikita Khrouchtchev",
+        "Khrouchtchev",
+        "Nikita Khrushchev",
+        "Khrushchev"
+      ],
+      "primary_source": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le chef du gouvernement soviétique Nikita Khrouchtchev conclut avec Fidel Castro l’accord d’installation de missiles en juillet 1962.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Khrouchtchev et ses translittérations usuelles. Fidel Castro dirige Cuba; Kennedy dirige les États-Unis.",
+      "evidence": [
+        {
+          "url": "https://history.state.gov/milestones/1961-1968/cuban-missile-crisis",
+          "locator": "The Cuban Missile Crisis, October 1962, ligne 12.",
+          "support": "Le chef du gouvernement soviétique Nikita Khrouchtchev conclut avec Fidel Castro l’accord d’installation de missiles en juillet 1962.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2425,23 +3138,49 @@
       "section_number": 14,
       "section": "MONDE CONTEMPORAIN",
       "number": 3,
-      "question": "Quelle conférence tenue en 1884-1885 fixa des règles de colonisation et de commerce en Afrique entre puissances européennes ?",
+      "question": "Quelle conférence de 1884–1885 fixa notamment des règles de commerce dans le bassin du Congo et d’occupation coloniale du littoral africain ?",
       "answer": "Conférence de Berlin",
       "fact_id": "berlin-conference-1884-1885",
       "tested_fact": "berlin-conference-1884-1885",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Conférence de Berlin",
+        "Berlin",
+        "Conférence coloniale de Berlin"
+      ],
+      "primary_source": "https://www.larousse.fr/encyclopedie/divers/conf%C3%A9rence_de_Berlin/108516",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La conférence de Berlin de novembre 1884 à février 1885 réglemente le commerce et les modalités de nouvelles occupations; elle n’effectue pas elle-même tout le partage territorial de l’Afrique.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle conférence tenue en 1884-1885 fixa des règles de colonisation et de commerce en Afrique entre puissances européennes ?",
+            "answer": "Conférence de Berlin",
+            "fact_id": "berlin-conference-1884-1885"
+          },
+          "after": {
+            "question": "Quelle conférence de 1884–1885 fixa notamment des règles de commerce dans le bassin du Congo et d’occupation coloniale du littoral africain ?",
+            "answer": "Conférence de Berlin",
+            "fact_id": "berlin-conference-1884-1885"
+          },
+          "reason": "Préciser la portée réelle de la conférence; elle établit des règles sans réaliser elle-même tout le partage colonial.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Berlin seul lorsque le contexte de conférence est clair. Ne pas présenter la conférence comme ayant dessiné toutes les frontières de l’Afrique.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/encyclopedie/divers/conf%C3%A9rence_de_Berlin/108516",
+          "locator": "Conférence de Berlin, titre, introduction et Vers le partage colonial de l’Afrique, lignes 15–26",
+          "support": "La conférence de Berlin de novembre 1884 à février 1885 réglemente le commerce et les modalités de nouvelles occupations; elle n’effectue pas elle-même tout le partage territorial de l’Afrique.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2451,23 +3190,48 @@
       "section_number": 14,
       "section": "MONDE CONTEMPORAIN",
       "number": 4,
-      "question": "En quelle année prit fin la Première Guerre mondiale ?",
+      "question": "En quelle année eut lieu l’armistice du 11 novembre de la Première Guerre mondiale ?",
       "answer": "1918",
-      "fact_id": "ww1-ended-1918",
-      "tested_fact": "ww1-ended-1918",
-      "accepted_variants": [],
-      "primary_source": null,
+      "fact_id": "premiere-guerre-mondiale-armistice-11-novembre-1918",
+      "tested_fact": "premiere-guerre-mondiale-armistice-11-novembre-1918",
+      "accepted_variants": [
+        "1918",
+        "Mille neuf cent dix-huit"
+      ],
+      "primary_source": "https://rdf.archives-nationales.culture.gouv.fr/garance/entities/agent/009898/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Les Archives nationales distinguent la convention d’armistice du 11 novembre 1918 du traité de Versailles du 28 juin 1919.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "En quelle année prit fin la Première Guerre mondiale ?",
+            "answer": "1918",
+            "fact_id": "ww1-ended-1918"
+          },
+          "after": {
+            "question": "En quelle année eut lieu l’armistice du 11 novembre de la Première Guerre mondiale ?",
+            "answer": "1918",
+            "fact_id": "premiere-guerre-mondiale-armistice-11-novembre-1918"
+          },
+          "reason": "La fin de la guerre pouvait désigner armistice, paix ou fin juridique; cibler précisément l’armistice.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger 1918 pour l’armistice. Le traité de paix de Versailles est de 1919 et ne répond pas à ce libellé.",
+      "evidence": [
+        {
+          "url": "https://rdf.archives-nationales.culture.gouv.fr/garance/entities/agent/009898/",
+          "locator": "Notice d’organisme, Historique, ligne 155",
+          "support": "Les Archives nationales distinguent la convention d’armistice du 11 novembre 1918 du traité de Versailles du 28 juin 1919.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2481,19 +3245,29 @@
       "answer": "1991",
       "fact_id": "ussr-dissolved-1991",
       "tested_fact": "ussr-dissolved-1991",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "1991",
+        "Mille neuf cent quatre-vingt-onze"
+      ],
+      "primary_source": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La notice décrit la dissolution de l’URSS et la fin de ses institutions en décembre 1991.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger l’année 1991; 1989 concerne d’autres événements, notamment la chute du mur de Berlin.",
+      "evidence": [
+        {
+          "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union",
+          "locator": "Office of the Historian, The Collapse of the Soviet Union, paragraphes finaux, lignes 29–31",
+          "support": "La notice décrit la dissolution de l’URSS et la fin de ses institutions en décembre 1991.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2507,19 +3281,31 @@
       "answer": "Ngũgĩ wa Thiong'o",
       "fact_id": "ngugi-petals-blood",
       "tested_fact": "ngugi-petals-blood",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ngũgĩ wa Thiong’o",
+        "Ngugi wa Thiong’o",
+        "Ngugi wa Thiongo",
+        "Ngugi"
+      ],
+      "primary_source": "https://www.bnf.fr/fr/hommage-ngugi-wa-thiongo-1938-2025",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La BnF présente Ngũgĩ wa Thiong’o comme écrivain né au Kenya et cite Pétales de sang de 1977 parmi ses romans.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Ngũgĩ wa Thiong’o et ses graphies sans signes diacritiques; Ngugi seul est recevable dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://www.bnf.fr/fr/hommage-ngugi-wa-thiongo-1938-2025",
+          "locator": "Présentation de l’auteur né au Kenya ligne 20 et œuvres ligne 29.",
+          "support": "La BnF présente Ngũgĩ wa Thiong’o comme écrivain né au Kenya et cite Pétales de sang de 1977 parmi ses romans.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2533,19 +3319,39 @@
       "answer": "Chimamanda Ngozi Adichie",
       "fact_id": "adichie-purple-hibiscus",
       "tested_fact": "adichie-purple-hibiscus",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Chimamanda Ngozi Adichie",
+        "Chimamanda Adichie",
+        "Ngozi Adichie",
+        "Adichie"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb476946406",
+      "secondary_sources": [
+        "https://catalogue.bnf.fr/ark:/12148/cb145655352"
+      ],
+      "corroboration": "L’Hibiscus pourpre, traduit de Purple Hibiscus, est attribué à Chimamanda Ngozi Adichie. La notice de la romancière indique Nigeria et cite L’Hibiscus pourpre parmi ses sources.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Adichie seul ou son nom développé. Chimamanda seul permet une demande de précision, car le relais attend une identité d’auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb476946406",
+          "locator": "Notice FRBNF47694640, champs Auteur et Titre, lignes 57–61",
+          "support": "L’Hibiscus pourpre, traduit de Purple Hibiscus, est attribué à Chimamanda Ngozi Adichie.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb145655352",
+          "locator": "Notice d’autorité FRBNF14565535, Pays et Source(s), lignes 53–72",
+          "support": "La notice de la romancière indique Nigeria et cite L’Hibiscus pourpre parmi ses sources.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2559,19 +3365,40 @@
       "answer": "Mongo Beti",
       "fact_id": "mongo-beti-pauvre-christ",
       "tested_fact": "mongo-beti-pauvre-christ",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Mongo Beti",
+        "Mongo Béti",
+        "Alexandre Biyidi Awala",
+        "Béti",
+        "Beti"
+      ],
+      "primary_source": "https://www.larousse.fr/encyclopedie/personnage/Alexandre_Biyidi_Awala_dit_Mongo_Beti/108722",
+      "secondary_sources": [
+        "https://catalogue.bnf.fr/ark:/12148/cb42529235d"
+      ],
+      "corroboration": "Mongo Beti est présenté comme écrivain camerounais et auteur du Pauvre Christ de Bomba. La date 1954 donnée sur cette page n’est pas utilisée pour la question. La notice bibliographique recoupe l’attribution en mentionnant Le pauvre christ de Bomba de Mongo Beti.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Mongo Beti, ses graphies accentuées ou son nom civil Alexandre Biyidi Awala. La question ne porte pas sur l’année de publication.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/encyclopedie/personnage/Alexandre_Biyidi_Awala_dit_Mongo_Beti/108722",
+          "locator": "Nationalité et liste des œuvres, lignes 17–19.",
+          "support": "Mongo Beti est présenté comme écrivain camerounais et auteur du Pauvre Christ de Bomba. La date 1954 donnée sur cette page n’est pas utilisée pour la question.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb42529235d",
+          "locator": "Sommaire de l’ouvrage critique, ligne 61.",
+          "support": "La notice bibliographique recoupe l’attribution en mentionnant Le pauvre christ de Bomba de Mongo Beti.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2585,19 +3412,30 @@
       "answer": "Camara Laye",
       "fact_id": "camara-laye-enfant-noir",
       "tested_fact": "camara-laye-enfant-noir",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Camara Laye",
+        "Laye Camara",
+        "Laye"
+      ],
+      "primary_source": "https://www.larousse.fr/encyclopedie/personnage/Camara_Laye/129117",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Camara Laye est un écrivain guinéen; L’Enfant noir de 1953 figure parmi ses romans.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Camara Laye ou Laye Camara. Pour Camara seul, demander de préciser le nom complet, très répandu; Laye est recevable dans ce contexte.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/encyclopedie/personnage/Camara_Laye/129117",
+          "locator": "Nationalité et œuvres, lignes 17–23.",
+          "support": "Camara Laye est un écrivain guinéen; L’Enfant noir de 1953 figure parmi ses romans.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2622,8 +3460,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2674,8 +3512,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
       "decision": "Accepter Atlantique ou Atlantique Nord. Le vol en solitaire entre Hawaï et le continent américain eut lieu en 1935, non en 1932.",
@@ -2713,8 +3551,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2765,8 +3603,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2829,8 +3667,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
       "decision": "Accepter 1937. Refuser 1939: la déclaration légale de décès est un événement postérieur.",
@@ -2865,8 +3703,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2915,8 +3753,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -2965,8 +3803,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -3016,8 +3854,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -3057,19 +3895,31 @@
       "answer": "Héraclès",
       "fact_id": "heracles-twelve-labors",
       "tested_fact": "heracles-twelve-labors",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Héraclès",
+        "Heracles",
+        "Hercule",
+        "Hercules"
+      ],
+      "primary_source": "https://www.larousse.fr/encyclopedie/divers/H%C3%A9racl%C3%A8s/123664",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Larousse attribue les douze travaux à Héraclès et précise que les Romains l’appellent Hercule.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Héraclès et Hercule, même héros sous son nom romain; le libellé grec ne justifie pas le refus de cette variante équivalente.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/encyclopedie/divers/H%C3%A9racl%C3%A8s/123664",
+          "locator": "Article Héraclès, équivalence romaine ligne 23 et Les douze travaux, lignes 40–42",
+          "support": "Larousse attribue les douze travaux à Héraclès et précise que les Romains l’appellent Hercule.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3093,8 +3943,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -3130,23 +3980,49 @@
       "section_number": 18,
       "section": "MYTHOLOGIE ET RELIGION",
       "number": 3,
-      "question": "Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?",
+      "question": "Selon la tradition bouddhiste, dans quelle ville indienne le Bouddha a-t-il atteint l’Éveil ?",
       "answer": "Bodh-Gaya",
       "fact_id": "bodh-gaya-enlightenment",
       "tested_fact": "bodh-gaya-enlightenment",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Bodh-Gaya",
+        "Bodh Gaya",
+        "Bodhgaya"
+      ],
+      "primary_source": "https://whc.unesco.org/en/list/1056/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’UNESCO situe à Bodh Gaya en Inde le lieu de l’Éveil du Bouddha, associé au temple de la Mahabodhi.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?",
+            "answer": "Bodh-Gaya",
+            "fact_id": "bodh-gaya-enlightenment"
+          },
+          "after": {
+            "question": "Selon la tradition bouddhiste, dans quelle ville indienne le Bouddha a-t-il atteint l’Éveil ?",
+            "answer": "Bodh-Gaya",
+            "fact_id": "bodh-gaya-enlightenment"
+          },
+          "reason": "Présenter le récit comme une tradition religieuse et exiger le lieu précis.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter les graphies Bodh Gaya/Bodhgaya. Gaya seul est insuffisant: demander la localité complète; Lumbini est le lieu traditionnel de naissance.",
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1056/",
+          "locator": "Ensemble du temple de la Mahabodhi à Bodhgaya, présentation, lignes 2–5 et 54",
+          "support": "L’UNESCO situe à Bodh Gaya en Inde le lieu de l’Éveil du Bouddha, associé au temple de la Mahabodhi.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3156,23 +4032,59 @@
       "section_number": 18,
       "section": "MYTHOLOGIE ET RELIGION",
       "number": 4,
-      "question": "Quelle montagne de la tradition biblique est associée à la remise des Dix Commandements à Moïse ?",
+      "question": "Selon le livre de l’Exode, sur quelle montagne Moïse reçoit-il les Dix Commandements ?",
       "answer": "Mont Sinaï",
       "fact_id": "sinai-ten-commandments",
       "tested_fact": "sinai-ten-commandments",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Mont Sinaï",
+        "Sinaï",
+        "Sinai",
+        "Horeb",
+        "Mont Horeb"
+      ],
+      "primary_source": "https://www.aelf.org/bible/Ex/34",
+      "secondary_sources": [
+        "https://www.aelf.org/bible/Dt/5"
+      ],
+      "corroboration": "Le récit biblique fait monter Moïse au Sinaï et lui associe les tables portant les Dix Paroles. Le récit du Deutéronome situe l’alliance et le don des commandements à l’Horeb, nom alternatif de la montagne dans la tradition biblique.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle montagne de la tradition biblique est associée à la remise des Dix Commandements à Moïse ?",
+            "answer": "Mont Sinaï",
+            "fact_id": "sinai-ten-commandments"
+          },
+          "after": {
+            "question": "Selon le livre de l’Exode, sur quelle montagne Moïse reçoit-il les Dix Commandements ?",
+            "answer": "Mont Sinaï",
+            "fact_id": "sinai-ten-commandments"
+          },
+          "reason": "Distinguer explicitement le récit de l’Exode d’une assertion historique ou géographique non démontrée.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Sinaï et Horeb, appellations bibliques de la montagne du don de la Loi. Exode 34 emploie Sinaï, Deutéronome 5 Horeb; ne pas exiger une identification archéologique contemporaine.",
+      "evidence": [
+        {
+          "url": "https://www.aelf.org/bible/Ex/34",
+          "locator": "Exode 34, versets 2, 4 et 28–29, lignes 156, 159 et 198–199",
+          "support": "Le récit biblique fait monter Moïse au Sinaï et lui associe les tables portant les Dix Paroles.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://www.aelf.org/bible/Dt/5",
+          "locator": "Deutéronome 5, verset 2 puis Décalogue, lignes 144–157",
+          "support": "Le récit du Deutéronome situe l’alliance et le don des commandements à l’Horeb, nom alternatif de la montagne dans la tradition biblique.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3182,23 +4094,51 @@
       "section_number": 18,
       "section": "MYTHOLOGIE ET RELIGION",
       "number": 5,
-      "question": "Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une nouvelle existence ?",
+      "question": "Comment appelle-t-on la croyance selon laquelle, après la mort, l’âme peut passer dans un autre corps ?",
       "answer": "Réincarnation",
       "fact_id": "reincarnation-definition",
       "tested_fact": "reincarnation-definition",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Réincarnation",
+        "Métempsycose",
+        "Métempsychose",
+        "Transmigration",
+        "Transmigration des âmes"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/r%C3%A9incarnation/67757",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Larousse décrit le passage de l’âme dans un autre corps après la mort et donne métempsycose et transmigration comme synonymes.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une nouvelle existence ?",
+            "answer": "Réincarnation",
+            "fact_id": "reincarnation-definition"
+          },
+          "after": {
+            "question": "Comment appelle-t-on la croyance selon laquelle, après la mort, l’âme peut passer dans un autre corps ?",
+            "answer": "Réincarnation",
+            "fact_id": "reincarnation-definition"
+          },
+          "reason": "Distinguer la notion demandée d’une simple nouvelle existence ou du cycle entier des renaissances.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter réincarnation, métempsycose et transmigration, synonymes documentés. Samsara désigne le cycle des renaissances: demander le nom du passage ou de la croyance, plutôt que le cycle. Présenter ce contenu comme une croyance.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/r%C3%A9incarnation/67757",
+          "locator": "Définition 1 et synonymes, lignes 25–30",
+          "support": "Larousse décrit le passage de l’âme dans un autre corps après la mort et donne métempsycose et transmigration comme synonymes.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3228,8 +4168,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [
         {
@@ -3287,23 +4227,49 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 1,
-      "question": "Quelle est la capitale de l'Autriche ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de l’Autriche ?",
       "answer": "Vienne",
       "fact_id": "austria-capital",
       "tested_fact": "austria-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Vienne",
+        "Vienna",
+        "Wien"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Vienna, appelée Vienne en français, figure comme capitale de l’Autriche.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale de l'Autriche ?",
+            "answer": "Vienne",
+            "fact_id": "austria-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de l’Autriche ?",
+            "answer": "Vienne",
+            "fact_id": "austria-capital"
+          },
+          "reason": "Date ajoutée et graphies internationales consignées.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Vienne, Vienna ou Wien. Ne pas confondre l’Autriche et l’Australie.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "locator": "Tableau des capitales, Vienna–Austria, ligne 111.",
+          "support": "Vienna, appelée Vienne en français, figure comme capitale de l’Autriche.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3313,23 +4279,56 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 2,
-      "question": "Quel physicien et chimiste irlandais a donné son nom à une loi reliant pression et volume d'un gaz ?",
+      "question": "Quel savant né en Irlande en 1627 a donné son nom à une loi reliant pression et volume d’un gaz à température constante ?",
       "answer": "Robert Boyle",
       "fact_id": "boyle-law",
       "tested_fact": "boyle-law",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Robert Boyle",
+        "Boyle"
+      ],
+      "primary_source": "https://mathshistory.st-andrews.ac.uk//Biographies/Boyle/",
+      "secondary_sources": [
+        "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/boyles-law/"
+      ],
+      "corroboration": "La biographie universitaire situe la naissance de Robert Boyle à Lismore, en Irlande, en 1627. La NASA attribue à Robert Boyle la loi concernant le rapport entre pression et volume d’un gaz à température constante.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel physicien et chimiste irlandais a donné son nom à une loi reliant pression et volume d'un gaz ?",
+            "answer": "Robert Boyle",
+            "fact_id": "boyle-law"
+          },
+          "after": {
+            "question": "Quel savant né en Irlande en 1627 a donné son nom à une loi reliant pression et volume d’un gaz à température constante ?",
+            "answer": "Robert Boyle",
+            "fact_id": "boyle-law"
+          },
+          "reason": "Éviter une nationalité historiquement discutée; le lieu et l’année de naissance documentés distinguent Boyle de Mariotte.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Boyle seul. Mariotte est également associé à cette loi mais ne satisfait pas l’indice de naissance en Irlande en 1627. La température constante est indispensable à la relation.",
+      "evidence": [
+        {
+          "url": "https://mathshistory.st-andrews.ac.uk//Biographies/Boyle/",
+          "locator": "MacTutor, Robert Boyle, Quick Info, lignes 8–18",
+          "support": "La biographie universitaire situe la naissance de Robert Boyle à Lismore, en Irlande, en 1627.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/boyles-law/",
+          "locator": "NASA Glenn, Boyle’s Law, introduction, lignes 6–9",
+          "support": "La NASA attribue à Robert Boyle la loi concernant le rapport entre pression et volume d’un gaz à température constante.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3343,19 +4342,29 @@
       "answer": "Antarctique",
       "fact_id": "antarctica-coldest-continent",
       "tested_fact": "antarctica-coldest-continent",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Antarctique",
+        "L’Antarctique"
+      ],
+      "primary_source": "https://www.bas.ac.uk/data/our-data/publication/antarctic-lakes/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le British Antarctic Survey qualifie l’Antarctique de continent le plus froid.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Antarctique. L’Arctique est une région principalement océanique, non le continent demandé.",
+      "evidence": [
+        {
+          "url": "https://www.bas.ac.uk/data/our-data/publication/antarctic-lakes/",
+          "locator": "Antarctic Lakes, résumé, ligne 7.",
+          "support": "Le British Antarctic Survey qualifie l’Antarctique de continent le plus froid.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3365,23 +4374,49 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 4,
-      "question": "Quel écrivain américain est l'auteur de Le Vieil Homme et la Mer ?",
+      "question": "Quel écrivain est l’auteur du roman Le Vieil Homme et la Mer ?",
       "answer": "Ernest Hemingway",
       "fact_id": "hemingway-old-man-sea",
       "tested_fact": "hemingway-old-man-sea",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ernest Hemingway",
+        "Hemingway",
+        "Ernest Miller Hemingway"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb34838000v",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Le Vieil Homme et la Mer, traduction de The Old Man and the Sea, à Ernest Hemingway.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain américain est l'auteur de Le Vieil Homme et la Mer ?",
+            "answer": "Ernest Hemingway",
+            "fact_id": "hemingway-old-man-sea"
+          },
+          "after": {
+            "question": "Quel écrivain est l’auteur du roman Le Vieil Homme et la Mer ?",
+            "answer": "Ernest Hemingway",
+            "fact_id": "hemingway-old-man-sea"
+          },
+          "reason": "Accorder la syntaxe du titre et documenter directement l’attribution au romancier.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Hemingway seul. Jean Dutourd est un traducteur de l’œuvre et non son auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb34838000v",
+          "locator": "Notice FRBNF34838000, champs Auteur, Titre conventionnel et Titre, lignes 55–61",
+          "support": "La BnF attribue Le Vieil Homme et la Mer, traduction de The Old Man and the Sea, à Ernest Hemingway.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3391,23 +4426,47 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 5,
-      "question": "Quelle ville américaine est célèbre pour le pont du Golden Gate ?",
+      "question": "Quelle ville de Californie se trouve à l’extrémité sud du pont du Golden Gate ?",
       "answer": "San Francisco",
       "fact_id": "golden-gate-city",
       "tested_fact": "golden-gate-city",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "San Francisco"
+      ],
+      "primary_source": "https://www.goldengate.org/faq/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’exploitant du pont situe San Francisco au sud et le comté de Marin au nord du Golden Gate Bridge.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle ville américaine est célèbre pour le pont du Golden Gate ?",
+            "answer": "San Francisco",
+            "fact_id": "golden-gate-city"
+          },
+          "after": {
+            "question": "Quelle ville de Californie se trouve à l’extrémité sud du pont du Golden Gate ?",
+            "answer": "San Francisco",
+            "fact_id": "golden-gate-city"
+          },
+          "reason": "Remplacer la célébrité subjective par la localisation précise de l’extrémité sud du pont.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger San Francisco. Sausalito et le comté de Marin se trouvent au nord; Los Angeles est une autre ville de Californie.",
+      "evidence": [
+        {
+          "url": "https://www.goldengate.org/faq/",
+          "locator": "Golden Gate Bridge Highway and Transportation District, FAQ, paiement vers le sud ligne 34 et localisation ligne 805",
+          "support": "L’exploitant du pont situe San Francisco au sud et le comté de Marin au nord du Golden Gate Bridge.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3417,23 +4476,77 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 6,
-      "question": "Quel grand fleuve du nord de l'Inde est considéré comme sacré dans l'hindouisme ?",
+      "question": "Quel fleuve indien longe le ghat de Har ki Pauri, à Haridwar ?",
       "answer": "Gange",
-      "fact_id": "ganges-sacred-river",
-      "tested_fact": "ganges-sacred-river",
-      "accepted_variants": [],
-      "primary_source": null,
+      "fact_id": "gange-ghat-har-ki-pauri-haridwar",
+      "tested_fact": "gange-ghat-har-ki-pauri-haridwar",
+      "accepted_variants": [
+        "Gange",
+        "Ganga",
+        "Ganges"
+      ],
+      "primary_source": "https://haridwar.nic.in/tourist-place/har-ki-pauri/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "L’administration locale situe le ghat de Har ki Pauri sur les rives du Gange à Haridwar.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "nom_propre",
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel grand fleuve du nord de l'Inde est considéré comme sacré dans l'hindouisme ?",
+            "answer": "Gange",
+            "fact_id": "ganges-sacred-river"
+          },
+          "after": {
+            "question": "Quel fleuve indien longe les ghats de la ville sacrée de Varanasi, aussi appelée Bénarès ?",
+            "answer": "Gange",
+            "fact_id": "gange-varanasi-rive-ghats"
+          },
+          "reason": "Le critère sacré et nord de l’Inde admettait aussi la Yamuna; la ville rend la question discriminante.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Quel fleuve indien longe les ghats de la ville sacrée de Varanasi, aussi appelée Bénarès ?",
+            "answer": "Gange",
+            "fact_id": "gange-varanasi-rive-ghats"
+          },
+          "after": {
+            "question": "Quel fleuve indien longe les ghats de la ville sacrée de Varanasi ?",
+            "answer": "Gange",
+            "fact_id": "gange-varanasi-rive-ghats"
+          },
+          "reason": "Conserver uniquement le nom de ville figurant dans la preuve citée.",
+          "reviewed_at": "2026-10-18"
+        },
+        {
+          "before": {
+            "question": "Quel fleuve indien longe les ghats de la ville sacrée de Varanasi ?",
+            "answer": "Gange",
+            "fact_id": "gange-varanasi-rive-ghats"
+          },
+          "after": {
+            "question": "Quel fleuve indien longe le ghat de Har ki Pauri, à Haridwar ?",
+            "answer": "Gange",
+            "fact_id": "gange-ghat-har-ki-pauri-haridwar"
+          },
+          "reason": "Après correction de l’ambiguïté avec la Yamuna, éviter aussi la relation Varanasi–Gange déjà présente dans M03-R18-Q03; utiliser un autre lieu documenté.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Gange, Ganga ou Ganges. Yamuna est aussi un fleuve sacré mais ne borde pas le ghat de Har ki Pauri à Haridwar.",
+      "evidence": [
+        {
+          "url": "https://haridwar.nic.in/tourist-place/har-ki-pauri/",
+          "locator": "District Haridwar, Har ki Pauri, présentation, ligne 110",
+          "support": "L’administration locale situe le ghat de Har ki Pauri sur les rives du Gange à Haridwar.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3447,19 +4560,38 @@
       "answer": "8",
       "fact_id": "byte-eight-bits",
       "tested_fact": "byte-eight-bits",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "8",
+        "Huit",
+        "Huit bits"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet",
+      "secondary_sources": [
+        "https://csrc.nist.gov/glossary/term/byte"
+      ],
+      "corroboration": "L’OQLF définit l’octet comme une unité de stockage formée de huit bits et distingue l’ancien usage variable du mot anglais byte. Le NIST définit un byte de huit bits; c’est l’unité de huit bits désignée en français par octet.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter huit, avec ou sans bits. Un bit est un chiffre binaire; ne pas confondre huit bits avec huit octets.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet",
+          "locator": "OQLF, Octet, Définition, lignes 17–19",
+          "support": "L’OQLF définit l’octet comme une unité de stockage formée de huit bits et distingue l’ancien usage variable du mot anglais byte.",
+          "consulted_at": "2026-10-18"
+        },
+        {
+          "url": "https://csrc.nist.gov/glossary/term/byte",
+          "locator": "NIST CSRC, Byte, définition issue de FIPS 180-4, lignes 113–116",
+          "support": "Le NIST définit un byte de huit bits; c’est l’unité de huit bits désignée en français par octet.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3473,19 +4605,32 @@
       "answer": "H₂O",
       "fact_id": "water-formula-h2o",
       "tested_fact": "water-formula-h2o",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "H₂O",
+        "H2O",
+        "H deux O",
+        "H–O–H",
+        "HOH"
+      ],
+      "primary_source": "https://openstax.org/books/chemistry/pages/4-1-writing-and-balancing-chemical-equations",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "OpenStax donne H₂O comme formule de l’eau, avec deux atomes d’hydrogène et un d’oxygène.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter H deux O à l’oral et les écritures H2O/H₂O ou la formule structurale équivalente H–O–H. Refuser H₂O₂: c’est le peroxyde d’hydrogène.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/chemistry/pages/4-1-writing-and-balancing-chemical-equations",
+          "locator": "Chemistry, §4.1, exemple de formation de l’eau, ligne 30",
+          "support": "OpenStax donne H₂O comme formule de l’eau, avec deux atomes d’hydrogène et un d’oxygène.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -3510,8 +4655,8 @@
       "consulted_at": "2026-10-18",
       "factual_status": "FAIT_VERIFIE",
       "arbitration_status": "ARBITRAGE_VALIDE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [
         {
@@ -3551,19 +4696,29 @@
       "answer": "Pancréas",
       "fact_id": "pancreas-insulin",
       "tested_fact": "pancreas-insulin",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Pancréas",
+        "Pancreas"
+      ],
+      "primary_source": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
-      "deduplication_status": "NON_EXAMINE",
-      "final_status": "NON_EXAMINE",
+      "corroboration": "Le NIDDK précise que l’insuline est une hormone fabriquée par le pancréas.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
+      "deduplication_status": "DOUBLON_CONTROLE",
+      "final_status": "VALIDE_FINAL",
       "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter pancréas. Cellules bêta ou îlots de Langerhans désignent des cellules ou structures de cet organe: demander l’organe expressément requis.",
+      "evidence": [
+        {
+          "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes",
+          "locator": "NIDDK, What Is Diabetes?, introduction, ligne 146",
+          "support": "Le NIDDK précise que l’insuline est une hormone fabriquée par le pancréas.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     }

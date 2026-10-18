@@ -1,10 +1,10 @@
 {
   "command": "python scripts/certification_niveau1.py check --strict",
-  "executed_at": "2026-10-18T17:28:25.257458+00:00",
+  "executed_at": "2026-10-18T18:12:29.190574+00:00",
   "mode": "certification",
   "test_count": 274,
-  "passed": 217,
-  "failed": 57,
+  "passed": 225,
+  "failed": 49,
   "checks": [
     {
       "test": "M01 fichier",
@@ -504,46 +504,46 @@
     {
       "test": "M04 types de réponse calculés",
       "passed": true,
-      "detail": "0 noms propres; 0/96 classés"
+      "detail": "68 noms propres; 96/96 classés"
     },
     {
       "test": "M04 96 validations finales",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 96 classifications",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 objectif noms propres",
-      "passed": false,
-      "detail": "0/96, soit 0.0%"
+      "passed": true,
+      "detail": "68/96, soit 70.8%"
     },
     {
       "test": "M04 preuve localisée complète",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 variantes consignées",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 cantonades et relais relus",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 quatre preuves identification",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {
       "test": "M04 PDF contrôlés et synchronisés",
-      "passed": false,
+      "passed": true,
       "detail": ""
     },
     {

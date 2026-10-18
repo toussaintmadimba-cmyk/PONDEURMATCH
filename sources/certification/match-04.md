@@ -103,12 +103,20 @@
   Consultation : 2026-10-18
 
 ## M04-R04-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.opera-comique.com/sites/default/files/2021-11/2014_dossier_p%C3%A9da_chauve_souris.pdf
+  Repère : Dossier La Chauve-Souris, page imprimée 8, groupes de voix, ligne 71.
+  Corroboration (paraphrase) : Les trois grands groupes féminins sont soprano, le plus aigu, mezzo-soprano et contralto, le plus grave.
+  Consultation : 2026-10-18
 
 ## M04-R04-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://pad.philharmoniedeparis.fr/0798695-histoire-jazz-trompette-embouchure.aspx
+  Repère : La trompette dans le jazz, Un instrument à vent et Au contact des lèvres, lignes 191–192 et 206.
+  Corroboration (paraphrase) : L’embouchure forme avec les lèvres l’excitateur de l’instrument; la production de la note dépend du placement de l’embouchure contre les lèvres.
+  Consultation : 2026-10-18
 
 ## M04-R05-Q01
 **Statut :** FAIT_VERIFIE
@@ -231,8 +239,12 @@
   Consultation : 2026-10-18
 
 ## M04-R08-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.computerhistory.org/babbage/history/
+  Repère : The Analytical Engine, lignes 96–99.
+  Corroboration (paraphrase) : Charles Babbage conçoit en 1834 une nouvelle machine programmable générale, appelée ensuite Analytical Engine.
+  Consultation : 2026-10-18
 
 ## M04-R08-Q04
 **Statut :** FAIT_VERIFIE
@@ -251,44 +263,96 @@
   Consultation : 2026-10-18
 
 ## M04-R09-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.agathachristie.com/about-christie
+  Repère : Biographie officielle, création de Poirot ligne 139 et de Miss Marple ligne 167.
+  Corroboration (paraphrase) : Agatha Christie imagine le détective Hercule Poirot et crée Miss Jane Marple à la fin de 1927.
+  Consultation : 2026-10-18
 
 ## M04-R09-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.igepn.edu.ec/cotopaxi
+  Repère : IG-EPN, fiche Cotopaxi, tableau hauteur ligne 108 et description du cône et de la position ligne 115
+  Corroboration (paraphrase) : L’institut géophysique équatorien donne 5 897 m pour le Cotopaxi, un cône symétrique situé à 45 km au sud-est de Quito.
+  Consultation : 2026-10-18
 
 ## M04-R09-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.esa.int/ESA_Multimedia/Images/2021/03/Strait_of_Gibraltar
+  Repère : Description géographique, ligne 22.
+  Corroboration (paraphrase) : Le détroit de Gibraltar relie la Méditerranée à l’Atlantique et sépare l’Espagne de l’Afrique du Nord, entre les points Marroquí en Espagne et Cires au Maroc.
+  Consultation : 2026-10-18
 
 ## M04-R09-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.discoverniagara.org/natural-phenomenon
+  Repère : Natural Phenomenon, paragraphe sur les trois chutes, lignes 20–23
+  Corroboration (paraphrase) : Le Niagara Falls National Heritage Area décrit les trois chutes du Niagara sur la frontière États-Unis–Canada.
+  Consultation : 2026-10-18
 
 ## M04-R09-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.nationsonline.org/oneworld/capitals_asia.htm
+  Repère : Tableau des capitales asiatiques, ligne China–Beijing (Peking), ligne 77
+  Corroboration (paraphrase) : La Chine a pour capitale Beijing, aussi appelée Pékin.
+  Consultation : 2026-10-18
+- Source : https://whc.unesco.org/en/list/439/
+  Repère : Palais impériaux des dynasties Ming et Qing, description, lignes 4–9
+  Corroboration (paraphrase) : L’UNESCO situe la Cité interdite, palais impérial, à Beijing.
+  Consultation : 2026-10-18
 
 ## M04-R10-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.unesco.org/en/about-us
+  Repère : Présentation, ligne 40.
+  Corroboration (paraphrase) : L’UNESCO est l’organisation spécialisée pour l’éducation, la science et la culture.
+  Consultation : 2026-10-18
 
 ## M04-R10-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.who.int/about
+  Repère : Présentation de la mission et agence onusienne, lignes 85–95.
+  Corroboration (paraphrase) : L’OMS est l’agence de l’ONU dédiée à la santé; elle dirige et coordonne les réponses sanitaires mondiales.
+  Consultation : 2026-10-18
 
 ## M04-R10-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance
+  Repère : IMF at a Glance, présentation, lignes 20–22
+  Corroboration (paraphrase) : Le FMI poursuit la coopération monétaire et la stabilité financière internationales.
+  Consultation : 2026-10-18
+- Source : https://www.imf.org/en/about/speakers
+  Repère : Speakers, ligne 15
+  Corroboration (paraphrase) : La page institutionnelle situe les locaux du siège du FMI à Washington D.C.
+  Consultation : 2026-10-18
 
 ## M04-R10-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://au.int/en/overview
+  Repère : About the African Union, présentation ligne 251 et pied de page African Union Headquarters, lignes 413–415
+  Corroboration (paraphrase) : L’UA se présente comme une organisation continentale de 55 États et indique son siège à Addis-Abeba en Éthiopie.
+  Consultation : 2026-10-18
 
 ## M04-R10-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.unicef.org/fr/qui-nous-sommes
+  Repère : Qui nous sommes, Nous protégeons les droits des enfants, lignes 15–18
+  Corroboration (paraphrase) : L’UNICEF se présente comme le Fonds des Nations unies pour l’enfance, dédié aux droits des enfants et à leurs besoins en santé, nutrition et éducation.
+  Consultation : 2026-10-18
+- Source : https://www.unicef.org/who-we-are
+  Repère : Who we are, We protect children’s rights and safeguard their futures, lignes 15–18
+  Corroboration (paraphrase) : L’UNICEF se définit comme l’organisme des Nations unies consacré aux enfants et à la protection de leurs droits, notamment en santé, nutrition et éducation.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q01
 **Statut :** FAIT_VERIFIE
@@ -299,12 +363,20 @@
   Consultation : 2026-10-18
 
 ## M04-R11-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://catalogue.bnf.fr/ark:/12148/cb465487403
+  Repère : Notice FRBNF46548740, champs Auteur(s) et Titre(s), lignes 57–59
+  Corroboration (paraphrase) : La BnF attribue Oliver Twist à Charles Dickens.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.argentina.gob.ar/noticias/aconcagua-2023-hacia-la-cumbre-del-cerro-mas-alto-de-america
+  Repère : Titre et introduction, lignes 13–24.
+  Corroboration (paraphrase) : Le gouvernement argentin présente l’Aconcagua comme le plus haut sommet de l’Amérique.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q04
 **Statut :** FAIT_VERIFIE
@@ -315,16 +387,28 @@
   Consultation : 2026-10-18
 
 ## M04-R11-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.musee-orangerie.fr/fr/node/255
+  Repère : Les Nymphéas de Claude Monet, titre et paragraphes 1–2, lignes 17–25
+  Corroboration (paraphrase) : Le musée de l’Orangerie présente le cycle des Nymphéas comme l’œuvre de Claude Monet.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q06
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://oceanservice.noaa.gov/facts/biggestocean.html
+  Repère : Titre et présentation, lignes 5 et 10.
+  Corroboration (paraphrase) : La NOAA présente le Pacifique comme le plus vaste bassin océanique de la planète.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q07
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.nationsonline.org/oneworld/capitals_asia.htm
+  Repère : Tableau des capitales asiatiques, ligne Dhaka–Bangladesh, ligne 83
+  Corroboration (paraphrase) : Le tableau attribue Dhaka comme capitale du Bangladesh.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q08
 **Statut :** FAIT_VERIFIE
@@ -335,32 +419,60 @@
   Consultation : 2026-10-18
 
 ## M04-R11-Q09
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://openstax.org/books/biology-2e/pages/8-1-overview-of-photosynthesis
+  Repère : Biology 2e, §8.1 Main Structures and Summary of Photosynthesis, lignes 41–45
+  Corroboration (paraphrase) : Le dioxyde de carbone et l’eau sont les réactifs utilisés pour former les glucides lors de la photosynthèse.
+  Consultation : 2026-10-18
 
 ## M04-R11-Q10
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood
+  Repère : Biology 2e, §40.2 White Blood Cells, lignes 54–57
+  Corroboration (paraphrase) : Les globules blancs, ou leucocytes, sont des cellules de la défense immunitaire; les lymphocytes sont une de leurs catégories.
+  Consultation : 2026-10-18
 
 ## M04-R12-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.droitcongolais.info/EN/files/128.03.15-Loi-du-25-mars-2015_Limites-de-province.pdf
+  Repère : Loi organique n°15/006 du 25 mars 2015, article 9, page 19 du PDF, lignes 791–793
+  Corroboration (paraphrase) : L’article 9 dispose que le chef-lieu de la province de l’Ituri est Bunia.
+  Consultation : 2026-10-18
 
 ## M04-R12-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html
+  Repère : Loi organique n°15/006 du 25 mars 2015, article 13, lignes 1075–1076
+  Corroboration (paraphrase) : L’article 13 identifie Matadi comme chef-lieu du Kongo Central.
+  Consultation : 2026-10-18
 
 ## M04-R12-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html
+  Repère : Loi organique n°15/006 du 25 mars 2015, article 24, lignes 2120–2121
+  Corroboration (paraphrase) : L’article 24 désigne Bukavu comme chef-lieu du Sud-Kivu.
+  Consultation : 2026-10-18
 
 ## M04-R12-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.fao.org/inland-fisheries/topics/detail/en/c/1147818/
+  Repère : Rapport FAO/AfDB F-14, résumé, paragraphe 2, ligne 24.
+  Corroboration (paraphrase) : Le lac Tanganyika est partagé par le Burundi, la RDC, la Tanzanie et la Zambie.
+  Consultation : 2026-10-18
 
 ## M04-R12-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://independance.africamuseum.be/sites/independance.africamuseum.be/files/files/booklet_independance_en.pdf
+  Repère : AfricaMuseum, livret de l’exposition Indépendance!, page 9 du PDF, légende Joseph Athanase Kabasele (Grand Kalle), lignes 157–161
+  Corroboration (paraphrase) : Le musée associe explicitement le surnom Grand Kalle à Joseph Athanase Kabasele, dans sa présentation d’African Jazz et de l’indépendance congolaise.
+  Consultation : 2026-10-18
 
 ## M04-R13-Q01
 **Statut :** FAIT_VERIFIE
@@ -395,44 +507,92 @@
   Consultation : 2026-10-18
 
 ## M04-R13-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/dictionnaires/junior/strophe/18528
+  Repère : Larousse Junior, Strophe, définition, ligne 45
+  Corroboration (paraphrase) : Une strophe est un ensemble de vers à l’intérieur d’un poème.
+  Consultation : 2026-10-18
 
 ## M04-R14-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://history.state.gov/milestones/1953-1960/suez
+  Repère : The Suez Crisis, 1956, titre et premier paragraphe, lignes 6–8.
+  Corroboration (paraphrase) : Nasser annonce la nationalisation de la compagnie du canal de Suez le 26 juillet 1956, provoquant la crise internationale décrite.
+  Consultation : 2026-10-18
 
 ## M04-R14-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://history.state.gov/milestones/1961-1968/cuban-missile-crisis
+  Repère : The Cuban Missile Crisis, October 1962, ligne 12.
+  Corroboration (paraphrase) : Le chef du gouvernement soviétique Nikita Khrouchtchev conclut avec Fidel Castro l’accord d’installation de missiles en juillet 1962.
+  Consultation : 2026-10-18
 
 ## M04-R14-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/encyclopedie/divers/conf%C3%A9rence_de_Berlin/108516
+  Repère : Conférence de Berlin, titre, introduction et Vers le partage colonial de l’Afrique, lignes 15–26
+  Corroboration (paraphrase) : La conférence de Berlin de novembre 1884 à février 1885 réglemente le commerce et les modalités de nouvelles occupations; elle n’effectue pas elle-même tout le partage territorial de l’Afrique.
+  Consultation : 2026-10-18
 
 ## M04-R14-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://rdf.archives-nationales.culture.gouv.fr/garance/entities/agent/009898/
+  Repère : Notice d’organisme, Historique, ligne 155
+  Corroboration (paraphrase) : Les Archives nationales distinguent la convention d’armistice du 11 novembre 1918 du traité de Versailles du 28 juin 1919.
+  Consultation : 2026-10-18
 
 ## M04-R14-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://history.state.gov/milestones/1989-1992/collapse-soviet-union
+  Repère : Office of the Historian, The Collapse of the Soviet Union, paragraphes finaux, lignes 29–31
+  Corroboration (paraphrase) : La notice décrit la dissolution de l’URSS et la fin de ses institutions en décembre 1991.
+  Consultation : 2026-10-18
 
 ## M04-R15-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.bnf.fr/fr/hommage-ngugi-wa-thiongo-1938-2025
+  Repère : Présentation de l’auteur né au Kenya ligne 20 et œuvres ligne 29.
+  Corroboration (paraphrase) : La BnF présente Ngũgĩ wa Thiong’o comme écrivain né au Kenya et cite Pétales de sang de 1977 parmi ses romans.
+  Consultation : 2026-10-18
 
 ## M04-R15-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://catalogue.bnf.fr/ark:/12148/cb476946406
+  Repère : Notice FRBNF47694640, champs Auteur et Titre, lignes 57–61
+  Corroboration (paraphrase) : L’Hibiscus pourpre, traduit de Purple Hibiscus, est attribué à Chimamanda Ngozi Adichie.
+  Consultation : 2026-10-18
+- Source : https://catalogue.bnf.fr/ark:/12148/cb145655352
+  Repère : Notice d’autorité FRBNF14565535, Pays et Source(s), lignes 53–72
+  Corroboration (paraphrase) : La notice de la romancière indique Nigeria et cite L’Hibiscus pourpre parmi ses sources.
+  Consultation : 2026-10-18
 
 ## M04-R15-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/encyclopedie/personnage/Alexandre_Biyidi_Awala_dit_Mongo_Beti/108722
+  Repère : Nationalité et liste des œuvres, lignes 17–19.
+  Corroboration (paraphrase) : Mongo Beti est présenté comme écrivain camerounais et auteur du Pauvre Christ de Bomba. La date 1954 donnée sur cette page n’est pas utilisée pour la question.
+  Consultation : 2026-10-18
+- Source : https://catalogue.bnf.fr/ark:/12148/cb42529235d
+  Repère : Sommaire de l’ouvrage critique, ligne 61.
+  Corroboration (paraphrase) : La notice bibliographique recoupe l’attribution en mentionnant Le pauvre christ de Bomba de Mongo Beti.
+  Consultation : 2026-10-18
 
 ## M04-R15-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/encyclopedie/personnage/Camara_Laye/129117
+  Repère : Nationalité et œuvres, lignes 17–23.
+  Corroboration (paraphrase) : Camara Laye est un écrivain guinéen; L’Enfant noir de 1953 figure parmi ses romans.
+  Consultation : 2026-10-18
 
 ## M04-R16-Q01
 **Statut :** FAIT_VERIFIE
@@ -507,8 +667,12 @@
   Consultation : 2026-10-18
 
 ## M04-R18-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/encyclopedie/divers/H%C3%A9racl%C3%A8s/123664
+  Repère : Article Héraclès, équivalence romaine ligne 23 et Les douze travaux, lignes 40–42
+  Corroboration (paraphrase) : Larousse attribue les douze travaux à Héraclès et précise que les Romains l’appellent Hercule.
+  Consultation : 2026-10-18
 
 ## M04-R18-Q02
 **Statut :** FAIT_VERIFIE
@@ -519,16 +683,32 @@
   Consultation : 2026-10-18
 
 ## M04-R18-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://whc.unesco.org/en/list/1056/
+  Repère : Ensemble du temple de la Mahabodhi à Bodhgaya, présentation, lignes 2–5 et 54
+  Corroboration (paraphrase) : L’UNESCO situe à Bodh Gaya en Inde le lieu de l’Éveil du Bouddha, associé au temple de la Mahabodhi.
+  Consultation : 2026-10-18
 
 ## M04-R18-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.aelf.org/bible/Ex/34
+  Repère : Exode 34, versets 2, 4 et 28–29, lignes 156, 159 et 198–199
+  Corroboration (paraphrase) : Le récit biblique fait monter Moïse au Sinaï et lui associe les tables portant les Dix Paroles.
+  Consultation : 2026-10-18
+- Source : https://www.aelf.org/bible/Dt/5
+  Repère : Deutéronome 5, verset 2 puis Décalogue, lignes 144–157
+  Corroboration (paraphrase) : Le récit du Deutéronome situe l’alliance et le don des commandements à l’Horeb, nom alternatif de la montagne dans la tradition biblique.
+  Consultation : 2026-10-18
 
 ## M04-R18-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.larousse.fr/dictionnaires/francais/r%C3%A9incarnation/67757
+  Repère : Définition 1 et synonymes, lignes 25–30
+  Corroboration (paraphrase) : Larousse décrit le passage de l’âme dans un autre corps après la mort et donne métempsycose et transmigration comme synonymes.
+  Consultation : 2026-10-18
 
 ## M04-R19-Q01
 **Statut :** FAIT_VERIFIE
@@ -551,36 +731,76 @@
   Consultation : 2026-10-18
 
 ## M04-R20-Q01
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.nationsonline.org/oneworld/capitals_europe.htm
+  Repère : Tableau des capitales, Vienna–Austria, ligne 111.
+  Corroboration (paraphrase) : Vienna, appelée Vienne en français, figure comme capitale de l’Autriche.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q02
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://mathshistory.st-andrews.ac.uk//Biographies/Boyle/
+  Repère : MacTutor, Robert Boyle, Quick Info, lignes 8–18
+  Corroboration (paraphrase) : La biographie universitaire situe la naissance de Robert Boyle à Lismore, en Irlande, en 1627.
+  Consultation : 2026-10-18
+- Source : https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/boyles-law/
+  Repère : NASA Glenn, Boyle’s Law, introduction, lignes 6–9
+  Corroboration (paraphrase) : La NASA attribue à Robert Boyle la loi concernant le rapport entre pression et volume d’un gaz à température constante.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q03
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.bas.ac.uk/data/our-data/publication/antarctic-lakes/
+  Repère : Antarctic Lakes, résumé, ligne 7.
+  Corroboration (paraphrase) : Le British Antarctic Survey qualifie l’Antarctique de continent le plus froid.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q04
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://catalogue.bnf.fr/ark:/12148/cb34838000v
+  Repère : Notice FRBNF34838000, champs Auteur, Titre conventionnel et Titre, lignes 55–61
+  Corroboration (paraphrase) : La BnF attribue Le Vieil Homme et la Mer, traduction de The Old Man and the Sea, à Ernest Hemingway.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q05
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.goldengate.org/faq/
+  Repère : Golden Gate Bridge Highway and Transportation District, FAQ, paiement vers le sud ligne 34 et localisation ligne 805
+  Corroboration (paraphrase) : L’exploitant du pont situe San Francisco au sud et le comté de Marin au nord du Golden Gate Bridge.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q06
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://haridwar.nic.in/tourist-place/har-ki-pauri/
+  Repère : District Haridwar, Har ki Pauri, présentation, ligne 110
+  Corroboration (paraphrase) : L’administration locale situe le ghat de Har ki Pauri sur les rives du Gange à Haridwar.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q07
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387944/octet
+  Repère : OQLF, Octet, Définition, lignes 17–19
+  Corroboration (paraphrase) : L’OQLF définit l’octet comme une unité de stockage formée de huit bits et distingue l’ancien usage variable du mot anglais byte.
+  Consultation : 2026-10-18
+- Source : https://csrc.nist.gov/glossary/term/byte
+  Repère : NIST CSRC, Byte, définition issue de FIPS 180-4, lignes 113–116
+  Corroboration (paraphrase) : Le NIST définit un byte de huit bits; c’est l’unité de huit bits désignée en français par octet.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q08
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://openstax.org/books/chemistry/pages/4-1-writing-and-balancing-chemical-equations
+  Repère : Chemistry, §4.1, exemple de formation de l’eau, ligne 30
+  Corroboration (paraphrase) : OpenStax donne H₂O comme formule de l’eau, avec deux atomes d’hydrogène et un d’oxygène.
+  Consultation : 2026-10-18
 
 ## M04-R20-Q09
 **Statut :** FAIT_VERIFIE
@@ -591,5 +811,9 @@
   Consultation : 2026-10-18
 
 ## M04-R20-Q10
-**Statut :** NON_EXAMINE
+**Statut :** FAIT_VERIFIE
 **Référence héritée :** Aucune référence individuelle héritée.
+- Source : https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes
+  Repère : NIDDK, What Is Diabetes?, introduction, ligne 146
+  Corroboration (paraphrase) : Le NIDDK précise que l’insuline est une hormone fabriquée par le pancréas.
+  Consultation : 2026-10-18

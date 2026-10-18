@@ -1,0 +1,16 @@
+{
+  "match": 4,
+  "reviewed_at": "2026-10-18",
+  "cantonades": {
+    "R06": "Kofi Annan: identité distinctive (naissance 1938 et Nobel), pays actuel de naissance Ghana, ONU secrétaire général, Nobel 2001, ville Kumasi. Q1 ne donne ni le pays, ni le poste, ni l’année du prix, ni la ville. Pays actuel évite l’anachronisme Côte-de-l’Or/Ghana en 1938.",
+    "R16": "Amelia Earhart: identité par Atchison/Kansas et 1897, Atlantique solo en 1932, Lockheed Electra 10E, destination Howland, disparition 1937. L’année 1937 a été retirée des énoncés Q3/Q4; lieu de chute inconnu remplacé par destination documentée."
+  },
+  "relais": {
+    "R15": "Quatre auteurs africains et quatre romans: Ngugi/Pétales de sang, Adichie/Hibiscus pourpre, Mongo Beti/Pauvre Christ de Bomba, Camara Laye/Enfant noir. Pays et attributions vérifiés séparément; noms sans diacritiques admis.",
+    "R17": "Quatre relations pays–capitale asiatiques distinctes: Népal–Katmandou, Laos–Vientiane, Cambodge–Phnom Penh et Philippines–Manille. Preuves localisées et situations datées du 18 octobre 2026."
+  },
+  "identification": "Steve Biko: 40 points médecine à l’université du Natal en 1966; 30 points Conscience noire; 20 points mort en détention à Pretoria en 1977; 10 points I Write What I Like. Quatre preuves avec points 40/30/20/10. Lieu de naissance écarté devant des sources discordantes; prénom littéralement fourni retiré.",
+  "oral_reading": "RELECTURE_INTELLECTUELLE_TERMINEE",
+  "arbitration_simulation": "96 énoncés et leurs réponses, variantes et décisions relus. Homophones à épeler; présent de l’indicatif imposé pour met; réponses concurrentes et surnoms examinés. Lecture intellectuelle uniquement, sans répétition physique avec élèves.",
+  "status": "CONTROLE_EDITORIAL_TERMINE"
+}

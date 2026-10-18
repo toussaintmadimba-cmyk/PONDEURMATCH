@@ -35,7 +35,10 @@ STYLES = {
 
 def safe(s):
     # Unicode fonts retain French accents; normalise uncommon dashes for print.
-    return escape(re.sub('[\u2010-\u2015\u2212]', '-', s)).replace('\n', '<br/>')
+    s = re.sub('[\u2010-\u2015\u2212]', '-', s)
+    # Keep French high punctuation attached to the preceding word in print.
+    s = re.sub(r' (?=[?!;:])', '\u00a0', s)
+    return escape(s).replace('\n', '<br/>')
 
 def para(s, style='question'):
     return Paragraph(s, STYLES[style])

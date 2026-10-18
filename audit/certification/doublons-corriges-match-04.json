@@ -1,0 +1,144 @@
+{
+  "match": 4,
+  "replaced_question_count": 7,
+  "items": [
+    {
+      "id": "M04-R11-Q08",
+      "duplicates_with": [
+        "M11-R20-Q10",
+        "M20-R11-Q09"
+      ],
+      "before": {
+        "question": "Quelle est la racine carrée de 81 ?",
+        "answer": "9",
+        "fact_id": "sqrt-81"
+      },
+      "after": {
+        "question": "Comment qualifie-t-on un nombre entier naturel divisible par deux ?",
+        "answer": "Pair",
+        "fact_id": "arithmetique-entier-naturel-pair-divisible-deux"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R20-Q09",
+      "duplicates_with": [
+        "M10-R11-Q08",
+        "M17-R11-Q08"
+      ],
+      "before": {
+        "question": "Comment appelle-t-on un polygone à cinq côtés ?",
+        "answer": "Pentagone",
+        "fact_id": "pentagon-five-sides"
+      },
+      "after": {
+        "question": "Comment appelle-t-on la demi-droite issue du sommet d’un angle qui le partage en deux angles égaux ?",
+        "answer": "Bissectrice",
+        "fact_id": "geometrie-bissectrice-angle-deux-angles-egaux"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R18-Q02",
+      "duplicates_with": [
+        "M28-R18-Q01"
+      ],
+      "before": {
+        "question": "Dans la mythologie égyptienne, quel dieu solaire est souvent représenté avec un disque solaire ?",
+        "answer": "Rê",
+        "fact_id": "ra-sun-god"
+      },
+      "after": {
+        "question": "Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?",
+        "answer": "Hathor",
+        "fact_id": "hathor-musique-amour-forme-vache-cornes"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R09-Q02",
+      "duplicates_with": [
+        "M12-R11-Q06"
+      ],
+      "before": {
+        "question": "Où suis-je ? Je suis un volcan italien dominant la baie de Naples et connu pour l'éruption de l'an 79.",
+        "answer": "Vésuve",
+        "fact_id": "vesuvius-bay-naples"
+      },
+      "after": {
+        "question": "Qui suis-je ? Volcan équatorien au cône symétrique, je culmine à environ 5 897 mètres au sud-est de Quito.",
+        "answer": "Cotopaxi",
+        "fact_id": "cotopaxi-volcan-equateur-5897-metres-sud-est-quito"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R10-Q05",
+      "duplicates_with": [
+        "M08-R11-Q06"
+      ],
+      "before": {
+        "question": "Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?",
+        "answer": "Cour internationale de Justice",
+        "fact_id": "icj-peace-palace-hague"
+      },
+      "after": {
+        "question": "Au 18 octobre 2026, quel fonds des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?",
+        "answer": "UNICEF",
+        "fact_id": "unicef-onu-droits-bien-etre-enfants"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R11-Q07",
+      "duplicates_with": [
+        "M10-R09-Q02"
+      ],
+      "before": {
+        "question": "Quel pays a Athènes pour capitale ?",
+        "answer": "Grèce",
+        "fact_id": "athens-country"
+      },
+      "after": {
+        "question": "Au 18 octobre 2026, quel pays a Dacca, aussi appelée Dhaka, pour capitale ?",
+        "answer": "Bangladesh",
+        "fact_id": "bangladesh-capitale-dacca-dhaka"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M04-R13-Q05",
+      "duplicates_with": [
+        "M10-R13-Q05"
+      ],
+      "before": {
+        "question": "Combien de vers compte traditionnellement un sonnet ?",
+        "answer": "14",
+        "fact_id": "sonnet-fourteen-lines"
+      },
+      "after": {
+        "question": "Comment appelle-t-on un groupe de vers formant un ensemble dans un poème ?",
+        "answer": "Strophe",
+        "fact_id": "poesie-strophe-groupe-vers"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même fait, relation inversée ou même famille d’exercice numérique; remplacement documenté puis nouvelle comparaison sémantique. La réponse de remplacement conserve la classification du type de réponse.",
+      "reviewed_at": "2026-10-18"
+    }
+  ],
+  "additional_reformulations": [
+    "M04-R20-Q06: après suppression du critère sacré ambigu avec la Yamuna, remplacer la relation Varanasi–Gange, déjà présente dans M03, par le ghat de Har ki Pauri à Haridwar."
+  ]
+}

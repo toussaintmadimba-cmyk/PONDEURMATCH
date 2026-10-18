@@ -28,7 +28,7 @@
 
 **Q3.** Quelle sélection a remporté la Coupe du monde masculine de football 2014 ?
 
-**Q4.** Selon les règles IHF de juillet 2025, quel sport collectif se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
+**Q4.** Selon les règles IHF de juillet 2025, quel sport collectif en salle se joue avec un ballon tenu à la main et jusqu’à sept joueurs par équipe sur le terrain ?
 
 **Q5.** Dans quel sport se dispute la Coupe Davis ?
 
@@ -42,7 +42,7 @@
 
 **Q4.** Quel type de voix féminine est généralement le plus aigu en musique classique ?
 
-**Q5.** Quel instrument de la famille des cuivres possède généralement trois pistons et une embouchure en forme de coupe ?
+**Q5.** Comment appelle-t-on la pièce d’une trompette sur laquelle le musicien pose ses lèvres ?
 
 ## 5. LANGAGE A
 
@@ -54,7 +54,7 @@
 
 **Q3.** Épelez l’homophone de « mer » qui désigne la personne à la tête d’une commune.
 
-**Q4.** Avec une forme du verbe mettre, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
+**Q4.** Avec le verbe mettre au présent de l’indicatif, complétez puis épelez le mot manquant : « Il ... son sac sur la table. »
 
 ## 6. CANTONADE 1
 
@@ -86,7 +86,7 @@
 
 **Q2.** Quel physicien découvrit l’induction électromagnétique en 1831 ?
 
-**Q3.** Quel mathématicien britannique conçut au XIXe siècle la machine analytique ?
+**Q3.** Quel inventeur conçut au XIXe siècle la machine analytique ?
 
 **Q4.** Quelle unité dérivée exprime l'accélération dans le Système international ?
 
@@ -94,61 +94,61 @@
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
-**Q1.** Qui suis-je ? Romancière britannique, j'ai créé Hercule Poirot et Miss Marple.
+**Q1.** Qui suis-je ? Romancière, j’ai créé Hercule Poirot et Miss Marple.
 
-**Q2.** Où suis-je ? Je suis un volcan italien dominant la baie de Naples et connu pour l'éruption de l'an 79.
+**Q2.** Qui suis-je ? Volcan équatorien au cône symétrique, je culmine à environ 5 897 mètres au sud-est de Quito.
 
 **Q3.** Que suis-je ? Je relie l'océan Atlantique à la mer Méditerranée entre l'Espagne et le Maroc.
 
 **Q4.** Où suis-je ? Je suis un ensemble de grandes chutes situé à la frontière des États-Unis et du Canada.
 
-**Q5.** Où suis-je ? Capitale de la Chine, j'abrite la Cité interdite.
+**Q5.** Où suis-je ? Au 18 octobre 2026, capitale de la Chine, j’abrite la Cité interdite.
 
 ## 10. DIVERS
 
 **THÈME : ORGANISATIONS INTERNATIONALES**
 
-**Q1.** Quelle institution spécialisée de l'ONU est chargée notamment de l'éducation, de la science et de la culture ?
+**Q1.** Au 18 octobre 2026, quelle institution spécialisée de l’ONU est chargée notamment de l’éducation, de la science et de la culture ?
 
-**Q2.** Quelle organisation internationale spécialisée dirige et coordonne la santé publique mondiale au sein du système des Nations Unies ?
+**Q2.** Au 18 octobre 2026, quelle organisation de l’ONU dirige et coordonne l’action internationale en santé ?
 
-**Q3.** Quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?
+**Q3.** Au 18 octobre 2026, quelle institution financière internationale a son siège à Washington et œuvre notamment à la stabilité monétaire internationale ?
 
-**Q4.** Quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?
+**Q4.** Au 18 octobre 2026, quelle organisation continentale a son siège à Addis-Abeba et regroupe les États africains ?
 
-**Q5.** Quelle juridiction principale de l'ONU siège au Palais de la Paix à La Haye ?
+**Q5.** Au 18 octobre 2026, quel fonds des Nations unies se consacre spécifiquement aux droits et au bien-être des enfants ?
 
 ## 11. ÉCLAIR 1
 
 **Q1.** Au 18 octobre 2026, quelle est la capitale du Cameroun ?
 
-**Q2.** Quel écrivain anglais est l'auteur d'Oliver Twist ?
+**Q2.** Quel écrivain est l’auteur du roman Oliver Twist ?
 
 **Q3.** Quel est le plus haut sommet d'Amérique du Sud ?
 
 **Q4.** Au 18 octobre 2026, quel pays a Bangkok pour capitale ?
 
-**Q5.** Quel peintre français est associé à la série des Nymphéas ?
+**Q5.** Quel peintre est l’auteur de la série des Nymphéas ?
 
 **Q6.** Quel océan est le plus vaste de la planète ?
 
-**Q7.** Quel pays a Athènes pour capitale ?
+**Q7.** Au 18 octobre 2026, quel pays a Dacca, aussi appelée Dhaka, pour capitale ?
 
 **Q8.** Comment qualifie-t-on un nombre entier naturel divisible par deux ?
 
-**Q9.** Quel gaz les plantes absorbent-elles principalement pour la photosynthèse ?
+**Q9.** Quel gaz fournit le carbone utilisé par les plantes pour la photosynthèse ?
 
-**Q10.** Quel type de cellules sanguines participe principalement à la défense immunitaire ?
+**Q10.** Quel est le nom générique des cellules sanguines qui jouent un rôle majeur dans la défense immunitaire ?
 
 # MI-TEMPS
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Q1.** Quelle province de la RDC a Bunia pour chef-lieu ?
+**Q1.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bunia pour chef-lieu ?
 
-**Q2.** Quelle province de la RDC a Matadi pour chef-lieu ?
+**Q2.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Matadi pour chef-lieu ?
 
-**Q3.** Quelle province de la RDC a Bukavu pour chef-lieu ?
+**Q3.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Bukavu pour chef-lieu ?
 
 **Q4.** Quel grand lac d'Afrique de l'Est borde notamment l'est de la RDC, la Tanzanie, le Burundi et la Zambie ?
 
@@ -164,17 +164,17 @@
 
 **Q4.** Quel écrivain est l’auteur du roman Les Soleils des indépendances ?
 
-**Q5.** Combien de vers compte traditionnellement un sonnet ?
+**Q5.** Comment appelle-t-on un groupe de vers formant un ensemble dans un poème ?
 
 ## 14. MONDE CONTEMPORAIN
 
-**Q1.** Quelle crise internationale de 1956 fut déclenchée par la nationalisation d'un canal stratégique par l'Égypte ?
+**Q1.** Quelle crise internationale de 1956 suivit la nationalisation par l’Égypte de la compagnie exploitant un canal stratégique ?
 
 **Q2.** Quel dirigeant soviétique était au pouvoir lors de la crise des missiles de Cuba en 1962 ?
 
-**Q3.** Quelle conférence tenue en 1884-1885 fixa des règles de colonisation et de commerce en Afrique entre puissances européennes ?
+**Q3.** Quelle conférence de 1884–1885 fixa notamment des règles de commerce dans le bassin du Congo et d’occupation coloniale du littoral africain ?
 
-**Q4.** En quelle année prit fin la Première Guerre mondiale ?
+**Q4.** En quelle année eut lieu l’armistice du 11 novembre de la Première Guerre mondiale ?
 
 **Q5.** En quelle année l'Union soviétique fut-elle officiellement dissoute ?
 
@@ -220,11 +220,11 @@
 
 **Q2.** Dans la mythologie égyptienne, quelle déesse de la musique et de l’amour est représentée comme une vache ou avec des cornes de vache ?
 
-**Q3.** Quelle ville de l'Inde est associée au lieu où le Bouddha aurait atteint l'Éveil ?
+**Q3.** Selon la tradition bouddhiste, dans quelle ville indienne le Bouddha a-t-il atteint l’Éveil ?
 
-**Q4.** Quelle montagne de la tradition biblique est associée à la remise des Dix Commandements à Moïse ?
+**Q4.** Selon le livre de l’Exode, sur quelle montagne Moïse reçoit-il les Dix Commandements ?
 
-**Q5.** Comment appelle-t-on la croyance selon laquelle un être peut renaître dans une nouvelle existence ?
+**Q5.** Comment appelle-t-on la croyance selon laquelle, après la mort, l’âme peut passer dans un autre corps ?
 
 ## 19. IDENTIFICATION
 
@@ -232,17 +232,17 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle est la capitale de l'Autriche ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de l’Autriche ?
 
-**Q2.** Quel physicien et chimiste irlandais a donné son nom à une loi reliant pression et volume d'un gaz ?
+**Q2.** Quel savant né en Irlande en 1627 a donné son nom à une loi reliant pression et volume d’un gaz à température constante ?
 
 **Q3.** Quel continent est le plus froid de la planète ?
 
-**Q4.** Quel écrivain américain est l'auteur de Le Vieil Homme et la Mer ?
+**Q4.** Quel écrivain est l’auteur du roman Le Vieil Homme et la Mer ?
 
-**Q5.** Quelle ville américaine est célèbre pour le pont du Golden Gate ?
+**Q5.** Quelle ville de Californie se trouve à l’extrémité sud du pont du Golden Gate ?
 
-**Q6.** Quel grand fleuve du nord de l'Inde est considéré comme sacré dans l'hindouisme ?
+**Q6.** Quel fleuve indien longe le ghat de Har ki Pauri, à Haridwar ?
 
 **Q7.** Combien de bits composent un octet ?
 

@@ -1,0 +1,23 @@
+{
+  "match": 4,
+  "reviewed_at": "2026-10-18",
+  "questionnaire_sha256": "a2fe5880eae510e29f6867eea95c7005461e54fd242072ac18aaefc15817063b",
+  "visual_review": "AUCUN_DEFAUT_DE_MISE_EN_PAGE",
+  "method": "Les 28 pages ont été rendues en PNG puis inspectées sur quatre planches de contact. Contrôle des zones de texte, 96 questions par édition, absence de corrigé côté lecteur, 96 identifiants uniques côté arbitrage. Ponctuation française isolée supprimée au moyen d’espaces insécables; nouveau rendu inspecté.",
+  "files": [
+    {
+      "file": "output/pdf/match-04-lecteur.pdf",
+      "sha256": "0535870dab47027b96b17c8ec66ac712e26584e4c8c228fd06dbc4348c9fb610",
+      "pages": 6,
+      "question_count": 96,
+      "answer_count": 0
+    },
+    {
+      "file": "output/pdf/match-04-arbitrage.pdf",
+      "sha256": "439fe2b2daf4ebc6e6f4e622fc8518dd7bbd8ecddf784833ff5e50809796e570",
+      "pages": 22,
+      "question_count": 96,
+      "answer_count": 96
+    }
+  ]
+}
