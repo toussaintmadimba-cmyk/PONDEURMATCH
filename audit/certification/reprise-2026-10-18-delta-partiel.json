@@ -1,0 +1,142 @@
+{
+  "purpose": "Sauvegarde partielle des derniers changements effectivement lus ou exécutés avant la panne; ne remplace pas le registre local complet de 96 fiches.",
+  "match": 3,
+  "recorded_at": "2026-10-18",
+  "requires_reimport_of_local_files": true,
+  "verified_changes": [
+    {
+      "id": "M03-R07-Q02",
+      "question": "Dans le classement traditionnel en trois groupes, à quel groupe appartiennent les verbes en « ir » dont le participe présent finit en « issant » ?",
+      "answer": "Deuxième groupe",
+      "accepted_variants": [
+        "Deuxième groupe",
+        "Second groupe",
+        "2e groupe"
+      ],
+      "fact_id": "conjugaison-classement-traditionnel-deuxieme-groupe-ir-issant",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26584200/verbe-regulier-en-ir",
+          "locator": "Définition, exemples et termes privilégiés, lignes 17–26.",
+          "support": "Le modèle en -ir avec participe présent en -issant correspond au verbe du deuxième groupe dans la classification traditionnelle.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
+      "decision": "La classification traditionnelle en trois groupes est explicitement imposée, car certaines grammaires québécoises emploient un autre classement.",
+      "replaces": "Reconnaissance du plus-que-parfait avec nous avions fini; doublon de M12-R07-Q01."
+    },
+    {
+      "id": "M03-R07-Q04",
+      "question": "Comment appelle-t-on la partie finale ajoutée au radical d’un verbe, comme « ais » dans « mangeais » ?",
+      "answer": "Terminaison",
+      "accepted_variants": [
+        "Terminaison",
+        "Désinence",
+        "Terminaison verbale"
+      ],
+      "fact_id": "conjugaison-terminaison-desinence-ais-mangeais",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26559789/terminaison",
+          "locator": "Définition et notes, lignes 33–39.",
+          "support": "La terminaison est l’élément final joint au radical; -ais dans mangeais illustre la désinence, type de terminaison.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter terminaison ou désinence: pour l’exemple verbal donné, les deux désignent légitimement l’élément demandé. Radical désigne l’autre partie.",
+      "replaces": "Reconnaissance du subjonctif avec venir, répétée dans M11-R07-Q02 et comme exercice de mode dans M29-R07-Q02."
+    },
+    {
+      "id": "M03-R08-Q04",
+      "question": "Quel organe de l’appareil urinaire sert de réservoir à l’urine avant son élimination ?",
+      "answer": "Vessie",
+      "accepted_variants": [
+        "Vessie",
+        "La vessie",
+        "Vessie urinaire"
+      ],
+      "fact_id": "anatomie-vessie-reservoir-urine",
+      "evidence": [
+        {
+          "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-how-it-works",
+          "locator": "What is the urinary tract?, paragraphe Bladder, ligne 217.",
+          "support": "La vessie est décrite comme un organe creux et musculaire qui sert de réservoir à l’urine.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter vessie. Les reins produisent l’urine et les uretères la transportent; ils ne constituent pas le réservoir demandé.",
+      "replaces": "Neutralité à pH 7 et 25 °C, répétée dans M09-R08-Q05."
+    },
+    {
+      "id": "M03-R15-Q03",
+      "question": "Quel amiral chinois dirigea sept expéditions maritimes entre 1405 et 1433 ?",
+      "answer": "Zheng He",
+      "accepted_variants": [
+        "Zheng He",
+        "Cheng Ho"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/51649",
+          "locator": "Giraffe with Two Keepers, notice historique, ligne 12; règne de Yongle indiqué ligne 10.",
+          "support": "Zheng He commande sept expéditions entre 1405 et 1433. Le règne de Yongle se termine en 1424: les sept expéditions ne relèvent donc pas toutes de ce règne.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Zheng He ou Cheng Ho. Ne pas attribuer les sept expéditions au seul règne de Yongle.",
+      "correction": "Retrait de sous l’empereur Yongle, inexact pour l’ensemble des sept expéditions."
+    }
+  ],
+  "editorial_changes_to_preserve": [
+    {
+      "id": "M03-R11-Q03",
+      "question": "Au 11 octobre 2026, quel pays a Séoul pour capitale ?",
+      "answer": "Corée du Sud",
+      "notice": "Réparation de la modification appliquée par erreur à cette fiche: ne pas conserver une question sur la Tamise avec cette réponse."
+    },
+    {
+      "id": "M03-R11-Q05",
+      "question": "Quel est le principal fleuve qui traverse le centre de Londres ?",
+      "answer": "Tamise"
+    },
+    {
+      "id": "M03-R06-Q05",
+      "question": "Dans quelle capitale américaine prononça-t-il ce discours ?",
+      "answer": "Washington",
+      "notice": "Renvoi au discours de Q3 sans redonner son titre."
+    },
+    {
+      "id": "M03-R16-Q03",
+      "question": "Dans quelle localité travailla-t-elle dans un grand hôpital militaire pendant ce conflit ?",
+      "answer": "Scutari",
+      "accepted_variants": [
+        "Scutari",
+        "Üsküdar",
+        "Uskudar"
+      ]
+    },
+    {
+      "id": "M03-R08-Q03",
+      "question": "Quelle organisation spatiale est issue en 1975 de la fusion de l’ESRO et de l’ELDO ?",
+      "answer": "ESA",
+      "notice": "La réponse développée ne doit plus figurer littéralement dans l’énoncé."
+    },
+    {
+      "id": "M03-R16-Q05",
+      "answer": "12 mai",
+      "accepted_variants": [
+        "12 mai",
+        "Le 12 mai",
+        "12"
+      ],
+      "notice": "Le mois de mai figure déjà dans la question: 12 seul est recevable."
+    }
+  ],
+  "theme_langage_b": "CONJUGAISON : FORMES ET CONSTRUCTION DES VERBES",
+  "response_type_correction": {
+    "id": "M03-R18-Q05",
+    "answer": "Hajj",
+    "response_type": "autre"
+  },
+  "global_status": "NON_CERTIFIE"
+}

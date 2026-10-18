@@ -1,0 +1,25 @@
+{
+  "record_type": "RESULTATS_OBSERVES_AVANT_PANNE_NON_REIMPORTES",
+  "recorded_at": "2026-10-18",
+  "remote_checkpoint_before_incident": "d0fc48a645de5f666056e4da02bf6951b3fc175f",
+  "integrity": {
+    "command": "python scripts/certification_niveau1.py check",
+    "executed_at": "2026-10-18T17:17:44.417738+00:00",
+    "test_count": 193,
+    "passed": 193,
+    "failed": 0
+  },
+  "certification": {
+    "command": "python scripts/certification_niveau1.py check --strict",
+    "executed_at": "2026-10-18T17:17:44.560647+00:00",
+    "test_count": 274,
+    "passed": 217,
+    "failed": 57
+  },
+  "verified_local": 288,
+  "verified_committed_before_incident": 192,
+  "unreviewed": 672,
+  "physical_rehearsal": false,
+  "global_certification": "NON_CERTIFIE",
+  "notice": "Ce résumé est issu des sorties effectivement observées. Il ne reconstitue pas les 274 résultats détaillés et ne remplace pas les fichiers tests-certification.json et tests-integrite.json distants."
+}
