@@ -1,0 +1,23 @@
+{
+  "match": 3,
+  "reviewed_at": "2026-10-18",
+  "questionnaire_sha256": "605c56e4c274dcb1380481556b8c64e9bb3bd423bbd101cfcae82419695dc93b",
+  "visual_review": "AUCUN_DEFAUT_DE_MISE_EN_PAGE",
+  "method": "Rendu des 27 pages en PNG, inspection des deux planches de contact, contrôle des zones de texte et des effectifs.",
+  "files": [
+    {
+      "file": "output/pdf/match-03-lecteur.pdf",
+      "sha256": "d45d35b58279730cc9a865f3f424b8161800e286a05b8be8c893d32c33e05414",
+      "pages": 6,
+      "question_count": 96,
+      "answer_count": 0
+    },
+    {
+      "file": "output/pdf/match-03-arbitrage.pdf",
+      "sha256": "1290ccba03f241dabc6358324b7f2a2eaec1317fb48419273c3e6d6dc82903e1",
+      "pages": 21,
+      "question_count": 96,
+      "answer_count": 96
+    }
+  ]
+}

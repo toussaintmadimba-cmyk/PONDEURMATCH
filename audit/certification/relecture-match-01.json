@@ -1,0 +1,16 @@
+{
+  "cantonades": {
+    "R06": "Mandela : Q1 identifie le sujet ; les quatre faits suivants sont indépendants et les réponses ne figurent pas dans Q1.",
+    "R16": "Senghor : sujet commun aux cinq questions ; parti, œuvre, fonctions et origine relus."
+  },
+  "relais": {
+    "R15": "Savants et astronomes : quatre attributions distinctes, ordre conservé.",
+    "R17": "Pays africains : quatre localisations distinctes ; Serengeti remplacé par Etosha après comparaison."
+  },
+  "identification": "Sankara : carrière publique, accession en 1983, changement du nom en 1984, naissance et mort. Quatre preuves étiquetées 40/30/20/10 ; progression relue.",
+  "match": 1,
+  "reviewed_at": "2026-10-11",
+  "oral_reading": "RELECTURE_INTELLECTUELLE_TERMINEE",
+  "arbitration_simulation": "96 décisions individuelles relues ; aucune session humaine prétendue.",
+  "status": "CONTROLE_EDITORIAL_TERMINE"
+}

@@ -1,0 +1,261 @@
+> ÉDITION DE TRAVAIL — NON CERTIFIÉE. Questions seules; lecteur uniquement.
+
+# MATCH 01 - NIVEAU 1
+
+**Format : Q suivie de R - 96 questions**
+
+**Répartition éditoriale réévaluée question par question : 67/96 réponses-noms propres (69,8 %), sous réserve de la validation finale des critères d’arbitrage.**
+
+> Les questions d'actualité sont datées dans leur énoncé. Les sources correspondantes sont dans sources/match-01-sources.md.
+
+## 1. MANCHETTE A - ÉQUIPE A
+
+**Q1.** Au 6 octobre 2026, qui est le président de la République du Ghana ?
+
+**Q2.** Au 6 octobre 2026, quelle est la capitale de la Namibie ?
+
+## 2. MANCHETTE B - ÉQUIPE B
+
+**Q1.** Au 6 octobre 2026, qui est la présidente du Mexique ?
+
+**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal au Nigeria ?
+
+## 3. SPORTS ET JEUX
+
+**Q1.** Quel sprinteur a battu le record du monde du 100 m en 9,58 secondes aux Mondiaux de Berlin en 2009 ?
+
+**Q2.** Quel tournoi du Grand Chelem se joue sur terre battue à Paris ?
+
+**Q3.** Quelle sélection a remporté la Coupe du monde de rugby à XV 2023 ?
+
+**Q4.** Selon les règles FIBA de 2024 du basketball traditionnel, combien de joueurs une équipe complète aligne-t-elle sur le terrain ?
+
+**Q5.** Selon les règles FIBA de 2024 du basketball traditionnel, combien de points rapporte un tir réussi au-delà de l’arc extérieur ?
+
+## 4. CINÉMA ET MUSIQUE
+
+**Q1.** Quel réalisateur a signé les films Inception et Oppenheimer ?
+
+**Q2.** Quelle chanteuse britannique interprète Rolling in the Deep ?
+
+**Q3.** Combien de cordes possède normalement une guitare classique ?
+
+**Q4.** Quel réalisateur sud-coréen a réalisé le film Parasite, sorti en 2019 ?
+
+**Q5.** Quel instrument à clavier comporte généralement 88 touches dans sa version moderne standard ?
+
+## 5. LANGAGE A
+
+**THÈME : VOCABULAIRE — FAMILLES DE MOTS ET HOMOPHONIE**
+
+**Q1.** Quel nom féminin de la famille de « décider » désigne un choix fait après réflexion ?
+
+**Q2.** Quel verbe de la même famille que « début » signifie commencer ?
+
+**Q3.** Comment appelle-t-on deux mots qui se prononcent de la même façon mais n'ont pas le même sens ?
+
+**Q4.** Quel nom féminin de la famille de « prudent » désigne la qualité de celui qui agit avec précaution ?
+
+## 6. CANTONADE 1
+
+**Q1.** Quel dirigeant sud-africain, ancien prisonnier de l'apartheid, devint président de son pays en 1994 ?
+
+**Q2.** Sur quelle île fut-il emprisonné pendant de longues années ?
+
+**Q3.** À la présidence de quel parti politique sud-africain opposé à l'apartheid a-t-il été élu en 1991 ?
+
+**Q4.** Avec quel président sud-africain partagea-t-il le prix Nobel de la paix 1993 ?
+
+**Q5.** Dans quelle ville eut lieu son investiture présidentielle du 10 mai 1994 ?
+
+## 7. LANGAGE B
+
+**THÈME : GRAMMAIRE : NATURE, FONCTION ET TEMPS**
+
+**Q1.** Dans « Les enfants jouent dehors », quelle est la nature de « dehors » ?
+
+**Q2.** Dans « Marie écrit une lettre », quelle est la fonction de « une lettre » ?
+
+**Q3.** Quel temps verbal est employé dans « nous partirons demain » ?
+
+**Q4.** Quelle classe grammaticale peut représenter un nom et en exercer les fonctions dans une phrase ?
+
+## 8. SCIENCE ET TECHNIQUE
+
+**Q1.** Quel scientifique écossais découvrit la pénicilline en 1928 ?
+
+**Q2.** Quelle unité du SI mesure la résistance électrique ?
+
+**Q3.** Quelle scientifique fut la première femme à recevoir un prix Nobel ?
+
+**Q4.** Quel processus permet aux plantes vertes de produire de la matière organique grâce à la lumière ?
+
+**Q5.** Quel physicien formula la théorie de la relativité générale ?
+
+## 9. QUI, QUE, OÙ SUIS-JE ?
+
+**Q1.** Qui suis-je ? Compositeur allemand devenu sourd, j'ai composé la Neuvième Symphonie.
+
+**Q2.** Où suis-je ? Je suis le sommet le plus élevé du monde au-dessus du niveau de la mer.
+
+**Q3.** Que suis-je ? Fleuve africain, je traverse notamment l'Égypte avant de me jeter dans la Méditerranée.
+
+**Q4.** Qui suis-je ? Peintre né à Málaga en Espagne, je suis l'auteur de Guernica.
+
+**Q5.** Où suis-je ? Capitale italienne, j'abrite le Colisée.
+
+## 10. DIVERS
+
+**THÈME : CAPITALES AFRICAINES**
+
+**Q1.** Quelle est la capitale de l'Éthiopie ?
+
+**Q2.** Quelle est la capitale officielle du Bénin ?
+
+**Q3.** Quelle est la capitale du Rwanda ?
+
+**Q4.** Quelle est la capitale du Mozambique ?
+
+**Q5.** Quelle est la capitale du Botswana ?
+
+## 11. ÉCLAIR 1
+
+**Q1.** Quel instrument utilise-t-on pour mesurer la température corporelle et détecter une fièvre ?
+
+**Q2.** Quel auteur anglais a écrit Hamlet ?
+
+**Q3.** Quelle est la capitale du Japon ?
+
+**Q4.** Quelle est la plus grande planète du Système solaire ?
+
+**Q5.** Comment appelle-t-on l’eau à l’état solide ?
+
+**Q6.** Quel est le symbole chimique du fer ?
+
+**Q7.** Dans le modèle géographique distinguant l'Europe de l'Asie et séparant les deux Amériques, combien de continents compte-t-on ?
+
+**Q8.** Quel compositeur a écrit la musique de l’opéra La Flûte enchantée ?
+
+**Q9.** Combien de planètes compte le Système solaire ?
+
+**Q10.** Quel gaz de formule moléculaire O₂ est indispensable à la respiration humaine ?
+
+# MI-TEMPS
+
+## 12. CULTURE RÉGIONALE - RDC
+
+**Q1.** Quelle ville est la capitale de la République démocratique du Congo ?
+
+**Q2.** Qui fut le premier Premier ministre, en 1960, de l'État indépendant aujourd'hui appelé République démocratique du Congo ?
+
+**Q3.** Quel parc national de la RDC est célèbre pour ses gorilles de montagne ?
+
+**Q4.** Quel fleuve sépare notamment Kinshasa de Brazzaville ?
+
+**Q5.** Quel est le titre de l’hymne national de la RDC inscrit dans sa Constitution de 2006 ?
+
+## 13. LITTÉRATURE ET ART
+
+**Q1.** Quel écrivain nigérian est l'auteur de Things Fall Apart ?
+
+**Q2.** Quel sculpteur a créé Le Penseur ?
+
+**Q3.** Quel est le véritable nom de Molière ?
+
+**Q4.** Comment appelle-t-on une peinture exécutée sur un enduit mural encore frais ?
+
+**Q5.** Quel écrivain français est l'auteur du roman L'Étranger ?
+
+## 14. MONDE CONTEMPORAIN
+
+**Q1.** Quel événement du 14 juillet 1789 constitue un épisode central de la Révolution française ?
+
+**Q2.** Quel traité signé le 28 juin 1919 régla notamment la paix entre l'Allemagne et les puissances alliées après la Première Guerre mondiale ?
+
+**Q3.** En quelle année l'Organisation des Nations Unies est-elle officiellement entrée en existence ?
+
+**Q4.** Quel chancelier fédéral allemand était en fonction lors de la réunification de l'Allemagne le 3 octobre 1990 ?
+
+**Q5.** Quel dirigeant soviétique est associé aux réformes appelées perestroïka et glasnost ?
+
+## 15. RELAIS A
+
+**THÈME : GRANDS SCIENTIFIQUES**
+
+**Q1.** Quel savant anglais formula les lois classiques du mouvement et de la gravitation universelle ?
+
+**Q2.** Quel naturaliste anglais publia De l'origine des espèces ?
+
+**Q3.** Quel savant italien observa quatre satellites de Jupiter en 1610 grâce à une lunette astronomique ?
+
+**Q4.** Quelle mathématicienne publia des notes sur la machine analytique de Charles Babbage contenant un algorithme destiné à cette machine ?
+
+## 16. CANTONADE 2
+
+**Q1.** Quel poète et chef d'État né à Joal en 1906 gouverna son pays de 1960 à 1980 ?
+
+**Q2.** Quel mouvement littéraire et culturel a-t-il développé avec d'autres intellectuels noirs francophones ?
+
+**Q3.** Quel pays a-t-il dirigé de 1960 à 1980 ?
+
+**Q4.** Dans quelle institution française fut-il élu en 1983 ?
+
+**Q5.** Quel poète martiniquais fut l'un de ses compagnons majeurs de la Négritude ?
+
+## 17. RELAIS B
+
+**THÈME : PAYS D'AFRIQUE**
+
+**Q1.** Quel pays africain a Le Caire pour capitale ?
+
+**Q2.** Dans quel pays africain se trouve le parc national d’Etosha ?
+
+**Q3.** Quel pays africain a Luanda pour capitale ?
+
+**Q4.** Quel pays du Maghreb a Rabat pour capitale ?
+
+## 18. MYTHOLOGIE ET RELIGION
+
+**Q1.** Dans la mythologie grecque, quel dieu règne sur l'Olympe ?
+
+**Q2.** Comment appelle-t-on la privation temporaire de toute nourriture, notamment pour une pratique religieuse ?
+
+**Q3.** Quelle ville d'Arabie saoudite abrite la Kaaba ?
+
+**Q4.** Comment appelle-t-on la croyance en un seul Dieu ?
+
+**Q5.** Quel prophète biblique est associé à la sortie des Hébreux d'Égypte ?
+
+## 19. IDENTIFICATION
+
+**Q1.** Identification progressive — Qui suis-je ?
+
+**40 points —** En 1981, je deviens secrétaire d'État à l'Information en Haute-Volta, avant de démissionner pour marquer mon désaccord avec le régime.
+
+**30 points —** Après avoir été Premier ministre au début de 1983, j'accède à la tête de l'État en août de la même année.
+
+**20 points —** En 1984, sous ma présidence, mon pays abandonne le nom de Haute-Volta pour celui de Burkina Faso.
+
+**10 points —** Né à Yako en 1949, je suis assassiné le 15 octobre 1987.
+
+## 20. ÉCLAIR 2
+
+**Q1.** Quelle est la capitale du Canada ?
+
+**Q2.** Quel volcan japonais culmine à environ 3 776 mètres et constitue le plus haut sommet du pays ?
+
+**Q3.** Quel écrivain espagnol a créé Don Quichotte ?
+
+**Q4.** Quelle unité du SI mesure la fréquence ?
+
+**Q5.** Quelle organisation internationale, fondée en 1945 pour lutter contre la faim, a transféré son siège à Rome en 1951 ?
+
+**Q6.** Dans quel pays se trouve le Machu Picchu ?
+
+**Q7.** Quel compositeur a écrit les Nocturnes pour piano de l’opus 9 ?
+
+**Q8.** Quelle ville argentine est située sur le Río de la Plata et est la capitale du pays ?
+
+**Q9.** Quel instrument mesure la pression atmosphérique ?
+
+**Q10.** Dans une fraction écrite verticalement, comment appelle-t-on le nombre sous la barre de fraction ?

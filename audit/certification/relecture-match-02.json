@@ -1,0 +1,16 @@
+{
+  "cantonades": {
+    "R06": "Wangari Maathai : cinq faits vérifiés ; retrait de la ville de Nairobi de Q1 pour ne pas dévoiler Q5. Nobel 2004, Kenya et Green Belt Movement 1977 distingués.",
+    "R16": "Gandhi : autobiographie en Q1, métier en Afrique du Sud, marche du sel, Congrès et satyagraha ; aucun des quatre corrigés suivants révélé dans Q1."
+  },
+  "relais": {
+    "R15": "Dirigeants africains du XXe siècle : Nkrumah, Nyerere, Kenyatta et Haïlé Sélassié ; fonctions et dates vérifiées séparément.",
+    "R17": "Fleuves : Danube, Mississippi, Zambèze, Yangtsé ; source du Mississippi ajoutée pour discriminer Rio Grande."
+  },
+  "identification": "Cheikh Anta Diop : naissance, histoire et laboratoire carbone 14, nom de l’UCAD depuis 1987, Nations nègres et culture (1954). Faux indice sur un musée retiré. Quatre preuves 40/30/20/10 ; progression relue.",
+  "match": 2,
+  "reviewed_at": "2026-10-11",
+  "oral_reading": "RELECTURE_INTELLECTUELLE_TERMINEE",
+  "arbitration_simulation": "96 décisions individuelles relues ; aucune session humaine prétendue.",
+  "status": "CONTROLE_EDITORIAL_TERMINE"
+}

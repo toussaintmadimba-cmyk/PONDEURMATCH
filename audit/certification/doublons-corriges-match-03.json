@@ -1,0 +1,144 @@
+{
+  "match": 3,
+  "replaced_question_count": 7,
+  "items": [
+    {
+      "id": "M03-R03-Q04",
+      "duplicates_with": [
+        "M29-R03-Q05"
+      ],
+      "before": {
+        "question": "Combien de points rapporte un essai au rugby à XV ?",
+        "answer": "5",
+        "fact_id": "rugby-try-five-points"
+      },
+      "after": {
+        "question": "Selon les règles World Rugby consultées le 11 octobre 2026, comment nomme-t-on les lignes qui délimitent latéralement le champ de jeu ?",
+        "answer": "Lignes de touche",
+        "fact_id": "rugby-limites-laterales-touche"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R04-Q04",
+      "duplicates_with": [
+        "M01-R04-Q03"
+      ],
+      "before": {
+        "question": "Quel instrument de musique est muni de six cordes dans sa forme classique la plus courante ?",
+        "answer": "Guitare",
+        "fact_id": "guitar-six-strings"
+      },
+      "after": {
+        "question": "À quelle famille d’instruments appartient la guitare : cordes, vents ou percussions ?",
+        "answer": "Cordes",
+        "fact_id": "guitare-famille-cordes"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R11-Q09",
+      "duplicates_with": [
+        "M03-R20-Q07",
+        "M10-R11-Q08",
+        "M17-R11-Q08"
+      ],
+      "before": {
+        "question": "Combien de côtés possède un triangle ?",
+        "answer": "3",
+        "fact_id": "triangle-three-sides"
+      },
+      "after": {
+        "question": "Comment appelle-t-on le résultat d’une division ?",
+        "answer": "Quotient",
+        "fact_id": "division-resultat-quotient"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R20-Q07",
+      "duplicates_with": [
+        "M03-R11-Q09",
+        "M10-R11-Q08",
+        "M17-R11-Q08"
+      ],
+      "before": {
+        "question": "Combien de côtés possède un carré ?",
+        "answer": "4",
+        "fact_id": "square-four-sides"
+      },
+      "after": {
+        "question": "Dans une série statistique ordonnée contenant un nombre impair de valeurs, comment appelle-t-on la valeur du milieu ?",
+        "answer": "Médiane",
+        "fact_id": "statistique-mediane-valeur-centrale-effectif-impair"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R07-Q02",
+      "duplicates_with": [
+        "M12-R07-Q01"
+      ],
+      "before": {
+        "question": "Quel est le temps verbal de « nous avions fini » ?",
+        "answer": "Plus-que-parfait",
+        "fact_id": "tense-avions-fini"
+      },
+      "after": {
+        "question": "Dans le classement traditionnel en trois groupes, à quel groupe appartiennent les verbes en « ir » dont le participe présent finit en « issant » ?",
+        "answer": "Deuxième groupe",
+        "fact_id": "conjugaison-classement-traditionnel-deuxieme-groupe-ir-issant"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R07-Q04",
+      "duplicates_with": [
+        "M11-R07-Q02",
+        "M29-R07-Q02"
+      ],
+      "before": {
+        "question": "Quel est le mode et le temps de « qu'il vienne » ?",
+        "answer": "Subjonctif présent",
+        "fact_id": "tense-vienne-subjonctif"
+      },
+      "after": {
+        "question": "Comment appelle-t-on la partie finale ajoutée au radical d’un verbe, comme « ais » dans « mangeais » ?",
+        "answer": "Terminaison",
+        "fact_id": "conjugaison-terminaison-desinence-ais-mangeais"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    },
+    {
+      "id": "M03-R08-Q04",
+      "duplicates_with": [
+        "M09-R08-Q05"
+      ],
+      "before": {
+        "question": "Quelle valeur de pH correspond à une solution neutre à température ordinaire ?",
+        "answer": "7",
+        "fact_id": "neutral-ph-seven"
+      },
+      "after": {
+        "question": "Quel organe de l’appareil urinaire sert de réservoir à l’urine avant son élimination ?",
+        "answer": "Vessie",
+        "fact_id": "anatomie-vessie-reservoir-urine"
+      },
+      "decision": "QUESTION_REMPLACEE",
+      "justification": "Même relation factuelle ou même exercice de dénombrement/reconnaissance avec variante; remplacement documenté individuellement puis nouvelle comparaison sur 2880 questions.",
+      "reviewed_at": "2026-10-18"
+    }
+  ]
+}

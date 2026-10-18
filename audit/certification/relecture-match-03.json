@@ -1,0 +1,16 @@
+{
+  "match": 3,
+  "reviewed_at": "2026-10-18",
+  "cantonades": {
+    "R06": "Martin Luther King Jr.: sujet puis Montgomery, titre du discours, Nobel 1964 et lieu du discours. Washington retiré de Q3; titre remplacé par un renvoi dans Q5. Q1 ne donne aucune des quatre réponses suivantes.",
+    "R16": "Florence Nightingale: surnom distinctif en Q1, puis guerre de Crimée, Scutari, Turquie et 12 mai. Istanbul retiré de Q3 pour ne pas guider vers la Turquie; réponse 12 admise puisque mai est déjà donné."
+  },
+  "relais": {
+    "R15": "Voyageurs et explorateurs: Marco Polo, Ibn Battûta, Zheng He et Amundsen. Sept expéditions de Zheng He distinguées du règne de Yongle; rôle de chef d’expédition pour distinguer Amundsen de ses quatre compagnons.",
+    "R17": "Quatre relations de capitales africaines distinctes: Tunisie–Tunis, Mali–Bamako, Malawi–Lilongwe et Gabon–Libreville. Dates et preuves vérifiées; ordre conservé."
+  },
+  "identification": "Frantz Fanon: 40 points naissance Martinique 1925; 30 points psychiatre en Algérie; 20 points Peau noire, masques blancs; 10 points Les Damnés de la Terre. Quatre preuves distinctes repérées; progression sans nom littéralement fourni. Notice BnF utilisée pour le titre exact plutôt que la coquille de la page universitaire.",
+  "oral_reading": "RELECTURE_INTELLECTUELLE_TERMINEE",
+  "arbitration_simulation": "96 énoncés, réponses et variantes relus. Épellation des pluriels exigée; réponses concurrentes examinées. Aucune répétition physique avec élèves réalisée.",
+  "status": "CONTROLE_EDITORIAL_TERMINE"
+}
