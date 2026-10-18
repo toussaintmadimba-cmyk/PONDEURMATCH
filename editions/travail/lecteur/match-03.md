@@ -10,75 +10,75 @@
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Q1.** Au 6 octobre 2026, quelle ville est désignée comme capitale politique de la Côte d'Ivoire ?
+**Q1.** Au 11 octobre 2026, quelle ville est désignée comme capitale politique de la Côte d'Ivoire ?
 
-**Q2.** Au 6 octobre 2026, quelle est la capitale de l'Ouganda ?
+**Q2.** Au 11 octobre 2026, quelle est la capitale de l'Ouganda ?
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quelle monnaie nationale a cours légal au Burundi ?
+**Q1.** Au 11 octobre 2026, quelle est la monnaie nationale du Burundi ?
 
-**Q2.** Au 6 octobre 2026, quelle est la capitale du Kazakhstan ?
+**Q2.** Au 11 octobre 2026, quelle est la capitale du Kazakhstan ?
 
 ## 3. SPORTS ET JEUX
 
 **Q1.** Quel basketteur américain est surnommé « Air Jordan » ?
 
-**Q2.** Quel tournoi de tennis du Grand Chelem se dispute sur gazon à Londres ?
+**Q2.** Lors de l’édition 2026, quel tournoi de tennis du Grand Chelem se joue sur gazon ?
 
 **Q3.** Quelle sélection a remporté la Coupe d'Afrique des Nations 2023, disputée en 2024 ?
 
-**Q4.** Combien de points rapporte un essai au rugby à XV ?
+**Q4.** Selon les règles World Rugby consultées le 11 octobre 2026, comment nomme-t-on les lignes qui délimitent latéralement le champ de jeu ?
 
-**Q5.** Aux échecs, quelle pièce se déplace uniquement en diagonale ?
+**Q5.** Selon les règles FIDE de 2023, quelle pièce des échecs se déplace uniquement en diagonale ?
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quel compositeur russe a écrit le ballet Casse-Noisette ?
+**Q1.** Quel compositeur a écrit la musique du ballet Casse-Noisette ?
 
 **Q2.** Quel acteur incarne Harry Potter dans les huit films principaux de la saga ?
 
 **Q3.** Quel artiste nigérian a sorti l'album African Giant en 2019 ?
 
-**Q4.** Quel instrument de musique est muni de six cordes dans sa forme classique la plus courante ?
+**Q4.** À quelle famille d’instruments appartient la guitare : cordes, vents ou percussions ?
 
-**Q5.** Comment appelle-t-on une composition musicale destinée à être chantée sans accompagnement instrumental ?
+**Q5.** Quelle expression désigne un chant exécuté sans accompagnement instrumental ?
 
 ## 5. LANGAGE A
 
 **THÈME : PLURIELS PARTICULIERS**
 
-**Q1.** Quel est le pluriel du nom « journal » ?
+**Q1.** Épelez le pluriel du nom « journal ».
 
-**Q2.** Quel est le pluriel du nom « bijou » ?
+**Q2.** Épelez le pluriel du nom « bijou ».
 
-**Q3.** Quel est le pluriel du nom « pneu » ?
+**Q3.** Épelez le pluriel du nom « pneu ».
 
-**Q4.** Quel est le pluriel du nom « festival » ?
+**Q4.** Épelez le pluriel du nom « festival ».
 
 ## 6. CANTONADE 1
 
-**Q1.** Quel pasteur baptiste américain, assassiné à Memphis en 1968, défendit les droits civiques par des actions non violentes ?
+**Q1.** Quel pasteur américain, assassiné à Memphis en 1968, défendit les droits civiques par des actions non violentes ?
 
 **Q2.** Dans quelle ville de l'Alabama débuta en 1955 le boycott des bus auquel il participa ?
 
-**Q3.** Quel titre porte son célèbre discours prononcé à Washington le 28 août 1963 ?
+**Q3.** Quel titre porte son célèbre discours prononcé le 28 août 1963 ?
 
 **Q4.** En quelle année reçut-il le prix Nobel de la paix ?
 
-**Q5.** Dans quelle capitale américaine prononça-t-il son discours « I Have a Dream » ?
+**Q5.** Dans quelle capitale américaine prononça-t-il ce discours ?
 
 ## 7. LANGAGE B
 
-**THÈME : CONJUGAISON : TEMPS ET MODES**
+**THÈME : CONJUGAISON : FORMES ET CONSTRUCTION DES VERBES**
 
 **Q1.** Quel est le temps verbal de « j'ai compris » ?
 
-**Q2.** Quel est le temps verbal de « nous avions fini » ?
+**Q2.** Dans le classement traditionnel en trois groupes, à quel groupe appartiennent les verbes en « ir » dont le participe présent finit en « issant » ?
 
-**Q3.** Quel est le mode et le temps de « je voudrais » ?
+**Q3.** À quelle forme verbale correspond « je voudrais » ?
 
-**Q4.** Quel est le mode et le temps de « qu'il vienne » ?
+**Q4.** Comment appelle-t-on la partie finale ajoutée au radical d’un verbe, comme « ais » dans « mangeais » ?
 
 ## 8. SCIENCE ET TECHNIQUE
 
@@ -86,11 +86,11 @@
 
 **Q2.** Quel informaticien britannique a inventé le World Wide Web ?
 
-**Q3.** Quelle agence spatiale européenne coordonne notamment de nombreuses missions scientifiques du continent ?
+**Q3.** Quelle organisation spatiale est issue en 1975 de la fusion de l’ESRO et de l’ELDO ?
 
-**Q4.** Quelle valeur de pH correspond à une solution neutre à température ordinaire ?
+**Q4.** Quel organe de l’appareil urinaire sert de réservoir à l’urine avant son élimination ?
 
-**Q5.** Dans quel état de la matière le son se propage-t-il généralement le plus vite : solide, liquide ou gaz ?
+**Q5.** Dans lequel de ces milieux le son se propage-t-il le plus vite : l’air, l’eau ou l’acier ?
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
@@ -120,15 +120,15 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle est la capitale de la Norvège ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la Norvège ?
 
-**Q2.** Quel poète français est l'auteur du recueil Les Fleurs du mal ?
+**Q2.** Quel poète est l’auteur du recueil Les Fleurs du mal ?
 
-**Q3.** Quel pays a Séoul pour capitale ?
+**Q3.** Au 11 octobre 2026, quel pays a Séoul pour capitale ?
 
-**Q4.** Quel astronome polonais a défendu un modèle héliocentrique au XVIe siècle ?
+**Q4.** Quel astronome a présenté un modèle héliocentrique dans De Revolutionibus, publié en 1543 ?
 
-**Q5.** Quel fleuve traverse Londres ?
+**Q5.** Quel est le principal fleuve qui traverse le centre de Londres ?
 
 **Q6.** Dans quelle ville se trouve la tour Eiffel ?
 
@@ -136,41 +136,41 @@
 
 **Q8.** À quelle température l'eau pure gèle-t-elle normalement à pression atmosphérique standard ?
 
-**Q9.** Combien de côtés possède un triangle ?
+**Q9.** Comment appelle-t-on le résultat d’une division ?
 
-**Q10.** Quel organe principal permet les échanges gazeux de la respiration humaine ?
+**Q10.** Quels organes abritent les alvéoles où s’effectuent les échanges gazeux respiratoires chez l’être humain ?
 
 # MI-TEMPS
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Q1.** Quelle province de la RDC a Goma pour chef-lieu ?
+**Q1.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Goma pour chef-lieu ?
 
-**Q2.** Quelle province de la RDC a Mbuji-Mayi pour chef-lieu ?
+**Q2.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Mbuji-Mayi pour chef-lieu ?
 
-**Q3.** Quel parc national congolais est le plus vaste parc forestier tropical d'Afrique et porte le nom d'une rivière ?
+**Q3.** Au 11 octobre 2026, quel parc national congolais l’UNESCO décrit-elle comme la plus grande aire protégée de forêt dense humide d’Afrique ?
 
-**Q4.** Quelle grande ville congolaise portait autrefois le nom de Stanleyville ?
+**Q4.** Quelle ville congolaise portait autrefois le nom de Stanleyville ?
 
-**Q5.** Quelle province de la RDC a Kolwezi pour chef-lieu ?
+**Q5.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kolwezi pour chef-lieu ?
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quel écrivain français est l'auteur de Madame Bovary ?
+**Q1.** Quel écrivain est l’auteur de Madame Bovary ?
 
 **Q2.** Quel peintre espagnol a réalisé La Persistance de la mémoire ?
 
-**Q3.** Quel écrivain sénégalais est l'auteur de L'Aventure ambiguë ?
+**Q3.** Quel écrivain est l’auteur de L’Aventure ambiguë ?
 
-**Q4.** Quel artiste de la Renaissance sculpta le David conservé à Florence ?
+**Q4.** Quel artiste a sculpté le David en marbre de 1501 à 1504, conservé à l’Académie de Florence ?
 
-**Q5.** Comment appelle-t-on l'art qui consiste à assembler de petites pièces colorées pour former une image ?
+**Q5.** Comment appelle-t-on une décoration faite de petits fragments colorés de pierre, de verre ou de céramique fixés dans un ciment ?
 
 ## 14. MONDE CONTEMPORAIN
 
 **Q1.** Quel Premier ministre britannique était en fonction lorsque le Royaume-Uni déclara la guerre à l'Allemagne en septembre 1939 ?
 
-**Q2.** Quel nom donne-t-on à la crise économique mondiale déclenchée après le krach boursier de 1929 ?
+**Q2.** Quel nom donne-t-on à la grave crise économique commencée aux États-Unis en 1929 puis étendue au monde ?
 
 **Q3.** Quelle organisation de défense collective fut créée en 1949 par le traité de l'Atlantique Nord ?
 
@@ -182,13 +182,13 @@
 
 **THÈME : GRANDS VOYAGEURS ET EXPLORATEURS**
 
-**Q1.** Quel marchand vénitien est célèbre pour le récit de ses voyages en Asie au XIIIe siècle ?
+**Q1.** Quel marchand vénitien né en 1254 est connu pour son long voyage en Chine ?
 
 **Q2.** Quel voyageur marocain du XIVe siècle parcourut une grande partie du monde musulman et au-delà ?
 
-**Q3.** Quel amiral chinois des Ming dirigea de grandes expéditions maritimes au début du XVe siècle ?
+**Q3.** Quel amiral chinois dirigea sept expéditions maritimes entre 1405 et 1433 ?
 
-**Q4.** Quel explorateur norvégien atteignit le pôle Sud en 1911 ?
+**Q4.** Quel explorateur dirigea la première expédition ayant atteint le pôle Sud, en 1911 ?
 
 ## 16. CANTONADE 2
 
@@ -196,7 +196,7 @@
 
 **Q2.** Pendant quel conflit mena-t-elle son action la plus célèbre auprès des soldats britanniques ?
 
-**Q3.** Dans quel lieu, aujourd'hui rattaché à Istanbul, travailla-t-elle dans un grand hôpital militaire ?
+**Q3.** Dans quelle localité travailla-t-elle dans un grand hôpital militaire pendant ce conflit ?
 
 **Q4.** Dans quel pays actuel se trouve Scutari, aujourd'hui Üsküdar ?
 
@@ -206,13 +206,13 @@
 
 **THÈME : CAPITALES AFRICAINES**
 
-**Q1.** Quelle est la capitale de la Tunisie ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la Tunisie ?
 
-**Q2.** Quelle est la capitale du Mali ?
+**Q2.** Au 11 octobre 2026, quelle est la capitale du Mali ?
 
-**Q3.** Quelle est la capitale du Malawi ?
+**Q3.** Au 11 octobre 2026, quelle est la capitale du Malawi ?
 
-**Q4.** Quelle est la capitale du Gabon ?
+**Q4.** Au 11 octobre 2026, quelle est la capitale du Gabon ?
 
 ## 18. MYTHOLOGIE ET RELIGION
 
@@ -220,7 +220,7 @@
 
 **Q2.** Dans la mythologie nordique, quel dieu est le père de Thor ?
 
-**Q3.** Quelle ville indienne située sur le Gange est l'un des grands lieux saints de l'hindouisme ?
+**Q3.** Quelle ville sainte indienne, située sur le Gange, abrite le temple Kashi Vishwanath ?
 
 **Q4.** Quel État indépendant abrite le siège central de l'Église catholique romaine ?
 
@@ -232,19 +232,19 @@
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle est la capitale de la République tchèque ?
+**Q1.** Au 11 octobre 2026, quelle est la capitale de la République tchèque ?
 
-**Q2.** Quel écrivain britannique est l'auteur du roman 1984 ?
+**Q2.** Quel écrivain est l’auteur du roman 1984 ?
 
-**Q3.** Quelle chute d'eau du Venezuela est souvent présentée comme la plus haute chute d'eau ininterrompue du monde ?
+**Q3.** Quelle chute d’eau du Venezuela est décrite par l’UNESCO comme la plus haute du monde ?
 
 **Q4.** Quel lac de Sibérie est le plus profond lac du monde ?
 
-**Q5.** Quel médecin américain développa l'un des premiers vaccins efficaces contre la poliomyélite ?
+**Q5.** Quel médecin développa le vaccin à virus inactivé contre la poliomyélite dont l’efficacité fut annoncée en 1955 ?
 
-**Q6.** Quel est le plus vaste pays du monde par superficie ?
+**Q6.** Au 11 octobre 2026, quel est le plus vaste pays du monde par superficie ?
 
-**Q7.** Combien de côtés possède un carré ?
+**Q7.** Dans une série statistique ordonnée contenant un nombre impair de valeurs, comment appelle-t-on la valeur du milieu ?
 
 **Q8.** Quel est le symbole chimique de l'argent ?
 

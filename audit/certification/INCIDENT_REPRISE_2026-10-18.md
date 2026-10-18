@@ -1,3 +1,5 @@
+> INCIDENT RÉSOLU : accès local rétabli, fichiers M03 retrouvés et empreintes des PDF vérifiées. Voir le journal actuel pour le point de reprise. Le texte ci-dessous conserve le constat au moment de la panne.
+
 # Reprise après incident — 18 octobre 2026
 
 ## État enregistré sur GitHub

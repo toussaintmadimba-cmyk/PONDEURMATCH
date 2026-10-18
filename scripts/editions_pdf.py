@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 import re
+from datetime import date
 from html import escape
 from pathlib import Path
 
@@ -56,7 +57,10 @@ def build(mid, mode, official=False):
     target = OUT / f'match-{mid:02d}-{mode}.pdf'
     story = [para('PONDEURMATCH', 'title'), para(f'NIVEAU 1 · MATCH {mid:02d} · '+('LECTEUR' if mode=='lecteur' else 'ARBITRAGE'), 'section')]
     status = 'Édition officielle' if official else 'Édition contrôlée - revue globale en cours'
-    story += [para(safe(status)+'<br/>96 questions · 20 rubriques · Consultation documentaire : 11 octobre 2026', 'sub')]
+    dates = sorted({ev['consulted_at'] for q in data['questions'] for ev in q['evidence']})
+    display_dates = [date.fromisoformat(d).strftime('%d/%m/%Y') for d in (dates[0], dates[-1])]
+    period = display_dates[0] if dates[0] == dates[-1] else 'du '+display_dates[0]+' au '+display_dates[1]
+    story += [para(safe(status)+'<br/>96 questions · 20 rubriques · Vérifications documentaires : '+period, 'sub')]
     if mode == 'lecteur':
         story += [para('Équipe A : ____________________ &nbsp; Équipe B : ____________________<br/>Date : ________________________ &nbsp; Lecteur : ______________________', 'note')]
     else:

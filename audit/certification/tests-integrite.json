@@ -1,6 +1,6 @@
 {
   "command": "python scripts/certification_niveau1.py check",
-  "executed_at": "2026-10-11T21:57:01.892300+00:00",
+  "executed_at": "2026-10-18T17:28:25.109610+00:00",
   "mode": "intégrité; ne certifie ni faits ni arbitrage",
   "test_count": 193,
   "passed": 193,
@@ -289,7 +289,7 @@
     {
       "test": "M03 types de réponse calculés",
       "passed": true,
-      "detail": "0 noms propres; 0/96 classés"
+      "detail": "68 noms propres; 96/96 classés"
     },
     {
       "test": "M04 fichier",
