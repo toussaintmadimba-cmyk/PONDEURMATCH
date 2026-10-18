@@ -1,3 +1,17 @@
+# Point de reprise actif — étape 2 / M05 en cours
+
+Accord « LANCES » reçu le 18 octobre 2026. M05 : 75/96 faits documentés avec décisions d’arbitrage, 68 noms propres sur 96 réponses classées. Aucun statut final M05 attribué. Les quatre répétitions déjà identifiées ont des remplacements documentés; comparaison sémantique finale encore ouverte.
+
+Incident : le serveur local a perdu sa connexion pendant l’enregistrement du lot suivant. Les 48 fiches déjà écrites localement ont été reconstruites depuis les données vérifiées de cette conversation; 27 autres ont été ajoutées via le connecteur GitHub. Le registre, le questionnaire et les éditions provisoires du présent checkpoint constituent la reprise durable. Ne pas écraser ce commit avec les 48 fiches locales anciennes.
+
+Les tests Python M05 et ses PDF n’ont pas été exécutés à ce stade. Derniers résultats antérieurs, propres au checkpoint M04 : intégrité 193/193 et certification 225/274. Ils ne valident pas les nouvelles modifications M05.
+
+À poursuivre : les 21 fiches dont factual_status diffère de FAIT_VERIFIE, puis déduplication, relecture complète, tests et deux PDF. Ne pas lancer M06 sans un nouvel accord explicite après clôture M05. Collection NON CERTIFIÉE; aucune fusion vers main.
+
+---
+
+# Historique précédent
+
 # Point de reprise actif — étape 1 terminée, accord attendu
 
 18 octobre 2026 : match 04 contrôlé à 96/96, 20 rubriques conservées, Langage A/B inclus. 68 noms propres. Sept remplacements pour répétition; 481 paires candidates actuelles concernant M04 relues contre 2 880 Q/R. Deux cantonades, deux relais, quatre indices Biko vérifiés; rapport MATCH_04.md et registres synchronisés. Deux PDF : lecteur 6 pages, arbitrage 22 pages; 28 pages rendues et inspectées.

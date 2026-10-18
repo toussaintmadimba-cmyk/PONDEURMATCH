@@ -1,202 +1,150 @@
 # Match 05 — arbitrage en cours
 
-
-
-> NON CERTIFIÉ — les décisions absentes restent à examiner.
-
-
+> NON CERTIFIÉ — contrôles finaux ouverts.
 
 ## M05-R01-Q01 — MANCHETTE A - ÉQUIPE A
 
-Au 6 octobre 2026, quelle est la capitale du Zimbabwe ?
+Au 18 octobre 2026, quelle est la capitale du Zimbabwe ?
 
 **Réponse :** Harare
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Harare
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Harare. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R01-Q02 — MANCHETTE A - ÉQUIPE A
 
-Au 6 octobre 2026, quelle monnaie a cours légal en Éthiopie ?
+Au 18 octobre 2026, quelle est la monnaie nationale de l’Éthiopie ?
 
 **Réponse :** Birr
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Birr; Birr éthiopien
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter birr ou birr éthiopien; aucun code ou taux de change n’est demandé.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R02-Q01 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quelle est la capitale de l'Équateur ?
+Au 18 octobre 2026, quelle est la capitale de l'Équateur ?
 
 **Réponse :** Quito
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Quito
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Quito. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R02-Q02 — MANCHETTE B - ÉQUIPE B
 
-Au 6 octobre 2026, quelle est la capitale de l'Ouzbékistan ?
+Au 18 octobre 2026, quelle est la capitale de l'Ouzbékistan ?
 
 **Réponse :** Tachkent
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Tachkent; Tashkent; Toshkent
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Tachkent ou Tashkent ou Toshkent. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R03-Q01 — SPORTS ET JEUX
 
-Quel boxeur américain, né Cassius Clay, était surnommé « The Greatest » ?
+Quel boxeur né Cassius Clay était surnommé « The Greatest » ?
 
 **Réponse :** Muhammad Ali
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Muhammad Ali; Mohamed Ali; Mohammed Ali; Ali
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ali ou son nom complet et ses translittérations; Cassius Clay répète l’indice, demander le nom adopté.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R03-Q02 — SPORTS ET JEUX
 
-Quel club allemand joue ses matchs à domicile à l'Allianz Arena ?
+Au 18 octobre 2026, quel club munichois a l’Allianz Arena pour stade à domicile ?
 
 **Réponse :** Bayern Munich
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bayern Munich; Bayern München; FC Bayern; FC Bayern München; Bayern
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Bayern. TSV 1860 fut autrefois résident; le libellé est daté.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R03-Q03 — SPORTS ET JEUX
 
-Quel marathonien kényan a couru un marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?
+Quel marathonien a parcouru la distance du marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?
 
 **Réponse :** Eliud Kipchoge
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Eliud Kipchoge; Kipchoge
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kipchoge. Il s’agit d’un défi sur la distance et non d’un record du monde homologué en compétition classique.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R03-Q04 — SPORTS ET JEUX
 
-Combien de points rapporte un touchdown au football américain avant la transformation ?
+Selon le glossaire NFL consulté le 18 octobre 2026, quel terme anglais désigne une tentative de jeu, du début de l’action jusqu’au ballon mort ?
 
-**Réponse :** 6
+**Réponse :** Down
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Down; Un down
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter down, prononcé intelligiblement; touchdown est une action de marque. Remplacement du doublon avec M26-R03-Q04.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R03-Q05 — SPORTS ET JEUX
 
-Combien de boules numérotées utilise-t-on au billard américain à huit, sans compter la blanche ?
+Selon les règles WPA du 15 septembre 2025, combien de billes numérotées utilise-t-on au jeu de la huit, sans compter la blanche ?
 
 **Réponse :** 15
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 15; Quinze; Quinze billes
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger quinze; seize inclut la blanche explicitement exclue.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R04-Q01 — CINÉMA ET MUSIQUE
 
-Quelle actrice kényane-mexicaine a remporté l'Oscar du meilleur second rôle féminin pour 12 Years a Slave ?
+Quelle actrice a remporté en 2014 l’Oscar du meilleur second rôle féminin pour 12 Years a Slave ?
 
 **Réponse :** Lupita Nyong'o
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Lupita Nyong’o; Lupita Nyongo; Nyong’o; Lupita
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Lupita, Nyong’o ou son nom complet; le personnage ne remplace pas l’actrice.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R04-Q02 — CINÉMA ET MUSIQUE
 
-Quel musicien britannique a composé et interprété la chanson Imagine ?
+Quel chanteur interprète Imagine sur le single original de 1971 ?
 
 **Réponse :** John Lennon
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** John Lennon; Lennon
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Lennon; il est l’interprète demandé. Ne pas attribuer exclusivement l’écriture à Lennon, puisqu’elle est partagée avec Yoko Ono.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R04-Q03 — CINÉMA ET MUSIQUE
 
-Quel réalisateur japonais a réalisé Le Voyage de Chihiro ?
+Quel réalisateur a signé le film d’animation Le Voyage de Chihiro ?
 
 **Réponse :** Hayao Miyazaki
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Hayao Miyazaki; Miyazaki
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Miyazaki. Hisaishi est le compositeur et non le réalisateur.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R04-Q04 — CINÉMA ET MUSIQUE
 
@@ -204,95 +152,71 @@ Combien de cordes possède normalement un violoncelle classique ?
 
 **Réponse :** 4
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 4; Quatre; Quatre cordes
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter quatre; le libellé vise l’instrument classique habituel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R04-Q05 — CINÉMA ET MUSIQUE
 
-Quel terme italien indique généralement un tempo vif et rapide ?
+À quelle allure faut-il jouer quand une partition indique allegro ?
 
-**Réponse :** Allegro
+**Réponse :** Rapide
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Rapide; Rapidement; Vif; Vivement; Vite; À une allure vive; Tempo rapide
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter rapide ou vif et les expressions équivalentes. Fort concerne le volume. La question initiale admettait aussi vivace ou presto; demander le sens d’allegro évite cette ambiguïté.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R05-Q01 — LANGAGE A
 
-Quel type de phrase reconnaît-on dans « Ferme la porte. » ?
+Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Ferme la porte. » ?
 
 **Réponse :** Injonctive
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Injonctive; Impérative; Phrase injonctive; Phrase impérative
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Injonctive ou Impérative ou Phrase injonctive ou Phrase impérative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R05-Q02 — LANGAGE A
 
-Quel type de phrase reconnaît-on dans « Où vas-tu ? » ?
+Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Où vas-tu ? » ?
 
 **Réponse :** Interrogative
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Interrogative; Phrase interrogative
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Interrogative ou Phrase interrogative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R05-Q03 — LANGAGE A
 
-Quel type de phrase reconnaît-on dans « Comme ce paysage est beau ! » ?
+Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Comme ce paysage est beau ! » ?
 
 **Réponse :** Exclamative
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Exclamative; Phrase exclamative
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Exclamative ou Phrase exclamative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R05-Q04 — LANGAGE A
 
-Quel type de phrase reconnaît-on dans « La Terre tourne autour du Soleil. » ?
+Dans le classement en quatre types de phrases, quel type reconnaît-on dans « La Terre tourne autour du Soleil. » ?
 
 **Réponse :** Déclarative
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Déclarative; Assertive; Phrase déclarative; Phrase assertive
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Déclarative ou Assertive ou Phrase déclarative ou Phrase assertive. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R06-Q01 — CANTONADE 1
 
@@ -300,15 +224,11 @@ Quelle militante pour la scolarisation des filles, attaquée par des talibans en
 
 **Réponse :** Malala Yousafzai
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Malala Yousafzai; Malala; Yousafzai
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Malala ou son nom complet; l’attaque de 2012 et l’engagement pour les filles discriminent cette militante.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R06-Q02 — CANTONADE 1
 
@@ -316,15 +236,11 @@ Dans quel pays est-elle née ?
 
 **Réponse :** Pakistan
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pakistan
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger Pakistan, le pays, et non Mingora, la ville.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R06-Q03 — CANTONADE 1
 
@@ -332,15 +248,11 @@ Dans quelle vallée du nord-ouest du Pakistan a-t-elle grandi et milité ?
 
 **Réponse :** Vallée de Swat
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Vallée de Swat; Swat
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Swat; Pakistan seul est trop large pour une vallée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R06-Q04 — CANTONADE 1
 
@@ -348,15 +260,11 @@ En quelle année reçut-elle le prix Nobel de la paix ?
 
 **Réponse :** 2014
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 2014
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger 2014; 2012 est l’année de l’attaque.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R06-Q05 — CANTONADE 1
 
@@ -364,15 +272,11 @@ Dans quelle université britannique a-t-elle obtenu un diplôme en philosophie, 
 
 **Réponse :** Université d'Oxford
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Université d’Oxford; Oxford; University of Oxford
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Oxford ou université d’Oxford; un collège seul demande de préciser l’université.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R07-Q01 — LANGAGE B
 
@@ -380,15 +284,11 @@ Dans « Le professeur corrige les copies », la phrase est-elle à la voix activ
 
 **Réponse :** Active
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Active; Voix active; Forme active
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter active ou forme active; le temps et la voix sont distincts.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R07-Q02 — LANGAGE B
 
@@ -396,15 +296,11 @@ Dans « Les copies sont corrigées par le professeur », quelle voix est employ�
 
 **Réponse :** Passive
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Passive; Voix passive; Forme passive
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter passive ou forme passive; par le professeur désigne l’agent.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R07-Q03 — LANGAGE B
 
@@ -412,79 +308,59 @@ Comment appelle-t-on la reproduction exacte des paroles d'une personne entre gui
 
 **Réponse :** Discours direct
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Discours direct; Style direct
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter discours direct ou style direct; citation seule peut demander le type de discours.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R07-Q04 — LANGAGE B
 
-Comment appelle-t-on des paroles rapportées sans les reproduire exactement entre guillemets ?
+Dans « Elle dit qu’elle reviendra », quel type de discours rapporte les paroles dans une proposition introduite par que ?
 
 **Réponse :** Discours indirect
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Discours indirect; Discours indirect lié; Style indirect
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter discours indirect ou indirect lié; indirect libre n’est pas cette construction avec un verbe introducteur et que.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R08-Q01 — SCIENCE ET TECHNIQUE
 
-Quel Français créa le système d'écriture tactile à points en relief qui porte son nom ?
+Quel inventeur a créé le système d’écriture tactile à points en relief qui porte le nom de braille ?
 
 **Réponse :** Louis Braille
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Louis Braille; Braille
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Braille. Charles Barbier a élaboré un système précurseur, distinct du système nommé braille.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R08-Q02 — SCIENCE ET TECHNIQUE
 
-Quel inventeur et ingénieur serbo-américain est associé au développement des systèmes à courant alternatif polyphasé ?
+Quel inventeur est associé au développement des systèmes électriques à courant alternatif polyphasé ?
 
 **Réponse :** Nikola Tesla
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Nikola Tesla; Tesla
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Tesla; le libellé ne lui attribue pas seul toute l’invention du courant alternatif.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R08-Q03 — SCIENCE ET TECHNIQUE
 
-Quelle scientifique britannique produisit notamment le cliché de diffraction des rayons X connu sous le nom de Photo 51 ?
+Quelle chercheuse réalisa avec son doctorant Raymond Gosling la photographie de diffraction de l’ADN appelée Photo 51 ?
 
 **Réponse :** Rosalind Franklin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Rosalind Franklin; Franklin
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Franklin. Gosling est le doctorant déjà donné; le libellé demande la chercheuse. Watson et Crick ne sont pas les auteurs du cliché.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R08-Q04 — SCIENCE ET TECHNIQUE
 
@@ -492,31 +368,23 @@ Quelle unité du Système international mesure l'énergie ?
 
 **Réponse :** Joule
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Joule; Le joule; J
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter joule ou J; watt mesure la puissance, calorie n’est pas l’unité SI demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R08-Q05 — SCIENCE ET TECHNIQUE
 
-Comment appelle-t-on la partie centrale d'un atome contenant protons et neutrons ?
+Quelle partie centrale de l’atome regroupe les protons et, lorsqu’ils sont présents, les neutrons ?
 
 **Réponse :** Noyau
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Noyau; Noyau atomique; Le noyau
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter noyau atomique ou noyau. Les neutrons ne sont pas obligatoires: le noyau d’hydrogène 1 n’en contient pas.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R09-Q01 — QUI, QUE, OÙ SUIS-JE ?
 
@@ -524,31 +392,23 @@ Qui suis-je ? Roi de Macédoine, élève d'Aristote, j'ai conquis un immense emp
 
 **Réponse :** Alexandre le Grand
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Alexandre le Grand; Alexandre III de Macédoine; Alexandre III; Alexander the Great
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Alexandre le Grand ou Alexandre III. Alexandre seul peut demander une précision.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R09-Q02 — QUI, QUE, OÙ SUIS-JE ?
 
-Où suis-je ? Grande ville australienne connue pour son opéra aux voiles blanches.
+Où suis-je ? Ville australienne, j’abrite un célèbre opéra dont les toitures forment des coquilles entrelacées.
 
 **Réponse :** Sydney
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Sydney
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger Sydney; Canberra est la capitale mais ne correspond pas à l’opéra décrit.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R09-Q03 — QUI, QUE, OÙ SUIS-JE ?
 
@@ -556,15 +416,11 @@ Que suis-je ? Chaîne montagneuse formant une frontière naturelle entre la Fran
 
 **Réponse :** Pyrénées
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Pyrénées; Les Pyrénées; Pyrenees
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Pyrénées; ne pas prétendre que toute la frontière suit exactement les sommets ou qu’Andorre n’existe pas.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R09-Q04 — QUI, QUE, OÙ SUIS-JE ?
 
@@ -572,15 +428,11 @@ Où suis-je ? Capitale russe, j'abrite le Kremlin et la place Rouge.
 
 **Réponse :** Moscou
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R09-Q05 — QUI, QUE, OÙ SUIS-JE ?
 
@@ -588,15 +440,11 @@ Que suis-je ? Fleuve qui traverse Bagdad avant de rejoindre l'Euphrate dans le C
 
 **Réponse :** Tigre
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R10-Q01 — DIVERS
 
@@ -604,15 +452,11 @@ Quelle vaste dépression géologique traverse une partie de l'Afrique orientale 
 
 **Réponse :** Vallée du Grand Rift
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R10-Q02 — DIVERS
 
@@ -620,15 +464,11 @@ Quel est le plus vaste des Grands Lacs d'Amérique du Nord par superficie ?
 
 **Réponse :** Lac Supérieur
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R10-Q03 — DIVERS
 
@@ -636,15 +476,11 @@ Quel détroit sépare l'Alaska de la Sibérie ?
 
 **Réponse :** Détroit de Béring
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R10-Q04 — DIVERS
 
@@ -652,15 +488,11 @@ Quelle péninsule comprend notamment l'Arabie saoudite, le Yémen et Oman ?
 
 **Réponse :** Péninsule Arabique
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R10-Q05 — DIVERS
 
@@ -668,47 +500,35 @@ Quel golfe de l'océan Atlantique borde une large partie de l'Afrique occidental
 
 **Réponse :** Golfe de Guinée
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R11-Q01 — ÉCLAIR 1
 
-Quelle est la capitale de la Suisse ?
+Au 18 octobre 2026, quelle ville fédérale fait office de capitale de la Suisse ?
 
 **Réponse :** Berne
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Berne; Bern
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Berne ou Bern. Respecter la distinction ville fédérale/capitale de facto et capitale de jure.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q02 — ÉCLAIR 1
 
-Quelle ville allemande est célèbre pour la porte de Brandebourg ?
+Dans quelle ville allemande se trouve la porte de Brandebourg ?
 
 **Réponse :** Berlin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Berlin
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger Berlin, et non Brandebourg-sur-la-Havel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q03 — ÉCLAIR 1
 
@@ -716,31 +536,23 @@ Quelle chaîne montagneuse marque traditionnellement une partie de la limite ent
 
 **Réponse :** Oural
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R11-Q04 — ÉCLAIR 1
 
-Quelle est la capitale de la Roumanie ?
+Au 18 octobre 2026, quelle est la capitale de la Roumanie ?
 
 **Réponse :** Bucarest
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Bucarest; Bucharest; București
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Bucarest ou Bucharest ou București. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q05 — ÉCLAIR 1
 
@@ -748,47 +560,35 @@ Quelle est la plus grande île de la mer Méditerranée par superficie ?
 
 **Réponse :** Sicile
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R11-Q06 — ÉCLAIR 1
 
-Quel physicien allemand découvrit les rayons X en 1895 ?
+Quel physicien découvrit les rayons X en 1895 ?
 
 **Réponse :** Wilhelm Röntgen
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Wilhelm Röntgen; Wilhelm Conrad Röntgen; Röntgen; Roentgen; Rontgen
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Röntgen et ses graphies usuelles. Distinguer les rayons X et la radioactivité découverte par Becquerel. La coquille 1985 d’une autre diapositive n’est pas retenue.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q07 — ÉCLAIR 1
 
-Quel pays a Montevideo pour capitale ?
+Au 18 octobre 2026, quel pays a Montevideo pour capitale ?
 
 **Réponse :** Uruguay
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Uruguay
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Uruguay. Montevideo est la ville donnée, non le pays demandé.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q08 — ÉCLAIR 1
 
@@ -796,191 +596,143 @@ Quel nombre premier vient immédiatement après 7 ?
 
 **Réponse :** 11
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 11; Onze
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter onze. Huit, neuf et dix sont composés; un n’est pas premier.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q09 — ÉCLAIR 1
 
-Quel mammifère australien pond des œufs et possède un bec aplati ?
+Quel mammifère australien ovipare est connu pour son bec de canard ?
 
 **Réponse :** Ornithorynque
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ornithorynque; Platypus; Ornithorhynchus anatinus
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter ornithorynque ou son nom scientifique; l’échidné pond aussi des œufs mais n’a pas ce bec.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R11-Q10 — ÉCLAIR 1
 
-Quelle substance du sang transporte principalement l'oxygène dans les globules rouges ?
+Quelle protéine des globules rouges transporte principalement l’oxygène chez l’être humain ?
 
 **Réponse :** Hémoglobine
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Hémoglobine; Hemoglobine; Hb
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter hémoglobine ou Hb. Fer est un élément constitutif et globule rouge une cellule; aucun des deux ne nomme la protéine.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R12-Q01 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Isiro pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Isiro pour chef-lieu ?
 
 **Réponse :** Haut-Uélé
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Haut-Uélé; Haut-Uele; Haut Uélé
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Haut-Uélé, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R12-Q02 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Kindu pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kindu pour chef-lieu ?
 
 **Réponse :** Maniema
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Maniema
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Maniema, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R12-Q03 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Kalemie pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kalemie pour chef-lieu ?
 
 **Réponse :** Tanganyika
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Tanganyika
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Tanganyika, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R12-Q04 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Mbandaka pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Mbandaka pour chef-lieu ?
 
 **Réponse :** Équateur
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Équateur; Equateur
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Équateur, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R12-Q05 — CULTURE RÉGIONALE - RDC
 
-Quelle province de la RDC a Kenge pour chef-lieu ?
+Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kenge pour chef-lieu ?
 
 **Réponse :** Kwango
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kwango
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kwango, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R13-Q01 — LITTÉRATURE ET ART
 
-Quelle romancière anglaise est l'auteure d'Orgueil et Préjugés ?
+Qui est l’auteur du roman Orgueil et Préjugés ?
 
 **Réponse :** Jane Austen
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Jane Austen; Austen
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Jane Austen ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R13-Q02 — LITTÉRATURE ET ART
 
-Quel écrivain français est l'auteur de Le Père Goriot ?
+Qui est l’auteur du roman Le Père Goriot ?
 
 **Réponse :** Honoré de Balzac
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Honoré de Balzac; Honore de Balzac; Balzac
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Honoré de Balzac ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R13-Q03 — LITTÉRATURE ET ART
 
-Quel peintre norvégien est l'auteur de Le Cri ?
+Quel peintre a réalisé La Laitière, conservée au Rijksmuseum d’Amsterdam ?
 
-**Réponse :** Edvard Munch
+**Réponse :** Johannes Vermeer
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Johannes Vermeer; Jan Vermeer; Vermeer
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Vermeer. Remplacement de l’attribution du Cri à Munch, répétée dans M29-R11-Q07.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R13-Q04 — LITTÉRATURE ET ART
 
-Quel écrivain et cinéaste sénégalais est l'auteur de Les Bouts de bois de Dieu ?
+Qui est l’auteur du roman Les Bouts de bois de Dieu ?
 
 **Réponse :** Ousmane Sembène
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ousmane Sembène; Sembène Ousmane; Ousmane Sembene; Sembène; Sembene
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Ousmane Sembène ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R13-Q05 — LITTÉRATURE ET ART
 
@@ -988,15 +740,11 @@ Comment appelle-t-on une œuvre peinte ou sculptée composée de trois panneaux 
 
 **Réponse :** Triptyque
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Triptyque; Un triptyque
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter triptyque; polyptyque est plus général et diptyque correspond à deux panneaux.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R14-Q01 — MONDE CONTEMPORAIN
 
@@ -1004,15 +752,11 @@ Quel programme américain lancé après la Seconde Guerre mondiale finança la r
 
 **Réponse :** Plan Marshall
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Plan Marshall; European Recovery Program; ERP; Programme de rétablissement européen; Programme de reconstruction européenne
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter plan Marshall ou le nom développé; doctrine Truman est une politique distincte.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R14-Q02 — MONDE CONTEMPORAIN
 
@@ -1020,15 +764,11 @@ Quel dirigeant vietnamien proclama l'indépendance de la République démocratiq
 
 **Réponse :** Hô Chi Minh
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R14-Q03 — MONDE CONTEMPORAIN
 
@@ -1036,15 +776,11 @@ Quel traité signé en 1992 a fondé l'Union européenne sous sa forme nouvelle 
 
 **Réponse :** Traité de Maastricht
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Traité de Maastricht; Maastricht; Traité sur l’Union européenne; TUE
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter traité de Maastricht ou traité sur l’Union européenne. Distinguer signature de 1992 et entrée en vigueur de 1993.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R14-Q04 — MONDE CONTEMPORAIN
 
@@ -1052,31 +788,23 @@ En quelle année les premiers humains marchèrent-ils sur la Lune ?
 
 **Réponse :** 1969
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1969; Mille neuf cent soixante-neuf
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger 1969; les vols autour de la Lune ne sont pas des marches sur son sol.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R14-Q05 — MONDE CONTEMPORAIN
 
-En quelle année débuta le génocide contre les Tutsi au Rwanda ?
+Quel terme économique désigne le transfert à la nation de la propriété d’une entreprise privée ?
 
-**Réponse :** 1994
+**Réponse :** Nationalisation
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Nationalisation; Une nationalisation; Étatisation; Etatisation
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter nationalisation ou étatisation de l’entreprise. Privatisation désigne le sens inverse. Remplacement du doublon M30-R14-Q05 sur le génocide des Tutsi en 1994.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R15-Q01 — RELAIS A
 
@@ -1084,15 +812,11 @@ Quel inventeur italien est associé au développement de la télégraphie sans f
 
 **Réponse :** Guglielmo Marconi
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R15-Q02 — RELAIS A
 
@@ -1100,63 +824,47 @@ Quel inventeur américain donna son nom à un code de signaux courts et longs ut
 
 **Réponse :** Samuel Morse
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R15-Q03 — RELAIS A
 
-Quels deux frères américains réalisèrent en 1903 un vol motorisé contrôlé célèbre à Kitty Hawk ?
+Quels deux frères réalisèrent en décembre 1903 des vols motorisés contrôlés à Kill Devil Hills, près de Kitty Hawk ?
 
 **Réponse :** Frères Wright
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Frères Wright; Les Wright; Wright; Orville et Wilbur Wright; Wilbur et Orville Wright
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter frères Wright ou les deux noms; Wright seul identifie la fratrie. Orville seul est incomplet. Le lieu exact évite la confusion avec la ville de Kitty Hawk.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R15-Q04 — RELAIS A
 
-Quel Français donna son nom à un ancien procédé photographique présenté publiquement en 1839 ?
+Quel pionnier de la photographie a réalisé Point de vue du Gras, pris depuis une fenêtre de sa propriété en Bourgogne ?
 
-**Réponse :** Louis Daguerre
+**Réponse :** Nicéphore Niépce
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Nicéphore Niépce; Nicephore Niepce; Joseph Nicéphore Niépce; Niépce; Niepce
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Niépce. Daguerre est un autre pionnier; ce remplacement supprime le doublon M30-R15-Q02 sur le daguerréotype de 1839.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R16-Q01 — CANTONADE 2
 
-Quelle abolitionniste nord-américaine, née dans l'esclavage, guida de nombreuses personnes vers la liberté au XIXe siècle ?
+Quelle abolitionniste née dans l’esclavage sous le nom d’Araminta Ross guida de nombreuses personnes vers la liberté au XIXe siècle ?
 
 **Réponse :** Harriet Tubman
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Harriet Tubman; Tubman; Araminta Ross
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Harriet Tubman, Tubman ou Araminta Ross. Le nom de naissance distingue cette abolitionniste sans dévoiler les réponses suivantes.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R16-Q02 — CANTONADE 2
 
@@ -1164,15 +872,11 @@ Dans quel État américain est-elle née ?
 
 **Réponse :** Maryland
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Maryland
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger l’État du Maryland; Dorchester est le comté.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R16-Q03 — CANTONADE 2
 
@@ -1180,15 +884,11 @@ Quel réseau clandestin d'itinéraires et de refuges aida des esclaves à fuir v
 
 **Réponse :** Underground Railroad
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Underground Railroad; Chemin de fer clandestin; Chemin de fer souterrain
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter le nom anglais ou ces traductions; il ne s’agit pas d’un véritable chemin de fer.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R16-Q04 — CANTONADE 2
 
@@ -1196,15 +896,11 @@ Pendant quel grand conflit américain servit-elle notamment comme éclaireuse et
 
 **Réponse :** Guerre de Sécession
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Guerre de Sécession; Guerre civile américaine; American Civil War
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter guerre de Sécession ou guerre civile américaine; distinguer la guerre d’Indépendance.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R16-Q05 — CANTONADE 2
 
@@ -1212,79 +908,59 @@ En quelle année s'échappa-t-elle elle-même de l'esclavage ?
 
 **Réponse :** 1849
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 1849
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Exiger 1849; ses missions d’aide aux évasions sont postérieures.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R17-Q01 — RELAIS B
 
-Quelle est la capitale de la Jamaïque ?
+Au 18 octobre 2026, quelle est la capitale de la Jamaïque ?
 
 **Réponse :** Kingston
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Kingston
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Kingston. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R17-Q02 — RELAIS B
 
-Quelle est la capitale d'Haïti ?
+Au 18 octobre 2026, quelle est la capitale d'Haïti ?
 
 **Réponse :** Port-au-Prince
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Port-au-Prince; Port au Prince
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Port-au-Prince ou Port au Prince. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R17-Q03 — RELAIS B
 
-Quelle est la capitale du Costa Rica ?
+Au 18 octobre 2026, quelle est la capitale du Costa Rica ?
 
 **Réponse :** San José
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** San José; San Jose
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter San José ou San Jose. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R17-Q04 — RELAIS B
 
-Quelle est la capitale du Paraguay ?
+Au 18 octobre 2026, quelle est la capitale du Paraguay ?
 
 **Réponse :** Asunción
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Asunción; Asuncion
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Asunción ou Asuncion. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R18-Q01 — MYTHOLOGIE ET RELIGION
 
@@ -1292,15 +968,11 @@ Dans la mythologie grecque, quelle déesse est associée à la chasse et est la 
 
 **Réponse :** Artémis
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R18-Q02 — MYTHOLOGIE ET RELIGION
 
@@ -1308,15 +980,11 @@ Dans la mythologie nordique, quel dieu est célèbre pour ses ruses et ses méta
 
 **Réponse :** Loki
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R18-Q03 — MYTHOLOGIE ET RELIGION
 
@@ -1324,15 +992,11 @@ Quel lieu du Népal est traditionnellement considéré comme le lieu de naissanc
 
 **Réponse :** Lumbini
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R18-Q04 — MYTHOLOGIE ET RELIGION
 
@@ -1340,15 +1004,11 @@ Dans quelle ville de Cisjordanie la tradition chrétienne situe-t-elle la naissa
 
 **Réponse :** Bethléem
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R18-Q05 — MYTHOLOGIE ET RELIGION
 
@@ -1356,63 +1016,47 @@ Comment appelle-t-on le rite chrétien d'entrée dans la communauté par l'eau ?
 
 **Réponse :** Baptême
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R19-Q01 — IDENTIFICATION
 
-40 points : Je suis née en 1938 à Monrovia. 30 points : Économiste de formation, j'ai travaillé dans plusieurs institutions avant d'entrer pleinement en politique. 20 points : En 2006, je deviens présidente du Liberia. 10 points : Je partage le prix Nobel de la paix 2011 avec Leymah Gbowee et Tawakkol Karman. Qui suis-je ?
+40 points : Je suis née en 1938 à Monrovia. 30 points : J’ai obtenu un master d’administration publique à Harvard. 20 points : En 2006, j’entre en fonction comme présidente du Liberia. 10 points : Je reçois le prix Nobel de la paix 2011. Qui suis-je ?
 
 **Réponse :** Ellen Johnson Sirleaf
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Ellen Johnson Sirleaf; Ellen Sirleaf; Johnson Sirleaf; Sirleaf
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Sirleaf ou son nom complet. Les quatre indices sont localisés séparément. Distinguer l’élection de 2005 de l’entrée en fonction de 2006; Harvard est un diplôme d’administration publique, non un diplôme d’économie.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q01 — ÉCLAIR 2
 
-Quelle est la capitale de l'Irlande ?
+Au 18 octobre 2026, quelle est la capitale de l'Irlande ?
 
 **Réponse :** Dublin
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Dublin; Baile Átha Cliath
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Dublin ou Baile Átha Cliath. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q02 — ÉCLAIR 2
 
-Quelle écrivaine anglaise est l'auteure de Frankenstein ?
+Qui est l’auteur du roman Frankenstein ?
 
 **Réponse :** Mary Shelley
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Mary Shelley; Mary Wollstonecraft Shelley; Shelley
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Mary Shelley ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q03 — ÉCLAIR 2
 
@@ -1420,15 +1064,11 @@ Quelle ville turque abrite Sainte-Sophie et la Mosquée bleue ?
 
 **Réponse :** Istanbul
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R20-Q04 — ÉCLAIR 2
 
@@ -1436,15 +1076,11 @@ Quel scientifique suédois a donné son nom à l'échelle de température Celsiu
 
 **Réponse :** Anders Celsius
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R20-Q05 — ÉCLAIR 2
 
@@ -1452,31 +1088,23 @@ Quel sommet est le plus élevé des Alpes ?
 
 **Réponse :** Mont Blanc
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R20-Q06 — ÉCLAIR 2
 
-Quelle est la capitale du Chili ?
+Au 18 octobre 2026, quelle est la capitale du Chili ?
 
 **Réponse :** Santiago
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Santiago; Santiago du Chili
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter Santiago ou Santiago du Chili. Le pays est donné; une autre ville ne répond pas à la capitale demandée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q07 — ÉCLAIR 2
 
@@ -1484,15 +1112,11 @@ Quel est le symbole chimique du sodium ?
 
 **Réponse :** Na
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Contrôle ouvert.
 
 **Décision :** Contrôles obligatoires ouverts.
 
 **Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
 
 ## M05-R20-Q08 — ÉCLAIR 2
 
@@ -1500,15 +1124,11 @@ Combien de centimètres compte un mètre ?
 
 **Réponse :** 100
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 100; Cent; Cent centimètres
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter cent; l’unité est déjà donnée.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q09 — ÉCLAIR 2
 
@@ -1516,15 +1136,11 @@ Quelle est la somme des angles intérieurs d'un triangle euclidien ?
 
 **Réponse :** 180°
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** 180°; 180 degrés; Cent quatre-vingts degrés; π radians; Pi radians
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter 180 degrés ou pi radians. 180 seul est recevable à l’oral dans ce contexte; euclidien exclut le cas sphérique.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
-
-
+**Arbitrage :** ARBITRAGE_VALIDE
 
 ## M05-R20-Q10 — ÉCLAIR 2
 
@@ -1532,10 +1148,8 @@ Quel est le plus grand organe du corps humain ?
 
 **Réponse :** Peau
 
-**Variantes :** Aucune variante consignée.
+**Variantes :** Peau; La peau
 
-**Décision :** Contrôles obligatoires ouverts.
+**Décision :** Accepter peau; le foie est un organe interne et ne répond pas au plus grand organe du corps considéré dans son ensemble.
 
-**Arbitrage :** NON_EXAMINE
-
-**Preuves :** Contrôle documentaire ouvert.
+**Arbitrage :** ARBITRAGE_VALIDE

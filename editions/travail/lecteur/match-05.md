@@ -1,4 +1,4 @@
-> ÉDITION DE TRAVAIL — NON CERTIFIÉE. Questions seules; lecteur uniquement.
+> ÉDITION DE TRAVAIL — NON CERTIFIÉE.
 
 # MATCH 05 - NIVEAU 1
 
@@ -10,51 +10,51 @@
 
 ## 1. MANCHETTE A - ÉQUIPE A
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale du Zimbabwe ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale du Zimbabwe ?
 
-**Q2.** Au 6 octobre 2026, quelle monnaie a cours légal en Éthiopie ?
+**Q2.** Au 18 octobre 2026, quelle est la monnaie nationale de l’Éthiopie ?
 
 ## 2. MANCHETTE B - ÉQUIPE B
 
-**Q1.** Au 6 octobre 2026, quelle est la capitale de l'Équateur ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de l'Équateur ?
 
-**Q2.** Au 6 octobre 2026, quelle est la capitale de l'Ouzbékistan ?
+**Q2.** Au 18 octobre 2026, quelle est la capitale de l'Ouzbékistan ?
 
 ## 3. SPORTS ET JEUX
 
-**Q1.** Quel boxeur américain, né Cassius Clay, était surnommé « The Greatest » ?
+**Q1.** Quel boxeur né Cassius Clay était surnommé « The Greatest » ?
 
-**Q2.** Quel club allemand joue ses matchs à domicile à l'Allianz Arena ?
+**Q2.** Au 18 octobre 2026, quel club munichois a l’Allianz Arena pour stade à domicile ?
 
-**Q3.** Quel marathonien kényan a couru un marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?
+**Q3.** Quel marathonien a parcouru la distance du marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?
 
-**Q4.** Combien de points rapporte un touchdown au football américain avant la transformation ?
+**Q4.** Selon le glossaire NFL consulté le 18 octobre 2026, quel terme anglais désigne une tentative de jeu, du début de l’action jusqu’au ballon mort ?
 
-**Q5.** Combien de boules numérotées utilise-t-on au billard américain à huit, sans compter la blanche ?
+**Q5.** Selon les règles WPA du 15 septembre 2025, combien de billes numérotées utilise-t-on au jeu de la huit, sans compter la blanche ?
 
 ## 4. CINÉMA ET MUSIQUE
 
-**Q1.** Quelle actrice kényane-mexicaine a remporté l'Oscar du meilleur second rôle féminin pour 12 Years a Slave ?
+**Q1.** Quelle actrice a remporté en 2014 l’Oscar du meilleur second rôle féminin pour 12 Years a Slave ?
 
-**Q2.** Quel musicien britannique a composé et interprété la chanson Imagine ?
+**Q2.** Quel chanteur interprète Imagine sur le single original de 1971 ?
 
-**Q3.** Quel réalisateur japonais a réalisé Le Voyage de Chihiro ?
+**Q3.** Quel réalisateur a signé le film d’animation Le Voyage de Chihiro ?
 
 **Q4.** Combien de cordes possède normalement un violoncelle classique ?
 
-**Q5.** Quel terme italien indique généralement un tempo vif et rapide ?
+**Q5.** À quelle allure faut-il jouer quand une partition indique allegro ?
 
 ## 5. LANGAGE A
 
 **THÈME : TYPES DE PHRASES**
 
-**Q1.** Quel type de phrase reconnaît-on dans « Ferme la porte. » ?
+**Q1.** Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Ferme la porte. » ?
 
-**Q2.** Quel type de phrase reconnaît-on dans « Où vas-tu ? » ?
+**Q2.** Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Où vas-tu ? » ?
 
-**Q3.** Quel type de phrase reconnaît-on dans « Comme ce paysage est beau ! » ?
+**Q3.** Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Comme ce paysage est beau ! » ?
 
-**Q4.** Quel type de phrase reconnaît-on dans « La Terre tourne autour du Soleil. » ?
+**Q4.** Dans le classement en quatre types de phrases, quel type reconnaît-on dans « La Terre tourne autour du Soleil. » ?
 
 ## 6. CANTONADE 1
 
@@ -78,25 +78,25 @@
 
 **Q3.** Comment appelle-t-on la reproduction exacte des paroles d'une personne entre guillemets ?
 
-**Q4.** Comment appelle-t-on des paroles rapportées sans les reproduire exactement entre guillemets ?
+**Q4.** Dans « Elle dit qu’elle reviendra », quel type de discours rapporte les paroles dans une proposition introduite par que ?
 
 ## 8. SCIENCE ET TECHNIQUE
 
-**Q1.** Quel Français créa le système d'écriture tactile à points en relief qui porte son nom ?
+**Q1.** Quel inventeur a créé le système d’écriture tactile à points en relief qui porte le nom de braille ?
 
-**Q2.** Quel inventeur et ingénieur serbo-américain est associé au développement des systèmes à courant alternatif polyphasé ?
+**Q2.** Quel inventeur est associé au développement des systèmes électriques à courant alternatif polyphasé ?
 
-**Q3.** Quelle scientifique britannique produisit notamment le cliché de diffraction des rayons X connu sous le nom de Photo 51 ?
+**Q3.** Quelle chercheuse réalisa avec son doctorant Raymond Gosling la photographie de diffraction de l’ADN appelée Photo 51 ?
 
 **Q4.** Quelle unité du Système international mesure l'énergie ?
 
-**Q5.** Comment appelle-t-on la partie centrale d'un atome contenant protons et neutrons ?
+**Q5.** Quelle partie centrale de l’atome regroupe les protons et, lorsqu’ils sont présents, les neutrons ?
 
 ## 9. QUI, QUE, OÙ SUIS-JE ?
 
 **Q1.** Qui suis-je ? Roi de Macédoine, élève d'Aristote, j'ai conquis un immense empire jusqu'en Asie.
 
-**Q2.** Où suis-je ? Grande ville australienne connue pour son opéra aux voiles blanches.
+**Q2.** Où suis-je ? Ville australienne, j’abrite un célèbre opéra dont les toitures forment des coquilles entrelacées.
 
 **Q3.** Que suis-je ? Chaîne montagneuse formant une frontière naturelle entre la France et l'Espagne.
 
@@ -120,49 +120,49 @@
 
 ## 11. ÉCLAIR 1
 
-**Q1.** Quelle est la capitale de la Suisse ?
+**Q1.** Au 18 octobre 2026, quelle ville fédérale fait office de capitale de la Suisse ?
 
-**Q2.** Quelle ville allemande est célèbre pour la porte de Brandebourg ?
+**Q2.** Dans quelle ville allemande se trouve la porte de Brandebourg ?
 
 **Q3.** Quelle chaîne montagneuse marque traditionnellement une partie de la limite entre l'Europe et l'Asie en Russie ?
 
-**Q4.** Quelle est la capitale de la Roumanie ?
+**Q4.** Au 18 octobre 2026, quelle est la capitale de la Roumanie ?
 
 **Q5.** Quelle est la plus grande île de la mer Méditerranée par superficie ?
 
-**Q6.** Quel physicien allemand découvrit les rayons X en 1895 ?
+**Q6.** Quel physicien découvrit les rayons X en 1895 ?
 
-**Q7.** Quel pays a Montevideo pour capitale ?
+**Q7.** Au 18 octobre 2026, quel pays a Montevideo pour capitale ?
 
 **Q8.** Quel nombre premier vient immédiatement après 7 ?
 
-**Q9.** Quel mammifère australien pond des œufs et possède un bec aplati ?
+**Q9.** Quel mammifère australien ovipare est connu pour son bec de canard ?
 
-**Q10.** Quelle substance du sang transporte principalement l'oxygène dans les globules rouges ?
+**Q10.** Quelle protéine des globules rouges transporte principalement l’oxygène chez l’être humain ?
 
 # MI-TEMPS
 
 ## 12. CULTURE RÉGIONALE - RDC
 
-**Q1.** Quelle province de la RDC a Isiro pour chef-lieu ?
+**Q1.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Isiro pour chef-lieu ?
 
-**Q2.** Quelle province de la RDC a Kindu pour chef-lieu ?
+**Q2.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kindu pour chef-lieu ?
 
-**Q3.** Quelle province de la RDC a Kalemie pour chef-lieu ?
+**Q3.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kalemie pour chef-lieu ?
 
-**Q4.** Quelle province de la RDC a Mbandaka pour chef-lieu ?
+**Q4.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Mbandaka pour chef-lieu ?
 
-**Q5.** Quelle province de la RDC a Kenge pour chef-lieu ?
+**Q5.** Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kenge pour chef-lieu ?
 
 ## 13. LITTÉRATURE ET ART
 
-**Q1.** Quelle romancière anglaise est l'auteure d'Orgueil et Préjugés ?
+**Q1.** Qui est l’auteur du roman Orgueil et Préjugés ?
 
-**Q2.** Quel écrivain français est l'auteur de Le Père Goriot ?
+**Q2.** Qui est l’auteur du roman Le Père Goriot ?
 
-**Q3.** Quel peintre norvégien est l'auteur de Le Cri ?
+**Q3.** Quel peintre a réalisé La Laitière, conservée au Rijksmuseum d’Amsterdam ?
 
-**Q4.** Quel écrivain et cinéaste sénégalais est l'auteur de Les Bouts de bois de Dieu ?
+**Q4.** Qui est l’auteur du roman Les Bouts de bois de Dieu ?
 
 **Q5.** Comment appelle-t-on une œuvre peinte ou sculptée composée de trois panneaux ?
 
@@ -176,7 +176,7 @@
 
 **Q4.** En quelle année les premiers humains marchèrent-ils sur la Lune ?
 
-**Q5.** En quelle année débuta le génocide contre les Tutsi au Rwanda ?
+**Q5.** Quel terme économique désigne le transfert à la nation de la propriété d’une entreprise privée ?
 
 ## 15. RELAIS A
 
@@ -186,13 +186,13 @@
 
 **Q2.** Quel inventeur américain donna son nom à un code de signaux courts et longs utilisé en télégraphie ?
 
-**Q3.** Quels deux frères américains réalisèrent en 1903 un vol motorisé contrôlé célèbre à Kitty Hawk ?
+**Q3.** Quels deux frères réalisèrent en décembre 1903 des vols motorisés contrôlés à Kill Devil Hills, près de Kitty Hawk ?
 
-**Q4.** Quel Français donna son nom à un ancien procédé photographique présenté publiquement en 1839 ?
+**Q4.** Quel pionnier de la photographie a réalisé Point de vue du Gras, pris depuis une fenêtre de sa propriété en Bourgogne ?
 
 ## 16. CANTONADE 2
 
-**Q1.** Quelle abolitionniste nord-américaine, née dans l'esclavage, guida de nombreuses personnes vers la liberté au XIXe siècle ?
+**Q1.** Quelle abolitionniste née dans l’esclavage sous le nom d’Araminta Ross guida de nombreuses personnes vers la liberté au XIXe siècle ?
 
 **Q2.** Dans quel État américain est-elle née ?
 
@@ -206,13 +206,13 @@
 
 **THÈME : CAPITALES DES AMÉRIQUES**
 
-**Q1.** Quelle est la capitale de la Jamaïque ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de la Jamaïque ?
 
-**Q2.** Quelle est la capitale d'Haïti ?
+**Q2.** Au 18 octobre 2026, quelle est la capitale d'Haïti ?
 
-**Q3.** Quelle est la capitale du Costa Rica ?
+**Q3.** Au 18 octobre 2026, quelle est la capitale du Costa Rica ?
 
-**Q4.** Quelle est la capitale du Paraguay ?
+**Q4.** Au 18 octobre 2026, quelle est la capitale du Paraguay ?
 
 ## 18. MYTHOLOGIE ET RELIGION
 
@@ -228,13 +228,13 @@
 
 ## 19. IDENTIFICATION
 
-**Q1.** 40 points : Je suis née en 1938 à Monrovia. 30 points : Économiste de formation, j'ai travaillé dans plusieurs institutions avant d'entrer pleinement en politique. 20 points : En 2006, je deviens présidente du Liberia. 10 points : Je partage le prix Nobel de la paix 2011 avec Leymah Gbowee et Tawakkol Karman. Qui suis-je ?
+**Q1.** 40 points : Je suis née en 1938 à Monrovia. 30 points : J’ai obtenu un master d’administration publique à Harvard. 20 points : En 2006, j’entre en fonction comme présidente du Liberia. 10 points : Je reçois le prix Nobel de la paix 2011. Qui suis-je ?
 
 ## 20. ÉCLAIR 2
 
-**Q1.** Quelle est la capitale de l'Irlande ?
+**Q1.** Au 18 octobre 2026, quelle est la capitale de l'Irlande ?
 
-**Q2.** Quelle écrivaine anglaise est l'auteure de Frankenstein ?
+**Q2.** Qui est l’auteur du roman Frankenstein ?
 
 **Q3.** Quelle ville turque abrite Sainte-Sophie et la Mosquée bleue ?
 
@@ -242,7 +242,7 @@
 
 **Q5.** Quel sommet est le plus élevé des Alpes ?
 
-**Q6.** Quelle est la capitale du Chili ?
+**Q6.** Au 18 octobre 2026, quelle est la capitale du Chili ?
 
 **Q7.** Quel est le symbole chimique du sodium ?
 

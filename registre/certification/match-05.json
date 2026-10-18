@@ -2,7 +2,7 @@
   "match": 5,
   "level": 1,
   "question_count": 96,
-  "questionnaire_sha256": "db0b042047eb062adacee1ffef81066cad16fb07f13a33ccfbee6e9cc2e9936f",
+  "questionnaire_sha256": "61822d6b9744bdcf242cbbbc4c04c87866219c2a849bc3c63ed9661e7ebdae42",
   "questions": [
     {
       "id": "M05-R01-Q01",
@@ -10,23 +10,47 @@
       "section_number": 1,
       "section": "MANCHETTE A - ÉQUIPE A",
       "number": 1,
-      "question": "Au 6 octobre 2026, quelle est la capitale du Zimbabwe ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Zimbabwe ?",
       "answer": "Harare",
       "fact_id": "zimbabwe-capital",
       "tested_fact": "zimbabwe-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Harare"
+      ],
+      "primary_source": "https://pap.au.int/fr/node/189",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Zimbabwe à sa capitale Harare.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle est la capitale du Zimbabwe ?",
+            "answer": "Harare",
+            "fact_id": "zimbabwe-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Zimbabwe ?",
+            "answer": "Harare",
+            "fact_id": "zimbabwe-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Harare. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://pap.au.int/fr/node/189",
+          "locator": "Tableau des capitales, Zimbabwe–Harare, ligne 84",
+          "support": "La source associe Zimbabwe à sa capitale Harare.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -36,23 +60,48 @@
       "section_number": 1,
       "section": "MANCHETTE A - ÉQUIPE A",
       "number": 2,
-      "question": "Au 6 octobre 2026, quelle monnaie a cours légal en Éthiopie ?",
+      "question": "Au 18 octobre 2026, quelle est la monnaie nationale de l’Éthiopie ?",
       "answer": "Birr",
       "fact_id": "ethiopia-birr-currency",
       "tested_fact": "ethiopia-birr-currency",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Birr",
+        "Birr éthiopien"
+      ],
+      "primary_source": "https://nbe.gov.et/about-us/bank-notes/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La banque centrale présente les billets actuels et historiques en birrs éthiopiens.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle monnaie a cours légal en Éthiopie ?",
+            "answer": "Birr",
+            "fact_id": "ethiopia-birr-currency"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la monnaie nationale de l’Éthiopie ?",
+            "answer": "Birr",
+            "fact_id": "ethiopia-birr-currency"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter birr ou birr éthiopien; aucun code ou taux de change n’est demandé.",
+      "evidence": [
+        {
+          "url": "https://nbe.gov.et/about-us/bank-notes/",
+          "locator": "National Bank of Ethiopia, Current Birr Notes, ligne 120; Ethiopian birr, ligne 214",
+          "support": "La banque centrale présente les billets actuels et historiques en birrs éthiopiens.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -62,23 +111,47 @@
       "section_number": 2,
       "section": "MANCHETTE B - ÉQUIPE B",
       "number": 1,
-      "question": "Au 6 octobre 2026, quelle est la capitale de l'Équateur ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de l'Équateur ?",
       "answer": "Quito",
       "fact_id": "ecuador-capital",
       "tested_fact": "ecuador-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Quito"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Équateur à sa capitale Quito.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle est la capitale de l'Équateur ?",
+            "answer": "Quito",
+            "fact_id": "ecuador-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de l'Équateur ?",
+            "answer": "Quito",
+            "fact_id": "ecuador-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Quito. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Équateur–Quito, ligne 94",
+          "support": "La source associe Équateur à sa capitale Quito.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -88,23 +161,49 @@
       "section_number": 2,
       "section": "MANCHETTE B - ÉQUIPE B",
       "number": 2,
-      "question": "Au 6 octobre 2026, quelle est la capitale de l'Ouzbékistan ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de l'Ouzbékistan ?",
       "answer": "Tachkent",
       "fact_id": "uzbekistan-capital",
       "tested_fact": "uzbekistan-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Tachkent",
+        "Tashkent",
+        "Toshkent"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Ouzbékistan à sa capitale Tachkent.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Au 6 octobre 2026, quelle est la capitale de l'Ouzbékistan ?",
+            "answer": "Tachkent",
+            "fact_id": "uzbekistan-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de l'Ouzbékistan ?",
+            "answer": "Tachkent",
+            "fact_id": "uzbekistan-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Tachkent ou Tashkent ou Toshkent. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_asia.htm",
+          "locator": "Tableau des capitales, Ouzbékistan–Tachkent, ligne 110",
+          "support": "La source associe Ouzbékistan à sa capitale Tachkent.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -114,23 +213,50 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 1,
-      "question": "Quel boxeur américain, né Cassius Clay, était surnommé « The Greatest » ?",
+      "question": "Quel boxeur né Cassius Clay était surnommé « The Greatest » ?",
       "answer": "Muhammad Ali",
       "fact_id": "muhammad-ali-cassius-clay",
       "tested_fact": "muhammad-ali-cassius-clay",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Muhammad Ali",
+        "Mohamed Ali",
+        "Mohammed Ali",
+        "Ali"
+      ],
+      "primary_source": "https://alicenter.org/muhammad-ali-renaissance-man/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le centre associe Muhammad Ali à son nom de naissance Cassius Clay et à The Greatest.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel boxeur américain, né Cassius Clay, était surnommé « The Greatest » ?",
+            "answer": "Muhammad Ali",
+            "fact_id": "muhammad-ali-cassius-clay"
+          },
+          "after": {
+            "question": "Quel boxeur né Cassius Clay était surnommé « The Greatest » ?",
+            "answer": "Muhammad Ali",
+            "fact_id": "muhammad-ali-cassius-clay"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Ali ou son nom complet et ses translittérations; Cassius Clay répète l’indice, demander le nom adopté.",
+      "evidence": [
+        {
+          "url": "https://alicenter.org/muhammad-ali-renaissance-man/",
+          "locator": "I Am the Greatest!, lignes 91 et 107–112",
+          "support": "Le centre associe Muhammad Ali à son nom de naissance Cassius Clay et à The Greatest.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -140,23 +266,51 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 2,
-      "question": "Quel club allemand joue ses matchs à domicile à l'Allianz Arena ?",
+      "question": "Au 18 octobre 2026, quel club munichois a l’Allianz Arena pour stade à domicile ?",
       "answer": "Bayern Munich",
       "fact_id": "bayern-allianz-arena",
       "tested_fact": "bayern-allianz-arena",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Bayern Munich",
+        "Bayern München",
+        "FC Bayern",
+        "FC Bayern München",
+        "Bayern"
+      ],
+      "primary_source": "https://fcbayern.com/en/club/allianz-arena",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le Bayern présente l’Allianz Arena comme son stade à domicile.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel club allemand joue ses matchs à domicile à l'Allianz Arena ?",
+            "answer": "Bayern Munich",
+            "fact_id": "bayern-allianz-arena"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel club munichois a l’Allianz Arena pour stade à domicile ?",
+            "answer": "Bayern Munich",
+            "fact_id": "bayern-allianz-arena"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Bayern. TSV 1860 fut autrefois résident; le libellé est daté.",
+      "evidence": [
+        {
+          "url": "https://fcbayern.com/en/club/allianz-arena",
+          "locator": "Bayern’s home, lignes 33–37",
+          "support": "Le Bayern présente l’Allianz Arena comme son stade à domicile.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -166,23 +320,48 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 3,
-      "question": "Quel marathonien kényan a couru un marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?",
+      "question": "Quel marathonien a parcouru la distance du marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?",
       "answer": "Eliud Kipchoge",
       "fact_id": "kipchoge-ineos-159",
       "tested_fact": "kipchoge-ineos-159",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Eliud Kipchoge",
+        "Kipchoge"
+      ],
+      "primary_source": "https://www.ineos159challenge.com/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Eliud Kipchoge a parcouru la distance en 1 h 59 min 40,2 s le 12 octobre 2019 à Vienne.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel marathonien kényan a couru un marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?",
+            "answer": "Eliud Kipchoge",
+            "fact_id": "kipchoge-ineos-159"
+          },
+          "after": {
+            "question": "Quel marathonien a parcouru la distance du marathon en moins de deux heures lors du défi INEOS 1:59 en 2019 ?",
+            "answer": "Eliud Kipchoge",
+            "fact_id": "kipchoge-ineos-159"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Kipchoge. Il s’agit d’un défi sur la distance et non d’un record du monde homologué en compétition classique.",
+      "evidence": [
+        {
+          "url": "https://www.ineos159challenge.com/",
+          "locator": "Présentation, lignes 19–21",
+          "support": "Eliud Kipchoge a parcouru la distance en 1 h 59 min 40,2 s le 12 octobre 2019 à Vienne.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -192,23 +371,48 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 4,
-      "question": "Combien de points rapporte un touchdown au football américain avant la transformation ?",
-      "answer": "6",
-      "fact_id": "american-football-touchdown-six",
-      "tested_fact": "american-football-touchdown-six",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Selon le glossaire NFL consulté le 18 octobre 2026, quel terme anglais désigne une tentative de jeu, du début de l’action jusqu’au ballon mort ?",
+      "answer": "Down",
+      "fact_id": "football-americain-down-periode-action-ballon-mort",
+      "tested_fact": "football-americain-down-periode-action-ballon-mort",
+      "accepted_variants": [
+        "Down",
+        "Un down"
+      ],
+      "primary_source": "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Un down commence à la mise en jeu du ballon et finit lorsque celui-ci est déclaré mort.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Combien de points rapporte un touchdown au football américain avant la transformation ?",
+            "answer": "6",
+            "fact_id": "american-football-touchdown-six"
+          },
+          "after": {
+            "question": "Selon le glossaire NFL consulté le 18 octobre 2026, quel terme anglais désigne une tentative de jeu, du début de l’action jusqu’au ballon mort ?",
+            "answer": "Down",
+            "fact_id": "football-americain-down-periode-action-ballon-mort"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter down, prononcé intelligiblement; touchdown est une action de marque. Remplacement du doublon avec M26-R03-Q04.",
+      "evidence": [
+        {
+          "url": "https://operations.nfl.com/rules-officiating/nfl-football-basics/football-terms",
+          "locator": "Down, lignes 228–230",
+          "support": "Un down commence à la mise en jeu du ballon et finit lorsque celui-ci est déclaré mort.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -218,23 +422,49 @@
       "section_number": 3,
       "section": "SPORTS ET JEUX",
       "number": 5,
-      "question": "Combien de boules numérotées utilise-t-on au billard américain à huit, sans compter la blanche ?",
+      "question": "Selon les règles WPA du 15 septembre 2025, combien de billes numérotées utilise-t-on au jeu de la huit, sans compter la blanche ?",
       "answer": "15",
       "fact_id": "eight-ball-fifteen-numbered",
       "tested_fact": "eight-ball-fifteen-numbered",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "15",
+        "Quinze",
+        "Quinze billes"
+      ],
+      "primary_source": "https://wpapool.com/wp-content/uploads/2025/10/2025.09.15-WPA-Rules-NP.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le jeu utilise quinze billes numérotées et une bille blanche.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Combien de boules numérotées utilise-t-on au billard américain à huit, sans compter la blanche ?",
+            "answer": "15",
+            "fact_id": "eight-ball-fifteen-numbered"
+          },
+          "after": {
+            "question": "Selon les règles WPA du 15 septembre 2025, combien de billes numérotées utilise-t-on au jeu de la huit, sans compter la blanche ?",
+            "answer": "15",
+            "fact_id": "eight-ball-fifteen-numbered"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger quinze; seize inclut la blanche explicitement exclue.",
+      "evidence": [
+        {
+          "url": "https://wpapool.com/wp-content/uploads/2025/10/2025.09.15-WPA-Rules-NP.pdf",
+          "locator": "§4 8-Ball, PDF page 20, lignes 583–585",
+          "support": "Le jeu utilise quinze billes numérotées et une bille blanche.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -244,23 +474,50 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 1,
-      "question": "Quelle actrice kényane-mexicaine a remporté l'Oscar du meilleur second rôle féminin pour 12 Years a Slave ?",
+      "question": "Quelle actrice a remporté en 2014 l’Oscar du meilleur second rôle féminin pour 12 Years a Slave ?",
       "answer": "Lupita Nyong'o",
       "fact_id": "lupita-oscar-12-years",
       "tested_fact": "lupita-oscar-12-years",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Lupita Nyong’o",
+        "Lupita Nyongo",
+        "Nyong’o",
+        "Lupita"
+      ],
+      "primary_source": "https://www.oscars.org/oscars/ceremonies/2014/memorable-moments",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’Académie attribue le prix à Lupita Nyong’o pour 12 Years a Slave.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle actrice kényane-mexicaine a remporté l'Oscar du meilleur second rôle féminin pour 12 Years a Slave ?",
+            "answer": "Lupita Nyong'o",
+            "fact_id": "lupita-oscar-12-years"
+          },
+          "after": {
+            "question": "Quelle actrice a remporté en 2014 l’Oscar du meilleur second rôle féminin pour 12 Years a Slave ?",
+            "answer": "Lupita Nyong'o",
+            "fact_id": "lupita-oscar-12-years"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Lupita, Nyong’o ou son nom complet; le personnage ne remplace pas l’actrice.",
+      "evidence": [
+        {
+          "url": "https://www.oscars.org/oscars/ceremonies/2014/memorable-moments",
+          "locator": "86th Academy Awards, ligne 9",
+          "support": "L’Académie attribue le prix à Lupita Nyong’o pour 12 Years a Slave.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -270,23 +527,48 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 2,
-      "question": "Quel musicien britannique a composé et interprété la chanson Imagine ?",
+      "question": "Quel chanteur interprète Imagine sur le single original de 1971 ?",
       "answer": "John Lennon",
       "fact_id": "john-lennon-imagine",
       "tested_fact": "john-lennon-imagine",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "John Lennon",
+        "Lennon"
+      ],
+      "primary_source": "https://www.johnlennon.com/music/singles/imagine/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Les crédits nomment John Lennon au chant et au piano, et Lennon avec Yoko Ono à l’écriture.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel musicien britannique a composé et interprété la chanson Imagine ?",
+            "answer": "John Lennon",
+            "fact_id": "john-lennon-imagine"
+          },
+          "after": {
+            "question": "Quel chanteur interprète Imagine sur le single original de 1971 ?",
+            "answer": "John Lennon",
+            "fact_id": "john-lennon-imagine"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Lennon; il est l’interprète demandé. Ne pas attribuer exclusivement l’écriture à Lennon, puisqu’elle est partagée avec Yoko Ono.",
+      "evidence": [
+        {
+          "url": "https://www.johnlennon.com/music/singles/imagine/",
+          "locator": "Crédits du morceau, lignes 89–95",
+          "support": "Les crédits nomment John Lennon au chant et au piano, et Lennon avec Yoko Ono à l’écriture.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -296,23 +578,48 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 3,
-      "question": "Quel réalisateur japonais a réalisé Le Voyage de Chihiro ?",
+      "question": "Quel réalisateur a signé le film d’animation Le Voyage de Chihiro ?",
       "answer": "Hayao Miyazaki",
       "fact_id": "miyazaki-spirited-away",
       "tested_fact": "miyazaki-spirited-away",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Hayao Miyazaki",
+        "Miyazaki"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb38942448f",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice attribue la réalisation à Hayao Miyazaki et la musique à Joe Hisaishi.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel réalisateur japonais a réalisé Le Voyage de Chihiro ?",
+            "answer": "Hayao Miyazaki",
+            "fact_id": "miyazaki-spirited-away"
+          },
+          "after": {
+            "question": "Quel réalisateur a signé le film d’animation Le Voyage de Chihiro ?",
+            "answer": "Hayao Miyazaki",
+            "fact_id": "miyazaki-spirited-away"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Miyazaki. Hisaishi est le compositeur et non le réalisateur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb38942448f",
+          "locator": "FRBNF38942448, lignes 57 et 66",
+          "support": "La notice attribue la réalisation à Hayao Miyazaki et la musique à Joe Hisaishi.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -326,19 +633,30 @@
       "answer": "4",
       "fact_id": "cello-four-strings",
       "tested_fact": "cello-four-strings",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "4",
+        "Quatre",
+        "Quatre cordes"
+      ],
+      "primary_source": "https://pad.philharmoniedeparis.fr/EXPLOITATION/ermes/player.aspx?id=1043884",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le dossier indique quatre cordes au violon comme à l’alto, au violoncelle et à la contrebasse.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter quatre; le libellé vise l’instrument classique habituel.",
+      "evidence": [
+        {
+          "url": "https://pad.philharmoniedeparis.fr/EXPLOITATION/ermes/player.aspx?id=1043884",
+          "locator": "Dossier pédagogique, Le violon, PDF page 8, lignes 84–86",
+          "support": "Le dossier indique quatre cordes au violon comme à l’alto, au violoncelle et à la contrebasse.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -348,23 +666,53 @@
       "section_number": 4,
       "section": "CINÉMA ET MUSIQUE",
       "number": 5,
-      "question": "Quel terme italien indique généralement un tempo vif et rapide ?",
-      "answer": "Allegro",
-      "fact_id": "allegro-tempo",
-      "tested_fact": "allegro-tempo",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "À quelle allure faut-il jouer quand une partition indique allegro ?",
+      "answer": "Rapide",
+      "fact_id": "allegro-tempo-rapide",
+      "tested_fact": "allegro-tempo-rapide",
+      "accepted_variants": [
+        "Rapide",
+        "Rapidement",
+        "Vif",
+        "Vivement",
+        "Vite",
+        "À une allure vive",
+        "Tempo rapide"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/allegro/2347",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’indication musicale allegro signifie rapidement, avec une idée de vivacité.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel terme italien indique généralement un tempo vif et rapide ?",
+            "answer": "Allegro",
+            "fact_id": "allegro-tempo"
+          },
+          "after": {
+            "question": "À quelle allure faut-il jouer quand une partition indique allegro ?",
+            "answer": "Rapide",
+            "fact_id": "allegro-tempo-rapide"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter rapide ou vif et les expressions équivalentes. Fort concerne le volume. La question initiale admettait aussi vivace ou presto; demander le sens d’allegro évite cette ambiguïté.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/allegro/2347",
+          "locator": "Allegro, lignes 29–31",
+          "support": "L’indication musicale allegro signifie rapidement, avec une idée de vivacité.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -374,23 +722,50 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 1,
-      "question": "Quel type de phrase reconnaît-on dans « Ferme la porte. » ?",
+      "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Ferme la porte. » ?",
       "answer": "Injonctive",
       "fact_id": "sentence-type-injonctive",
       "tested_fact": "sentence-type-injonctive",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Injonctive",
+        "Impérative",
+        "Phrase injonctive",
+        "Phrase impérative"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le type impératif ou injonctif exprime une injonction avec un verbe à l’impératif et sans sujet exprimé.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel type de phrase reconnaît-on dans « Ferme la porte. » ?",
+            "answer": "Injonctive",
+            "fact_id": "sentence-type-injonctive"
+          },
+          "after": {
+            "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Ferme la porte. » ?",
+            "answer": "Injonctive",
+            "fact_id": "sentence-type-injonctive"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Injonctive ou Impérative ou Phrase injonctive ou Phrase impérative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
+          "locator": "Les types de phrases, lignes 7 et 27",
+          "support": "Le type impératif ou injonctif exprime une injonction avec un verbe à l’impératif et sans sujet exprimé.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -400,23 +775,48 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 2,
-      "question": "Quel type de phrase reconnaît-on dans « Où vas-tu ? » ?",
+      "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Où vas-tu ? » ?",
       "answer": "Interrogative",
       "fact_id": "sentence-type-interrogative",
       "tested_fact": "sentence-type-interrogative",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Interrogative",
+        "Phrase interrogative"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le type interrogatif pose directement une question, avec des marques comme le mot interrogatif et l’inversion.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel type de phrase reconnaît-on dans « Où vas-tu ? » ?",
+            "answer": "Interrogative",
+            "fact_id": "sentence-type-interrogative"
+          },
+          "after": {
+            "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Où vas-tu ? » ?",
+            "answer": "Interrogative",
+            "fact_id": "sentence-type-interrogative"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Interrogative ou Phrase interrogative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
+          "locator": "Les types de phrases, lignes 18–23",
+          "support": "Le type interrogatif pose directement une question, avec des marques comme le mot interrogatif et l’inversion.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -426,23 +826,48 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 3,
-      "question": "Quel type de phrase reconnaît-on dans « Comme ce paysage est beau ! » ?",
+      "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Comme ce paysage est beau ! » ?",
       "answer": "Exclamative",
       "fact_id": "sentence-type-exclamative",
       "tested_fact": "sentence-type-exclamative",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Exclamative",
+        "Phrase exclamative"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’OQLF reconnaît un type exclamatif caractérisé ici par comme et un jugement intense.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel type de phrase reconnaît-on dans « Comme ce paysage est beau ! » ?",
+            "answer": "Exclamative",
+            "fact_id": "sentence-type-exclamative"
+          },
+          "after": {
+            "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « Comme ce paysage est beau ! » ?",
+            "answer": "Exclamative",
+            "fact_id": "sentence-type-exclamative"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Exclamative ou Phrase exclamative. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
+          "locator": "Les types de phrases, lignes 7 et 35–37",
+          "support": "L’OQLF reconnaît un type exclamatif caractérisé ici par comme et un jugement intense.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -452,23 +877,50 @@
       "section_number": 5,
       "section": "LANGAGE A",
       "number": 4,
-      "question": "Quel type de phrase reconnaît-on dans « La Terre tourne autour du Soleil. » ?",
+      "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « La Terre tourne autour du Soleil. » ?",
       "answer": "Déclarative",
       "fact_id": "sentence-type-declarative",
       "tested_fact": "sentence-type-declarative",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Déclarative",
+        "Assertive",
+        "Phrase déclarative",
+        "Phrase assertive"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La phrase déclarative, aussi appelée assertive, sert à énoncer ou affirmer quelque chose.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel type de phrase reconnaît-on dans « La Terre tourne autour du Soleil. » ?",
+            "answer": "Déclarative",
+            "fact_id": "sentence-type-declarative"
+          },
+          "after": {
+            "question": "Dans le classement en quatre types de phrases, quel type reconnaît-on dans « La Terre tourne autour du Soleil. » ?",
+            "answer": "Déclarative",
+            "fact_id": "sentence-type-declarative"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Déclarative ou Assertive ou Phrase déclarative ou Phrase assertive. Le classement en quatre types est explicite; certains programmes distinguent trois types et une forme exclamative. Lire l’exemple avec l’intonation correspondante.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/24269/la-grammaire/la-grammaire-actuelle/la-phrase/les-types-de-phrases",
+          "locator": "Les types de phrases, lignes 11",
+          "support": "La phrase déclarative, aussi appelée assertive, sert à énoncer ou affirmer quelque chose.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -482,19 +934,30 @@
       "answer": "Malala Yousafzai",
       "fact_id": "malala-identification",
       "tested_fact": "malala-identification",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Malala Yousafzai",
+        "Malala",
+        "Yousafzai"
+      ],
+      "primary_source": "https://malala.org/malalas-story",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La biographie décrit l’attaque d’octobre 2012 par un taliban contre Malala et son engagement pour l’éducation des filles.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Malala ou son nom complet; l’attaque de 2012 et l’engagement pour les filles discriminent cette militante.",
+      "evidence": [
+        {
+          "url": "https://malala.org/malalas-story",
+          "locator": "Malala’s Story, lignes 128–129",
+          "support": "La biographie décrit l’attaque d’octobre 2012 par un taliban contre Malala et son engagement pour l’éducation des filles.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -508,19 +971,28 @@
       "answer": "Pakistan",
       "fact_id": "malala-country",
       "tested_fact": "malala-country",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Pakistan"
+      ],
+      "primary_source": "https://malala.org/malalas-story",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La naissance est située à Mingora, Pakistan.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger Pakistan, le pays, et non Mingora, la ville.",
+      "evidence": [
+        {
+          "url": "https://malala.org/malalas-story",
+          "locator": "Malala’s Story, lignes 108",
+          "support": "La naissance est située à Mingora, Pakistan.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -534,19 +1006,29 @@
       "answer": "Vallée de Swat",
       "fact_id": "malala-swat-valley",
       "tested_fact": "malala-swat-valley",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Vallée de Swat",
+        "Swat"
+      ],
+      "primary_source": "https://malala.org/malalas-story",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La ville de son enfance est située dans la vallée de Swat.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Swat; Pakistan seul est trop large pour une vallée.",
+      "evidence": [
+        {
+          "url": "https://malala.org/malalas-story",
+          "locator": "Malala’s Story, lignes 119",
+          "support": "La ville de son enfance est située dans la vallée de Swat.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -560,19 +1042,28 @@
       "answer": "2014",
       "fact_id": "malala-nobel-year",
       "tested_fact": "malala-nobel-year",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "2014"
+      ],
+      "primary_source": "https://malala.org/malalas-story",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La biographie date le prix Nobel de la paix de décembre 2014.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger 2014; 2012 est l’année de l’attaque.",
+      "evidence": [
+        {
+          "url": "https://malala.org/malalas-story",
+          "locator": "Malala’s Story, lignes 146",
+          "support": "La biographie date le prix Nobel de la paix de décembre 2014.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -586,19 +1077,30 @@
       "answer": "Université d'Oxford",
       "fact_id": "malala-oxford",
       "tested_fact": "malala-oxford",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Université d’Oxford",
+        "Oxford",
+        "University of Oxford"
+      ],
+      "primary_source": "https://malala.org/malalas-story",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La page décrit les études de philosophie, politique et économie à Oxford et l’obtention du diplôme.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Oxford ou université d’Oxford; un collège seul demande de préciser l’université.",
+      "evidence": [
+        {
+          "url": "https://malala.org/malalas-story",
+          "locator": "Malala’s Story, lignes 153–162",
+          "support": "La page décrit les études de philosophie, politique et économie à Oxford et l’obtention du diplôme.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -612,19 +1114,30 @@
       "answer": "Active",
       "fact_id": "voice-active-example",
       "tested_fact": "voice-active-example",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Active",
+        "Voix active",
+        "Forme active"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26560112/voix",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "À la voix active, le sujet accomplit l’action; ici le professeur corrige.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter active ou forme active; le temps et la voix sont distincts.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26560112/voix",
+          "locator": "Définition et note, lignes 19–22",
+          "support": "À la voix active, le sujet accomplit l’action; ici le professeur corrige.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -638,19 +1151,30 @@
       "answer": "Passive",
       "fact_id": "voice-passive-example",
       "tested_fact": "voice-passive-example",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Passive",
+        "Voix passive",
+        "Forme passive"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26560112/voix",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "À la voix passive, le sujet subit l’action; ici les copies sont corrigées.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter passive ou forme passive; par le professeur désigne l’agent.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26560112/voix",
+          "locator": "Définition et note, lignes 19–22",
+          "support": "À la voix passive, le sujet subit l’action; ici les copies sont corrigées.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -664,19 +1188,29 @@
       "answer": "Discours direct",
       "fact_id": "direct-speech-definition",
       "tested_fact": "direct-speech-definition",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Discours direct",
+        "Style direct"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23375/la-ponctuation/guillemets/guillemets-et-citation",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Les exemples de discours direct reproduisent telles quelles les paroles et les encadrent de guillemets.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter discours direct ou style direct; citation seule peut demander le type de discours.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23375/la-ponctuation/guillemets/guillemets-et-citation",
+          "locator": "Guillemets et citation, lignes 6–10",
+          "support": "Les exemples de discours direct reproduisent telles quelles les paroles et les encadrent de guillemets.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -686,23 +1220,49 @@
       "section_number": 7,
       "section": "LANGAGE B",
       "number": 4,
-      "question": "Comment appelle-t-on des paroles rapportées sans les reproduire exactement entre guillemets ?",
+      "question": "Dans « Elle dit qu’elle reviendra », quel type de discours rapporte les paroles dans une proposition introduite par que ?",
       "answer": "Discours indirect",
       "fact_id": "indirect-speech-definition",
       "tested_fact": "indirect-speech-definition",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Discours indirect",
+        "Discours indirect lié",
+        "Style indirect"
+      ],
+      "primary_source": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23375/la-ponctuation/guillemets/guillemets-et-citation",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le discours indirect lié est illustré par un verbe de parole suivi de que et des adaptations grammaticales.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Comment appelle-t-on des paroles rapportées sans les reproduire exactement entre guillemets ?",
+            "answer": "Discours indirect",
+            "fact_id": "indirect-speech-definition"
+          },
+          "after": {
+            "question": "Dans « Elle dit qu’elle reviendra », quel type de discours rapporte les paroles dans une proposition introduite par que ?",
+            "answer": "Discours indirect",
+            "fact_id": "indirect-speech-definition"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter discours indirect ou indirect lié; indirect libre n’est pas cette construction avec un verbe introducteur et que.",
+      "evidence": [
+        {
+          "url": "https://vitrinelinguistique.oqlf.gouv.qc.ca/23375/la-ponctuation/guillemets/guillemets-et-citation",
+          "locator": "Exemples, lignes 8–11",
+          "support": "Le discours indirect lié est illustré par un verbe de parole suivi de que et des adaptations grammaticales.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -712,23 +1272,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 1,
-      "question": "Quel Français créa le système d'écriture tactile à points en relief qui porte son nom ?",
+      "question": "Quel inventeur a créé le système d’écriture tactile à points en relief qui porte le nom de braille ?",
       "answer": "Louis Braille",
       "fact_id": "louis-braille-system",
       "tested_fact": "louis-braille-system",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Louis Braille",
+        "Braille"
+      ],
+      "primary_source": "https://www.avh.asso.fr/actualites/en-2025-feter-les-200-ans-du-braille",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’association attribue à Louis Braille le système d’écriture tactile à six points en relief.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel Français créa le système d'écriture tactile à points en relief qui porte son nom ?",
+            "answer": "Louis Braille",
+            "fact_id": "louis-braille-system"
+          },
+          "after": {
+            "question": "Quel inventeur a créé le système d’écriture tactile à points en relief qui porte le nom de braille ?",
+            "answer": "Louis Braille",
+            "fact_id": "louis-braille-system"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Braille. Charles Barbier a élaboré un système précurseur, distinct du système nommé braille.",
+      "evidence": [
+        {
+          "url": "https://www.avh.asso.fr/actualites/en-2025-feter-les-200-ans-du-braille",
+          "locator": "Présentation et historique, lignes 3, 22 et 26",
+          "support": "L’association attribue à Louis Braille le système d’écriture tactile à six points en relief.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -738,23 +1323,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 2,
-      "question": "Quel inventeur et ingénieur serbo-américain est associé au développement des systèmes à courant alternatif polyphasé ?",
+      "question": "Quel inventeur est associé au développement des systèmes électriques à courant alternatif polyphasé ?",
       "answer": "Nikola Tesla",
       "fact_id": "tesla-polyphase-ac",
       "tested_fact": "tesla-polyphase-ac",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Nikola Tesla",
+        "Tesla"
+      ],
+      "primary_source": "https://tesla-museum.org/en/qr-en/exhibit-045/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le musée décrit l’usage des courants alternatifs polyphasés par Nikola Tesla pour créer un champ tournant et un moteur à induction.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel inventeur et ingénieur serbo-américain est associé au développement des systèmes à courant alternatif polyphasé ?",
+            "answer": "Nikola Tesla",
+            "fact_id": "tesla-polyphase-ac"
+          },
+          "after": {
+            "question": "Quel inventeur est associé au développement des systèmes électriques à courant alternatif polyphasé ?",
+            "answer": "Nikola Tesla",
+            "fact_id": "tesla-polyphase-ac"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Tesla; le libellé ne lui attribue pas seul toute l’invention du courant alternatif.",
+      "evidence": [
+        {
+          "url": "https://tesla-museum.org/en/qr-en/exhibit-045/",
+          "locator": "Induction Motor with a Disk-Shaped Rotor, ligne 71",
+          "support": "Le musée décrit l’usage des courants alternatifs polyphasés par Nikola Tesla pour créer un champ tournant et un moteur à induction.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -764,23 +1374,48 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 3,
-      "question": "Quelle scientifique britannique produisit notamment le cliché de diffraction des rayons X connu sous le nom de Photo 51 ?",
+      "question": "Quelle chercheuse réalisa avec son doctorant Raymond Gosling la photographie de diffraction de l’ADN appelée Photo 51 ?",
       "answer": "Rosalind Franklin",
       "fact_id": "rosalind-franklin-photo51",
       "tested_fact": "rosalind-franklin-photo51",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Rosalind Franklin",
+        "Franklin"
+      ],
+      "primary_source": "https://www.kcl.ac.uk/the-story-behind-photograph-51",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’université attribue la Photo 51 à Rosalind Franklin et à son doctorant Raymond Gosling en mai 1952.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle scientifique britannique produisit notamment le cliché de diffraction des rayons X connu sous le nom de Photo 51 ?",
+            "answer": "Rosalind Franklin",
+            "fact_id": "rosalind-franklin-photo51"
+          },
+          "after": {
+            "question": "Quelle chercheuse réalisa avec son doctorant Raymond Gosling la photographie de diffraction de l’ADN appelée Photo 51 ?",
+            "answer": "Rosalind Franklin",
+            "fact_id": "rosalind-franklin-photo51"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Franklin. Gosling est le doctorant déjà donné; le libellé demande la chercheuse. Watson et Crick ne sont pas les auteurs du cliché.",
+      "evidence": [
+        {
+          "url": "https://www.kcl.ac.uk/the-story-behind-photograph-51",
+          "locator": "King’s College London, lignes 29 et 34",
+          "support": "L’université attribue la Photo 51 à Rosalind Franklin et à son doctorant Raymond Gosling en mai 1952.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -794,19 +1429,30 @@
       "answer": "Joule",
       "fact_id": "si-energy-joule",
       "tested_fact": "si-energy-joule",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Joule",
+        "Le joule",
+        "J"
+      ],
+      "primary_source": "https://www.nist.gov/glossary-term/26261",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le NIST identifie le joule comme unité SI de l’énergie, du travail et de la chaleur.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter joule ou J; watt mesure la puissance, calorie n’est pas l’unité SI demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nist.gov/glossary-term/26261",
+          "locator": "Joule, lignes 117–119",
+          "support": "Le NIST identifie le joule comme unité SI de l’énergie, du travail et de la chaleur.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -816,23 +1462,49 @@
       "section_number": 8,
       "section": "SCIENCE ET TECHNIQUE",
       "number": 5,
-      "question": "Comment appelle-t-on la partie centrale d'un atome contenant protons et neutrons ?",
+      "question": "Quelle partie centrale de l’atome regroupe les protons et, lorsqu’ils sont présents, les neutrons ?",
       "answer": "Noyau",
       "fact_id": "atom-nucleus",
       "tested_fact": "atom-nucleus",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Noyau",
+        "Noyau atomique",
+        "Le noyau"
+      ],
+      "primary_source": "https://openstax.org/books/chemistry-2e/pages/2-2-evolution-of-atomic-theory",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le noyau est situé au centre de l’atome et contient ses protons et ses neutrons éventuels.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Comment appelle-t-on la partie centrale d'un atome contenant protons et neutrons ?",
+            "answer": "Noyau",
+            "fact_id": "atom-nucleus"
+          },
+          "after": {
+            "question": "Quelle partie centrale de l’atome regroupe les protons et, lorsqu’ils sont présents, les neutrons ?",
+            "answer": "Noyau",
+            "fact_id": "atom-nucleus"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter noyau atomique ou noyau. Les neutrons ne sont pas obligatoires: le noyau d’hydrogène 1 n’en contient pas.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/chemistry-2e/pages/2-2-evolution-of-atomic-theory",
+          "locator": "Modèle nucléaire et neutron, lignes 66–81",
+          "support": "Le noyau est situé au centre de l’atome et contient ses protons et ses neutrons éventuels.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -846,19 +1518,31 @@
       "answer": "Alexandre le Grand",
       "fact_id": "alexander-great-aristotle-empire",
       "tested_fact": "alexander-great-aristotle-empire",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Alexandre le Grand",
+        "Alexandre III de Macédoine",
+        "Alexandre III",
+        "Alexander the Great"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/college/Alexandre_le_Grand/1086",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Alexandre est décrit comme roi de Macédoine, élève d’Aristote et conquérant en Asie.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Alexandre le Grand ou Alexandre III. Alexandre seul peut demander une précision.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/college/Alexandre_le_Grand/1086",
+          "locator": "Alexandre le Grand, lignes 17–22",
+          "support": "Alexandre est décrit comme roi de Macédoine, élève d’Aristote et conquérant en Asie.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -868,23 +1552,47 @@
       "section_number": 9,
       "section": "QUI, QUE, OÙ SUIS-JE ?",
       "number": 2,
-      "question": "Où suis-je ? Grande ville australienne connue pour son opéra aux voiles blanches.",
+      "question": "Où suis-je ? Ville australienne, j’abrite un célèbre opéra dont les toitures forment des coquilles entrelacées.",
       "answer": "Sydney",
       "fact_id": "sydney-opera-house",
       "tested_fact": "sydney-opera-house",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Sydney"
+      ],
+      "primary_source": "https://whc.unesco.org/en/list/166/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’UNESCO situe l’opéra dans le port de Sydney et décrit ses groupes de coquilles voûtées entrelacées.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Où suis-je ? Grande ville australienne connue pour son opéra aux voiles blanches.",
+            "answer": "Sydney",
+            "fact_id": "sydney-opera-house"
+          },
+          "after": {
+            "question": "Où suis-je ? Ville australienne, j’abrite un célèbre opéra dont les toitures forment des coquilles entrelacées.",
+            "answer": "Sydney",
+            "fact_id": "sydney-opera-house"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger Sydney; Canberra est la capitale mais ne correspond pas à l’opéra décrit.",
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/166/",
+          "locator": "Opéra de Sydney, description française, lignes 7–9",
+          "support": "L’UNESCO situe l’opéra dans le port de Sydney et décrit ses groupes de coquilles voûtées entrelacées.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -898,19 +1606,30 @@
       "answer": "Pyrénées",
       "fact_id": "pyrenees-france-spain",
       "tested_fact": "pyrenees-france-spain",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Pyrénées",
+        "Les Pyrénées",
+        "Pyrenees"
+      ],
+      "primary_source": "https://www.larousse.fr/encyclopedie/mont/Pyr%C3%A9n%C3%A9es/139895",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La chaîne est partagée entre France et Espagne avec le statut particulier d’Andorre; la frontière suit en partie ce relief.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter Pyrénées; ne pas prétendre que toute la frontière suit exactement les sommets ou qu’Andorre n’existe pas.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/encyclopedie/mont/Pyr%C3%A9n%C3%A9es/139895",
+          "locator": "Pyrénées, lignes 19–24",
+          "support": "La chaîne est partagée entre France et Espagne avec le statut particulier d’Andorre; la frontière suit en partie ce relief.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -933,7 +1652,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -959,7 +1678,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -985,7 +1704,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1011,7 +1730,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1037,7 +1756,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1063,7 +1782,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1089,7 +1808,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1102,23 +1821,48 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 1,
-      "question": "Quelle est la capitale de la Suisse ?",
+      "question": "Au 18 octobre 2026, quelle ville fédérale fait office de capitale de la Suisse ?",
       "answer": "Berne",
       "fact_id": "switzerland-capital",
       "tested_fact": "switzerland-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Berne",
+        "Bern"
+      ],
+      "primary_source": "https://www.aboutswitzerland.eda.admin.ch/fr/systeme-politique",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Berne est la ville fédérale et fait fonction de capitale de facto; la Suisse n’a pas de capitale de jure.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale de la Suisse ?",
+            "answer": "Berne",
+            "fact_id": "switzerland-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle ville fédérale fait office de capitale de la Suisse ?",
+            "answer": "Berne",
+            "fact_id": "switzerland-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Berne ou Bern. Respecter la distinction ville fédérale/capitale de facto et capitale de jure.",
+      "evidence": [
+        {
+          "url": "https://www.aboutswitzerland.eda.admin.ch/fr/systeme-politique",
+          "locator": "Système politique, lignes 21 et 35",
+          "support": "Berne est la ville fédérale et fait fonction de capitale de facto; la Suisse n’a pas de capitale de jure.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1128,23 +1872,47 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 2,
-      "question": "Quelle ville allemande est célèbre pour la porte de Brandebourg ?",
+      "question": "Dans quelle ville allemande se trouve la porte de Brandebourg ?",
       "answer": "Berlin",
       "fact_id": "brandenburg-gate-city",
       "tested_fact": "brandenburg-gate-city",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Berlin"
+      ],
+      "primary_source": "https://www.visitberlin.de/en/brandenburg-gate",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’office touristique officiel présente la porte de Brandebourg comme un monument de Berlin.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle ville allemande est célèbre pour la porte de Brandebourg ?",
+            "answer": "Berlin",
+            "fact_id": "brandenburg-gate-city"
+          },
+          "after": {
+            "question": "Dans quelle ville allemande se trouve la porte de Brandebourg ?",
+            "answer": "Berlin",
+            "fact_id": "brandenburg-gate-city"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Exiger Berlin, et non Brandebourg-sur-la-Havel.",
+      "evidence": [
+        {
+          "url": "https://www.visitberlin.de/en/brandenburg-gate",
+          "locator": "Présentation, lignes 114–115",
+          "support": "L’office touristique officiel présente la porte de Brandebourg comme un monument de Berlin.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1167,7 +1935,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1180,23 +1948,49 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 4,
-      "question": "Quelle est la capitale de la Roumanie ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de la Roumanie ?",
       "answer": "Bucarest",
       "fact_id": "romania-capital",
       "tested_fact": "romania-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Bucarest",
+        "Bucharest",
+        "București"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Roumanie à sa capitale Bucarest.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale de la Roumanie ?",
+            "answer": "Bucarest",
+            "fact_id": "romania-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de la Roumanie ?",
+            "answer": "Bucarest",
+            "fact_id": "romania-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Bucarest ou Bucharest ou București. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "locator": "Tableau des capitales, Roumanie–Bucarest, ligne 77",
+          "support": "La source associe Roumanie à sa capitale Bucarest.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1219,7 +2013,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1232,23 +2026,51 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 6,
-      "question": "Quel physicien allemand découvrit les rayons X en 1895 ?",
+      "question": "Quel physicien découvrit les rayons X en 1895 ?",
       "answer": "Wilhelm Röntgen",
       "fact_id": "rontgen-xrays-1895",
       "tested_fact": "rontgen-xrays-1895",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Wilhelm Röntgen",
+        "Wilhelm Conrad Röntgen",
+        "Röntgen",
+        "Roentgen",
+        "Rontgen"
+      ],
+      "primary_source": "https://roentgenmuseum.de/wp-content/uploads/2020/03/FS_RP_REMSCHEID_6-04-2019_V02_x.pdf",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le document associe Wilhelm Conrad Röntgen à la découverte des rayons X du 8 novembre 1895.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel physicien allemand découvrit les rayons X en 1895 ?",
+            "answer": "Wilhelm Röntgen",
+            "fact_id": "rontgen-xrays-1895"
+          },
+          "after": {
+            "question": "Quel physicien découvrit les rayons X en 1895 ?",
+            "answer": "Wilhelm Röntgen",
+            "fact_id": "rontgen-xrays-1895"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Röntgen et ses graphies usuelles. Distinguer les rayons X et la radioactivité découverte par Becquerel. La coquille 1985 d’une autre diapositive n’est pas retenue.",
+      "evidence": [
+        {
+          "url": "https://roentgenmuseum.de/wp-content/uploads/2020/03/FS_RP_REMSCHEID_6-04-2019_V02_x.pdf",
+          "locator": "Conférence Francesco Sette, PDF page 2, lignes 5–9",
+          "support": "Le document associe Wilhelm Conrad Röntgen à la découverte des rayons X du 8 novembre 1895.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1258,23 +2080,47 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 7,
-      "question": "Quel pays a Montevideo pour capitale ?",
+      "question": "Au 18 octobre 2026, quel pays a Montevideo pour capitale ?",
       "answer": "Uruguay",
       "fact_id": "montevideo-country",
       "tested_fact": "montevideo-country",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Uruguay"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Montevideo est présenté comme la capitale de l’Uruguay.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel pays a Montevideo pour capitale ?",
+            "answer": "Uruguay",
+            "fact_id": "montevideo-country"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quel pays a Montevideo pour capitale ?",
+            "answer": "Uruguay",
+            "fact_id": "montevideo-country"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Uruguay. Montevideo est la ville donnée, non le pays demandé.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau Montevideo–Uruguay, ligne 87",
+          "support": "Montevideo est présenté comme la capitale de l’Uruguay.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1288,19 +2134,29 @@
       "answer": "11",
       "fact_id": "prime-after-seven",
       "tested_fact": "prime-after-seven",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "11",
+        "Onze"
+      ],
+      "primary_source": "https://mathworld.wolfram.com/PrimeNumber.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La liste ordonnée commence par 2, 3, 5, 7, 11, 13; onze vient immédiatement après sept.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter onze. Huit, neuf et dix sont composés; un n’est pas premier.",
+      "evidence": [
+        {
+          "url": "https://mathworld.wolfram.com/PrimeNumber.html",
+          "locator": "Premiers nombres premiers, ligne 22",
+          "support": "La liste ordonnée commence par 2, 3, 5, 7, 11, 13; onze vient immédiatement après sept.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1310,23 +2166,49 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 9,
-      "question": "Quel mammifère australien pond des œufs et possède un bec aplati ?",
+      "question": "Quel mammifère australien ovipare est connu pour son bec de canard ?",
       "answer": "Ornithorynque",
       "fact_id": "platypus-egg-laying",
       "tested_fact": "platypus-egg-laying",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ornithorynque",
+        "Platypus",
+        "Ornithorhynchus anatinus"
+      ],
+      "primary_source": "https://australian.museum/learn/animals/mammals/platypus/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le musée décrit l’ornithorynque comme un mammifère australien qui pond des œufs et porte un bec de canard.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel mammifère australien pond des œufs et possède un bec aplati ?",
+            "answer": "Ornithorynque",
+            "fact_id": "platypus-egg-laying"
+          },
+          "after": {
+            "question": "Quel mammifère australien ovipare est connu pour son bec de canard ?",
+            "answer": "Ornithorynque",
+            "fact_id": "platypus-egg-laying"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter ornithorynque ou son nom scientifique; l’échidné pond aussi des œufs mais n’a pas ce bec.",
+      "evidence": [
+        {
+          "url": "https://australian.museum/learn/animals/mammals/platypus/",
+          "locator": "Duck-billed Platypus, ligne 24; présentation, lignes 66–74",
+          "support": "Le musée décrit l’ornithorynque comme un mammifère australien qui pond des œufs et porte un bec de canard.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1336,23 +2218,49 @@
       "section_number": 11,
       "section": "ÉCLAIR 1",
       "number": 10,
-      "question": "Quelle substance du sang transporte principalement l'oxygène dans les globules rouges ?",
+      "question": "Quelle protéine des globules rouges transporte principalement l’oxygène chez l’être humain ?",
       "answer": "Hémoglobine",
       "fact_id": "hemoglobin-oxygen",
       "tested_fact": "hemoglobin-oxygen",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Hémoglobine",
+        "Hemoglobine",
+        "Hb"
+      ],
+      "primary_source": "https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La protéine hémoglobine, présente dans les globules rouges, assure principalement le transport de l’oxygène.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle substance du sang transporte principalement l'oxygène dans les globules rouges ?",
+            "answer": "Hémoglobine",
+            "fact_id": "hemoglobin-oxygen"
+          },
+          "after": {
+            "question": "Quelle protéine des globules rouges transporte principalement l’oxygène chez l’être humain ?",
+            "answer": "Hémoglobine",
+            "fact_id": "hemoglobin-oxygen"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter hémoglobine ou Hb. Fer est un élément constitutif et globule rouge une cellule; aucun des deux ne nomme la protéine.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/biology-2e/pages/40-2-components-of-the-blood",
+          "locator": "Red Blood Cells, ligne 41",
+          "support": "La protéine hémoglobine, présente dans les globules rouges, assure principalement le transport de l’oxygène.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1362,23 +2270,49 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 1,
-      "question": "Quelle province de la RDC a Isiro pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Isiro pour chef-lieu ?",
       "answer": "Haut-Uélé",
       "fact_id": "haut-uele-capital-isiro",
       "tested_fact": "haut-uele-capital-isiro",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Haut-Uélé",
+        "Haut-Uele",
+        "Haut Uélé"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’article 8 désigne Isiro comme chef-lieu de la province Haut-Uélé.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Isiro pour chef-lieu ?",
+            "answer": "Haut-Uélé",
+            "fact_id": "haut-uele-capital-isiro"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Isiro pour chef-lieu ?",
+            "answer": "Haut-Uélé",
+            "fact_id": "haut-uele-capital-isiro"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Haut-Uélé, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006, article 8, ligne 624",
+          "support": "L’article 8 désigne Isiro comme chef-lieu de la province Haut-Uélé.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1388,23 +2322,47 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 2,
-      "question": "Quelle province de la RDC a Kindu pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kindu pour chef-lieu ?",
       "answer": "Maniema",
       "fact_id": "maniema-capital-kindu",
       "tested_fact": "maniema-capital-kindu",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Maniema"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’article 19 désigne Kindu comme chef-lieu de la province Maniema.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Kindu pour chef-lieu ?",
+            "answer": "Maniema",
+            "fact_id": "maniema-capital-kindu"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kindu pour chef-lieu ?",
+            "answer": "Maniema",
+            "fact_id": "maniema-capital-kindu"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Maniema, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006, article 19, ligne 1656",
+          "support": "L’article 19 désigne Kindu comme chef-lieu de la province Maniema.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1414,23 +2372,47 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 3,
-      "question": "Quelle province de la RDC a Kalemie pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kalemie pour chef-lieu ?",
       "answer": "Tanganyika",
       "fact_id": "tanganyika-capital-kalemie",
       "tested_fact": "tanganyika-capital-kalemie",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Tanganyika"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’article 26 désigne Kalemie comme chef-lieu de la province Tanganyika.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Kalemie pour chef-lieu ?",
+            "answer": "Tanganyika",
+            "fact_id": "tanganyika-capital-kalemie"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kalemie pour chef-lieu ?",
+            "answer": "Tanganyika",
+            "fact_id": "tanganyika-capital-kalemie"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Tanganyika, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006, article 26, ligne 2268",
+          "support": "L’article 26 désigne Kalemie comme chef-lieu de la province Tanganyika.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1440,23 +2422,48 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 4,
-      "question": "Quelle province de la RDC a Mbandaka pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Mbandaka pour chef-lieu ?",
       "answer": "Équateur",
       "fact_id": "equateur-capital-mbandaka",
       "tested_fact": "equateur-capital-mbandaka",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Équateur",
+        "Equateur"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’article 5 désigne Mbandaka comme chef-lieu de la province Équateur.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Mbandaka pour chef-lieu ?",
+            "answer": "Équateur",
+            "fact_id": "equateur-capital-mbandaka"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Mbandaka pour chef-lieu ?",
+            "answer": "Équateur",
+            "fact_id": "equateur-capital-mbandaka"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Équateur, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006, article 5, ligne 168",
+          "support": "L’article 5 désigne Mbandaka comme chef-lieu de la province Équateur.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1466,23 +2473,47 @@
       "section_number": 12,
       "section": "CULTURE RÉGIONALE - RDC",
       "number": 5,
-      "question": "Quelle province de la RDC a Kenge pour chef-lieu ?",
+      "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kenge pour chef-lieu ?",
       "answer": "Kwango",
       "fact_id": "kwango-capital-kenge",
       "tested_fact": "kwango-capital-kenge",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kwango"
+      ],
+      "primary_source": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’article 14 désigne Kenge comme chef-lieu de la province Kwango.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle province de la RDC a Kenge pour chef-lieu ?",
+            "answer": "Kwango",
+            "fact_id": "kwango-capital-kenge"
+          },
+          "after": {
+            "question": "Selon la loi organique du 25 mars 2015, quelle province de la RDC a Kenge pour chef-lieu ?",
+            "answer": "Kwango",
+            "fact_id": "kwango-capital-kenge"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Kwango, avec ou sans signes diacritiques. La question se réfère au texte légal de 2015, sans déduire un contrôle territorial actuel.",
+      "evidence": [
+        {
+          "url": "https://www.leganet.be/Legislation/Droit%20Public/Administration.ter/loi.15.006.25.03.2015.html",
+          "locator": "Loi organique n°15/006, article 14, ligne 1099",
+          "support": "L’article 14 désigne Kenge comme chef-lieu de la province Kwango.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1492,23 +2523,48 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 1,
-      "question": "Quelle romancière anglaise est l'auteure d'Orgueil et Préjugés ?",
+      "question": "Qui est l’auteur du roman Orgueil et Préjugés ?",
       "answer": "Jane Austen",
       "fact_id": "jane-austen-pride-prejudice",
       "tested_fact": "jane-austen-pride-prejudice",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Jane Austen",
+        "Austen"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb486518572",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Orgueil et Préjugés à Jane Austen.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle romancière anglaise est l'auteure d'Orgueil et Préjugés ?",
+            "answer": "Jane Austen",
+            "fact_id": "jane-austen-pride-prejudice"
+          },
+          "after": {
+            "question": "Qui est l’auteur du roman Orgueil et Préjugés ?",
+            "answer": "Jane Austen",
+            "fact_id": "jane-austen-pride-prejudice"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Jane Austen ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb486518572",
+          "locator": "Auteur et titre, lignes 57–59",
+          "support": "La BnF attribue Orgueil et Préjugés à Jane Austen.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1518,23 +2574,49 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 2,
-      "question": "Quel écrivain français est l'auteur de Le Père Goriot ?",
+      "question": "Qui est l’auteur du roman Le Père Goriot ?",
       "answer": "Honoré de Balzac",
       "fact_id": "balzac-pere-goriot",
       "tested_fact": "balzac-pere-goriot",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Honoré de Balzac",
+        "Honore de Balzac",
+        "Balzac"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb35824447k",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Le Père Goriot à Honoré de Balzac.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain français est l'auteur de Le Père Goriot ?",
+            "answer": "Honoré de Balzac",
+            "fact_id": "balzac-pere-goriot"
+          },
+          "after": {
+            "question": "Qui est l’auteur du roman Le Père Goriot ?",
+            "answer": "Honoré de Balzac",
+            "fact_id": "balzac-pere-goriot"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Honoré de Balzac ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb35824447k",
+          "locator": "Auteur et titre, lignes 55–59",
+          "support": "La BnF attribue Le Père Goriot à Honoré de Balzac.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1544,23 +2626,49 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 3,
-      "question": "Quel peintre norvégien est l'auteur de Le Cri ?",
-      "answer": "Edvard Munch",
-      "fact_id": "munch-scream",
-      "tested_fact": "munch-scream",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Quel peintre a réalisé La Laitière, conservée au Rijksmuseum d’Amsterdam ?",
+      "answer": "Johannes Vermeer",
+      "fact_id": "vermeer-laitiere-rijksmuseum",
+      "tested_fact": "vermeer-laitiere-rijksmuseum",
+      "accepted_variants": [
+        "Johannes Vermeer",
+        "Jan Vermeer",
+        "Vermeer"
+      ],
+      "primary_source": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0?tab=data",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le musée attribue La Laitière à Johannes Vermeer.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel peintre norvégien est l'auteur de Le Cri ?",
+            "answer": "Edvard Munch",
+            "fact_id": "munch-scream"
+          },
+          "after": {
+            "question": "Quel peintre a réalisé La Laitière, conservée au Rijksmuseum d’Amsterdam ?",
+            "answer": "Johannes Vermeer",
+            "fact_id": "vermeer-laitiere-rijksmuseum"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Vermeer. Remplacement de l’attribution du Cri à Munch, répétée dans M29-R11-Q07.",
+      "evidence": [
+        {
+          "url": "https://www.rijksmuseum.nl/en/collection/object/The-Milkmaid--42dd0e658c2979aec8e144d2357c55c0?tab=data",
+          "locator": "The Milkmaid, lignes 1–5 et 45",
+          "support": "Le musée attribue La Laitière à Johannes Vermeer.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1570,23 +2678,51 @@
       "section_number": 13,
       "section": "LITTÉRATURE ET ART",
       "number": 4,
-      "question": "Quel écrivain et cinéaste sénégalais est l'auteur de Les Bouts de bois de Dieu ?",
+      "question": "Qui est l’auteur du roman Les Bouts de bois de Dieu ?",
       "answer": "Ousmane Sembène",
       "fact_id": "sembene-gods-bits-wood",
       "tested_fact": "sembene-gods-bits-wood",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Ousmane Sembène",
+        "Sembène Ousmane",
+        "Ousmane Sembene",
+        "Sembène",
+        "Sembene"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb48731990x",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Les Bouts de bois de Dieu à Ousmane Sembène.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel écrivain et cinéaste sénégalais est l'auteur de Les Bouts de bois de Dieu ?",
+            "answer": "Ousmane Sembène",
+            "fact_id": "sembene-gods-bits-wood"
+          },
+          "after": {
+            "question": "Qui est l’auteur du roman Les Bouts de bois de Dieu ?",
+            "answer": "Ousmane Sembène",
+            "fact_id": "sembene-gods-bits-wood"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Ousmane Sembène ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb48731990x",
+          "locator": "Auteur et titre, lignes 55–59",
+          "support": "La BnF attribue Les Bouts de bois de Dieu à Ousmane Sembène.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1600,19 +2736,29 @@
       "answer": "Triptyque",
       "fact_id": "triptych-definition",
       "tested_fact": "triptych-definition",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Triptyque",
+        "Un triptyque"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/triptyque/79793",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Un triptyque est une œuvre peinte ou sculptée principalement composée de trois panneaux joints latéralement.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter triptyque; polyptyque est plus général et diptyque correspond à deux panneaux.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/triptyque/79793",
+          "locator": "Définition 1, ligne 31",
+          "support": "Un triptyque est une œuvre peinte ou sculptée principalement composée de trois panneaux joints latéralement.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1626,19 +2772,32 @@
       "answer": "Plan Marshall",
       "fact_id": "marshall-plan",
       "tested_fact": "marshall-plan",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Plan Marshall",
+        "European Recovery Program",
+        "ERP",
+        "Programme de rétablissement européen",
+        "Programme de reconstruction européenne"
+      ],
+      "primary_source": "https://history.state.gov/milestones/1945-1952/marshall-plan",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La notice décrit le programme américain d’aide à la reconstruction économique de l’Europe occidentale après la guerre.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter plan Marshall ou le nom développé; doctrine Truman est une politique distincte.",
+      "evidence": [
+        {
+          "url": "https://history.state.gov/milestones/1945-1952/marshall-plan",
+          "locator": "Marshall Plan 1948, lignes 6–14",
+          "support": "La notice décrit le programme américain d’aide à la reconstruction économique de l’Europe occidentale après la guerre.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1661,7 +2820,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1678,19 +2837,31 @@
       "answer": "Traité de Maastricht",
       "fact_id": "maastricht-treaty-1992",
       "tested_fact": "maastricht-treaty-1992",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Traité de Maastricht",
+        "Maastricht",
+        "Traité sur l’Union européenne",
+        "TUE"
+      ],
+      "primary_source": "https://www.consilium.europa.eu/en/maastricht-treaty/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le Conseil attribue l’établissement de l’UE au traité de Maastricht signé le 7 février 1992.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter traité de Maastricht ou traité sur l’Union européenne. Distinguer signature de 1992 et entrée en vigueur de 1993.",
+      "evidence": [
+        {
+          "url": "https://www.consilium.europa.eu/en/maastricht-treaty/",
+          "locator": "How Maastricht changed Europe, lignes 5 et 9",
+          "support": "Le Conseil attribue l’établissement de l’UE au traité de Maastricht signé le 7 février 1992.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1704,19 +2875,29 @@
       "answer": "1969",
       "fact_id": "moon-landing-year-1969",
       "tested_fact": "moon-landing-year-1969",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "1969",
+        "Mille neuf cent soixante-neuf"
+      ],
+      "primary_source": "https://www.nasa.gov/history/july-20-1969-one-giant-leap-for-mankind/",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le récit de la NASA situe les premiers pas humains sur la Lune lors d’Apollo 11 en juillet 1969.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger 1969; les vols autour de la Lune ne sont pas des marches sur son sol.",
+      "evidence": [
+        {
+          "url": "https://www.nasa.gov/history/july-20-1969-one-giant-leap-for-mankind/",
+          "locator": "Titre ligne 244 et sortie lunaire lignes 275–278",
+          "support": "Le récit de la NASA situe les premiers pas humains sur la Lune lors d’Apollo 11 en juillet 1969.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1726,23 +2907,50 @@
       "section_number": 14,
       "section": "MONDE CONTEMPORAIN",
       "number": 5,
-      "question": "En quelle année débuta le génocide contre les Tutsi au Rwanda ?",
-      "answer": "1994",
-      "fact_id": "rwanda-genocide-year-1994",
-      "tested_fact": "rwanda-genocide-year-1994",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Quel terme économique désigne le transfert à la nation de la propriété d’une entreprise privée ?",
+      "answer": "Nationalisation",
+      "fact_id": "nationalisation-transfert-entreprise-privee-propriete-nationale",
+      "tested_fact": "nationalisation-transfert-entreprise-privee-propriete-nationale",
+      "accepted_variants": [
+        "Nationalisation",
+        "Une nationalisation",
+        "Étatisation",
+        "Etatisation"
+      ],
+      "primary_source": "https://www.larousse.fr/dictionnaires/francais/nationalisation/53865",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La nationalisation fait passer des entreprises privées à la propriété de la nation.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "autre",
+      "corrections": [
+        {
+          "before": {
+            "question": "En quelle année débuta le génocide contre les Tutsi au Rwanda ?",
+            "answer": "1994",
+            "fact_id": "rwanda-genocide-year-1994"
+          },
+          "after": {
+            "question": "Quel terme économique désigne le transfert à la nation de la propriété d’une entreprise privée ?",
+            "answer": "Nationalisation",
+            "fact_id": "nationalisation-transfert-entreprise-privee-propriete-nationale"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter nationalisation ou étatisation de l’entreprise. Privatisation désigne le sens inverse. Remplacement du doublon M30-R14-Q05 sur le génocide des Tutsi en 1994.",
+      "evidence": [
+        {
+          "url": "https://www.larousse.fr/dictionnaires/francais/nationalisation/53865",
+          "locator": "Définition, ligne 25",
+          "support": "La nationalisation fait passer des entreprises privées à la propriété de la nation.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1765,7 +2973,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1791,7 +2999,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -1804,23 +3012,51 @@
       "section_number": 15,
       "section": "RELAIS A",
       "number": 3,
-      "question": "Quels deux frères américains réalisèrent en 1903 un vol motorisé contrôlé célèbre à Kitty Hawk ?",
+      "question": "Quels deux frères réalisèrent en décembre 1903 des vols motorisés contrôlés à Kill Devil Hills, près de Kitty Hawk ?",
       "answer": "Frères Wright",
       "fact_id": "wright-brothers-1903",
       "tested_fact": "wright-brothers-1903",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Frères Wright",
+        "Les Wright",
+        "Wright",
+        "Orville et Wilbur Wright",
+        "Wilbur et Orville Wright"
+      ],
+      "primary_source": "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le NPS décrit les vols de Wilbur et Orville Wright sur les dunes de Kill Devil Hills en décembre 1903.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quels deux frères américains réalisèrent en 1903 un vol motorisé contrôlé célèbre à Kitty Hawk ?",
+            "answer": "Frères Wright",
+            "fact_id": "wright-brothers-1903"
+          },
+          "after": {
+            "question": "Quels deux frères réalisèrent en décembre 1903 des vols motorisés contrôlés à Kill Devil Hills, près de Kitty Hawk ?",
+            "answer": "Frères Wright",
+            "fact_id": "wright-brothers-1903"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter frères Wright ou les deux noms; Wright seul identifie la fratrie. Orville seul est incomplet. Le lieu exact évite la confusion avec la ville de Kitty Hawk.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm",
+          "locator": "1903-The First Flight, lignes 22–30",
+          "support": "Le NPS décrit les vols de Wilbur et Orville Wright sur les dunes de Kill Devil Hills en décembre 1903.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1830,23 +3066,51 @@
       "section_number": 15,
       "section": "RELAIS A",
       "number": 4,
-      "question": "Quel Français donna son nom à un ancien procédé photographique présenté publiquement en 1839 ?",
-      "answer": "Louis Daguerre",
-      "fact_id": "daguerre-daguerreotype",
-      "tested_fact": "daguerre-daguerreotype",
-      "accepted_variants": [],
-      "primary_source": null,
+      "question": "Quel pionnier de la photographie a réalisé Point de vue du Gras, pris depuis une fenêtre de sa propriété en Bourgogne ?",
+      "answer": "Nicéphore Niépce",
+      "fact_id": "niepce-point-de-vue-du-gras-photographie",
+      "tested_fact": "niepce-point-de-vue-du-gras-photographie",
+      "accepted_variants": [
+        "Nicéphore Niépce",
+        "Nicephore Niepce",
+        "Joseph Nicéphore Niépce",
+        "Niépce",
+        "Niepce"
+      ],
+      "primary_source": "https://www.hrc.utexas.edu/press/releases/2012/first-photograph-to-travel.html",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le musée attribue View from the Window at Le Gras à Joseph Nicéphore Niépce, en 1826 ou 1827.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quel Français donna son nom à un ancien procédé photographique présenté publiquement en 1839 ?",
+            "answer": "Louis Daguerre",
+            "fact_id": "daguerre-daguerreotype"
+          },
+          "after": {
+            "question": "Quel pionnier de la photographie a réalisé Point de vue du Gras, pris depuis une fenêtre de sa propriété en Bourgogne ?",
+            "answer": "Nicéphore Niépce",
+            "fact_id": "niepce-point-de-vue-du-gras-photographie"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Niépce. Daguerre est un autre pionnier; ce remplacement supprime le doublon M30-R15-Q02 sur le daguerréotype de 1839.",
+      "evidence": [
+        {
+          "url": "https://www.hrc.utexas.edu/press/releases/2012/first-photograph-to-travel.html",
+          "locator": "Harry Ransom Center, ligne 101",
+          "support": "Le musée attribue View from the Window at Le Gras à Joseph Nicéphore Niépce, en 1826 ou 1827.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1856,23 +3120,49 @@
       "section_number": 16,
       "section": "CANTONADE 2",
       "number": 1,
-      "question": "Quelle abolitionniste nord-américaine, née dans l'esclavage, guida de nombreuses personnes vers la liberté au XIXe siècle ?",
+      "question": "Quelle abolitionniste née dans l’esclavage sous le nom d’Araminta Ross guida de nombreuses personnes vers la liberté au XIXe siècle ?",
       "answer": "Harriet Tubman",
       "fact_id": "harriet-tubman-identification",
       "tested_fact": "harriet-tubman-identification",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Harriet Tubman",
+        "Tubman",
+        "Araminta Ross"
+      ],
+      "primary_source": "https://www.nps.gov/articles/tubman.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Harriet Tubman, née Araminta Ross, est présentée comme une conductrice majeure d’évasions de personnes réduites en esclavage.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle abolitionniste nord-américaine, née dans l'esclavage, guida de nombreuses personnes vers la liberté au XIXe siècle ?",
+            "answer": "Harriet Tubman",
+            "fact_id": "harriet-tubman-identification"
+          },
+          "after": {
+            "question": "Quelle abolitionniste née dans l’esclavage sous le nom d’Araminta Ross guida de nombreuses personnes vers la liberté au XIXe siècle ?",
+            "answer": "Harriet Tubman",
+            "fact_id": "harriet-tubman-identification"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Harriet Tubman, Tubman ou Araminta Ross. Le nom de naissance distingue cette abolitionniste sans dévoiler les réponses suivantes.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/tubman.htm",
+          "locator": "NPS, lignes 23–27",
+          "support": "Harriet Tubman, née Araminta Ross, est présentée comme une conductrice majeure d’évasions de personnes réduites en esclavage.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1886,19 +3176,28 @@
       "answer": "Maryland",
       "fact_id": "tubman-maryland",
       "tested_fact": "tubman-maryland",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Maryland"
+      ],
+      "primary_source": "https://www.nps.gov/articles/tubman.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La biographie situe sa naissance dans le comté de Dorchester, Maryland.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger l’État du Maryland; Dorchester est le comté.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/tubman.htm",
+          "locator": "NPS, lignes 23–26",
+          "support": "La biographie situe sa naissance dans le comté de Dorchester, Maryland.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1912,19 +3211,30 @@
       "answer": "Underground Railroad",
       "fact_id": "tubman-underground-railroad",
       "tested_fact": "tubman-underground-railroad",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Underground Railroad",
+        "Chemin de fer clandestin",
+        "Chemin de fer souterrain"
+      ],
+      "primary_source": "https://www.nps.gov/articles/tubman.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Le réseau d’évasion est nommé Underground Railroad.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter le nom anglais ou ces traductions; il ne s’agit pas d’un véritable chemin de fer.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/tubman.htm",
+          "locator": "NPS, lignes 24",
+          "support": "Le réseau d’évasion est nommé Underground Railroad.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1938,19 +3248,30 @@
       "answer": "Guerre de Sécession",
       "fact_id": "tubman-civil-war",
       "tested_fact": "tubman-civil-war",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Guerre de Sécession",
+        "Guerre civile américaine",
+        "American Civil War"
+      ],
+      "primary_source": "https://www.nps.gov/articles/tubman.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Tubman servit comme infirmière, éclaireuse et espionne pendant la guerre de Sécession.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter guerre de Sécession ou guerre civile américaine; distinguer la guerre d’Indépendance.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/tubman.htm",
+          "locator": "NPS, lignes 28",
+          "support": "Tubman servit comme infirmière, éclaireuse et espionne pendant la guerre de Sécession.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1964,19 +3285,28 @@
       "answer": "1849",
       "fact_id": "tubman-escaped-1849",
       "tested_fact": "tubman-escaped-1849",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "1849"
+      ],
+      "primary_source": "https://www.nps.gov/articles/tubman.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La biographie date son évasion personnelle de 1849.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Exiger 1849; ses missions d’aide aux évasions sont postérieures.",
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/tubman.htm",
+          "locator": "NPS, lignes 27",
+          "support": "La biographie date son évasion personnelle de 1849.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -1986,23 +3316,47 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 1,
-      "question": "Quelle est la capitale de la Jamaïque ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de la Jamaïque ?",
       "answer": "Kingston",
       "fact_id": "jamaica-capital",
       "tested_fact": "jamaica-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Kingston"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Jamaïque à sa capitale Kingston.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale de la Jamaïque ?",
+            "answer": "Kingston",
+            "fact_id": "jamaica-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de la Jamaïque ?",
+            "answer": "Kingston",
+            "fact_id": "jamaica-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Kingston. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Jamaïque–Kingston, ligne 78",
+          "support": "La source associe Jamaïque à sa capitale Kingston.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2012,23 +3366,48 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 2,
-      "question": "Quelle est la capitale d'Haïti ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale d'Haïti ?",
       "answer": "Port-au-Prince",
       "fact_id": "haiti-capital",
       "tested_fact": "haiti-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Port-au-Prince",
+        "Port au Prince"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Haïti à sa capitale Port-au-Prince.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale d'Haïti ?",
+            "answer": "Port-au-Prince",
+            "fact_id": "haiti-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale d'Haïti ?",
+            "answer": "Port-au-Prince",
+            "fact_id": "haiti-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Port-au-Prince ou Port au Prince. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Haïti–Port-au-Prince, ligne 92",
+          "support": "La source associe Haïti à sa capitale Port-au-Prince.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2038,23 +3417,48 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 3,
-      "question": "Quelle est la capitale du Costa Rica ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Costa Rica ?",
       "answer": "San José",
       "fact_id": "costa-rica-capital",
       "tested_fact": "costa-rica-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "San José",
+        "San Jose"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Costa Rica à sa capitale San José.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Costa Rica ?",
+            "answer": "San José",
+            "fact_id": "costa-rica-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Costa Rica ?",
+            "answer": "San José",
+            "fact_id": "costa-rica-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter San José ou San Jose. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Costa Rica–San José, ligne 98",
+          "support": "La source associe Costa Rica à sa capitale San José.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2064,23 +3468,48 @@
       "section_number": 17,
       "section": "RELAIS B",
       "number": 4,
-      "question": "Quelle est la capitale du Paraguay ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Paraguay ?",
       "answer": "Asunción",
       "fact_id": "paraguay-capital",
       "tested_fact": "paraguay-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Asunción",
+        "Asuncion"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Paraguay à sa capitale Asunción.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Paraguay ?",
+            "answer": "Asunción",
+            "fact_id": "paraguay-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Paraguay ?",
+            "answer": "Asunción",
+            "fact_id": "paraguay-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Asunción ou Asuncion. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Paraguay–Asunción, ligne 66",
+          "support": "La source associe Paraguay à sa capitale Asunción.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2103,7 +3532,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2129,7 +3558,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2155,7 +3584,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2181,7 +3610,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2207,7 +3636,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2220,23 +3649,76 @@
       "section_number": 19,
       "section": "IDENTIFICATION",
       "number": 1,
-      "question": "40 points : Je suis née en 1938 à Monrovia. 30 points : Économiste de formation, j'ai travaillé dans plusieurs institutions avant d'entrer pleinement en politique. 20 points : En 2006, je deviens présidente du Liberia. 10 points : Je partage le prix Nobel de la paix 2011 avec Leymah Gbowee et Tawakkol Karman. Qui suis-je ?",
+      "question": "40 points : Je suis née en 1938 à Monrovia. 30 points : J’ai obtenu un master d’administration publique à Harvard. 20 points : En 2006, j’entre en fonction comme présidente du Liberia. 10 points : Je reçois le prix Nobel de la paix 2011. Qui suis-je ?",
       "answer": "Ellen Johnson Sirleaf",
       "fact_id": "ellen-johnson-sirleaf-identification",
       "tested_fact": "ellen-johnson-sirleaf-identification",
-      "accepted_variants": [],
-      "primary_source": null,
-      "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "accepted_variants": [
+        "Ellen Johnson Sirleaf",
+        "Ellen Sirleaf",
+        "Johnson Sirleaf",
+        "Sirleaf"
+      ],
+      "primary_source": "https://ejscenter.org/madame-timeline/",
+      "secondary_sources": [
+        "https://ejscenter.org/madame-timeline/",
+        "https://ejscenter.org/madame-timeline/",
+        "https://ejscenter.org/madame-timeline/"
+      ],
+      "corroboration": "La chronologie situe sa naissance à Monrovia en 1938. La chronologie précise l’obtention d’un master d’administration publique à Harvard. La chronologie distingue l’élection de 2005 et l’exercice de la présidence à partir de 2006. La chronologie lui attribue le prix Nobel de la paix 2011.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "40 points : Je suis née en 1938 à Monrovia. 30 points : Économiste de formation, j'ai travaillé dans plusieurs institutions avant d'entrer pleinement en politique. 20 points : En 2006, je deviens présidente du Liberia. 10 points : Je partage le prix Nobel de la paix 2011 avec Leymah Gbowee et Tawakkol Karman. Qui suis-je ?",
+            "answer": "Ellen Johnson Sirleaf",
+            "fact_id": "ellen-johnson-sirleaf-identification"
+          },
+          "after": {
+            "question": "40 points : Je suis née en 1938 à Monrovia. 30 points : J’ai obtenu un master d’administration publique à Harvard. 20 points : En 2006, j’entre en fonction comme présidente du Liberia. 10 points : Je reçois le prix Nobel de la paix 2011. Qui suis-je ?",
+            "answer": "Ellen Johnson Sirleaf",
+            "fact_id": "ellen-johnson-sirleaf-identification"
+          },
+          "reason": "Remplacer la carrière vague et sa chronologie imprécise par le diplôme attesté. Le dernier indice reste discriminant sans dépendre d’une page du Nobel inaccessible.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Sirleaf ou son nom complet. Les quatre indices sont localisés séparément. Distinguer l’élection de 2005 de l’entrée en fonction de 2006; Harvard est un diplôme d’administration publique, non un diplôme d’économie.",
+      "evidence": [
+        {
+          "url": "https://ejscenter.org/madame-timeline/",
+          "locator": "Early Life and Education, lignes 64–67",
+          "support": "La chronologie situe sa naissance à Monrovia en 1938.",
+          "consulted_at": "2026-10-18",
+          "points": 40
+        },
+        {
+          "url": "https://ejscenter.org/madame-timeline/",
+          "locator": "Studies 1964–1971, ligne 75",
+          "support": "La chronologie précise l’obtention d’un master d’administration publique à Harvard.",
+          "consulted_at": "2026-10-18",
+          "points": 30
+        },
+        {
+          "url": "https://ejscenter.org/madame-timeline/",
+          "locator": "Presidency, ligne 99",
+          "support": "La chronologie distingue l’élection de 2005 et l’exercice de la présidence à partir de 2006.",
+          "consulted_at": "2026-10-18",
+          "points": 20
+        },
+        {
+          "url": "https://ejscenter.org/madame-timeline/",
+          "locator": "Nobel Peace Prize, ligne 114",
+          "support": "La chronologie lui attribue le prix Nobel de la paix 2011.",
+          "consulted_at": "2026-10-18",
+          "points": 10
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2246,23 +3728,48 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 1,
-      "question": "Quelle est la capitale de l'Irlande ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale de l'Irlande ?",
       "answer": "Dublin",
       "fact_id": "ireland-capital",
       "tested_fact": "ireland-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Dublin",
+        "Baile Átha Cliath"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Irlande à sa capitale Dublin.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale de l'Irlande ?",
+            "answer": "Dublin",
+            "fact_id": "ireland-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale de l'Irlande ?",
+            "answer": "Dublin",
+            "fact_id": "ireland-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Dublin ou Baile Átha Cliath. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_europe.htm",
+          "locator": "Tableau des capitales, Irlande–Dublin, ligne 81",
+          "support": "La source associe Irlande à sa capitale Dublin.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2272,23 +3779,49 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 2,
-      "question": "Quelle écrivaine anglaise est l'auteure de Frankenstein ?",
+      "question": "Qui est l’auteur du roman Frankenstein ?",
       "answer": "Mary Shelley",
       "fact_id": "mary-shelley-frankenstein",
       "tested_fact": "mary-shelley-frankenstein",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Mary Shelley",
+        "Mary Wollstonecraft Shelley",
+        "Shelley"
+      ],
+      "primary_source": "https://catalogue.bnf.fr/ark:/12148/cb47483466j",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La BnF attribue Frankenstein à Mary Shelley.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle écrivaine anglaise est l'auteure de Frankenstein ?",
+            "answer": "Mary Shelley",
+            "fact_id": "mary-shelley-frankenstein"
+          },
+          "after": {
+            "question": "Qui est l’auteur du roman Frankenstein ?",
+            "answer": "Mary Shelley",
+            "fact_id": "mary-shelley-frankenstein"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Mary Shelley ou son nom de famille dans le contexte de ce roman. Le traducteur ne remplace pas l’auteur.",
+      "evidence": [
+        {
+          "url": "https://catalogue.bnf.fr/ark:/12148/cb47483466j",
+          "locator": "Auteur et titre, lignes 57–59",
+          "support": "La BnF attribue Frankenstein à Mary Shelley.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2311,7 +3844,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2337,7 +3870,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2363,7 +3896,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "nom_propre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2376,23 +3909,48 @@
       "section_number": 20,
       "section": "ÉCLAIR 2",
       "number": 6,
-      "question": "Quelle est la capitale du Chili ?",
+      "question": "Au 18 octobre 2026, quelle est la capitale du Chili ?",
       "answer": "Santiago",
       "fact_id": "chile-capital",
       "tested_fact": "chile-capital",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Santiago",
+        "Santiago du Chili"
+      ],
+      "primary_source": "https://www.nationsonline.org/oneworld/capitals_america.htm",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La source associe Chili à sa capitale Santiago.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
-      "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "response_type": "nom_propre",
+      "corrections": [
+        {
+          "before": {
+            "question": "Quelle est la capitale du Chili ?",
+            "answer": "Santiago",
+            "fact_id": "chile-capital"
+          },
+          "after": {
+            "question": "Au 18 octobre 2026, quelle est la capitale du Chili ?",
+            "answer": "Santiago",
+            "fact_id": "chile-capital"
+          },
+          "reason": "Précision documentaire et arbitrale du libellé.",
+          "reviewed_at": "2026-10-18"
+        }
+      ],
+      "decision": "Accepter Santiago ou Santiago du Chili. Le pays est donné; une autre ville ne répond pas à la capitale demandée.",
+      "evidence": [
+        {
+          "url": "https://www.nationsonline.org/oneworld/capitals_america.htm",
+          "locator": "Tableau des capitales, Chili–Santiago, ligne 100",
+          "support": "La source associe Chili à sa capitale Santiago.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2415,7 +3973,7 @@
       "arbitration_status": "NON_EXAMINE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
       "decision": "Contrôles obligatoires ouverts.",
       "evidence": [],
@@ -2432,19 +3990,30 @@
       "answer": "100",
       "fact_id": "meter-100-cm",
       "tested_fact": "meter-100-cm",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "100",
+        "Cent",
+        "Cent centimètres"
+      ],
+      "primary_source": "https://www.nist.gov/pml/owm/metric-si-prefixes",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "Centi désigne un centième de l’unité, d’où cent centimètres par mètre.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter cent; l’unité est déjà donnée.",
+      "evidence": [
+        {
+          "url": "https://www.nist.gov/pml/owm/metric-si-prefixes",
+          "locator": "Préfixe centi, lignes 203 et 230–231",
+          "support": "Centi désigne un centième de l’unité, d’où cent centimètres par mètre.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2458,19 +4027,32 @@
       "answer": "180°",
       "fact_id": "triangle-angle-sum-180",
       "tested_fact": "triangle-angle-sum-180",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "180°",
+        "180 degrés",
+        "Cent quatre-vingts degrés",
+        "π radians",
+        "Pi radians"
+      ],
+      "primary_source": "https://openstax.org/books/prealgebra-2e/pages/9-3-use-properties-of-angles-triangles-and-the-pythagorean-theorem",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "La somme des trois angles d’un triangle de la géométrie plane usuelle vaut 180 degrés.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter 180 degrés ou pi radians. 180 seul est recevable à l’oral dans ce contexte; euclidien exclut le cas sphérique.",
+      "evidence": [
+        {
+          "url": "https://openstax.org/books/prealgebra-2e/pages/9-3-use-properties-of-angles-triangles-and-the-pythagorean-theorem",
+          "locator": "Propriétés des triangles, lignes 160–167",
+          "support": "La somme des trois angles d’un triangle de la géométrie plane usuelle vaut 180 degrés.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     },
@@ -2484,19 +4066,29 @@
       "answer": "Peau",
       "fact_id": "skin-largest-organ",
       "tested_fact": "skin-largest-organ",
-      "accepted_variants": [],
-      "primary_source": null,
+      "accepted_variants": [
+        "Peau",
+        "La peau"
+      ],
+      "primary_source": "https://www.niams.nih.gov/hairy-human-skin-generated-stem-cells",
       "secondary_sources": [],
-      "corroboration": null,
-      "consulted_at": null,
-      "factual_status": "NON_EXAMINE",
-      "arbitration_status": "NON_EXAMINE",
+      "corroboration": "L’institut des NIH désigne la peau comme le plus grand organe du corps.",
+      "consulted_at": "2026-10-18",
+      "factual_status": "FAIT_VERIFIE",
+      "arbitration_status": "ARBITRAGE_VALIDE",
       "deduplication_status": "NON_EXAMINE",
       "final_status": "NON_EXAMINE",
-      "response_type": null,
+      "response_type": "autre",
       "corrections": [],
-      "decision": "Contrôles obligatoires ouverts.",
-      "evidence": [],
+      "decision": "Accepter peau; le foie est un organe interne et ne répond pas au plus grand organe du corps considéré dans son ensemble.",
+      "evidence": [
+        {
+          "url": "https://www.niams.nih.gov/hairy-human-skin-generated-stem-cells",
+          "locator": "NIAMS, introduction, ligne 17",
+          "support": "L’institut des NIH désigne la peau comme le plus grand organe du corps.",
+          "consulted_at": "2026-10-18"
+        }
+      ],
       "inherited_references": [],
       "inherited_status": null
     }

@@ -4,8 +4,8 @@ Instruction de l’utilisateur du 18 octobre 2026 : cocher chaque validation et 
 
 Acquis conservés : matchs 01–04, 384 fiches et huit PDF contrôlés; audit global encore ouvert.
 
-- [x] Étape 1 : match 04 — TERMINÉE; accord utilisateur attendu avant l’étape 2.
-- [ ] Étape 2 : match 05 — attendre l’accord après l’étape 1.
+- [x] Étape 1 : match 04 — TERMINÉE.
+- [ ] Étape 2 : match 05 — EN COURS; accord « LANCES » reçu le 18 octobre 2026.
 - [ ] Étape 3 : match 06 — attendre l’accord après l’étape 2.
 - [ ] Étape 4 : match 07 — attendre l’accord après l’étape 3.
 - [ ] Étape 5 : match 08 — attendre l’accord après l’étape 4.
@@ -31,3 +31,17 @@ Acquis conservés : matchs 01–04, 384 fiches et huit PDF contrôlés; audit gl
 Après ces validations, présenter le résultat et attendre l’accord de l’utilisateur avant toute vérification du match 05.
 
 Résultats : faits/arbitrage/final 96/96; intégrité 193/193; certification globale 225/274, aucun échec M01–M04. Lecteur 6 pages, arbitrage 22 pages. Voir MATCH_04.md pour les limites et les corrections.
+
+## Validations de l’étape 2
+
+- [x] Accord utilisateur et lecture complète des 96 Q/R et 20 rubriques.
+- [ ] 96 preuves documentaires individuelles (75/96 consignées).
+- [ ] Arbitrage complet (75/96 décisions consignées).
+- [ ] Déduplication contre 2 880 Q/R et corrections recontrôlées.
+- [ ] Langage A/B, cantonades, relais, quatre indices.
+- [x] 96 réponses classées; 68 noms propres.
+- [ ] Synchronisation finale et tests réellement exécutés.
+- [ ] Rapport et deux PDF rendus et inspectés.
+- [x] Checkpoint documentaire enregistré sur la branche existante.
+
+Ne pas lancer M06 sans un nouvel accord après clôture de cette étape.
